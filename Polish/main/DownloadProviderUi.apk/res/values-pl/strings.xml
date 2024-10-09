@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about">O aplikacji</string>
     <string name="action_back">Wstecz</string>
     <string name="ad_download">Instaluj</string>
     <string name="bt_download">Pobierz</string>
@@ -32,7 +31,6 @@
     <string name="download_list_title_browser">Pobrania</string>
     <string name="download_no_application_title">Nie można otworzyć pliku</string>
     <string name="download_pending">Trwające pobieranie</string>
-    <string name="download_status">Stan pobierania</string>
     <string name="download_waiting">Trwa</string>
     <string name="downloading">Pobieranie…</string>
     <string name="edit_hint2">Wprowadź link HTTP, FTP, magnet lub ed2k</string>

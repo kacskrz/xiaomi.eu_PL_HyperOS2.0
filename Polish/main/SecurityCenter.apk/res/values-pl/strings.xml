@@ -36,7 +36,6 @@
     <string name="added_game_start_game">Graj</string>
     <string name="all_address_choose_hint">Wszystkie lokalizacje</string>
     <string name="allow_all">Zezwól wszystkim</string>
-    <string name="allow_device_id_access">Wybierz aplikacje, które mogą używać ID urządzenia</string>
     <string name="antispam_mms_text">Ustaw aplikację SMS jako swoją domyślną aplikację do SMS-ów, aby móc zobaczyć zablokowane wiadomości</string>
     <string name="antispam_mms_text_setting">Ustaw aplikację SMS jako swoją domyślną aplikację do SMS-ów, aby móc użyć listy blokowanych</string>
     <string name="antivirus_antidefraud_risk_desc">Ta aplikacja może być używana do oszustw finansowych. Aby uniknąć możliwych zagrożeń, odinstaluj ją.</string>
@@ -93,7 +92,6 @@
     <string name="app_manager_as_dlg_msg">Aplikacje dodane do autostartu mogą używać więcej pamięci RAM i zasobów baterii. Zezwolić na autostart?</string>
     <string name="app_manager_as_dlg_msg_new">"Zezwolenie aplikacji na autostart może spowodować zwiększenie ilości pamięci i zużycia baterii wykorzystywanych przez nią. Urządzenie będzie optymalizować uprawnienia autostartu dla aplikacji, których używasz rzadziej, aby poprawić wydajność."</string>
     <string name="app_manager_clear_data_dlg_message">Wszystkie dane tej aplikacji zostaną usunięte.</string>
-    <string name="app_manager_deleted_system_app_title">Odinstalowane aplikacje systemowe</string>
     <string name="app_manager_manage_space">Pamięć</string>
     <string name="app_manager_net_control_title">Łączność z siecią przez</string>
     <string name="app_manager_permission_summary_reject">Ogranicz wszystko</string>
@@ -104,10 +102,7 @@
     <string name="app_name_securitycenter">Panel sterowania</string>
     <string name="app_name_securitycenter_new">Panel sterowania</string>
     <string name="app_permission_use_group_sms">SMS</string>
-    <string name="app_powerkeeper_config_description">System rozpozna aplikacje służące do komunikacji, nawigacji i odtwarzania multimediów, a potem zastosuje odpowiednie środki dot. oszczędzania baterii, aby zabezpieczyć działanie krytycznych aktywności w tle</string>
-    <string name="app_powerkeeper_miui_auto">Oszczędzanie baterii (zalecane)</string>
     <string name="app_powerkeeper_miui_auto_summary">Rozpoznaj aplikacje i aktywności, aby utrzymać działanie najważniejszych procesów. Oszczędzanie baterii będzie traktować ważne aplikacje selektywnie.</string>
-    <string name="app_powerkeeper_no_restrict">Bez ograniczeń</string>
     <string name="app_powerkeeper_no_restrict_summary">"Oszczędzanie baterii nie ograniczy aktywności aplikacji"</string>
     <string name="app_powerkeeper_restrict_bg">Ogranicz w tle</string>
     <string name="app_powerkeeper_restrict_running">Zamknij aplikację po %d minutach aktywności w tle</string>
@@ -289,7 +284,6 @@
     <string name="boot_time_day_tomorrow">Włączenie urządzenia: %1$s</string>
     <string name="btn_text_optimize_extend_battery_time">Wydłuż o %s</string>
     <string name="btn_text_quick_save_power">Wykonaj</string>
-    <string name="button_text_once_accept">Zezwól raz</string>
     <string name="byteShort">" B"</string>
     <string name="camera">Aparat</string>
     <string name="card_main_apkclean_title">Usuń pliki APK</string>
@@ -318,15 +312,11 @@
     <string name="connect_internet_by_mobiledata">Internet przez sieć mobilną</string>
     <string name="connect_internet_by_usbshare">Internet przez USB</string>
     <string name="connect_internet_by_wifi">Internet przez Wi-Fi</string>
-    <string name="connected_devices_files">Pliki</string>
     <string name="connected_devices_files_desc">Zezwól urządzeniom w pobliżu zalogowanym na Twoje konto Xiaomi na dostęp do plików tego urządzenia</string>
-    <string name="connected_devices_for_files">Zezwolić \"%1$s\" na dostęp do plików tego urządzenia?</string>
-    <string name="connected_devices_for_files_desc">W celu dostępu do plików między urządzeniami</string>
     <string name="connected_devices_permission">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connected_devices_permission_settings">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connected_interconnection">Interakcja urządzeń Xiaomi</string>
     <string name="convenient_summary">Nie wymagaj hasła po tym, jak odblokowano min. 1 aplikację</string>
-    <string name="cs_func_toast_bluetooth_headset">Odłącz słuchawki Bluetooth, aby użyć tej funkcji</string>
     <string name="cs_gesture_effect_title_hint">Wspierane gesty</string>
     <string name="cs_gesture_effect_title_summry">Dodaj efekty reakcji podczas połączeń wideo oraz streamowania na żywo za pomocą gestów ręki</string>
     <string name="cs_pickup_vioce_print_unsupport_tips">Nagraj próbkę głosu przed wybraniem opcji \"Jeden uczestnik\"</string>
@@ -361,19 +351,8 @@
     <string name="default_result_summary">Np. \"Wyłącz Tryb samolotowy\"</string>
     <string name="default_result_title">Dodaj efekt</string>
     <string name="default_result_title_continue">Dodaj efekt</string>
-    <string name="device_id">ID urządzenia dla spersonalizowanych propozycji</string>
-    <string name="device_id_app_manager_dialog_continue">Nie zatrzymuj</string>
-    <string name="device_id_app_manager_dialog_message">Zezwoliłeś niektórym aplikacjom na śledzenie swoich aktywności. Możesz to zatrzymać.</string>
-    <string name="device_id_app_manager_dialog_stop">Zatrzymaj</string>
     <string name="device_id_app_manager_switch_sub_title">Gdy funkcja jest wyłączona, wszystkie nowe żądania śledzenia będą automatycznie odrzucane</string>
     <string name="device_id_app_manager_switch_title">Zezwól aplikacjom na żądanie śledzenia</string>
-    <string name="device_id_app_manager_tips">Aplikacje mogą śledzić Twoje aktywności w różnych aplikacjach i stronach WWW za pomocą identyfikatorów, aby dostarczać spersonalizowane reklamy i inne funkcje</string>
-    <string name="device_id_app_manager_title">Zarządzaj śledzeniem aplikacji</string>
-    <string name="device_id_manager_tips">System dostarcza aplikacjom resetowalne identyfikatory śledzenia (OAID) zamiast rzeczywistych identyfikatorów urządzenia, aby chronić Twoją prywatność</string>
-    <string name="device_id_manager_title">Zarządzaj identyfikatorem śledzenia</string>
-    <string name="device_id_reset">Zresetuj identyfikator śledzenia</string>
-    <string name="device_id_reset_msg">Po zresetowaniu z tym urządzeniem zostanie powiązany nowy identyfikator.</string>
-    <string name="device_id_str">Obecny identyfikator śledzenia: %s</string>
     <string name="device_manager_apply_step_1">Aktywować administrowanie urządzeniem dla tej aplikacji?</string>
     <string name="device_manager_apply_step_2">"Aktywacja administrowania urządzeniem dla tej aplikacji może doprowadzić do ujawnienia Twoich osobistych danych.
 Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - zresetowane."</string>
@@ -476,8 +455,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="first_aid_card_system_root_title">Udzieliłeś uprawnień roota</string>
     <string name="first_aid_card_wifi_or_flow_summary">Włącz Wi-Fi bądź dane mobilne, aby się połączyć</string>
     <string name="first_aid_card_wifi_or_flow_title">Nie można połączyć się z Internetem</string>
-    <string name="first_aid_dialog_ignore_message">%s. Możesz zignorować ten element, aby wykluczyć go ze przyszłych skanowań. Zignorować?</string>
-    <string name="first_aid_dialog_ignore_title">Zignoruj elementy</string>
     <string name="first_aid_result_summary_not_finished">"Skanowanie nie zostało ukończone. Część problemów mogła zostać niewykryta."</string>
     <string name="fixed_cellular_data_quota_monthly">Miesięczny limit danych</string>
     <string name="fixed_package_tips">Po przekroczeniu limitu zostaną wygenerowane dodatkowe opłaty</string>
@@ -491,7 +468,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="gamebooster_network_dialog_message">Zezwolić Panelowi sterowania na połączenie z siecią w celu użycia wszystkich funkcji Game Turbo?</string>
     <string name="gamebox_ai_accelerate">Przyspieszenie danych mobilnych z SI</string>
     <string name="gamebox_filter_alpha_tip">Przeźroczystość</string>
-    <string name="gamebox_hangup_new">Wyłącz ekran</string>
     <string name="gamebox_macro">Kombosy</string>
     <string name="gamebox_net_optimize_description">Zmniejsz opóźnienia sieci Wi-Fi oraz ich zmienność. Aby cieszyć się specjalnymi trybami zwiększania prędkości, użyj routera Xiaomi lub Redmi.</string>
     <string name="gamebox_recent_task_expand_fail">Aplikacje, które działają ze skrótami, nie są zainstalowane</string>
@@ -524,7 +500,6 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gb_performance_balance_tips">"Tryb zbalansowany oszczędza baterię
 i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gb_predownload_dialog_message_china"><Data>"Urządzenie może automatycznie pobierać zaktualizowane treści dla tej gry po połączeniu się z siecią Wi-Fi i wyłączeniu ekranu. Dzięki temu będziesz mógł grać w grę w nowej wersji tuż po jej opublikowaniu.&lt;br>&lt;br>Przed skorzystaniem z tej funkcji przeczytaj i zaakceptuj &lt;a href=\"%1$s\">Stanowisko dot. aktualizacji w tle&lt;/a>."</Data></string>
-    <string name="gb_predownload_noti_small_size_message">"Pobrano %2$1.2f MB nowej zawartości. Będziesz mógł z niej korzystać po wydaniu nowej wersji."</string>
     <string name="gb_shoulder_key_light_effect_subtitle">"Kolorowe animacje będą wyświetlane, gdy triggery są włączone i grasz"</string>
     <string name="gb_storage_summary">Nie pokazuj ikon gier dodanych do Game Turbo na pulpicie</string>
     <string name="gb_vision_enhance_frme_insertion_new_tips">"Ulepszony klatkaż
@@ -635,8 +610,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="mic">Mikrofon</string>
     <string name="mic_noise_reduction_mode_standard">Standardowy</string>
     <string name="mic_noise_reduction_mode_ultimate">Wybrany</string>
-    <string name="mode_size_center">Wycentrowane</string>
-    <string name="mode_size_full">Pełny ekran</string>
     <string name="monday_shortest">P</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
@@ -709,9 +682,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="notify_daily_limit_title_for_slotnum">Dziś wykorzystano %2$s danych (na %1$s)</string>
     <string name="notify_month_traffic_title_for_slotnum">W tym miesiącu wykorzystano %2$s danych (na %1$s)</string>
     <string name="notify_weekly_traffic_title_for_slotnum">W tym tygodniu wykorzystano %2$s danych (na %1$s)</string>
-    <string name="oaid_apps_summary">Zezwól lub ogranicz dostęp dla aplikacji</string>
-    <string name="oaid_string">"Obecne wirtualne ID:
-%1s"</string>
     <string name="offline_voice_input">Wprowadzanie głosowe offline</string>
     <string name="offline_voice_input_detail">"Aby korzystać z wprowadzania głosowego, nie będziesz potrzebować dostępu do Internetu."</string>
     <string name="om_lock_app_unlocked_app">Bez blokady</string>
@@ -742,16 +712,11 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_continuity_has_open_save_mode_notifi_title">Włączono Oszczędzanie baterii na %s</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">Poziom baterii %1$s wynosi mniej niż %2$s. Włącz Oszczędzanie baterii, aby wydłużyć działanie o %3$s %4$s.</string>
     <string name="pc_current_power_mode">Obecny tryb</string>
-    <string name="pc_cycle_count_protect_title">Cykle</string>
     <string name="pc_extreme_category">Bardzo niski stan baterii</string>
     <string name="pc_extreme_mode_runtime">Tryb hibernacji jest włączony od %1$s %2$s.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Powiadamiaj o zwiększeniu prędkości ładowania, gdy podłączona jest dołączona ładowarka o mocy %dW, a poziom baterii znajduje się poniżej ustawionego poziomu</string>
     <string name="pc_fast_charge_notifi_title">Ładowanie %dW</string>
     <string name="pc_fast_charge_switch_toast_message">Zmiany zostaną zastosowane przy następnym ładowaniu</string>
-    <string name="pc_first_use_protect_title">Pierwsze użycie</string>
-    <string name="pc_health_charge_protect_notification_summary">Włącz Ochronę baterii, aby zredukować starzenie się baterii</string>
-    <string name="pc_health_charge_protect_summary">Aby przedłużyć życie baterii, ładowanie zostanie zatrzymane przy %1$s baterii</string>
-    <string name="pc_health_charge_protect_title">Ochrona baterii</string>
     <string name="pc_hidemode_normal">Zbalansowany</string>
     <string name="pc_hidemode_normal_title">Tryb zbalansowany</string>
     <string name="pc_hidemode_power_save">Bateria</string>
@@ -767,7 +732,6 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_keywords_summary_navigation">Gdy używasz aplikacji do nawigacji, ładowanie automatycznie się zatrzyma na ustalonym poziomie</string>
     <string name="pc_keywords_summary_night_save">Automatycznie wyłącz niektóre funkcje, aby zaoszczędzić baterię, gdy telefon wykryje, że śpisz</string>
     <string name="pc_low_temperature_extreme_endurance_summary">Ogranicz wydajność urządzenia, aby przedłużyć żywotność baterii, gdy temperatura otoczenia jest bardzo niska</string>
-    <string name="pc_low_temperature_extreme_endurance_title">Tryb wytrzymałości na zimno</string>
     <string name="pc_main_battery_text_day">Wydłużono o %1$s min, pozostało ok. %2$s dni</string>
     <string name="pc_main_battery_text_day_hour">Wydłużono o %1$s min, pozostało ok. %2$s dni %3$s godz.</string>
     <string name="pc_main_battery_text_hour">Wydłużono o %1$s min, pozostało ok. %2$s godz.</string>
@@ -775,11 +739,9 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_main_battery_text_minute">Wydłużono o %1$s min, pozostało ok. %2$s min</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s dni %2$s godz.</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s godz. %2$s min</string>
-    <string name="pc_misight_reminder_check">Wyświetl</string>
     <string name="pc_night_charge_protect_title">Ochrona przed ładowaniem w nocy</string>
     <string name="pc_power_mode_has_berserk">Włączono Tryb wydajności</string>
     <string name="pc_power_mode_has_performance">Włączono Tryb wydajności</string>
-    <string name="pc_production_date_protect_title">Data produkcji</string>
     <string name="pc_reminder_always_protect_summary">Włącz ograniczone ładowanie, aby zredukować starzenie się baterii</string>
     <string name="pc_satellite_auto_enter_super_power">Włączono Ultraoszczędzanie baterii, aby zapewnić działanie komunikacji satelitarnej</string>
     <string name="pc_save_power">Oszczędzanie baterii</string>
@@ -793,8 +755,6 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$d godz. %2$d min</string>
     <string name="pc_suggest_open_fast_charge">Włącz szybkie ładowanie %d W</string>
     <string name="pc_this_time_charge_full_work">Prawie naładowane</string>
-    <string name="pc_wireless_charge_notification_summary">Ładowanie bezprzewodowe jest mniej wydajne energetycznie niż przewodowe</string>
-    <string name="pc_wireless_charge_notification_title">Ładowanie bezprzewodowe</string>
     <string name="pc_work_in_save_mode">Oszczędzanie baterii</string>
     <string name="pc_work_in_super_save_mode">Ultraoszczędzanie baterii</string>
     <string name="performance_frame_enhance_super_display_tips">"Poprawiony klatkaż i superrozdzielczość nie mogą działać w tym samym czasie. Włączenie jednej z tych funkcji wyłączy drugą."</string>
@@ -852,9 +812,6 @@ Ultraoszczędzania baterii"</string>
     <string name="permission_instruction_write_calllog">To uprawnienie zezwala aplikacjom na dodawanie lub usuwanie wpisów historii połączeń.</string>
     <string name="permission_instruction_write_clipboard">To uprawnienie zezwala aplikacjom na zapisywanie elementów w schowku.</string>
     <string name="permission_instruction_write_settings">To uprawnienie zezwala aplikacjom na modyfikowanie ustawień systemu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu zmiany ustawień Twojego urządzenia i wpływania na jego poprawną pracę.</string>
-    <string name="permission_oaid_desc">Zezwolić %1$s na śledzenie Twoich aktywności w innych aplikacjach i stronach WWW?</string>
-    <string name="permission_risk_app_for_desc">Ta aplikacja może stanowić zagrożenie. Przyznać uprawnienia mimo to?</string>
-    <string name="permission_risk_app_for_title">Wykryto zagrożenie</string>
     <string name="permission_usage_allow_activity_recognization_once">%1$s | Aplikacja uzyskiwała dane o Twoich ćwiczeniach</string>
     <string name="permission_usage_allow_autostart_once">%1$s | Aplikacja używała autostartu</string>
     <string name="permission_usage_allow_body_sensor_once">%1$s | Aplikacja uzyskiwała dostęp do czujników ciała</string>
@@ -937,8 +894,6 @@ Ultraoszczędzania baterii"</string>
     <string name="permission_usage_virtual_contacts_once">%1$s | Aplikacja zwracała pusty kontakt</string>
     <string name="permission_usage_virtual_phone_state_once">%1$s | Aplikacja zwracała pusty stan połączenia</string>
     <string name="permission_usage_virtual_sms_once">%1$s | Aplikacja zwracała pusty SMS</string>
-    <string name="permission_warning_for_cancel">Anuluj</string>
-    <string name="permission_warning_for_ensure">Przyznaj</string>
     <string name="permission_warning_for_risk">Jeśli zdecydujesz się przyznać uprawnienia, w celu ochrony Twojej prywatności do aplikacji będą zwracane puste odpowiedzi.</string>
     <string name="phone_manage_special_summary">Odkryj dodatkowe funkcjonalności</string>
     <string name="pm_newfeature_sub_text">NOWOŚĆ</string>
@@ -1189,16 +1144,6 @@ Wycofać zgodę?"</string>
     <string name="reset_data_dialog_message">"Urządzenie nie jest powiązane z kontem Xiaomi. Nie można przywrócić lub zmienić hasła. Skopiuj wszystkie ważne dane i wykonaj reset do ustawień fabrycznych. Proces ten usunie wszystkie dane z urządzenia - w tym także z nośnika USB."</string>
     <string name="reset_data_dialog_ok">Ustawienia fabryczne</string>
     <string name="reset_data_title">"Nie można przywrócić hasła"</string>
-    <string name="restore_device_id_content">Spersonalizowane propozycje zostaną zresetowane</string>
-    <string name="restore_device_id_title">Zresetuj ID urządzenia</string>
-    <string name="restore_dialog_content">Zresetowanie obecnego ID urządzenia zresetuje także spersonalizowane propozycje. Zresetować ID teraz?</string>
-    <string name="restore_dialog_positive">Resetuj</string>
-    <string name="restore_dialog_title">Powiadomienie</string>
-    <string name="restore_oaid_content">Zresetuj wirtualne ID, aby wyczyścić zapisy dotyczące zachowań i preferencji</string>
-    <string name="restore_oaid_dialog_content">Wiele aplikacji korzysta z Twojego wirtualnego ID. Jeśli zresetujesz go teraz, część danych aplikacji może zostać utracona lub stać się bezużyteczna. Zresetować wirtualne ID mimo to?</string>
-    <string name="restore_oaid_positive">Resetuj</string>
-    <string name="restore_oaid_positive_step">Resetuj (%1$d)</string>
-    <string name="restore_oaid_title">Zresetuj wirtualne ID</string>
     <string name="risk_app_install_auth_result">"Autoryzowano instalację aplikacji %1$s. Możesz kontynuować ją po wykryciu pliku APK."</string>
     <string name="risk_app_install_item_des">Wersja: %1$s</string>
     <string name="roaming_limit_network_notification_body">Pokaż dostępne sieci</string>
@@ -1410,12 +1355,10 @@ Wycofać zgodę?"</string>
     <string name="sunday_shortest">N</string>
     <string name="superpower_dialog_massage">"Ultraoszczędzanie baterii ogranicza większość energochłonnych funkcji i obniża wydajność urządzenia w celu zachowania działania podstawowych funkcji (np. połączeń, SMS-ów czy wybranych aplikacji) tak długo, jak to możliwe. Włączyć ten tryb?"</string>
     <string name="superpower_dialog_title">Ultraoszczędzanie baterii</string>
-    <string name="superpower_notification_low_temp_btn_txt">Włącz</string>
     <string name="superpower_notification_low_temp_summary">Tryb wytrzymałości na zimno może zaoszczędzić więcej baterii, gdy włączone jest Ultraoszczędzanie baterii, a temperatura otoczenia jest bardzo niska</string>
     <string name="superpower_notification_low_temp_title">Włączyć Ultraoszczędzanie baterii?</string>
     <string name="superpower_notification_summary">Naładuj urządzenie lub włącz Ultraoszczędzanie baterii</string>
     <string name="superpower_progress_content">Włączanie Ultraoszczędzania baterii…</string>
-    <string name="superpower_progress_low_temp_content">Włączanie Trybu wytrzymałości na zimno…</string>
     <string name="superpower_savemode_description_title">Ultraoszczędzanie baterii aktywuje następujące ograniczenia:</string>
     <string name="superpower_settings">Ultraoszczędzanie baterii</string>
     <string name="superpower_settins_autoenter_summary_new">Włącz ten tryb automatycznie, gdy poziom naładowania baterii osiągnie mniej niż %s</string>

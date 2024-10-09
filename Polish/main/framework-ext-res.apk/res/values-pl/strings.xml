@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ability_dialog_button">OK</string>
-    <string name="ability_dialog_text">Ze względu na rozmiar ekranu niektóre aplikacje mogą wyświetlać się niepoprawnie na zewnętrznym ekranie.</string>
-    <string name="ability_dialog_title">Uwaga</string>
     <string name="autofill_save_sub_message">Możesz zarządzać swoimi hasłami w Ustawieniach > Odciski palca, dane twarzy i blokada ekranu > %s.</string>
     <string name="back_double_tap">Dwukrotne dotknięcie z tyłu</string>
     <string name="back_tap">Dotknięcie z tyłu</string>
@@ -74,13 +71,9 @@
     <string name="knock_long_press_horizontal_slid">Przytrzymaj i przesuwaj poziomo knykciem</string>
     <string name="knock_slide_shape">Narysuj okrąg knykciem</string>
     <string name="ks_back_home">Ekran główny</string>
-    <string name="ks_close_window">Zamknij obecne okno</string>
     <string name="ks_launch_control_center">Centrum funkcji</string>
-    <string name="ks_launch_notification_center">Panel powiadomień</string>
     <string name="ks_launch_recents_tasks">Otwórz Ostatnie aplikacje</string>
-    <string name="ks_lock_screen">Ekran blokady</string>
     <string name="ks_regional_screen_shot">Zrzut ekranu (częściowy)</string>
-    <string name="ks_screenshot">Zrzut ekranu (cały ekran)</string>
     <string name="launch_ai_shortcut">Skrót do Mi SI</string>
     <string name="launch_calculator">Kalkulator</string>
     <string name="launch_camera">Uruchom aparat</string>
@@ -137,10 +130,6 @@
     <string name="set_password_message">Ustaw hasło, aby korzystać z tej funkcji</string>
     <string name="show_menu">Pokaż menu</string>
     <string name="sim_added_reboot_confirm">Restartuj</string>
-    <string name="skipcoreappanr_notification_text">Problem z systemem został naprawiony automatycznie</string>
-    <string name="skipcoreappanr_notification_title">%1$s nie odpowiada</string>
-    <string name="skipprocessanr_notification_text">Proces „%1$s” nie odpowiada</string>
-    <string name="skipprocessanr_notification_title">System nie odpowiada</string>
     <string name="sla_btn_concel">"Nie przypominaj"</string>
     <string name="sla_btn_confirm">Włącz</string>
     <string name="sla_btn_keep">Ignoruj</string>
@@ -149,7 +138,6 @@
     <string name="sla_title">Zwiększenie prędkości</string>
     <string name="sla_traffic_text">"Wykorzystano dziś już %d MB danych mobilnych. Aby je oszczędzać, możesz zatrzymać zwiększanie prędkości."</string>
     <string name="split_screen">Otwórz Podział ekranu</string>
-    <string name="start_activity_tip">Kontynuuj na wewnętrznym ekranie</string>
     <string name="sunlight_notification_title">Włącz tryb Światło słoneczne</string>
     <string name="super_wallpaper_list_label">Supertapety</string>
     <string name="swoosh">Pod wodą</string>
@@ -168,7 +156,6 @@ z przedniego aparatu"</string>
     <string name="wallpaper_Geometrically_irregular_title">Abstrakcja w geometrii</string>
     <string name="wallpaper_floral_arrangement_title">Kwiaty</string>
     <string name="wallpaper_geometrically_irregular_title">Abstrakcja w geometrii</string>
-    <string name="wallpaper_glazed_valley_title">Szkło</string>
     <string name="wallpaper_group_black_gobi_title">Piaski Gobi</string>
     <string name="wallpaper_group_black_white_title">Czarny i biały</string>
     <string name="wallpaper_group_color_move_title">Płynne kolory</string>
@@ -182,7 +169,6 @@ z przedniego aparatu"</string>
     <string name="wallpaper_group_petros_koublis_title">Marzenia</string>
     <string name="wallpaper_group_sgn_mountain_title">Góra Siguniang</string>
     <string name="wallpaper_group_shadow_geometry_title">Geometria cieni</string>
-    <string name="wallpaper_softlight_title">Miękkie światło</string>
     <string name="wifi_5ghz_sap_start_failed_by_region">Nie można użyć tetheringu podczas korzystania z sieci Wi-Fi 5 GHz.</string>
     <string name="wifi_disable_micar_p2p_dialog_message_carwith_china">Łączenie się z nową siecią Wi-Fi rozłączy to urządzenie z CarWith. Rozłączyć?</string>
     <string name="wifi_disable_micar_p2p_dialog_message_china">Łączenie się z nową siecią Wi-Fi rozłączy to urządzenie z autem. Rozłączyć?</string>

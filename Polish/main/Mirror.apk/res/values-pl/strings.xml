@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_has_uninstall">Ta aplikacja została odinstalowana</string>
-    <string name="app_not_support_subscreen">"Nie można zmaksymalizować tego okna"</string>
     <string name="call_error_notify_button">Wróć</string>
     <string name="call_error_notify_content">Możesz wrócić z powrotem na ekran telefonu, aby kontynuować rozmowę</string>
     <string name="call_error_notify_title">Niestabilne połączenie z siecią</string>
-    <string name="cant_open_more_windows">Nie można otworzyć więcej okien</string>
     <string name="cast_mcc_tips_title_china">Zmień ustawienia Wi-Fi</string>
     <string name="circulate_cta_agree">Akceptuję</string>
     <string name="circulate_cta_all_purpose">Ekran główny+ to część Usług łączności między urządzeniami Xiaomi. Pozwala on na wyświetlanie pulpitów innych połączonych urządzeń i interakcję z nimi. Aby działać normalnie, usługa musi łączyć się z Internetem i wymaga następujących uprawnień:</string>
@@ -41,7 +38,6 @@
     <string name="fold_photograph_prompt_notification_title">Użyj współdzielonego aparatu do Notatek</string>
     <string name="global_cta_user_agreement">Przed skorzystaniem z %1$s przeczytaj i zaakceptuj warunki &lt;txt href=\"%2$s\">Umowy użytkownika&lt;/txt> i &lt;txt href=\"%3$s\">Polityki prywatności&lt;/txt>.</string>
     <string name="handoff_cta_all_purpose">Witaj w Usługach łączności między urządzeniami Xiaomi! Pozwalają one na rozpoczęcie zadań na jednym urządzeniu i kontynuowanie ich na innych urządzeniach w tej samej aplikacji. Aby móc działać normalnie, te usługi muszą łączyć się z Internetem.</string>
-    <string name="handoff_switch_is_closed">Przekazywanie aplikacji jest wyłączone</string>
     <string name="hint_unlock_password">Wprowadź hasło, aby odblokować</string>
     <string name="keyguard_accessibility_pattern_unlock">Wzór odblokowania</string>
     <string name="loading_view_load_timeout">Połączenie zostało przerwane</string>
@@ -58,7 +54,6 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="low_battery_notification_content">Na urządzeniu %1$s pozostało mniej niż %2$s baterii</string>
     <string name="low_battery_notification_content_default">Bateria telefonu ma mniej niż %1$s</string>
     <string name="low_battery_notification_title">Niski poziom baterii</string>
-    <string name="mirror_call_closed">Odebrano połączenie na innym urządzeniu</string>
     <string name="mirror_have_been_opened">Ekran główny+ jest włączony</string>
     <string name="mirror_to_settings_connectivity_remote_pad_content">Możesz włączyć Interakcję urządzeń Xiaomi na tablecie w Ustawieniach > Interakcja urządzeń Xiaomi.</string>
     <string name="mirror_to_settings_connectivity_remote_pad_title">Interakcja urządzeń Xiaomi wyłączona</string>
@@ -84,7 +79,6 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="miui15_nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Nie udało się połączyć z komputerem. Upewnij się, że włączono Wi-Fi i Bluetooth zarówno na urządzeniu mobilnym, jak i komputerze, a także że na komputerze jest uruchomiony Xiaomi PC Manager."</string>
     <string name="miui15_privacy_all_purpose">Usługi łączności między urządzeniami umożliwiają łączenie telefonu z komputerem i złączenie dwóch urządzeń w jedną stację roboczą.</string>
     <string name="miui15_privacy_pad_all_purpose">Usługi łączności między urządzeniami umożliwiają złączenie Twoich urządzeń mobilnych w jedną stację roboczą, co sprawia, że możesz używać aplikacji z telefonu na tablecie, odbierać połączenia na innym urządzeniu, używać współdzielonego schowka, przekazywać elementy i dokonywać projekcji zawartości ekranu.</string>
-    <string name="miui15_scanner_lower_version_toast">Zaktualizuj oprogramowanie na komputerze, aby się połączyć</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">Kw</string>
@@ -186,9 +180,6 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="phone_pc_message_introduction_summary">Kopiuj tekst lub zrób zdjęcie telefonem i wklejaj te rzeczy na połączonym komputerze</string>
     <string name="phone_pc_message_introduction_title">Wspólny schowek</string>
     <string name="privacy_describe_change_wifi_state_china">W celu łączenia się z urządzeniami i przesyłania plików za pomocą Wi-Fi</string>
-    <string name="privacy_describe_location">W celu odnajdywania komputerów w pobliżu i przesyłania plików</string>
-    <string name="privacy_describe_record_audio">W celu przekierowania odtwarzania dźwięku do komputera</string>
-    <string name="privacy_describe_storage">W celu wysyłania i otrzymywania plików</string>
     <string name="scanner_uninstalled_text">"Wygląda na to, że na tym urządzeniu nie jest zainstalowana aplikacja Skaner. Zainstaluj ją najpierw."</string>
     <string name="scanner_uninstalled_title">Zainstaluj Skaner</string>
     <string name="screen_permission_pad_tips_denied">Otwórz Ustawienia łączności między urządzeniami na %s, aby zezwolić innym urządzeniom na wyświetlanie zawartości tego ekranu i interakcję z nią.</string>
@@ -234,7 +225,6 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="softap_dialog_title">Połącz się z %1$s</string>
     <string name="softap_notification_message">Brak dostępnych sieci Wi-Fi. Połączyć się z tym hotspotem?</string>
     <string name="softap_notification_message_china">Brak dostępnych sieci Wi-Fi. Połączyć się z tym hotspotem?</string>
-    <string name="subscreen_exception_hint">"Wersja na urządzeniu nie jest aktualna. Mogą wystąpić błędy wyświetlania."</string>
     <string name="switch_wlan_failed_desc_china">"Nie udało się automatycznie połączyć z tą siecią Wi-Fi. Spróbuj to zrobić ręcznie w Ustawieniach."</string>
     <string name="switch_wlan_success_china">Przełączono na tę samą sieć Wi-Fi</string>
     <string name="switch_wlan_tips_china">Połącz się z tą samą siecią</string>
