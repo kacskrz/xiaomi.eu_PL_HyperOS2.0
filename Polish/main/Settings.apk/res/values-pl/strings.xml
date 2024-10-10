@@ -289,6 +289,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="long_press_power_key">Długo przycisk Zasilania</string>
     <string name="long_press_volume_down">Długo Zmniejsz głośność</string>
     <string name="low_dc_light_title">Redukcja migotania w słabym świetle</string>
+    <string name="lyra_account_ap_title_v2">Bezprzewodowy tethering</string>
     <string name="main_netcheck_summary">Sprawdź stan połączenia sieciowego</string>
     <string name="manage_password_summary">Automatycznie uzupełniaj zapisane konta i hasła</string>
     <string name="master_clear_title">Ustawienia fabryczne</string>
@@ -447,6 +448,8 @@ Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządz
     <string name="screen_fps_unit_smooth">%d Hz (lepsza płynność)</string>
     <string name="screen_pinning_summary">Przypięte aplikacje pozostaną w menu Ostatnich aplikacji, dopóki ich nie odepniesz</string>
     <string name="screen_projection_example_document_summary">Wyświetlaj prezentacje na zewnętrznym monitorze - możesz przełączać się pomiędzy slajdami i wyświetlać notatki za pomocą telefonu. Aby wypróbować tę funkcję, przejdź do aplikacji Pliki > Dokumenty.</string>
+    <string name="screen_timeout_title">Zablokuj ekran po:</string>
+    <string name="screen_timeout_subtitle">Wyświetlanie statycznej treści przez dłuższy czas może powodować nierównomierne odwzorowanie kolorów</string>
     <string name="se_wallet_uicc">Portfel na SIM %1$s</string>
     <string name="security_patch_subtitle">"Aktualizacja zabezpieczeń Androida: "</string>
     <string name="security_status">Status zabezpieczeń</string>
@@ -585,6 +588,8 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="vpn_build_version">Numer wersji: %1$s</string>
     <string name="vpn_first_always_on_vpn_message">"Po włączeniu tego ustawienia utracisz połączenie z Internetem do czasu nawiązania połączenia przez VPN"</string>
     <string name="wallpaper_desktop">Ekran główny</string>
+    <string name="wifi_ap_band_config">Pasmo AP</string>
+    <string name="wifi_ap_hidden_ssid">Ukrycie SSID</string>
     <string name="wifi_assistant">Utrzymuj połączenie</string>
     <string name="wifi_assistant_keep_connection">Utrzymuj połączenie</string>
     <string name="wifi_generation">Użyj ikon generacji Wi-Fi</string>

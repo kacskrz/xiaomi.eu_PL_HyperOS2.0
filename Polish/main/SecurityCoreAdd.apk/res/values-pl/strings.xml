@@ -11,6 +11,13 @@ Wiadomości pojawią się tylko w Drugiej przestrzeni."</string>
     <string name="back_double_tap">Dwukrotne dotknięcie z tyłu</string>
     <string name="back_tap">Dotknięcie z tyłu</string>
     <string name="back_triple_tap">Trzykrotne dotknięcie z tyłu</string>
+    <string name="bubble_app_empty_page">Nie udało się znaleźć aplikacji obsługujących dymki powiadomień na tym urządzeniu</string>
+    <string name="bubble_app_manage">Zarządzaj dymkami konwersacji</string>
+    <string name="bubble_mode_barrage_switch_tips">Włącz, aby wyświetlić dymki konwersacji dla zminimalizowanych aplikacji jako komentarze na ekranie</string>
+    <string name="bubble_mode_barrage_tips">Dymki konwersacji dla zminimalizowanych aplikacji będą wyświetlane jako komentarze na ekranie</string>
+    <string name="bubble_notification">Dymki konwersacji</string>
+    <string name="bubble_notification_switch">Wyświetl dymki konwersacji</string>
+    <string name="bubble_notification_switch_desc">Pokazuj przychodzące powiadomienia w dymkach, gdy komunikator jest uruchomiony w pływającym oknie ukrytym na krawędzi ekranu</string>
     <string name="button_text_next_step_timer">Dalej (%d)</string>
     <string name="can_not_switch_when_desktop_mode">"Nie można się przełączyć między przestrzeniami w trybie Stacji roboczej"</string>
     <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Przytrzymaj przyciski Wstecz i Podgląd, aby odpiąć tę aplikację</string>

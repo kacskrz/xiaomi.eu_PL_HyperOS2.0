@@ -1543,6 +1543,7 @@ Funkcja nie będzie działać, gdy włączone jest Oszczędzanie baterii lub Ult
     <string name="vtb_func_frc_desc2">Gdy rozdzielczość jest wyższa niż 1080p</string>
     <string name="vtb_func_frc_desc3">Gdy częstotliwość odświeżania jest wyższa niż 30 kl./s</string>
     <string name="vtb_function_video_translation">Tłumaczenie na żywo</string>
+    <string name="wakepath_manager_checkbox_desc">Zezwól %1$s na uruchamianie innych aplikacji</string>
     <string name="warningcenter_action_check">Wyświetl</string>
     <string name="warningcenter_alert_home">Lokalizacja</string>
     <string name="warningcenter_alert_room">Pokój</string>
