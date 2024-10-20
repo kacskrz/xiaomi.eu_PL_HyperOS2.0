@@ -59,6 +59,7 @@
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
+    <string name="pkgLabel">Kontakty i Dialer</string>
     <string name="pref_key_rebuild_t9_index_title">Przebuduj indeks T9</string>
     <string name="preference_privacy_policy_title">Polityka prywatności</string>
     <string name="privacy_settings_privacy_policy">Polityka prywatności</string>
