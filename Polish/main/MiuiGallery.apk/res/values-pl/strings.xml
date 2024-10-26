@@ -269,7 +269,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="remove_from_other_albums_tip">Usunąć ten album z Innych albumów?</string>
     <string name="remove_hidden_status_tip">Jeśli odkryjesz ten album, będzie on normalnie wyświetlany obok innych albumów.</string>
     <string name="saf_operation_guide_2">Aby je nadać, dotknij opcji \"%1$s\", a następnie wybierz \"%2$s\".</string>
-    <string name="scanning_device_tips"><Data>Wyszukiwanie urządzeń w pobliżu. Druga osoba musi włączyć funkcję Xiaomi Share w Centrum funkcji. &lt;a>Dowiedz się więcej&lt;/a></Data>.</string>
+    <string name="scanning_device_tips">Wyszukiwanie urządzeń w pobliżu. Druga osoba musi włączyć funkcję Xiaomi Share w Centrum funkcji.</string>
     <string name="scope_storage_dialog_description">Uprawnienia Galerii zostały zaktualizowane. Aby zobaczyć zawartość tego katalogu, zezwól Galerii na dostęp do niego.</string>
     <string name="sea_title">Fale</string>
     <string name="search_feedback_user_policy">Politykę prywatności Algorytmu programu SI Galerii</string>
