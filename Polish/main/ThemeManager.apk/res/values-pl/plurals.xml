@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="ai_generate_progress">
+        <item quantity="other">To zajmie około %s sekund.</item>
+        <item quantity="other">To zajmie około %s sekundy.</item>
+    </plurals>
     <plurals name="anonymous_resource_count_aod">
         <item quantity="one">%1$d motyw AoD</item>
         <item quantity="few">%1$d motywy AoD</item>

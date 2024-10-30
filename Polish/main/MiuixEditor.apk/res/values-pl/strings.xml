@@ -3,9 +3,11 @@
     <string name="call">Zadzwoń</string>
     <string name="floating_toolbar_open_overflow_description">Więcej opcji</string>
     <string name="google_call">Połącz</string>
+    <string name="google_check">Wyświetl</string>
     <string name="google_email">E-mail</string>
     <string name="google_map">Mapy</string>
     <string name="google_open">Otwórz</string>
+    <string name="google_track">Śledź</string>
     <string name="google_translate">Tłumacz</string>
     <string name="open">Przeglądaj</string>
     <string name="translate">Tłumacz</string>

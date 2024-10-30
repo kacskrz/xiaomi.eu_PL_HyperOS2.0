@@ -113,6 +113,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="league_client_title">Transfer z Przenoszeniem danych</string>
     <string name="league_client_traditional">Nie teraz</string>
     <string name="league_client_update">Aktualizuj %s</string>
+    <string name="learn_new_version_character">Dowiedz się więcej</string>
     <string name="less_than_1_minute">Mniej niż minutę</string>
     <string name="lockscreen_access_pattern_cell_added">Komórka dodana</string>
     <string name="lockscreen_access_pattern_cleared">Wzór wyczyszczony</string>
@@ -162,6 +163,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
 1. Spróbuj przenieść tylko najważniejsze rzeczy.
 2. Nie wybieraj aplikacji z dużą ilością danych.
 3. Użyj Sprzątacza, aby zwolnić miejsce."</string>
+    <string name="new_provision_title">Prześlij elementy</string>
     <string name="new_trans_intro_desc_new">"%1$d. Upewnij się, że Przenoszenie danych na nowym urządzeniu jest aktualne. Możesz pobrać jego najnowszą wersję za pomocą tego linka: %2$s.
 %3$d. Jeśli hotspot wciąż nie pojawia się w Przenoszeniu danych, otwórz ustawienia Wi-Fi i sprawdź, czy znajdzie się on tutaj. Jeśli tak, to wróć do Przenoszenia danych i dotknij jego nazwę."</string>
     <string name="new_trans_intro_question_7">"%d. Jeśli wyjdę z Przenoszenia danych w trakcie przenoszenia, będę musiał je zacząć od nowa?"</string>
@@ -201,14 +203,19 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="provisiion_set_old_pad_summary">Użyj Przenoszenia danych do zaimportowania danych ze starego urządzenia bez łączenia się z Internetem</string>
     <string name="provisiion_set_old_phone">Importuj ze starego urządzenia</string>
     <string name="provisiion_set_old_phone_summary">Użyj Przenoszenia danych do importowania danych ze starego urządzenia bez konieczności łączenia się z Internetem</string>
+    <string name="provision_back">Wstecz</string>
     <string name="provision_cta_title">Przenieś ze starego urządzenia</string>
     <string name="provision_cta_title_pad">Przenieś ze starego urządzenia</string>
+    <string name="provision_next">Dalej</string>
     <string name="provision_receiver_waiting_title">Kontynuuj na starym urządzeniu</string>
     <string name="provision_select_data_null">Wybierz elementy do przeniesienia</string>
     <string name="provision_select_data_one">Wybierz elementy do przeniesienia</string>
+    <string name="provision_set_cloud_backup">Przywróć z Chmury Xiaomi</string>
+    <string name="provision_set_cloud_backup_summary">Aby pobrać i przywrócić kopie z Chmury Xiaomi, połącz się z Internetem</string>
     <string name="provision_set_new_pad">Używaj jako nowe urządzenie</string>
     <string name="provision_set_new_phone">Użyj jako nowe urządzenie</string>
     <string name="provision_set_old_pad">Importuj ze staregu urządzenia</string>
+    <string name="provision_skip_underline">Pomiń</string>
     <string name="receiver">Otrzymaj</string>
     <string name="receiver_finish_detail_success">Przeniesione elementy</string>
     <string name="receiver_finish_title">"Gotowe!"</string>

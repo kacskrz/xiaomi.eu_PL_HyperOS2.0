@@ -185,6 +185,8 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="screen_permission_pad_tips_denied">Otwórz Ustawienia łączności między urządzeniami na %s, aby zezwolić innym urządzeniom na wyświetlanie zawartości tego ekranu i interakcję z nią.</string>
     <string name="screen_permission_request_relay">Przekazywanie aplikacji</string>
     <string name="searchable_settings_desc">Wyszukaj aplikacje na połączonych urządzeniach</string>
+    <string name="secure_screen_hint">"Aby chronić Twoją prywatność,
+wykonaj tę akcję na telefonie."</string>
     <string name="seize_cancel">Nie</string>
     <string name="seize_content">Aby móc przesyłać elementy, zatrzymaj udostępnianie ekranu. Zrobić to teraz?</string>
     <string name="seize_ok">OK</string>
@@ -225,6 +227,7 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="softap_dialog_title">Połącz się z %1$s</string>
     <string name="softap_notification_message">Brak dostępnych sieci Wi-Fi. Połączyć się z tym hotspotem?</string>
     <string name="softap_notification_message_china">Brak dostępnych sieci Wi-Fi. Połączyć się z tym hotspotem?</string>
+    <string name="subscreen_multi_window_tips">Wyświetlanie pionowe nie jest wspierane. Wróć do wyświetlania poziomego.</string>
     <string name="switch_wlan_failed_desc_china">"Nie udało się automatycznie połączyć z tą siecią Wi-Fi. Spróbuj to zrobić ręcznie w Ustawieniach."</string>
     <string name="switch_wlan_success_china">Przełączono na tę samą sieć Wi-Fi</string>
     <string name="switch_wlan_tips_china">Połącz się z tą samą siecią</string>

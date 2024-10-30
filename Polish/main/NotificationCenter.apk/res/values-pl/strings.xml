@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_dialog_negative_button_text">Nie zgadzam się</string>
+    <string name="ai_dialog_postive_button_text">Zgadzam się</string>
+    <string name="ai_dialog_text">Podsumowanie powiadomień SI dostarcza podsumowania kluczowych wiadomości z powiadomień. Aby dostarczać tę funkcję, Xiaomi musi uzyskać dostęp do treści powiadomień, lecz nie będzie przechowywać tych informacji.</string>
+    <string name="ai_dialog_title">Zezwól na dostęp do powiadomień</string>
+    <string name="ai_notification_summary">Podsumowanie powiadomień SI dostarcza podsumowania kluczowych wiadomości z powiadomień. Funkcja nieznacznie zwiększy zużycie energii.</string>
+    <string name="ai_notification_title">Podsumowanie powiadomień SI</string>
     <string name="aon_message">Aby określić, czy na ekran patrzy wiele osób, funkcja uzyska dostęp do przedniego aparatu podczas wyświetlania pływającego powiadomienia. Zgromadzone zdjęcia są wykorzystywane tylko do lokalnej analizy liczby osób patrzących na ekran. Gdy zostanie wykryta więcej niż jedna osoba, treść powiadomienia zostanie ukryta.</string>
     <string name="aon_on_cancel">Anuluj</string>
     <string name="aon_on_confirm_time_out">OK</string>
     <string name="aon_title">Informacja</string>
     <string name="channel_keyguard_hide_content">Wyświetlaj powiadomienia, ukryj treść</string>
     <string name="channel_keyguard_show_content">Wyświetlaj powiadomienia i ich treść</string>
+    <string name="dialog_privacy_text_with_link"><Data>Zanim użyjesz tej funkcji, przeczytaj i zaakceptuj warunki &lt;a href=https://privacy.mi.com/AISummary/zh_CN/>Polityki prywatności Podsumowania SI&lt;/a></Data> <Data> i &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US>Polityki prywatności Podsumowania SI&lt;/a>.</Data></string>
     <string name="disable_float_notification">Pływające powiadomienia są wyłączone</string>
     <string name="disable_show_badge_notification">Licznik na ikonie jest wyłączony</string>
     <string name="enable_float_notification">Pływające powiadomienia są włączone</string>
@@ -17,6 +24,9 @@
     <string name="float_notification_snooze_summary_until_unlock">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia, dopóki urządzenie nie zostanie zablokowane</string>
     <string name="hint_search_in_disabled_apps">Wyszukaj aplikacje z wył. powiadomieniami</string>
     <string name="hint_search_in_enabled_apps">Wyszukaj aplikacje z wł. powiadomieniami</string>
+    <string name="mi_account_login_dialog_button_text">Zaloguj się</string>
+    <string name="mi_account_login_dialog_text">Ze względu na obowiązujące przepisy prawa, do korzystania ze funkcji związanych z SI konieczna jest weryfikacja tożsamości. Aby korzystać z tej funkcji, zaloguj się na swoje konto Xiaomi.</string>
+    <string name="mi_account_login_dialog_title">Zaloguj się na konto Xiaomi</string>
     <string name="lock_screen_display_rules">Styl</string>
     <string name="lock_screen_tip_toast">Najpierw włącz powiadomienia w \"Powiadomieniach aplikacji\"</string>
     <string name="notch_and_status_bar_setting">Centrum funkcji i pasek statusu</string>
@@ -28,6 +38,9 @@
     <string name="notification_keyguard_hide_content">Wyświetlaj powiadomienia, ukryj treść</string>
     <string name="notification_keyguard_show_content">Wyświetl powiadomienie i treść</string>
     <string name="notification_keyguard_show_nothing">"Nie wyświetlaj powiadomień na ekranie blokady"</string>
+    <string name="privacy_text">Aby dostarczać tę funkcję, Xiaomi musi uzyskać dostęp do treści powiadomień (w tym ewentualnych prywatnych danych), lecz nie będzie przechowywać tych informacji.</string>
+    <string name="privacy_text_with_link"><Data>Aby zrozumieć, jak Xiaomi zarządza Twoimi danymi, przeczytaj &lt;a href=https://privacy.mi.com/AISummary/en_US/>Politykę prywatności Podsumowania SI&lt;/a></Data><Data>. Aby dowiedzieć się więcej, przeczytaj również &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US>Umowę użytkownika Podsumowaia SI&lt;/a>.</Data></string>
+    <string name="privacy_title">Warunki użytkowania</string>
     <string name="show_badge_notifications">Liczniki na ikonie</string>
     <string name="show_weather">Pokaż informacje o pogodzie</string>
     <string name="summary_disable_float_notification">Pływające powiadomienia są wyłączone</string>

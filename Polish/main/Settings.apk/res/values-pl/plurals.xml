@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="musical_rhythm_app_summary">
+        <item quantity="other">%1$d aplikacji, w tym %2$s</item>
+        <item quantity="few">%1$d aplikacje, w tym %2$s</item>
+        <item quantity="one">%1$d aplikacja (%2$s)</item>
+    </plurals>
+    <plurals name="notification_frequency_summary">
+        <item quantity="other">Około %d razy dziennie</item>
+        <item quantity="one">Około %d raz dziennie</item>
+    </plurals>
+    <plurals name="search_app_hint">
+        <item quantity="other">Wyszukaj %d aplikacji</item>
+        <item quantity="few">Wyszukaj %d aplikacje</item>
+        <item quantity="one">Wyszukaj %d aplikację</item>
+    </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Od dostępu do informacji dzieli Cię już tylko kroków: %1$d.</item>
         <item quantity="one">Od dostępu do informacji dzieli Cię już tylko %1$d krok.</item>

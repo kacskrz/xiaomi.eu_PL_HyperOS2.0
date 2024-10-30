@@ -64,6 +64,7 @@
     <string name="apply_to_wallpaper">Ustaw na pulpicie</string>
     <string name="apply_warning_content">"Używasz Supertapety. Jeśli zmienisz swoją tapetę, zostanie ona zastosowana zarówno na pulpicie, jak i na ekranie blokady. Czy chcesz to zrobić?"</string>
     <string name="apply_warning_content_with_aod">"Używasz Supertapety. Jeśli zmienisz swoją tapetę, zostanie ona zastosowana zarówno na pulpicie, jak i na ekranie blokady. Ponadto może zostać przywrócony domyślny wygląd Ekranu zawsze włączonego. Czy chcesz to zrobić?"</string>
+    <string name="apply_warning_content_with_linked_wallpaper">Obecnie używasz zestawu tapet. Jeśli zastosujesz nową tapetę, tapety Ekranu blokady i Ekranu głównego zostaną zastąpione. Zostanie również przywrócona poprzednia wersja Ekranu zawsze włączonego. Chcesz kontynuować?</string>
     <string name="apply_warning_content_with_maml">"Używasz motywu strony trzeciej. Jeśli zmienisz swoją tapetę, może zostać przywrócony domyślny zegar Ekranu blokady. Czy chcesz to zrobić?"</string>
     <string name="apply_warning_title">Ustawianie tapety</string>
     <string name="article_item_hot">Sprawdź %s+ popularnych artykułów</string>

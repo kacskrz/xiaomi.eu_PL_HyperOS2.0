@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_invitation_text_agree">Zgadzam się</string>
+    <string name="ai_invitation_text_disagree">Nie zgadzam się</string>
+    <string name="ai_writing_invite_beta_testing_content">Ta funkcja korzysta z możliwości dużych modeli językowych, aby korygować, rozszerzać, podsumowywać i dopracowywać Twoje pismo. Możesz również wprowadzać komendy, aby SI stworzyła tekst za Ciebie. Dotknij przycisku \"Zgadzam się\", aby wypróbować tę opcję!</string>
+    <string name="ai_writing_invite_beta_testing_title">Betatesty pisania SI</string>
     <string name="alert_message_delete_excerpt">Usunąć tę notatkę? Jej fragment również zostanie usunięty.</string>
     <string name="cta_dialog_message">Notatki wymagają uprawnień do połączenia z internetem, nagrywania audio, a także odczytu kontaktów, aby działać normalnie. Zezwolić na to?</string>
     <string name="default_update_documents">Dostępna jest aktualizacja. Czy chcesz ją wykonać teraz?</string>
     <string name="dlg_update_checkbox_title">Ignoruj tę wersję</string>
     <string name="exceed_todo_text_limitation">Opis zadania jest za długi.</string>
     <string name="excerpted_to_note">Zapisano fragment w Notatkach</string>
+    <string name="foregound_content">Widżet tekstu Mi SI pracuje…</string>
+    <string name="foregound_tile">Tekst SI</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">K</string>

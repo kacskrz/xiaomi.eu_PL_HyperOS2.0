@@ -12,6 +12,8 @@
     <string name="HIPS_Perm_Contact">Kontakty</string>
     <string name="HIPS_Perm_Contact_Desc">Edycja listy kontaktów</string>
     <string name="HIPS_Perm_External_Storage_Desc">Dostęp i zapis zdjęć, filmów, dźwięków oraz plików na urządzeniu</string>
+    <string name="HIPS_Perm_Intl_group_name_read_note">Notatki</string>
+    <string name="HIPS_Perm_Intl_group_name_read_record">Nagrania</string>
     <string name="HIPS_Perm_Location_Desc">Lokalizacja telefonu przez sieć lub GPS</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Łączenie z urządzeniami w pobliżu</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Poszukiwanie i łączenie się z urządzeniami w pobliżu za pomocą Bluetooth i Wi-Fi</string>
@@ -35,6 +37,8 @@
     <string name="HIPS_Perm_get_installed_apps">Dostęp do listy zainstalowanych aplikacji</string>
     <string name="HIPS_Perm_get_tasks">Otrzymywanie zadań</string>
     <string name="HIPS_Perm_get_tasks_Desc">Otrzymywanie zadań</string>
+    <string name="HIPS_Perm_operator_read_note">Dostęp do notatek</string>
+    <string name="HIPS_Perm_operator_read_record">Dostęp do nagrań</string>
     <string name="HIPS_Perm_operator_shake_Desc">W celu wykrywania pozycji urządzenia w przestrzeni, rozpoznawania potrząśnięć i orientacji</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitorowanie połączeń</string>
     <string name="HIPS_Perm_read_Calendar">Dostęp do Kalendarza</string>
@@ -95,8 +99,10 @@
     <string name="permdesc_read_call_log">Zezwolić %1$s na dostęp do historii połączeń?</string>
     <string name="permdesc_read_contacts">Zezwolić %1$s na dostęp do kontaktów?</string>
     <string name="permdesc_read_mms">Zezwolić %1$s na odczytywanie MMS-ów?</string>
+    <string name="permdesc_read_note">Zezwolić %1$s na dostęp do notatek?</string>
     <string name="permdesc_read_phone_numbers">Zezwolić %1$s na odczyt numerów telefonów z tego urządzenia?</string>
     <string name="permdesc_read_phone_state">Zezwolić %1$s na dostęp do stanu urządzenia i informacji dot. sieci komórkowej?</string>
+    <string name="permdesc_read_record">Zezwolić %1$s na dostęp do nagrań?</string>
     <string name="permdesc_read_sms">Zezwolić %1$s na odczyt SMS-ów i MMS-ów?</string>
     <string name="permdesc_read_storage">Zezwolić %1$s na dostęp do zdjęć, filmów, dźwięków i plików na urządzeniu?</string>
     <string name="permdesc_receive_sms">Zezwolić %1$s na otrzymywanie SMS-ów i MMS-ów?</string>
