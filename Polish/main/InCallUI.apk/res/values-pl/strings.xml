@@ -58,6 +58,10 @@
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
     <string name="msim_select_default_last">Ostatnio używana</string>
+    <string name="offline_call_chat_text">Komunikacja między urządzeniami</string>
+    <string name="offline_call_rssi_great_text">Silny sygnał</string>
+    <string name="offline_call_rssi_poor_text">Słaby sygnał</string>
+    <string name="offline_call_rssi_poor_toast">Słaby sygnał Bluetooth. Może to mieć wpływ na jakość połączenia.</string>
     <string name="onscreen_audio_mode_handset">Telefon</string>
     <string name="onscreen_change_to_video">Rozmowa wideo</string>
     <string name="onscreen_collapsed_dialpad">Pokaż klawiaturę numeryczną</string>

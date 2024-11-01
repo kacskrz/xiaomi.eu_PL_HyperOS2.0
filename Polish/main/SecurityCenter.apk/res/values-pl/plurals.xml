@@ -133,6 +133,11 @@
         <item quantity="few">%2$d aplikacje (w tym %1$s) mogą być złośliwe</item>
         <item quantity="one">%2$d aplikacja (%1$s) może być złośliwa</item>
     </plurals>
+    <plurals name="pc_extreme_mode_count_down_title_new">
+        <item quantity="other">Słaba bateria. Urządzenie przejdzie w Tryb hibernacji za %1$d sekund. Wydajność i siła sygnału mogą być nieco słabsze.</item>
+        <item quantity="few">Słaba bateria. Urządzenie przejdzie w Tryb hibernacji za %1$d sekundy. Wydajność i siła sygnału mogą być nieco słabsze.</item>
+        <item quantity="one">Słaba bateria. Urządzenie przejdzie w Tryb hibernacji za %1$d sekundę. Wydajność i siła sygnału mogą być nieco słabsze.</item>
+    </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">"%s dni, "</item>
         <item quantity="one">"%s dzień, "</item>

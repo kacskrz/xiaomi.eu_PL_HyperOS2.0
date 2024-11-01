@@ -588,6 +588,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="label_callwait">Połączenia oczekujące</string>
     <string formatted="false" name="loading_text_format">Sprawdzanie, czy zdjęcia zawierają prywatne dane (%d/%d)…</string>
     <string name="location">Lokalizacja</string>
+    <string name="location_services_title">Usługi lokalizacji</string>
     <string name="lock_mode_title">Opcje blokady</string>
     <string name="lock_screen_traffic_notify_body">Użyto %3$s po %2$s od blokady (%1$s)</string>
     <string name="long_click_dialog_summary">Przytrzymaj długo palcem na wyniku, aby dodać go do wyjątków</string>
@@ -723,6 +724,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_berserk_mode_dialog_title">Włącz Tryb wydajności</string>
     <string name="pc_berserk_mode_noti_summary">Tryb wydajności może zwiększyć zużycie energii i prowadzić do przegrzania urządzenia</string>
     <string name="pc_berserk_mode_performance_title">Tryb wydajności</string>
+    <string name="pc_charge_mode_low_power_fast_speed">Przyspieszenie</string>
     <string name="pc_charge_protection_wireless_reverse_charge">Bezprzewodowe ładowanie zwrotne</string>
     <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">Wyłącz bezprzewodowe ładowanie zwrotne, gdy poziom naładowania baterii tego urządzenia spadnie poniżej %1$s</string>
     <string name="pc_charged_auto_close_summary">Wyłącz, gdy poziom baterii wynosi ​%1$s lub jest ona naładowana</string>

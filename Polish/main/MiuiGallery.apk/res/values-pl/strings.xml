@@ -70,6 +70,8 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="card_title_annual_peoples">Twarze %1$s</string>
     <string name="card_title_annual_pets">Futrzane łapki w %1$s</string>
     <string name="card_title_annual_travel">Moje wyprawy w %1$s</string>
+    <string name="card_title_custom_relation">Własna relacja</string>
+    <string name="card_title_default_relation">Ustaw relację</string>
     <string name="card_title_monthly_foods">Potrawy</string>
     <string name="card_title_monthly_pets">Zwierzęta</string>
     <string name="card_title_party">Imprezy</string>
@@ -105,6 +107,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="cta_network_declare">Aby synchronizować zdjęcia i filmy z Chmurą Xiaomi, aplikacja wymaga połączenia z Internetem.</string>
     <string name="cta_screenthrow_declare">"Aby móc przesyłać ekran tego urządzenia na zewnętrzne monitory, aplikacja musi się połączyć z Internetem."</string>
     <string name="default_device_name">Nieznane urządzenie</string>
+    <string name="default_set_relation_content">Brak</string>
     <string name="define_by_user">Własne</string>
     <string name="delete_album_msg_format_cloud_new">Usunąć wybrane albumy %1$s z urządzenia i chmury?</string>
     <string name="delete_album_msg_format_local_new">Usunąć wybrane albumy %1$s?</string>
@@ -134,6 +137,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="empty_title_no_pinned">Brak przypiętych elementów</string>
     <string name="enable_midrop">Włącz</string>
     <string name="enter_choice_mode">Uruchomiono dialog Wyślij</string>
+    <string name="enter_the_relationship">Wprowadź relację</string>
     <string name="error_create_share_album_fail_default">Nie udało się utworzyć ze względu na nieznany błąd</string>
     <string name="exit_choice_mode">Opuszczono dialog Wyślij</string>
     <string name="exit_custom_sort">Odrzucić zmiany?</string>
@@ -172,6 +176,13 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="get_user_info_edit_text_hint">Telefon/e-mail/konto Xiaomi</string>
     <string name="global_cloud_action_upgrade_onedrive">Ulepsz OneDrive</string>
     <string name="global_cloud_full_space_tip_message">Ulepsz swój plan chmury, aby móc kopiować do niej wszystkie zdjęcia i filmy.</string>
+    <string name="global_imac">Mój iMac</string>
+    <string name="global_ipad">Mój iPad</string>
+    <string name="global_iphone">Mój iPhone</string>
+    <string name="global_macbook">Mój MacBook</string>
+    <string name="global_macmini">Mój Mac mini</string>
+    <string name="global_macpro">Mój Mac Pro</string>
+    <string name="global_macstudio">Mój Mac Studio</string>
     <string name="global_pad">Mój tablet</string>
     <string name="global_pc">Mój laptop</string>
     <string name="global_phone">Mój telefon</string>
@@ -269,6 +280,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="more_face">Więcej podobnych osób</string>
     <string name="motion_photo_play">Odtwórz</string>
     <string name="move_to_other_albums_tip">Przenieść ten album do Innych albumów?</string>
+    <string name="msg_toast_recommend_widget_show_title_off">Tytuł nie pojawi się na widżecie Ekranu głównego</string>
     <string name="national_day">Dzień Niepodległości</string>
     <string name="nearby_share">Udostępnianie w pobliżu</string>
     <string name="new_album_invalid_char">Nieprawidłowy znak (\"%s\"). Wpisz literę lub cyfrę.</string>
@@ -394,6 +406,7 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
     <string name="story_remove_confirm_positive">Usuń</string>
     <string name="story_remove_confirm_title">Usuwanie zdjęć</string>
     <string name="story_rename_invalid_char">"Nie można użyć \"%s\" w nazwie wspomnienia. Użyj liter i cyfr."</string>
+    <string name="switch_gallery_recommend_widget_show_title">Pokaż tytuł</string>
     <string name="thanksgiving_day">Święto Dziękczynienia</string>
     <string name="throwing_print">Drukuj</string>
     <string name="throwing_screen">Projekcja</string>

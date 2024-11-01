@@ -57,6 +57,10 @@
         <item quantity="few">Ciśnienie: %s hektopaskale</item>
         <item quantity="one">Ciśnienie: %s hektopaskal</item>
     </plurals>
+    <plurals name="author_follow">
+        <item quantity="other">%d obserwujących</item>
+        <item quantity="one">%d obserwujący</item>
+    </plurals>
     <plurals name="de_author_fans_amount">
         <item quantity="one">%1$d fan</item>
         <item quantity="other">%1$d fanów</item>

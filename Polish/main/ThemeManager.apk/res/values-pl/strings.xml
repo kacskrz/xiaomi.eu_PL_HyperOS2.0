@@ -22,6 +22,7 @@
     <string name="add">Dodaj</string>
     <string name="add_home_icon_success">Pomyślnie dodano</string>
     <string name="ai_apply_wallpaper">Zastosuj</string>
+    <string name="ai_cannot_scrolling_with_the_screen">Nie można włączyć przewijania dla tej tapety</string>
     <string name="ai_delete_wallpaper">Wyjdź</string>
     <string name="ai_generate">Wygenerowane przez SI</string>
     <string name="ai_generate_action">Generuj</string>
@@ -137,6 +138,7 @@
     <string name="can_not_apply_pc_video">"Tryb PC nie wspiera żywych tapet"</string>
     <string name="can_not_apply_size_invalid">Te wideo jest za duże</string>
     <string name="cancel_download">Anulowano pobieranie</string>
+    <string name="carousel_no_set_wallpaper_effects">Nie można ustawić efektów, gdy włączone są Tapety Blokady</string>
     <string name="check_has_new_version">Dostępna jest aktualizacja</string>
     <string name="choose_from_photo">Wybierz z Galerii</string>
     <string name="choose_video_dialog_invalid_default_message">To wideo nie jest wspierane.</string>
