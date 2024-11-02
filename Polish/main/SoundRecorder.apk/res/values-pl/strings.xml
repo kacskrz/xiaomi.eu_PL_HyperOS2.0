@@ -14,6 +14,7 @@
     <string name="play_speed">Prędkość %1$.1fX</string>
     <string name="preference_silent_mode">Wycisz dzwonek podczas nagrywania</string>
     <string name="recognition_error_stopped">Zatrzymano rozpoznawanie</string>
+    <string name="recognition_notification_complete_success">Transkrypcja \"%s\" powiodła się. Dotknij, aby wyświetlić.</string>
     <string name="record_back_pressed_hint">Naciśnij ponownie, aby zatrzymać nagrywanie</string>
     <string name="record_scenes_summaries_HD">Technologia wysokiego zakresu dynamicznego umożliwia nagrywanie lepszej jakości dźwięku</string>
     <string name="record_scenes_summaries_stereo_HD">Technologia wysokiego zakresu dynamicznego umożliwia nagrywanie lepszej jakości dźwięku</string>
