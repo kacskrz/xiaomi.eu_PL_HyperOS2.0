@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_ai_wallpaper">O tej funkcji</string>
+    <string name="about_ai_wallpaper">O Motywach</string>
     <string name="about_app_name">O Motywach</string>
     <string name="about_version_update">"Co nowego?"</string>
     <string name="accessibiliy_description_content_comment">Komentarz</string>
