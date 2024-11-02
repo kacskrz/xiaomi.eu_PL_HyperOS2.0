@@ -10,6 +10,7 @@
     <string name="biometric_dialog_tap_confirm_with_face_sfps">Odblokowano skanem twarzy. Kliknij, aby przejść dalej.</string>
     <string name="cast_to_other_device_stop_dialog_message">Zatrzymasz przesyłanie swojego ekranu</string>
     <string name="cast_to_other_device_stop_dialog_title">Zatrzymać przesyłanie ekranu?</string>
+    <string name="custom_lockscreen">Dostosuj Ekran blokady</string>
     <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację systemu i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
 Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje systemu w Ustawieniach > Opcje programisty > Optymalizacje systemu."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
