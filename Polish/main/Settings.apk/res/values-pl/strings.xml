@@ -119,6 +119,7 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
     <string name="bluetooth_refresh">Odśwież</string>
     <string name="bluetooth_scan_for_devices">Wyszukaj urządzenia</string>
     <string name="bluetooth_talkback_input_peripheral">Peryferyjne urządzenie wejściowe</string>
+    <string name="bluetooth_unlock_title">Odblokuj przez Bluetooth</string>
     <string name="bootloader_device_bind_no_data_network">Wyłącz Wi-Fi i dodaj swoje konto i urządzenie, używając transmisji danych.</string>
     <string name="bootloader_summary">Zainstaluj oprogramowanie przez USB</string>
     <string name="breathing_light_color_summary">Kolor diody, gdy otrzymano nowe powiadomienie</string>

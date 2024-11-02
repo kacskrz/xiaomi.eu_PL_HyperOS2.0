@@ -256,8 +256,8 @@
     <string name="dynamic_video_wallpaper">Tapeta zależna od pory dnia</string>
     <string name="editor_cancel">Anuluj</string>
     <string name="editor_continue">Kontynuuj</string>
-    <string name="effect_home">efekt pulpitu</string>
-    <string name="effect_lock">efekt ekranu blokady</string>
+    <string name="effect_home">Efekty pulpitu</string>
+    <string name="effect_lock">Efekty ekranu blokady</string>
     <string name="enable_accessibility">Wymagane uprawnienia ułatwień dostępu</string>
     <string name="enable_accessibility_hint">"Możesz włączyć tą usługę w aplikacji Motywy. Po włączeniu jej będziesz w stanie wybrać aplikacje, które powinny działać z przezroczystą tapetą w tle."</string>
     <string name="enable_all_free_mode">Włącz</string>
