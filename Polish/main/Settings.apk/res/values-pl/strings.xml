@@ -73,7 +73,7 @@
     <string name="auto_disable_screenbuttons_rotation_title">Zablokuj w poziomie</string>
     <string name="auto_silent_info">Jeśli włączysz tryb Nie przeszkadzać ręcznie, ta funkcja przestanie działać</string>
     <string name="back_double_tap">Dwukrotne dotknięcie z tyłu</string>
-    <string name="back_strap_image_text">Otrzymuj przypomnienia o powiadomieniach i efekty oświetlenia w różnych sytuacjach</string>
+    <string name="back_strap_image_text">Gdy urządzenie leży ekranem do dołu i jest on wyłączony, dioda będzie wyświetlać przypomnienia o powiadomieniach i efekty oświetleniowe w różnych sytuacjach</string>
     <string name="back_strap_status_close">Wył.</string>
     <string name="back_strap_status_open">Wł.</string>
     <string name="back_strap_title">Efekty tylnej diody</string>
@@ -362,7 +362,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="media_controls_lockscreen_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostanie otwarty na ekranie blokady</string>
     <string name="media_controls_resume_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostanie otwarty w Szybkich ustawieniach</string>
     <string name="media_dialog_ok">OK</string>
-    <string name="media_dialog_summary">Gdy ta funkcja jest włączona, urządzenie będzie wibrować w rytmie muzyki i filmów (w wspieranych aplikacjach).</string>
+    <string name="media_dialog_summary">Gdy ta funkcja jest włączona, urządzenie będzie wibrować w rytmie muzyki (w wspieranych aplikacjach).</string>
     <string name="media_dialog_title">Włącz Reakcje haptyczne na multimedia</string>
     <string name="media_haptic">Reakcje haptyczne na multimedia</string>
     <string name="media_haptic_summary">Uzyskaj reakcję haptyczną w rytm Twojej muzyki</string>

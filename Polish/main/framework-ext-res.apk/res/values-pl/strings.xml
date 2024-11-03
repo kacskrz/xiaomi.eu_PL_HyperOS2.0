@@ -51,6 +51,13 @@
     <string name="global_actions_reboot">Restart</string>
     <string name="global_actions_silent_mode">Cichy</string>
     <string name="global_help">Nie można znaleźć urządzenia</string>
+    <string name="global_imac">Mój iMac</string>
+    <string name="global_ipad">Mój iPad</string>
+    <string name="global_iphone">Mój iPhone</string>
+    <string name="global_macbook">Mój MacBook</string>
+    <string name="global_macmini">Mój Mac mini</string>
+    <string name="global_macpro">Mój Mac Pro</string>
+    <string name="global_macstudio">Mój Mac Studio</string>
     <string name="go_to_sleep">Wyłącz ekran</string>
     <string name="handy_mode_enter_dlg_msg">Włączyć tryb Jednej dłoni?</string>
     <string name="handy_mode_enter_dlg_title">Jedna dłoń</string>
