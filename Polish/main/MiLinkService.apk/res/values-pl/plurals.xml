@@ -14,6 +14,10 @@
         <item quantity="few">Dodano %1$d wzór</item>
         <item quantity="one">Dodano %1$d wzory</item>
     </plurals>
+    <plurals name="tv_remote_auth_count_down">
+        <item quantity="other">Wprowadź kod %1$s (%2$d s)</item>
+        <item quantity="one">Wprowadź kod %1$s (%2$d s)</item>
+    </plurals>
     <plurals name="un_remember_number_habit">
         <item quantity="other">Pozostało %1$d wzorów</item>
         <item quantity="few">Pozostały %1$d wzory</item>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1">Włącz Wi-Fi i Bluetooth</string>
+    <string name="appcirculate_toast_high_temperature">Poczekaj, aż urządzenie ostygnie</string>
     <string name="appcirculate_toast_loading">Przełączanie na inne urządzenie…</string>
     <string name="appcirculate_toast_not_support_device_phone">"Nie można otworzyć tej aplikacji na telefonie"</string>
     <string name="audio_record_des">W celu przesyłania dźwięku z urządzenia do zewnętrznych monitorów</string>
@@ -54,6 +55,8 @@ aby udostępnić ekran"</string>
     <string name="circulate_phone_card_using_cellular_wifi_china">"Używa sygnału Wi-Fi telefonu"</string>
     <string name="circulate_public_device_title_format">%2$s %1$s</string>
     <string name="circulate_ringfind_button_hint_stop">Zatrzymaj dźwięk</string>
+    <string name="circulate_tv_power_alter_text">Po wyłączeniu telewizora pilot i telewizor znikną z tej strony. Wyłączyć?</string>
+    <string name="circulate_tv_power_alter_title">Wyłączanie telewizora</string>
     <string name="close_auxiliary_wifi_hint_china">Wyłącz funkcję \"Zwiększenie prędkości sieci (dwupasmowe Wi-Fi)\", aby móc włączyć projekcję</string>
     <string name="connect_settings_base">Interakcja urządzeń Xiaomi</string>
     <string name="connect_settings_communication_sharing">Bezprzewodowy tethering</string>
@@ -142,6 +145,8 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="synergy_text">Interakcja urządzeń Xiaomi</string>
     <string name="title_install">Zainstaluj Mi Canvas</string>
     <string name="title_update">Zaktualizuj Mi Canvas</string>
+    <string name="tv_remote_auth_cancel">Anuluj</string>
+    <string name="tv_remote_auth_title">Wprowadź kod weryfikacyjny telewizora</string>
     <string name="update">Zaktualizuj</string>
     <string name="upgrade_phone_device_tip">*Aktualizacje dostarczane przez telefon Xiaomi</string>
 </resources>
