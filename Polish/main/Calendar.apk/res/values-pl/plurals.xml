@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="countdown_day">
-        <item quantity="other">Pozostało %1$s dni</item>
-        <item quantity="one">Pozostał %1$s dzień</item>
-        <item quantity="few">Pozostały %1$s dni</item>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d dni od</item>
+        <item quantity="one">%1$d dzień od</item>
+        <item quantity="few">%1$d dni od</item>
+        <item quantity="many">%1$d dni od</item>
+    </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s.</item>
+        <item quantity="one">%1$s.</item>
+        <item quantity="few">%1$s.</item>
+        <item quantity="many">%1$s.</item>
+    </plurals>
+    <plurals name="count_down_days_unit">
+        <item quantity="other">dni</item>
+        <item quantity="one">dzień</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Wybrano %d elementów</item>
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
-    </plurals>
-    <plurals name="n_attendees">
-        <item quantity="other">%1$d gości</item>
-        <item quantity="one">1 gość</item>
     </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">%2$s, %1$s</item>
@@ -20,7 +27,10 @@
         <item quantity="few">%2$s, %1$s</item>
         <item quantity="many">%2$s, %1$s</item>
     </plurals>
-    <plurals name="title_menstruation_day">
-        <item quantity="other">%1$d dzień okresu</item>
+    <plurals name="today_num_events">
+        <item quantity="other">%d wydarzenia</item>
+        <item quantity="many">%d wydarzeń</item>
+        <item quantity="few">%d wydarzenia</item>
+        <item quantity="one">%d wydarzenie</item>
     </plurals>
 </resources>

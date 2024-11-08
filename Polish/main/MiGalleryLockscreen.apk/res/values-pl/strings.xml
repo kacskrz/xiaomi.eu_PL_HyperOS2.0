@@ -232,6 +232,12 @@
     <string name="left_lks_view">Wyświetl</string>
     <string name="like">Lubię</string>
     <string name="liked">Polubione</string>
+    <string name="lks_apply_wallpaper_dlg_apply">Ustaw</string>
+    <string name="lks_apply_wallpaper_dlg_apply_success_toast">Pomyślnie ustawiono</string>
+    <string name="lks_apply_wallpaper_dlg_cancel">Anuluj</string>
+    <string name="lks_apply_wallpaper_dlg_title">Ustawić tę tapetę?</string>
+    <string name="lks_click_for_new_wallpaper">Dotknij, aby wyświetlić nową tapetę</string>
+    <string name="lks_click_to_add_to_carousel">Dotknij, aby dodać do pokazu slajdów</string>
     <string name="lks_cta_dont_mention">"Nie pokazuj ponownie"</string>
     <string name="lks_cta_ok">Zgadzam się</string>
     <string name="lks_cta_reject">"Nie zgadzam się"</string>
@@ -648,6 +654,8 @@ dd.M"</string>
     <string name="sst_morning_greeting_title">Motto na dziś</string>
     <string name="sst_morning_history_desc">Wyświetl historię wyświetlanych zdań</string>
     <string name="sst_morning_history_title">Historia funkcji Motto na dziś</string>
+    <string name="sst_my_wallpaper_desc">Wyświetl tapety z Tapet Blokady</string>
+    <string name="sst_my_wallpaper_title">Moje tapety</string>
     <string name="sst_new_feature">Nowa funkcja</string>
     <string name="sst_no_favor_wallpaper_hint">Brak ulubionych tapet</string>
     <string name="sst_privacy_policy_title">Polityka prywatności</string>

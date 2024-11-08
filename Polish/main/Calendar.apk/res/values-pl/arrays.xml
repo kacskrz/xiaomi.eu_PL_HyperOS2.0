@@ -4,6 +4,16 @@
         <item>Wyłącz raz</item>
         <item>Wyłączaj zawsze</item>
     </string-array>
+    <string-array name="locale_calendar_array">
+        <item>Brak</item>
+        <item>Tradycyjny chiński kalendarz</item>
+        <item>Kalendarz muzułmański</item>
+        <item>Kalendarz hebrajski</item>
+        <item>Kalendarz japoński</item>
+        <item>Kalendarz perski</item>
+        <item>Kalendarz indyjski</item>
+        <item>Kalendarz buddyjski</item>
+    </string-array>
     <string-array name="open_alarm_repeating_labels">
         <item>Włącz raz</item>
         <item>Włączaj zawsze</item>
@@ -18,6 +28,15 @@
         <item>Ndz</item>
     </string-array>
     <string-array name="week_header_name">
+        <item>NDZ</item>
+        <item>PON</item>
+        <item>WTO</item>
+        <item>ŚRO</item>
+        <item>CZW</item>
+        <item>PIĄ</item>
+        <item>SOB</item>
+    </string-array>
+    <string-array name="week_header_name_phone_landscape">
         <item>NDZ</item>
         <item>PON</item>
         <item>WTO</item>
