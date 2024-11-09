@@ -24,6 +24,16 @@
     <string name="accessibility_ultra_wide_off">Bardzo szeroki kąt wyłączony</string>
     <string name="accessibility_ultra_wide_on">Bardzo szeroki kąt włączony</string>
     <string name="accessibility_video_pause_button">Wstrzymano nagrywanie wideo</string>
+    <string name="agent_flip_tbc">Kontynuuj na wewnętrznym ekranie</string>
+    <string name="agent_function_max">Zmieniono na maksymalną wartość</string>
+    <string name="agent_function_min">Zmieniono na minimalną wartość</string>
+    <string name="agent_workspace_mode_not_supported">Ta funkcja nie jest wspierana</string>
+    <string name="agent_workspace_mode_not_supported_use_default">"Ta funkcja nie jest wspierana.
+Włączono tryb Zdjęcie."</string>
+    <string name="agent_workspace_on">Ustawiono parametry dla fotografowania \"%1$s\"</string>
+    <string name="agent_workspace_tbc">Analizowanie scenerii</string>
+    <string name="agent_workspace_tbc_use_default">"Analizowanie scenerii…
+Ustawiono domyślne parametry Aparatu"</string>
     <string name="ai_scene_top_tip">Księżyc</string>
     <string name="ambient_lighting_type_purple">Moweina</string>
     <string name="ambient_lighting_type_sun">Promień</string>

@@ -420,6 +420,7 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
     <string name="toast_orientation_unlock">Odblokowano orientację ekranu</string>
     <string name="today_of_year_empty_sub_title">Przesuń w lewo lub prawo, aby wyświetlić inne dni</string>
     <string name="today_of_year_empty_title">Brak wspomnień w tym dniu</string>
+    <string name="today_of_year_no_more_data">Nie ma więcej elementów do pokazania</string>
     <string name="today_of_year_sub_title">Brak wspomnień w tym dniu. Sprawdź inne wspomnienia.</string>
     <string name="today_of_year_title">Tego dnia</string>
     <string name="today_of_year_whole_empty_sub_title">Rejestruj chwile z życia, aby przypominać je sobie później</string>
