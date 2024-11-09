@@ -8,6 +8,7 @@
     <string name="calendar_desc_withdraw_consent">Cofnij zgodę na Politykę prywatności Kalendarza</string>
     <string name="calendar_privacy_policy">Polityka prywatności</string>
     <string name="calendar_user_agreement">Umowa użytkownika</string>
+    <string name="date_time_fmt">%1$s (%2$s)</string>
     <string name="desk_calendar">Bogaty kalendarz biurkowy</string>
     <string name="desk_calendar_apply_button_apply">Zastosowano</string>
     <string name="desk_calendar_apply_button_apply_now">Zastosuj</string>
