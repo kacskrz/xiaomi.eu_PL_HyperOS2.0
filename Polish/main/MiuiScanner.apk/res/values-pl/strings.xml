@@ -13,12 +13,10 @@
     <string name="action_search">Wyszukaj</string>
     <string name="address">"Adres: "</string>
     <string name="adjustment_area">Dostosuj</string>
-    <string name="agree_app_use">Skanowanie kodów QR i innych obrazów (część funkcji może wymagać dostępu do lokalizacji)</string>
+    <string name="agree_app_use">Skanowanie kodów QR i innych obrazów. Część funkcji może wymagać dostępu do lokalizacji, robienia zdjęć lub zrzutów ekranu.</string>
     <string name="agree_btn">Zezwól</string>
     <string name="agree_camera_permission">W celu skanowania kodów, rozpoznawania tekstu oraz tworzenia dokumentów</string>
-    <string name="agree_camera_permission_message">W celu używania aparatu do skanowania elementów</string>
     <string name="agree_storage_permission">W celu uzyskiwania dostępu do obrazów Galerii i ich importowania, a także zapisywania plików</string>
-    <string name="agree_storage_permission_message">W celu uzyskiwania dostępu do obrazów Galerii i ich importowania, a także zapisywania plików</string>
     <string name="all_text">Pełen tekst</string>
     <string name="already_ocr_result">Automatycznie wybrano elementy</string>
     <string name="always">Zawsze</string>
@@ -26,6 +24,7 @@
     <string name="app_description_title">O aplikacji</string>
     <string name="app_details">Informacje</string>
     <string name="app_name">Skaner</string>
+    <string name="auracast_code_title_key">Słuchasz transmisji %s</string>
     <string name="barcode_into_rectangle">Umieść kod wewnątrz ramki</string>
     <string name="birthday">Urodziny:</string>
     <string name="black_and_white">Czarno-białe</string>
@@ -35,6 +34,7 @@
     <string name="business_copy">Skopiuj</string>
     <string name="business_new_contacts">Utwórz kontakt</string>
     <string name="business_no_result">"Nie udało się rozpoznać wizytówki. Spróbuj ponownie."</string>
+    <string name="button_revoke_privacy_consent">Wycofanie zgody</string>
     <string name="calender">Kalendarz</string>
     <string name="call_anyone">Połączenie</string>
     <string name="call_phone_permissions_text">Aby móc używać tej funkcji, zezwól aplikacji Skaner na wykonywanie połączeń.</string>
@@ -59,6 +59,7 @@
     <string name="check_WI_FI">Znaleziono sieć Wi-Fi</string>
     <string name="check_for_updates">Sprawdź aktualizacje wersji Beta</string>
     <string name="check_phone_num">Znaleziono numer telefonu</string>
+    <string name="choose_default_pay">Domyślna metoda płatności</string>
     <string name="choose_open_code_app">Wybierz aplikację</string>
     <string name="choose_pay_title">Wybierz metodę płatności</string>
     <string name="choose_picture">Wybierz obrazek z QR</string>
@@ -104,6 +105,7 @@
     <string name="company">Firma:</string>
     <string name="connect_to_wifi">Połącz się z tą siecią</string>
     <string name="connect_wifi">Połącz się z tą siecią</string>
+    <string name="connect_wifi_no_local_premissions">Połącz się z tą siecią (wymagane uprawnienia lokalizacji)</string>
     <string name="contact_details">Kontakt kodu QR:</string>
     <string name="content_desktop_uninstall">"Skaner to aplikacja systemowa. Po jej odinstalowaniu nie będzie możliwe używanie powiązanych z nią funkcjonalności w aplikacjach takich jak Internet, Aparat czy Kontakty."</string>
     <string name="continue_access_web_url">Przejdź do strony</string>
@@ -129,8 +131,11 @@
     <string name="crop_title_translation">Zaznacz tekst do tłumaczenia</string>
     <string name="cropping">Przycinanie…</string>
     <string name="current_word_is_locked">Obecne słowo jest zablokowane</string>
+    <string name="customer_service_call">Infolinia wsparcia technicznego</string>
+    <string name="default_missing">Brak domyślnej aplikacji do płatności. Wybierz ponownie.</string>
     <string name="delete">Usuń</string>
     <string name="dis_select_all">Odznacz wszystko</string>
+    <string name="doc_rec_bottom_title">Filtry</string>
     <string name="document_color_picture">Kolor</string>
     <string name="document_color_picture_tip">Zmiana na kolorowy…</string>
     <string name="document_crop_title">Przytnij dokument</string>
@@ -193,12 +198,13 @@
     <string name="express_no_empty">Wprowadź najpierw numer zamówienia</string>
     <string name="failed_to_get_xiaomi_account">"Nie udało się zalogować"</string>
     <string name="fax">Faks</string>
-    <string name="feed_search_fail">Brak wyników, spróbuj ponownie</string>
+    <string name="feed_search_fail">Nie znaleziono rezultatów</string>
     <string name="feedback">Opinie</string>
     <string name="feedback_description_camera_access">Skaner nie może połączyć się z Aparatem</string>
     <string name="feedback_description_save_photo">Nie udało się zapisać obrazu lub wideo</string>
     <string name="feedback_phone">Informacje kontaktowe (opcjonalne)</string>
     <string name="feedback_title">Opinie</string>
+    <string name="file_management">Pliki</string>
     <string name="filename_cannot_beempty">Nie można zapisać pliku bez nazwy</string>
     <string name="flash_close">Wyłącz</string>
     <string name="flash_open">Włącz</string>
@@ -221,6 +227,7 @@
     <string name="format_error">Nieprawidłowe hasło</string>
     <string name="function">Funkcje</string>
     <string name="general_error">Nie udało się rozpoznać</string>
+    <string name="general_feed_back">Zgłoś</string>
     <string name="general_feedback">Zgłoś pomyłki</string>
     <string name="general_no">Nie znaleziono rezultatów</string>
     <string name="general_no_found">Zobacz te produkty</string>
@@ -245,6 +252,8 @@
     <string name="identify_the_results">Rezultat</string>
     <string name="if_open_result">Wyświetl rezultat skanowania po powrocie do aplikacji</string>
     <string name="if_to_open_milogo_scanning">Rozpoznawaj logo Xiaomi</string>
+    <string name="image_recognition_optimization">Zoptymalizuj rozpoznawanie obrazu</string>
+    <string name="image_recognition_optimization_summary">Aby poprawić algorytmy Xiaomi, zezwól na wysyłanie obrazów na serwery firmy</string>
     <string name="immediately_try">Skanuj</string>
     <string name="immediately_try_video">Skanuj</string>
     <string name="importFailed">"Nie udało się zaimportować"</string>
@@ -272,6 +281,7 @@
     <string name="language_entry_german">Niemiecki</string>
     <string name="language_entry_japanese">Japoński</string>
     <string name="language_entry_korean">Koreański</string>
+    <string name="language_entry_russian">Rosyjski</string>
     <string name="language_entry_spanish">Hiszpański</string>
     <string name="link_to_network">Połącz</string>
     <string name="local_ocr_recognition">Rozpoznawanie OCR (lokalne)</string>
@@ -280,7 +290,7 @@
     <string name="location_permissions_text">Aby móc korzystać z tej funkcji, zezwól na dostęp do lokalizacji w Ustawieniach.</string>
     <string name="logistics">Przesyłki kurierskie</string>
     <string name="logout_service">Wycofaj zgodę</string>
-    <string name="low_version_tip">Zaktualizuj system do najnowszej wersji, aby móc użyć Skanera.</string>
+    <string name="low_version_tip">Aby użyć Skanera, zaktualizuj aplikację do najnowszej wersji.</string>
     <string name="mihome_goto_install">Zainstaluj</string>
     <string name="mihome_goto_update">Zaktualizuj</string>
     <string name="mihome_install_message">Najpierw zainstaluj aplikację Xiaomi Home i się w niej zaloguj.</string>
@@ -290,7 +300,7 @@
     <string name="mipayin_dialog_more">Więcej</string>
     <string name="mipayin_dialog_title">Otwórz za pomocą</string>
     <string name="miracast_connect">Przesyłaj</string>
-    <string name="miracast_connect_fail">"Nie udało się przesłać, spróbuj ponownie"</string>
+    <string name="miracast_connect_fail">Nie udało się przesłać. Spróbuj ponownie.</string>
     <string name="miracast_connecting">Projekcja…</string>
     <string name="miracast_details">Zeskanuj kod QR, aby przesyłać</string>
     <string name="miracast_message">Przesyłać na %s?</string>
@@ -317,7 +327,9 @@
     <string name="no_inner_version">"Wersja Beta jest niedostępna"</string>
     <string name="no_network">"Nie udało się połączyć z siecią. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
     <string name="no_one_phone">Wprowadź poprawny numer telefonu</string>
+    <string name="no_payment_software_installed">Nie zainstalowano aplikacji do płatności. Najpierw zainstaluj aplikację Mi Pay, WeChat lub Alipay.</string>
     <string name="no_storage">Zamontuj pamięć wewnętrzną USB przed użyciem</string>
+    <string name="no_support_multi_window">Skaner nie wspiera Dzielenia ekranu i pływających okien</string>
     <string name="no_support_to_translate_type">Ten język jest niewspierany</string>
     <string name="not_identification_form">"Nie udało się rozpoznać tabeli. Wybierz ponownie i rozpocznij od nowa."</string>
     <string name="not_insert_contact">"Nie można dodać kontaktu"</string>
@@ -409,6 +421,7 @@
     <string name="plant_title">Zrób zdjęcie roślinie, którą chcesz rozpoznać</string>
     <string name="please_select_an_item">Wybierz elementy</string>
     <string name="please_try_again_later">Poczekaj minutę lub dwie i spróbuj ponownie</string>
+    <string name="ppt_export_max">Za jednym razem możesz dodać maks. %1$d obrazów</string>
     <string name="preparing_sd">Przygotowywanie pamięci wewnętrznej…</string>
     <string name="previous">Wstecz</string>
     <string name="privacy_policy">Polityka prywatności</string>
@@ -448,6 +461,7 @@
     <string name="recognition_historical_date_create_time">"Utworzono "</string>
     <string name="recognition_historical_no_document">Brak elementów.</string>
     <string name="recognition_historical_no_form">Brak elementów.</string>
+    <string name="recognition_historical_no_ppt">Brak elementów</string>
     <string name="recognition_historical_no_text">Brak elementów.</string>
     <string name="recognition_history">Historia</string>
     <string name="recognize">Skanuj</string>
@@ -473,6 +487,7 @@
     <string name="scanHistory_close">Wyłącz</string>
     <string name="scanHistory_isOpen">Czy chcesz rozpocząć tworzenie historii skanowanych elementów?</string>
     <string name="scanHistory_open">Włącz</string>
+    <string name="scan_card">Wizytówki</string>
     <string name="scan_document_top_tip">Zeskanuj fizyczny dokument i utwórz plik PDF</string>
     <string name="scan_document_top_tip_second">Zeskanuj kilka dokumentów i utwórz jeden plik PDF</string>
     <string name="scan_form">Skanuj tabelę</string>
@@ -508,6 +523,7 @@
     <string name="share_as_picture">Zdjęcie</string>
     <string name="share_error">"Nie udało się udostępnić"</string>
     <string name="share_format">Wyślij jako</string>
+    <string name="share_utils_title">Udostępnij</string>
     <string name="shopping_searching">Szukanie…</string>
     <string name="shopping_title">Zrób zdjęcie produktu</string>
     <string name="smart_scan_code">Prosty skaner</string>
@@ -543,9 +559,14 @@
     <string name="to_pay">Ukończ płatność</string>
     <string name="toast_net_2g">Nie udało się połączyć z siecią. Zmień ją i spróbuj ponownie.</string>
     <string name="toast_net_timeout">Przekroczono czas trwania żądania. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="toast_save_photo">Pomyślnie zapisano</string>
     <string name="toinstall">Pobierz</string>
+    <string name="transfer_document">Konwertuj dokument</string>
+    <string name="transfer_document_ppt_summary">Skanuj slajdy do pliku PDF</string>
+    <string name="transfer_document_ppt_table_summary">Skanuj slajdy i tabele Excela do pliku PDF</string>
     <string name="translate_auto_lock">Zablokuj tłumaczenie</string>
     <string name="translate_auto_unlock">Odblokuj tłumaczenie</string>
+    <string name="translate_choose_language">Wybierz język</string>
     <string name="translate_copy_success">Pomyślnie skopiowano</string>
     <string name="translate_dest_lang">Język tłumaczenia</string>
     <string name="translate_export">Eksportuj</string>
