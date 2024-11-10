@@ -2,7 +2,7 @@
 <resources>
     <plurals name="ai_generate_progress">
         <item quantity="other">To zajmie około %s sekund.</item>
-        <item quantity="other">To zajmie około %s sekundy.</item>
+        <item quantity="one">To zajmie około %s sekundy.</item>
     </plurals>
     <plurals name="anonymous_resource_count_aod">
         <item quantity="one">%1$d motyw AoD</item>
