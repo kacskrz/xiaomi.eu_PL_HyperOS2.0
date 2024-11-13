@@ -4,6 +4,7 @@
     <string name="always_enable_mms_summary">Zawsze odbieraj MMS, nawet gdy dane mobilne są wyłączone</string>
     <string name="cdma_activate_device">Aktywuj urządzenie</string>
     <string name="cdma_lte_data_service">Skonfiguruj plan danych</string>
+    <string name="cellular_network_title">Debugowanie sieci komórkowej</string>
     <string name="change_data_sim_4g_only_prompt">SIM %1$s obsługuje tylko 4G. Gdy SIM %2$s nie jest domyślną kartą SIM dla danych mobilnych, karta SIM może nie działać poprawnie. Przełączyć teraz?</string>
     <string name="confirm_phone_number">Potwierdź numer telefonu</string>
     <string name="data_enable_always_warn">Zapytaj, czy korzystać z danych mobilnych</string>
@@ -39,11 +40,17 @@
     <string name="fiveg_network_mode_default">Automatycznie</string>
     <string name="fiveg_network_mode_title">Wybierz tryb sieci 5G</string>
     <string name="fiveg_network_title">Sieci 5G</string>
+    <string name="fiveg_nrca_switch_summary">Popraw łączność 5G w warunkach testowych</string>
+    <string name="fiveg_nrca_switch_title">Agregacja sieci 5G</string>
     <string name="fiveg_sa_switch_open_dialog_content">Połączenie 5G może być niestabilne w trybie samodzielnym, co może mieć wpływ na usługi telefoniczne. Włączyć tryb samodzielny mimo to?</string>
     <string name="fiveg_sa_switch_open_dialog_title">Uwaga</string>
     <string name="fiveg_sa_switch_title">Użyj sieci SA</string>
     <string name="fiveg_sa_switch_warning_toast">Aby zastosować zmiany, uruchom ponownie urządzenie</string>
     <string name="fiveg_switch_title">Sieć 5G</string>
+    <string name="fiveg_vonr_switch_summary">Użyj VoNR w sieci 5G, aby poprawić jakość połączeń. Funkcja przeznaczona tylko do testów.</string>
+    <string name="fiveg_vonr_switch_title">Ustawienia VoNR</string>
+    <string name="force_edit_apn_summary">Gdy ta funkcja jest włączona, będzie można zobaczyć i zmienić ukryte punkty dostępu (APN). Funkcja jest przeznaczona tylko do testów.</string>
+    <string name="force_edit_apn_title">Wymuś edycję APN</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Tryb sieci</string>
     <string name="gsm_umts_network_preferences_title">Tryb sieci</string>
     <string name="intelligent_dual_sim_summary">Użyj danych mobilnych dodatkowej karty SIM, aby przyspieszyć prędkość połączenia</string>
@@ -70,6 +77,11 @@
     <string name="msim_setting_sms_pop_text">Wybierz podczas wysyłania wiadomości SMS</string>
     <string name="network_settings_title">Karty SIM i sieci mobilne</string>
     <string name="networks_title">Wybierz operatora</string>
+    <string name="nrca_need_reset">Aby zastosować zmiany, uruchom ponownie urządzenie</string>
+    <string name="nrca_registered">Zarejestrowany</string>
+    <string name="nrca_switch_title">Użyj agregacji 5G operatora</string>
+    <string name="nrca_type_title">Status agregacji operatora</string>
+    <string name="nrca_unregistered">Niezarejestrowany</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s obsługuje tylko 4G. Aby mieć pewność, że karta SIM działa prawidłowo, włączono tryb dual 4G.</string>
     <string name="other_settings_screen_title">Inne ustawienia</string>
     <string name="overseas_roaming_setting">Dane w roamingu</string>
@@ -122,6 +134,7 @@
     <string name="volte_switch_summary">Użyj VoLTE, aby poprawić jakość połączeń głosowych</string>
     <string name="volte_switch_summary2">Potwierdź, że twój operator obsługuje taką funkcję, przed jej włączeniem. W innym przypadku jakość zwykłych połączeń może się pogorszyć.</string>
     <string name="volte_switch_title">Użyj VoLTE</string>
+    <string name="vonr_switch_title">Użyj VoNR</string>
     <string name="wfcmode_ims_preferred">Preferowany IMS</string>
     <string name="wfcmode_mobile_preferred">Preferuj sieci komórkowe</string>
     <string name="wfcmode_wifi_only">Tylko Wi-Fi</string>

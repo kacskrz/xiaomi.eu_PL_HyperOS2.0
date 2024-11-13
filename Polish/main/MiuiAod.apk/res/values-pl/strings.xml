@@ -22,7 +22,7 @@ d.MM"</string>
     <string name="component_lunar">Chiński kalendarz</string>
     <string name="custom_image">Własny obraz</string>
     <string name="disable_aod_in_dark_room">Wyłącz, gdy telefon leży w ciemności</string>
-    <string name="format_month_day_style1">d MMMM</string>
+    <string name="format_month_day_style1">d MMM</string>
     <string name="format_month_day_style2">d.MM</string>
     <string name="format_month_day_week">EEEE, d MMMM</string>
     <string name="full_aod_not_support_reason_depth_video">Nie można ustawić stylu takiego jak Ekran blokady, gdy używasz efektu głębi wideo</string>

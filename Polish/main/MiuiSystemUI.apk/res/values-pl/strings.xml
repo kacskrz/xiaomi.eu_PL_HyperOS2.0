@@ -15,7 +15,7 @@
 Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje systemu w Ustawieniach > Opcje programisty > Optymalizacje systemu."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
     <string name="finger_error_single_mode">"Nie można użyć czytnika linii papilarnych w trybie Jedna dłoń. Wyjdź z tego trybu i spróbuj ponownie."</string>
-    <string name="format_month_day_style1">d MMMM</string>
+    <string name="format_month_day_style1">d MMM</string>
     <string name="format_month_day_style2">d.MM</string>
     <string name="format_month_day_week">EEEE, d MMMM</string>
     <string name="fs_gesture_final_see_more">Zobacz więcej demonstracji w Ustawieniach > Ekran główny > Nawigacja systemowa</string>
