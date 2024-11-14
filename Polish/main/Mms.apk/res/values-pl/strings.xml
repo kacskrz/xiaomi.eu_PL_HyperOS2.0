@@ -14,10 +14,14 @@ Spróbuj ponownie."</string>
     <string name="agree_and_open">Zgadzam się</string>
     <string name="ai_smart_message_content"><Data>Podsumowanie wiadomości za pomocą SI zależy od działania Inteligentnych wiadomości. Aby przejść dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
     <string name="ai_smart_message_titile">Włącz Inteligentne wiadomości</string>
+    <string name="ai_sum_internal_test_agree">Zgadzam się</string>
+    <string name="ai_sum_internal_test_content">Podsumowanie wiadomości za pomocą SI wykorzystuje możliwości dużego modelu do podsumowywania wiadomości i przekazania Ci z nich kluczowych informacji. Włączenie tej funkcji nieznacznie zwiększy zużycie energii.</string>
+    <string name="ai_sum_internal_test_disagree">Nie zgadzam się</string>
+    <string name="ai_sum_internal_test_title">Betatesty podsumowań wiadomości SI</string>
     <string name="ai_summary_description">SI podsumuje długie wiadomości, aby przekazać Ci z nich kluczowe informacje. Funkcja nieznacznie zwiększy zużycie energii.</string>
     <string name="ai_summary_dialog_content"><Data>"Podsumowanie wiadomości za pomocą SI przekazuje kluczowe informacje z długich wiadomości. Xiaomi musi uzyskać dostęp do treści wiadomości, aby dostarczać tę funkcję, lecz nie będzie przechowywać tej treści.&lt;br />&lt;br />Przed użyciem tej usługi przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika Podsumowania wiadomości SI&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności Podsumowania wiadomości SI&lt;/a>."</Data></string>
     <string name="ai_summary_dialog_title">Wymagane uprawnienia</string>
-    <string name="ai_summary_privacy_content">Gdy używasz podsumowania wiaomości SI, treść podsumowania (w tym prywatne dane) będzie przetwarzana przez Xiaomi, lecz Xiaomi nie będzie przechowywać tych danych.</string>
+    <string name="ai_summary_privacy_content">Gdy używasz podsumowania wiadomości SI, treść podsumowania (w tym prywatne dane) będzie przetwarzana przez Xiaomi, lecz Xiaomi nie będzie przechowywać tych danych.</string>
     <string name="ai_summary_privacy_tip"><Data>Aby zrozumieć, jak Xiaomi zarządza Twoimi danymi, przeczytaj &lt;a href=\"%1$s\">Politykę prywatności Podsumowania wiadomości SI&lt;/a>. Aby dowiedzieć się więcej, przeczytaj również &lt;a href=\"%2$s\">Umowę użytkownika Podsumowania wiadomości SI&lt;/a>.</Data></string>
     <string name="ai_summary_privacy_title">Stanowisko dot. prywatności</string>
     <string name="aim_show_card">Pokaż kartę</string>
