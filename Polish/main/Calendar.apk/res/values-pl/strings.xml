@@ -76,7 +76,7 @@
     <string name="premission_description_agree">Zezwól tej aplikacji na łączenie się z Internetem i przyznaj obowiązkowe uprawnienia wymienione powyżej.</string>
     <string name="repeat_alarm_close_title">To wydarzenie się powtarza. Wyłączyć przypomnienie alarmem?</string>
     <string name="repeat_alarm_open_title">To wydarzenie się powtarza. Ustawić przypomnienie alarmem?</string>
-    <string name="schedule_about_to_begin">Wydarzenie zaczyna się o %1$s</string>
+    <string name="schedule_about_to_begin">Start o %1$s</string>
     <string name="setting_chinese_calendar">Chiński kalendarz</string>
     <string name="setting_show_almanac_yiji">Pokaż informacje z chińskiego almanachu (tylko kalendarz chiński)</string>
     <string name="setting_show_extend_month">Rozszerzony widok miesiąca</string>
