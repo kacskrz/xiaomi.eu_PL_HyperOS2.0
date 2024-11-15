@@ -80,6 +80,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="host_verify_lock_retry">Potwierdź blokadę ekranu</string>
     <string name="host_verify_lock_summary">"Będzie to Twoja nowa blokada ekranu"</string>
     <string name="host_verify_lock_title">"Wprowadź starą blokadę ekranu"</string>
+    <string name="host_verify_lock_waiting">Weryfikowanie…</string>
     <string name="hsa_input_tip">Twoje Apple ID używa uwierzytelniania dwuskładnikowego. Wpisz kod weryfikacyjny.</string>
     <string name="hsa_tip_message_shutdown_hsa">Jak wyłączyć uwierzytelnianie dwuskładnikowe</string>
     <string name="hsa_verify_failed">"Nie udało się uwierzytelnić"</string>
@@ -217,6 +218,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="provision_set_old_pad">Importuj ze staregu urządzenia</string>
     <string name="provision_skip_underline">Pomiń</string>
     <string name="receiver">Otrzymaj</string>
+    <string name="receiver_finish_detail">Prześlij elementy</string>
     <string name="receiver_finish_detail_success">Przeniesione elementy</string>
     <string name="receiver_finish_title">"Gotowe!"</string>
     <string name="receiver_video_summary">Odblokuj stare urządzenie, dotknij opcji \"Wyślij\" i zeskanuj ten obrazek</string>
@@ -295,7 +297,7 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="tips_subtitle">Zanim przejdziesz dalej, przeczytaj i zaakceptuj poniższe ostrzeżenia.</string>
     <string name="title_compatibility_mode">Włącz tryb Kompatybilności aplikacji</string>
     <string name="title_request_write_settings_perm">Zezwól na zmienianie ustawień systemu</string>
-    <string name="trans_apple">"Połącz się z iPhone'em"</string>
+    <string name="trans_apple">"Połącz się z urządzeniem Apple"</string>
     <string name="trans_apple_button_cancel">Anuluj przesyłanie</string>
     <string name="trans_apple_button_cancel_hint">Anulować przesyłanie?</string>
     <string name="trans_apple_button_cancel_negative">"Nie"</string>
@@ -303,9 +305,9 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="trans_apple_button_reconnect">Połącz ponownie</string>
     <string name="trans_apple_hint">"Nie opuszczaj tej strony ani nie używaj Wi-Fi, dopóki przenoszenie nie zostanie zakończone."</string>
     <string name="trans_apple_hint_china">Nie opuszczaj tej strony i nie korzystaj z Wi-Fi, dopóki transfer się nie zakończy.</string>
-    <string name="trans_apple_hint_1_content">"Pobierz Przenoszenie danych ze sklepu App Store lub zeskanuj ten kod QR za pomocą aplikacji Aparat w Twoim iPhonie."</string>
+    <string name="trans_apple_hint_1_content">"Pobierz Przenoszenie danych ze sklepu App Store lub zeskanuj ten kod QR za pomocą aplikacji Aparat w Twoim urządzeniu Apple."</string>
     <string name="trans_apple_hint_1_title">%d. Zainstaluj Przenoszenie danych</string>
-    <string name="trans_apple_hint_2_content">Otwórz Przenoszenie danych na Twoim iPhonie, wybierz opcję \"Dotknij, aby przesłać elementy\" i zeskanuj kod QR.</string>
+    <string name="trans_apple_hint_2_content">Otwórz Przenoszenie danych na Twoim urządzeniu Apple, wybierz opcję \"Dotknij, aby przesłać elementy\" i zeskanuj kod QR.</string>
     <string name="trans_apple_hint_2_title">%d. Połącz urządzenia</string>
     <string name="trans_apple_interrupt_sub">Dotknij opcji poniżej, aby połączyć się ponownie.</string>
     <string name="trans_apple_interrupt_title">Przesyłanie przerwane</string>
@@ -315,8 +317,7 @@ Pobierz i zainstaluj Przenoszenie danych."</string>
 2. Pobierz i zainstaluj Przenoszenie danych.
 3. Dotknij przycisk poniżej, gdy instalacja się zakończy."</string>
     <string name="trans_show_qr_code_label_for_pad">Otwórz Przenoszenie danych na starym urządzeniu</string>
-    <string name="trans_sync_transfer_data_list_apple">"Wybierz elementy do przeniesienia
-na swoim iPhonie"</string>
+    <string name="trans_sync_transfer_data_list_apple">"Wybierz elementy do przeniesienia na swoim urządzeniu Apple"</string>
     <string name="transfer_bottom_tip">"Nie będziesz w stanie używać Wi-Fi lub Bluetooth w trakcie przenoszenia. Nie opuszczaj tej strony."</string>
     <string name="transfer_finish_bottom_tip">"Jeśli nie zamierzasz już używać starego urządzenia, możesz wymazać wszystkie dane na nim po potwierdzeniu, że wszystkie najważniejsze elementy zostały pomyślnie przeniesione."</string>
     <string name="transfer_long_pause_in_progress">Przesyłanie…</string>
