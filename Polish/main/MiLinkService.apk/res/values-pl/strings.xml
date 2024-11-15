@@ -64,7 +64,9 @@ aby udostępnić ekran"</string>
     <string name="connect_settings_connection_service">Interakcja urządzeń Xiaomi</string>
     <string name="connect_settings_corp_network">Asystent sieci</string>
     <string name="connect_settings_privacy_policy">Polityka prywatności</string>
+    <string name="connect_settings_share_file">Dostęp do plików</string>
     <string name="connect_settings_summary_corp_phone">Odbieraj połączenia na tabletach lub komputerach w pobliżu zalogowanych na Twoje konto Xiaomi</string>
+    <string name="connect_settings_summary_share_file">Uzyskuj dostęp do lokalnych plików z pobliskich komputerów</string>
     <string name="connect_settings_user_agreement">Umowa użytkownika</string>
     <string name="controller_auth_cancel">Anuluj</string>
     <string name="controller_auth_title">Zweryfikuj pilot</string>

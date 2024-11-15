@@ -20,6 +20,11 @@ Pozostało prób: %d."</item>
         <item quantity="few">Masz mniej niż %1$s baterii. Wyłączanie połączenia z satelitą Tiantong za %2$d sekundy.</item>
         <item quantity="one">Masz mniej niż %1$s baterii. Wyłączanie połączenia z satelitą Tiantong za %2$d sekundę.</item>
     </plurals>
+    <plurals name="satellite_pa_megathermal_turn_off_message">
+        <item quantity="other">Urządzenie jest przegrzane. Komunikacja z satelitą zostanie wyłączona za %d sekund.</item>
+        <item quantity="few">Urządzenie jest przegrzane. Komunikacja z satelitą zostanie wyłączona za %d sekundy.</item>
+        <item quantity="one">Urządzenie jest przegrzane. Komunikacja z satelitą zostanie wyłączona za %d sekundę.</item>
+    </plurals>
     <plurals name="satellite_privacy_withdrawal_dialog_disable_negative">
         <item quantity="other">Anuluj usługi (%d s)</item>
         <item quantity="one">Anuluj usługi (%d s)</item>

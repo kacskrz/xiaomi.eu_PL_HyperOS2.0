@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="aon_music_double_press_support_scene_des">Odtwórz lub zatrzymaj muzykę</string>
+    <string name="aon_music_left_right_support_scene_des">Przejdź do poprzedniego lub następnego utworu</string>
+    <string name="aon_music_up_down_support_scene_des">Zmień głośność multimediów</string>
+    <string name="aon_office_up_down_support_scene_des">Przejdź do poprzedniej lub następnej strony prezentacji/dokumentu</string>
+    <string name="aon_reader_support_scene_des">Przejdź do poprzedniej lub następnej strony książki</string>
+    <string name="aon_short_video_up_down_support_scene_des">Przełącz na poprzednie lub następne wideo</string>
+    <string name="aon_video_double_press_support_scene_des">Odtwórz lub zatrzymaj wideo</string>
+    <string name="aon_video_left_right_support_scene_des">Zmień postęp wideo podczas oglądania w trybie poziomym</string>
+    <string name="aon_video_up_down_support_scene_des">Zmień głośność wideo</string>
     <string name="autofill_save_sub_message">Możesz zarządzać swoimi hasłami w Ustawieniach > Odciski palca, dane twarzy i blokada ekranu > %s.</string>
     <string name="back_double_tap">Dwukrotne dotknięcie z tyłu</string>
     <string name="back_tap">Dotknięcie z tyłu</string>

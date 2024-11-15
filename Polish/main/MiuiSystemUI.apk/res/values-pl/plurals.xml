@@ -10,4 +10,9 @@
         <item quantity="few">Przebyto do teraz: %1$s kroki</item>
         <item quantity="one">Przebyto do teraz: %1$s krok</item>
     </plurals>
+    <plurals name="high_temperature_message">
+        <item quantity="other">Urządzenie jest przegrzane. Tryb wielu okien wyłączy się za %d sekund.</item>
+        <item quantity="few">Urządzenie jest przegrzane. Tryb wielu okien wyłączy się za %d sekundy.</item>
+        <item quantity="one">Urządzenie jest przegrzane. Tryb wielu okien wyłączy się za %d sekundę.</item>
+    </plurals>
 </resources>

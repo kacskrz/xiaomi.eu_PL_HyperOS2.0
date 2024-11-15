@@ -544,6 +544,8 @@ Dodaj widżety, aby rozpocząć."</string>
     <string name="pa_vertical_left">Układ pionowy. Wyrównanie do lewej.</string>
     <string name="pa_vertical_right">Układ pionowy. Wyrównanie do prawej.</string>
     <string name="pa_widget_advert_loading_dialog_message">Chwileczkę…</string>
+    <string name="pa_widget_edit_calendar_switch_closed_toast">Nie zobaczysz nadchodzących wydarzeń na widżecie</string>
+    <string name="pa_widget_edit_calendar_switch_opened_toast">Zobaczysz nadchodzące wydarzenia na widżecie</string>
     <string name="pa_widget_menu_edit">Edytuj</string>
     <string name="pa_widget_menu_edit_card_in_stack">Edytuj \"%s\"</string>
     <string name="pa_widget_menu_edit_stack">Edytuj grupę</string>

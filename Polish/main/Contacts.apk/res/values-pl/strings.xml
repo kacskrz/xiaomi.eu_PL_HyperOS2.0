@@ -4,6 +4,7 @@
     <string name="account_default">Telefon</string>
     <string name="account_phone">Tylko telefon, niesynchronizowany</string>
     <string name="bind_simcard_no_dual">"Nie znaleziono drugiej karty SIM"</string>
+    <string name="bluetooth_chat">Komunikacja między urządzeniami</string>
     <string name="call_limit_content">"Nie udało się zadzwonić do „%s”. Możesz dzwonić tylko na numery telefonów znajdujące się na Twojej liście zatwierdzonych kontaktów."</string>
     <string name="call_sim_menu_title_suffix">(Główna)</string>
     <string name="callrecordview_item_op_time_missed">" nie połączono"</string>

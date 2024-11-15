@@ -55,6 +55,11 @@
         <item>Interakcja urządzeń Xiaomi/Schowek</item>
         <item>Schowek</item>
     </string-array>
+    <string-array name="settings_search_share_file">
+        <item>Dostęp do plików na różnych urządzeniach</item>
+        <item>Łączność między urządzeniami/Dostęp do plików</item>
+        <item>Dostęp do plików na różnych urządzeniach, dostęp do plików, dystrybucja plików, dysk sieciowy</item>
+    </string-array>
     <string-array name="settings_search_share_notify">
         <item>Powiadomienia z wielu urządzeń</item>
         <item>Interakcja urządzeń Xiaomi/Powiadomienia</item>

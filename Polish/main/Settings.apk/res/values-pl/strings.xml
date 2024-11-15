@@ -18,6 +18,7 @@
     <string name="activity_title_root_note">O dostępie do roota</string>
     <string name="add_broadsize_fingerprint_instruction_msg">Czytnik znajduje się na prawej krawędzi urządzenia</string>
     <string name="add_fingerprint_instruction_msg">Dotknij czytnika linii papilarnych w przycisku pod ekranem.</string>
+    <string name="advanced_screen_paper_mode_title_new">Komfort oczu</string>
     <string name="after_sale_service">Usługi posprzedażowe</string>
     <string name="agree_btn">Zgadzam się</string>
     <string name="agree_scanner_app_use">Skanuj kody QR i rozpoznawaj obrazy. Niektóre funkcje muszą mieć dostęp do lokalizacji, aparatu czy robienia zrzutów ekranu.</string>
@@ -73,6 +74,7 @@
     <string name="auto_disable_screenbuttons_rotation_title">Zablokuj w poziomie</string>
     <string name="auto_silent_info">Jeśli włączysz tryb Nie przeszkadzać ręcznie, ta funkcja przestanie działać</string>
     <string name="back_double_tap">Dwukrotne dotknięcie z tyłu</string>
+    <string name="back_strap_image_simplified_text">Gdy urządzenie jest zwrócone ekranem do dołu i jest on wyłączony, lampa błyskowa będzie informować o nowych powiadomieniach</string>
     <string name="back_strap_image_text">Gdy urządzenie leży ekranem do dołu i jest on wyłączony, dioda będzie wyświetlać przypomnienia o powiadomieniach i efekty oświetleniowe w różnych sytuacjach</string>
     <string name="back_strap_status_close">Wył.</string>
     <string name="back_strap_status_open">Wł.</string>
@@ -258,6 +260,9 @@ patrząc na zewnętrzny ekran"</string>
     <string name="firewall_restrict_all">Ogranicz łączność dla wszystkich aplikacji z użyciem tych metod</string>
     <string name="flash_notifications_title">Powiadomienia błyskowe</string>
     <string name="focus_title">Skupienie powiadomień</string>
+    <string name="font_preview_text_content">"Przykładowy tekst:
+
+Xiaomi nieustannie tworzy niesamowite produkty w uczciwych cenach, aby pozwolić każdemu na świecie cieszyć się lepszym życiem dzięki innowacyjnej technologii."</string>
     <string name="font_setting_weight_toast">"Obecna czcionka nie wspiera zmiany jej grubości"</string>
     <string name="forbidden_set_unlock_password_msg">Nie można obecnie ustawić bądź zmienić hasła, ponieważ włączono Tryb naprawy.</string>
     <string name="forget_password_dialog_content_four">2. Pojawi się prośba o wpisanie hasła ekranu blokady. Dotknij strzałki na dole ekranu, potem wybierz [Wipe] i przesuń suwak na dole, a następnie kliknij przycisk [Reboot System].</string>
@@ -478,6 +483,10 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="permit_full_screen_intent">Zezwól na powiadomienia pełnoekranowe z tej aplikacji</string>
     <string name="phone_backup_title">Telefon</string>
     <string name="photography_handle_button_function_settings">Ustaw przycisk uchwytu</string>
+    <string name="photography_handle_charge_settings">Ustawienia ładowania</string>
+    <string name="photography_handle_function_settings">Ustawienia uchwytu aparatu</string>
+    <string name="photography_handle_sn">Numer seryjny</string>
+    <string name="photography_handle_update_and_maintain">Aktualizacje</string>
     <string name="picture_in_picture_app_detail_switch">Pozwól na tryb obraz w obrazie</string>
     <string name="picture_in_picture_app_detail_title">Obraz w obrazie</string>
     <string name="picture_in_picture_empty_text">Żadna zainstalowana aplikacja nie obsługuje trybu obrazu w obrazie</string>
@@ -511,6 +520,7 @@ Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządz
     <string name="recent_apps_label">Ostatnie aplikacje</string>
     <string name="requires_modern_control_center">Działa wyłącznie z nowym wyglądem Centrum funkcji</string>
     <string name="right_hearing_aid">Prawy aparat słuchowy</string>
+    <string name="satellite_management_title">Sieć satelitarna</string>
     <string name="scanner_app_name">Skaner</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Część aplikacji w ramach Ciemnego motywu może być niepoprawnie wyświetlana. Możesz ograniczyć tutaj korzystanie z Ciemnego motywu dla poszczególnych aplikacji.</string>
     <string name="screen_dark_mode_smart_dark_title">Globalny ciemny motyw</string>
@@ -621,6 +631,8 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="tap_to_sign_up">Dotknij, aby się zarejestrować</string>
     <string name="tether_limit_value_custom">Własny</string>
     <string name="tether_use_wifi6_title">Wsparcie standardu Wi-Fi 6</string>
+    <string name="text_layout_optimization_switch_label">Zoptymalizuj układ tekstu</string>
+    <string name="text_layout_optimization_switch_toast">Nie można zoptymalizować układu tekstu z obecną czcionką</string>
     <string name="title_device_control">Kontrolki urządzeń smart home</string>
     <string name="title_layout_current2_weight">Rozmiar i grubość czcionki</string>
     <string name="touch_sensitive_turn_off_summary">Wyłączyć także funkcję przypadkowego użycia telefonu w kieszeni?</string>

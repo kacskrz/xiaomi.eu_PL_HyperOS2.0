@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="advanced_mode">Zaawansowane ustawienia</string>
+    <string name="advanced_paper_mode_title">Komfort oczu</string>
     <string name="africa_introduction">"Dzika przyroda kwitnie w Afryce - to dom dla wielu najsłynniejszych zwierząt na świecie."</string>
     <string name="african_bush_elephant">Afrykański słoń buszu</string>
     <string name="africans_white_backed_vulture">Sęp afrykański</string>

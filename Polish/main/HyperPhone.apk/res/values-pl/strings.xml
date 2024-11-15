@@ -49,6 +49,10 @@
     <string name="fiveg_switch_title">Sieć 5G</string>
     <string name="fiveg_vonr_switch_summary">Użyj VoNR w sieci 5G, aby poprawić jakość połączeń. Funkcja przeznaczona tylko do testów.</string>
     <string name="fiveg_vonr_switch_title">Ustawienia VoNR</string>
+    <string name="fivega_dialog_cancel">Anuluj</string>
+    <string name="fivega_dialog_summary">Włączenie tej funkcji może spowodować problemy z kompatybilnością sieci. Włączyć mimo to?</string>
+    <string name="fivega_feature_dialog_ok">Włącz</string>
+    <string name="fivega_protocol_dialog_ok">Przełącz</string>
     <string name="force_edit_apn_summary">Gdy ta funkcja jest włączona, będzie można zobaczyć i zmienić ukryte punkty dostępu (APN). Funkcja jest przeznaczona tylko do testów.</string>
     <string name="force_edit_apn_title">Wymuś edycję APN</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Tryb sieci</string>

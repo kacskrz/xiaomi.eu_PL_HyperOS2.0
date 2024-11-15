@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%1$d aplikacji, w tym %2$s</item>
-        <item quantity="few">%1$d aplikacje, w tym %2$s</item>
-        <item quantity="one">%1$d aplikacja (%2$s)</item>
+        <item quantity="other">%2$d aplikacji, w tym %1$s</item>
+        <item quantity="few">%2$d aplikacje, w tym %1$s</item>
+        <item quantity="one">%2$d aplikacja (%1$s)</item>
     </plurals>
     <plurals name="notification_frequency_summary">
         <item quantity="other">Około %d razy dziennie</item>

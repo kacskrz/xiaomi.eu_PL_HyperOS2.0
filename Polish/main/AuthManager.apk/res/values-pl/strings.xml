@@ -98,6 +98,7 @@
     <string name="permdesc_location_background">Zezwolić %1$s na dostęp do lokalizacji w tle?</string>
     <string name="permdesc_microphone">Zezwolić %1$s na nagrywanie dźwięku?</string>
     <string name="permdesc_nearby_devices">Zezwolić %1$s na poszukiwanie i łączenie się z urządzeniami w pobliżu?</string>
+    <string name="permdesc_nearby_wifi_devices">Zezwól tej aplikacji na łączenie się z urządzeniami w pobliżu przez Wi-Fi, nadawanie do nich transmisji i określanie ich względnej lokalizacji.</string>
     <string name="permdesc_process_outgoing_call">Zezwolić %1$s na odbieranie i kończenie połączeń?</string>
     <string name="permdesc_read_calendar">Zezwolić %1$s na dostęp i edycję wydarzeń z Kalendarza?</string>
     <string name="permdesc_read_call_log">Zezwolić %1$s na dostęp do historii połączeń?</string>
