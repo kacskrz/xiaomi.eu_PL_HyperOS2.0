@@ -12,6 +12,7 @@
     <string name="desk_calendar">Bogaty kalendarz biurkowy</string>
     <string name="desk_calendar_apply_button_apply">Zastosowano</string>
     <string name="desk_calendar_apply_button_apply_now">Zastosuj</string>
+    <string name="desk_calendar_store_title">Wybierz motyw</string>
     <string name="desk_calendar_view">Kalendarz biurkowy</string>
     <string name="desk_image_cannot_slip_hint">Na razie to wszystko</string>
     <string name="desk_image_load_fail">Nie udało się załadować obrazu</string>
