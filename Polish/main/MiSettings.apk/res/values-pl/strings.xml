@@ -10,7 +10,9 @@
     <string name="animal_branch">Rodzina</string>
     <string name="animal_class">Gromada</string>
     <string name="animal_item">Rząd</string>
+    <string name="anti_flicker_mode_new_data">Uniwersalne przyciemnianie DC</string>
     <string name="anti_flicker_mode_summary_new">Używaj Redukcji migotania przy słabym świetle, aby oczy były mniej zmęczone</string>
+    <string name="anti_flicker_mode_summary_new_data">Aby zmniejszyć zmęczenie oczu, ustaw najwyższą jasność ekranu</string>
     <string name="app_cta_desc">"Witamy w Ustawieniach! Na potrzeby świadczenia usług Xiaomi musi gromadzić informacje o sposobie korzystania z urządzenia przez użytkownika, w tym o liczbie odblokowań ekranu, nazwie poszczególnych aplikacji i okresie ich używania, liczbie wybudzeń ekranu, okresie korzystania z trybu skupienia, okresie patrzenia na ekran i okresie korzystania z urządzenia w pozycji leżącej, przy słabym oświetleniu i z bliskiej odległości. Te dane będą wykorzystywane wyłącznie na Twoim urządzeniu.
 "</string>
     <string name="app_sunday">Ndz.</string>
@@ -233,9 +235,12 @@ nie są tworzone w Drugiej przestrzeni"</string>
     <string name="nazca_booby">Głuptak galapagoski</string>
     <string name="nine_banded_armadillo">Pancerniki</string>
     <string name="no_sound_summary">Brak</string>
+    <string name="normal_mode_new_data">Przyciemnianie PWM (wysoka częstotliwość)</string>
     <string name="normal_mode_summary_new">Zezwalaj na migotanie w słabych warunkach oświetleniowych</string>
+    <string name="normal_mode_summary_new_data">Aby zmniejszyć zmęczenie oczu, ustaw niską jasność ekranu</string>
     <string name="north_white_rhinoceros">Nosorożec biały</string>
     <string name="norway_lemmings">Lemingi norweskie</string>
+    <string name="not_allowed_for_child">Ta funkcja nie jest dostępna dla nieletnich</string>
     <string name="olive_baboon">Pawian oliwkowy</string>
     <string name="orange_winged_amazon">Amazonka modrobrewa</string>
     <string name="orca">Orka oceaniczna</string>
