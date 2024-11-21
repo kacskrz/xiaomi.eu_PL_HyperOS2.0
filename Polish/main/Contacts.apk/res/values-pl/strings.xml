@@ -7,6 +7,8 @@
     <string name="bluetooth_chat">Komunikacja między urządzeniami</string>
     <string name="call_limit_content">"Nie udało się zadzwonić do „%s”. Możesz dzwonić tylko na numery telefonów znajdujące się na Twojej liście zatwierdzonych kontaktów."</string>
     <string name="call_sim_menu_title_suffix">(Główna)</string>
+    <string name="callrecordview_item_op_time_ai_call">Asystent połączeń SI</string>
+    <string name="callrecordview_menu_ai">Asystent połączeń SI</string>
     <string name="callrecordview_item_op_time_missed">" nie połączono"</string>
     <string name="callrecordview_item_op_time_rejected"> odrzucone</string>
     <string name="cancel_import_confirmation_message">Anulować wczytywanie: %s?</string>
