@@ -18,6 +18,7 @@
     <string name="aqi_24_hours_desc">24-godzinna prognoza IJP</string>
     <string name="aqi_48_hours_desc">48-godzinna prognoza IJP</string>
     <string name="aqi_5_days_desc">5-dniowa prognoza IJP</string>
+    <string name="aqi_alert_channel_name">Alerty IJP</string>
     <string name="aqi_detail_24_hours">Najbliższa doba</string>
     <string name="aqi_detail_5_days">5 dni</string>
     <string name="aqi_detail_co_unit">Jednostka: mg/m³</string>
