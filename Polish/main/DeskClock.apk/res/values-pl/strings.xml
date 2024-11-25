@@ -4,7 +4,7 @@
     <string name="alarm_ascending_mode_title">Stopniowo zwiększaj głośność</string>
     <string name="alarm_clock_more_setting">Edytuj</string>
     <string name="alarm_notify_snooze_label">Drzemka do %s</string>
-    <string name="all_alarm_close">Alarmy są wyłączone</string>
+    <string name="all_alarm_close">Budziki są wyłączone</string>
     <string name="bedtime_setting_no_disturbance">Włączyć tryb Nie przeszkadzać podczas snu?</string>
     <string name="clock_tab_name">Zegar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
