@@ -24,34 +24,23 @@
     <string name="congratulation_label">MIUIPolska.pl​</string>
     <string name="cookies_content_one">"Kiedy dotkniesz obrazków i wspomnień zgromadzonych w Tapetach Blokady, ich pełne wersje zostaną otwarte w Twojej przeglądarce. Firma trzecia, która dostarcza treści, czyli Taboola, może wtedy polecać dodatkowe treści i reklamy dopasowane do Twoich zainteresowań. Jeśli wyrazisz zgodę na aktywację tej funkcji, Taboola umieści pliki cookie na Twoim urządzeniu za pośrednictwem przeglądarki zgodnie z &lt;a href =%1$s>Polityką plików cookie&lt;/a>. Jeśli jednak tej zgody nie udzielisz, Tapety Blokady nadal będą pojawiać się na Twoim ekranie blokady, zaś pełne wspomnienia wciąż będą otwierane w Twojej przeglądarce, lecz dodatkowe rekomendacje nie będą już dopasowane w oparciu o Twoje zainteresowania. Możesz zmienić te preferencje w Ustawieniach w dowolnym momencie."</string>
     <string name="fast_pairing_introduction">Funkcja Mi Link pozwala na szybkie łączenie się z urządzeniami Bluetooth.</string>
-    <string name="font_size_title">Rozmiar tekstu</string>
     <string name="framework_introduction">Framework usług Xiaomi to podstawowa usługa systemowa, która dostarcza powiadomienia push, ochronę przed zagrożeniami, statystyki i możliwości analityki. Aby dostarczać te usługi, Xiaomi musi gromadzić i przetwarzać odpowiednie dane osobowe. W trakcie wykonywaia tych czynności Xiaomi będzie działać zgodnie z odpowiednimi przepisami i regulacjami.</string>
     <string name="framwork_base_service">"Aby dostarczać powiadomienia push, konieczne jest gromadzenie identyfikatorów urządzenia (OAID i zaszyfrowany ID Androida), informacji o aplikacjach używających usługi push (np. nazwy pakietu aplikacji, wersji i statusu uruchomienia), producenta urządzenia, jego modelu, pamięci, wersji systemu, regionu, nazwy operatora karty SIM, obecnego typu sieci i stanu sieci Wi-Fi. Możesz zmienić sposób otrzymywania powiadomień push w Ustawieniach; będziemy dostarczać je na podstawie Twoich preferencji, zatem gromadzić będziemy również te preferencje (np. w kwestii blokowania powiadomień czy ich pojawiania się na ekranie blokady).
   W celu ochrony przed zagrożeniami, statystyk i przetwarzania analitycznego, potrzebne jest uprawnienie dostępu do sieci oraz dostęp do lokalizacji, IMEI/IMSI urządzenia, identyfikatorów urządzenia (OAID, adresu MAC, zaszyfrowanego ID Androida), producenta urządzenia, jego modelu, pamięci, wersji systemu, regionu i obecnej sieci Wi-Fi. Powyższe dane będą gromadzone raz dziennie przez cały czas korzystania z urządzenia."</string>
     <string name="get_imei_information">Dostęp do IMEI</string>
     <string name="google_service_introduction">Aby móc działać normalnie, sklep Google Play wymaga połączenia z Internetem, a także dostępu do Twojej lokalizacji, możliwości wysyłania SMS-ów i MMS-ów, nagrywania dźwięku, wykonywania połączeń, dostępu do wydarzeń z kalendarza, historii rozmów, sensorów, pamięci, aparatu, informacji o urządzeniu oraz kontach. </string>
     <string name="home_settings_title">Wybierz układ pulpitu</string>
-    <string name="image_brain_configuration_service">Usługa konfiguracji Xiaomi Imaging Engine</string>
     <string name="interconnection_service_global_item_title">Interakcja urządzeń Xiaomi</string>
     <string name="interconnection_service_global_label">"&lt;Data>Interakcja urządzeń Xiaomi umożliwia bezprzewodową integrację Twoich urządzeń. Włączając ten przełącznik, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności&lt;/a > tej usługi.&lt;/Data>"</string>
     <string name="interconnection_service_permission1">Włączanie i wyłączanie Bluetooth</string>
-    <string name="interconnection_service_permission10">W celu odnajdywania urządzeń w pobliżu</string>
     <string name="interconnection_service_permission11">Przesyłanie danych między urządzeniami</string>
-    <string name="interconnection_service_permission12">W celu przesyłania danych między połączonymi urządzeniami</string>
     <string name="interconnection_service_permission13">Dostęp do zawartości ekranu</string>
-    <string name="interconnection_service_permission14">W celu uzyskiwania zawartości ekranu podczas nagrywania lub projekcji, w tym wrażliwe dane takie jak dźwięk, hasła (w tym do płatności), zdjęcia, wiadomości itd.</string>
     <string name="interconnection_service_permission15">Dostęp do historii połączeń</string>
-    <string name="interconnection_service_permission16">W celu przekazywania połączeń między urządzeniami podczas projekcji ekranu</string>
     <string name="interconnection_service_permission17">Dostęp do listy zainstalowanych aplikacji</string>
-    <string name="interconnection_service_permission18">W celu uzyskiwania listy aplikacji zainstalowanych na urządzeniu mobilnym i klonowania ekranu na komputerach</string>
-    <string name="interconnection_service_permission2">W celu łączenia i przesyłania danych między dwoma urządzeniami</string>
     <string name="interconnection_service_permission3">Włączanie i wyłączanie Wi-Fi</string>
-    <string name="interconnection_service_permission4">W celu przesyłania danych między dwoma urządzeniami przez Wi-Fi</string>
+    <string name="interconnection_service_permission4">Do przesyłania danych między dwoma urządzeniami przez Wi-Fi</string>
     <string name="interconnection_service_permission5">Nagrywanie dźwięku</string>
-    <string name="interconnection_service_permission6">W celu nagrywania dźwięku urządzenia podczas projekcji i klonowania ekranu</string>
     <string name="interconnection_service_permission7">Dostęp i edycja zdjęć i plików na urządzeniu</string>
-    <string name="interconnection_service_permission8">W celu projekcji i przesyłania treści z tego urządzenia</string>
-    <string name="interconnection_service_permission9">Dostęp do identyfikatora urządzenia</string>
     <string name="interconnection_service_summary_china">Usługi łączności między urządzeniami Xiaomi pozwalają na bezprzewodową interakcję urządzeń. %1$s Dostępne usługi łączności między urządzeniami mogą się różnić w zależności od Twojej wersji systemu i modelu urządzenia. Dowiedz się więcej na stronie %2$s.</string>
     <string name="interconnection_service_summary_china_fragment1">Są to Mi Smart Play, projekcja, handoff aplikacji, Pulpit+, współdzielony schowek, bezprzewodowy tethering (w tym synchronizacja sieci), kontrola innych urządzeń, współdzielony aparat oraz Mi Smart Hub. Usługi łączności między urządzeniami Xiaomi muszą łączyć się z Internetem i wymagają następujących uprawnień:</string>
     <string name="interconnection_service_summary_china_fragment10">W celu uzyskiwania informacji o urządzeniach w pobliżu</string>
@@ -119,16 +108,7 @@
     <string name="interconnection_service_title">Usługi łączności Xiaomi</string>
     <string name="item_facerecognition">Odblokowanie twarzą</string>
     <string name="item_lock_screen_password">Tylko hasło, PIN lub wzór</string>
-    <string name="kind_tip_details_inner_details">"Podczas korzystania z urządzenia lub przenoszenia go należy unikać naciskania ekranu ostrymi przedmiotami (końcówkami długopisów, paznokciami itp.). Przed złożeniem urządzenia upewnij się, że na ekranie wewnętrznym nie ma twardych przedmiotów, takich jak karty, monety lub klucze."</string>
-    <string name="kind_tip_details_inner_title">"Nie wywieraj nacisku na wewnętrzny ekran ostrymi lub twardymi rzeczami"</string>
-    <string name="kind_tip_details_pocket_details">"Złóż urządzenie, gdy go nie używasz. Unikaj kontaktu wewnętrznego ekranu ze wszelkimi ostrymi lub twardymi obiektami w Twojej torbie lub kieszeni."</string>
-    <string name="kind_tip_details_pocket_title">"Nie wkładaj rozłożonego urządzenia do torby czy kieszeni"</string>
-    <string name="kind_tip_details_protective_details_cn">"Wewnętrzny ekran tego urządzenia jest chroniony specjalną folią ochronną, której wymiana wymaga specjalistycznego sprzętu. Nie usuwaj bądź wymieniaj tej ochrony samodzielnie, ponieważ uszkodzenie ekranu w ten sposób nie jest objęte gwarancją. Jeśli musisz wymienić ochronę ekranu, skontaktuj się z obsługą klienta Xiaomi."</string>
-    <string name="kind_tip_details_protective_details_global">Wewnętrzny ekran tego urządzenia jest chroniony specjalną folią ochronną. Jej usuwanie bądź wymienianie może spowodować uszkodzenie tego ekranu.</string>
-    <string name="kind_tip_details_protective_title">"Nie usuwaj samodzielnie ochrony wewnętrznego ekranu"</string>
-    <string name="kind_tip_subtitle">To urządzenie posiada rozkładany ekran. Aby uniknąć jego uszkodzenia i mieć pewność, że działa on normalnie, postępuj zgodnie z naszymi wskazówkami.</string>
     <string name="layout_size_large">Duży</string>
-    <string name="layout_size_normal">Normalny</string>
     <string name="location_content">Zgodnie z prawem, operatorzy komórkowi mogą uzyskać informacje o lokalizacji urządzeń mobilnych, aby spełnić wymagania służb ratowniczych (straży pożarnej i policji), które realizują cele związane z bezpieczeństwem i ratownictwem.</string>
     <string name="location_introduction_qcom">Usługi lokalizacji wykorzystują pozycjonowanie do dostarczania usług specyficznych dla danej lokalizacji. Gdy są one wykorzystywane przez Twoje urządzenie, moduł QCC połączy się z siecią, aby przyspieszyć proces pozycjonowania.</string>
     <string name="location_location">Służby ratunkowe mogą uzyskiwać Twoją aktualną lokalizację na żądanie</string>
@@ -185,7 +165,6 @@
     <string name="privacy_policy">Polityka prywatności</string>
     <string name="prompt_fingerprint">Na Twoim koncie jest włączona zaawansowana ochrona danych. Ustaw blokadę ekranu na Twoim urządzeniu.</string>
     <string name="provide_date_management_service">Ta usługa umożliwia sprawdzenie daty i zarządzanie wydarzeniami.</string>
-    <string name="provision_complete_text">Kontynuuj</string>
     <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier to usługa zarządzająca procesami systemu.</string>
     <string name="read_application_info">Dostęp do informacji o aplikacji</string>
     <string name="read_sms_and_mms">Dostęp do SMS-ów i MMS-ów</string>
@@ -196,8 +175,6 @@
     <string name="require_statement">Aby dostarczać podstawowe usługi, potrzebujemy następujących uprawnień:</string>
     <string name="safe_open_service">Bezpieczne otwarte usługi</string>
     <string name="safe_open_service_introduction">Bezpieczne otwarte usługi pomagają deweloperom i dostarczają systemowe zabezpieczenia pod kątem bezpieczeństwa, aby chronić użytkowników i ich prywatność.</string>
-    <string name="sample_text_summary">Xiaomi nieustannie tworzy niesamowite produkty w uczciwych cenach, aby pozwolić każdemu na świecie cieszyć się lepszym życiem dzięki innowacyjnej technologii.</string>
-    <string name="sample_text_title">Przykładowy tekst:</string>
     <string name="service_name_MIUIDaemon">Systemowy daemon</string>
     <string name="service_name_authority">Menedżer uprawnień</string>
     <string name="service_name_lockscreen">Tapety Blokady</string>
@@ -219,13 +196,10 @@
     <string name="study_full_screen_gesture_text">Naucz się gestów nawigacji</string>
     <string name="system_update_statement">Aktualizacje systemu</string>
     <string name="system_update_title">Aktualizacje systemowe</string>
-    <string name="terms_and_statement_title">Warunki użytkowania</string>
     <string name="terms_of_use_label_app_vault">Asystent HyperOS</string>
     <string name="terms_of_use_label_htmlviewer">Przeglądarka HTML</string>
     <string name="terms_of_use_label_system_quality_monitoring">Monitoring jakości systemu</string>
     <string name="terms_of_use_label_use_location_and_network_global">"Przed skorzystaniem z systemu przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią i uzyskają Twoją lokalizację:"</string>
-    <string name="terms_of_use_label_use_network_china">"Przed skorzystaniem z systemu przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią:"</string>
-    <string name="terms_of_use_label_use_network_china_append">W trakcie aktywacji urządzenia następujące usługi będą się łączyć z siecią:</string>
     <string name="terms_of_use_lable_smart_cards">Karty asystenta</string>
     <string name="used_date_viewing">W celu sprawdzania daty</string>
     <string name="verify_application_security">W celu weryfikacji bezpieczeństwa aplikacji</string>

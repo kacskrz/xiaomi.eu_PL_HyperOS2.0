@@ -6,7 +6,6 @@
     <string name="calibrate_rotate_again">Spróbuj ponownie</string>
     <string name="call_recording_deny_permission_msg">"Nie można nagrywać rozmów. Nadaj uprawnienia w Ustawieniach."</string>
     <string name="call_recording_disclaimer_msg">"Przepisy jurysdykcji, w której znajdujesz się Ty bądź inni uczestnicy rozmowy, mogą wymagać zgody wszystkich stron na jej nagrywanie. Xiaomi nie będzie odpowiedzialne za nielegalne wykorzystanie tej funkcji. Nagrania połączeń są przechowywane tylko na Twoim urządzeniu; Xiaomi nie może uzyskać do nich dostępu."</string>
-    <string name="call_recording_disclaimer_title">Informacja</string>
     <string name="card_title_answering">Odbieranie</string>
     <string name="card_title_call_ended">"Zakończone "</string>
     <string name="description_image_button_message_enter">Odpowiedz z SMS</string>
@@ -118,7 +117,6 @@ Utrzymuj urządzenie w tym położeniu"</string>
     <string name="select_other_sim_card_dial">Użyj SIM %1$d</string>
     <string name="sim1_description">SIM 1</string>
     <string name="sim2_description">SIM 2</string>
-    <string name="start_call_record">Start</string>
     <string name="video_crbt_title">Odtwarzanie wideo profilowego…</string>
     <string name="volume_boost_text">Pomyślnie zwiększono głośność</string>
     <string name="wait_prompt_str">"Wysłać poniższe tony?

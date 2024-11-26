@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="act_find_city_location_button_text">Uzyskaj obecną lokalizację</string>
-    <string name="act_find_city_major_city_title">Popularne lokalizacje</string>
     <string name="act_find_city_no_location_text">Brak lokalizacji</string>
-    <string name="act_find_city_search_history_title">Historia wyszukiwania</string>
     <string name="act_location_error_to_find_city">Nie udało się ustalić lokalizacji. Dodaj miasto ręcznie.</string>
     <string name="activity_find_city_dialog_message">Zezwól Pogodzie na dostęp do lokalizacji urządzenia.</string>
     <string name="activity_find_city_dialog_message_global">Włącz opcje Dostęp do lokalizacji oraz Dokładność lokalizacji Google w Ustawieniach, aby móc zlokalizować poprawnie Twoje położenie w ramach automatycznej lokalizacji.</string>
@@ -40,16 +38,12 @@
     <string name="button_abandon">Porzuć zmiany</string>
     <string name="button_add_city">Dodaj miasto</string>
     <string name="button_confirm_to_revoke_permission">Wycofaj</string>
-    <string name="button_manage">Zarządzaj</string>
     <string name="button_not_allow">Anuluj</string>
     <string name="button_revoke_permission_fail">OK</string>
     <string name="button_settings_confirm_to_revoke_msg">Po wycofaniu zgody nie będzie można używać aplikacji Pogoda.</string>
     <string name="button_settings_confirm_to_revoke_title">Odmówić autoryzacji?</string>
     <string name="button_sure_abandon">Porzucić zmiany?</string>
     <string name="china_version_first_start_network_msg">"Musisz zgodzić się na %1$s oraz %2$s Xiaomi przed użyciem tej aplikacji. Oprócz tego Pogoda potrzebuje uprawnień do lokalizacji oraz łączenia się z Internetem. Zaakceptować?"</string>
-    <string name="city_exceeded_tips">Nie można dodać więcej lokalizacji. Usuń niektóre z nich, zanim dodasz nowe.</string>
-    <string name="city_exceeded_tips_title">Nie można dodać lokalizacji</string>
-    <string name="content_desc_activity_main_already_add_city">Dodane lokalizacje</string>
     <string name="content_desc_city_manage_edit">Edytuj</string>
     <string name="content_desc_feedback_weather_type_choose">Wybrano %1$s</string>
     <string name="daily_forcast_no_stable_direction">Bezwietrznie</string>

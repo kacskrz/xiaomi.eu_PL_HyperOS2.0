@@ -21,11 +21,9 @@
     <string name="e2ee_data_protection_tip">"Chmura Xiaomi oferuje Zaawansowaną ochronę danych. Ta funkcja używa szyfrowania end-to-end po to, aby Twoje dane były dostępne tylko na zaufanych urządzeniach. Nikt inny, w tym Xiaomi, nie może uzyskać dostępu do tych zaszyfrowanych danych. "</string>
     <string name="e2ee_device_delete_tip">Gdy usuniesz to urządzenie ze swojego konta Xiaomi, zostanie ono wylogowane. Nie będziesz w stanie korzystać z usług Chmury Xiaomi, wyszukiwania i innych funkcji powiązanych z tym kontem, dopóki nie zalogujesz się na nie ponownie.</string>
     <string name="e2ee_device_delete_warning_dialog_content">To urządzenie nie wspiera zaawansowanej ochrony danych, więc jeśli włączysz tę funkcję, nie uda się zalogować na Twoje konto. Aby zalogować się na to konto, zaktualizuj urządzenie do Xiaomi HyperOS 2.</string>
-    <string name="e2ee_device_delete_warning_dialog_title">Nie można się zalogować</string>
     <string name="e2ee_device_exit_tip">Wylogowano z %s</string>
     <string name="e2ee_device_verification_result_subtitle">Urządzenia wylogowane ze Twojego konta Xiaomi nie będą mogły korzystać ze Chmury Xiaomi i innych powiązanych z nią usług, dopóki nie zalogujesz się na nich ponownie.</string>
     <string name="e2ee_device_verification_result_title">Wylogowano wszystkie urządzenia</string>
-    <string name="e2ee_error_real_device">To środowisko nie jest bezpieczne. Spróbuj użyć innego urządzenia.</string>
     <string name="find_device_gdpr_prompt">Włączając Lokalizację urządzenia, zgadzasz się na warunki <u><a href="app://com.miui.cloudservice.gdpr.license">Polityki prywatności</a></u> Xiaomi.</string>
     <string name="find_permission_phone_title">Dostęp do informacji o urządzeniu</string>
     <string name="find_permission_sms_title">Wysyłanie SMS-ów</string>
@@ -72,10 +70,6 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="recommend_service_cloudservice_description">Synchronizuj dane aplikacji systemowych i wykonuj kopię ustawień, pulpitu i innych rzeczy</string>
     <string name="recommend_service_sharelocation_description">Lokalizuj urządzenia, blokuj je i wymaż z nich dane</string>
     <string name="recommend_service_title">Polecane usługi</string>
-    <string name="request_os_permissions_dialog_message">Chmura Xiaomi potrzebuje pozwolenia na dostęp do elementów przechowywanych na urządzeniu, aby rozpoznać niezsynchronizowane elementy i ich liczbę. Udzielić tego pozwolenia?</string>
-    <string name="request_os_permissions_dialog_neg_button">Nie zgadzam się</string>
-    <string name="request_os_permissions_dialog_pos_button">Zgadzam się</string>
-    <string name="request_os_permissions_dialog_title">Wymagane uprawnienia</string>
     <string name="soundrecorder_sync_only_in_wifi_china">Synchronizuj tylko przez Wi-Fi</string>
     <string name="soundrecorder_sync_only_in_wifi_summary_china">Synchronizuj nagrania tylko w sieci Wi-Fi</string>
     <string name="storage_upgrade_card_title">Ulepsz</string>
@@ -83,9 +77,6 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="sub_sync_item_sms_title_wifi_only">Synchronizuj MMS-y tylko przez Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Synchronizuj SMS-y tylko przez Wi-Fi</string>
     <string name="trying_to_connect_to_network">Łączenie z siecią…</string>
-    <string name="unknown">Nieznane</string>
-    <string name="verify_camera_google_permission_message">Chmura Xiaomi wymaga dostępu do aparatu, aby zeskanować Twój klucz bezpieczeństwa. Możesz udzielić tego pozwolenia w Ustawieniach.</string>
-    <string name="verify_camera_google_permission_positive_button">OK</string>
     <string name="verify_dialog_open_lockscreen">Na innym urządzeniu włączono Zaawansowaną ochronę danych. Ustaw blokadę ekranu na tym urządzeniu, aby uzyskać dostęp do danych przechowywanych w Chmurze Xiaomi.</string>
     <string name="verify_notification_title">Włączono szyfrowanie end-to-end na innym urządzeniu</string>
     <string name="verify_scan_point_notice_view">Dotknij środka, aby wyostrzyć</string>

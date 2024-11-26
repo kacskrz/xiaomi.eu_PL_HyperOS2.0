@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ai_services_network_error_message">"Nie udało się połączyć z siecią.
-Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
-    <string name="ai_services_title">Usługi SI</string>
     <string name="instruction">Informacje dot. bezpieczeństwa</string>
     <string name="pre_installed_apps">Preinstalowane aplikacje</string>
 </resources>

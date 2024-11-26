@@ -166,7 +166,6 @@
     <string name="apps_item_sms_title">Zmiana domyślnej aplikacji do SMS-ów</string>
     <string name="apps_item_summary_sms">Teraz Twoimi SMS-ami zarządza aplikacja %s. Użyj bardziej bezpiecznej i stabilnej systemowej aplikacji.</string>
     <string name="apps_list_header_title_sms">Aplikacja SMS</string>
-    <string name="audio_optimization_summary_v2">Zwiększ głębię podczas grania i zoptymalizuj redukcję szumów</string>
     <string name="auto_atsk_condition_battery_level_text_down">Gdy rozładowano do %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Gdy naładowano do %s</string>
     <string name="auto_data_booster_suc">Włączono tryby Game Turbo oraz Odizolowania.</string>
@@ -302,8 +301,6 @@
     <string name="charging_text_battery_perfect">Naładowano</string>
     <string name="clipboard_ai_allow">Zdecyduj za mnie</string>
     <string name="clipboard_ai_allow_summary">Pozwala systemowi określić, czy aplikacja może uzyskiwać treści ze schowka i informuje Cię, gdy to się stanie</string>
-    <string name="combine_permission_action_foreground">Zezwól, gdy korzystam z aplikacji</string>
-    <string name="combine_permission_title">%1$s żąda tych uprawnień</string>
     <string name="commonly_used_func_card_title">Częste funkcje</string>
     <string name="compact_safebox_dialog_tip">Aby poprawić wrażenia z użytkowania urządzenia, Druga przestrzeń nie wspiera już ukrytych folderów. Przenieś te elementy jak najszybciej, aby zapobiec ich utracie.</string>
     <string name="compatible_dialog_content">"Ta aplikacja nie jest w pełni kompatybilna z architekturą 64-bitową. W trakcie korzystania z niej możesz doświadczać problemów z wydajnością i zwiększonym użyciem energii."</string>
@@ -323,18 +320,11 @@
     <string name="connected_devices_permission_settings">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connected_interconnection">Interakcja urządzeń Xiaomi</string>
     <string name="convenient_summary">Nie wymagaj hasła po tym, jak odblokowano min. 1 aplikację</string>
-    <string name="cs_gesture_effect_title">Rozpoznawaj gesty ręką</string>
-    <string name="cs_gesture_effect_title_hint">Wspierane gesty</string>
-    <string name="cs_gesture_effect_title_summry">Dodaj efekty reakcji podczas połączeń wideo za pomocą gestów ręki</string>
     <string name="cs_pickup_enhance">Ulepszona</string>
     <string name="cs_pickup_private">Prywatna</string>
-    <string name="cs_pickup_private_desc">Wychwytuj tylko dźwięk od konkretnych osób</string>
     <string name="cs_pickup_standard">Standardowa</string>
-    <string name="cs_pickup_standard_desc">Wychwytywanie dźwięku w %1$d stopniach</string>
     <string name="cs_pickup_vioce_print_in_private_tips">Aby ustawić redukcję szumów na Prywatną, nagraj próbkę swojego głosu.</string>
-    <string name="cs_pickup_vioce_print_private_dialog_title">Nagraj próbkę głosu</string>
     <string name="cs_pickup_vioce_print_unsupport_tips">Nagraj próbkę głosu przed wybraniem opcji \"Jeden uczestnik\"</string>
-    <string name="cs_record_voice_title">Nagraj</string>
     <string name="cs_tool_box_max_screen_guide_case_1_new">Wypróbuj tłumaczenie na żywo, upiększanie i inne narzędzia telekonferencji w nowym Pasku narzędzi połączeń</string>
     <string name="cs_tool_box_max_screen_guide_case_2_new">Wypróbuj upiększanie i inne narzędzia telekonferencji w nowym Pasku narzędzi połączeń</string>
     <string name="cs_tool_box_max_screen_guide_case_3_new">Wypróbuj różne funkcje telekonferencji w nowym Pasku narzędzi połączeń</string>
@@ -347,7 +337,6 @@
     <string name="cta_HIPS_Perm_Location_Desc">W celu wykorzystywania Twojej lokalizacji w ramach opcji Alarmowy SOS czy Oszczędzanie baterii w aplikacjach, a także włączania przybliżonej lokalizacji</string>
     <string name="cta_agree_desc">Aby móc korzystać z naszych usług, pozwól tej aplikacji na łączenie się z Internetem i udziel uprawnień wymienionych powyżej.</string>
     <string name="cta_close_dialog_content">"Jeśli ograniczysz dostęp do Internetu oraz informacji o Twojej lokalizacji Panelowi sterowania, nie będziesz mógł otrzymywać aktualizacji definicji wirusów oraz informacji dot. listy blokowanych. Urządzenie może być wtedy mniej bezpieczne. Ograniczyć mimo to?"</string>
-    <string name="cta_combine_permission_title">Uprawnienia</string>
     <string name="cta_main_purpose">Witaj w Panelu sterowania! Możesz użyć tej aplikacji oraz jej modułów (np. komponentów bezpieczeństwa czy usług systemowych), aby zwolnić miejsce, skanować urządzenie w poszukiwaniu wirusów, kontrolować użycie baterii, optymalizować gry, zarządzać aplikacjami i nie tylko.</string>
     <string name="cta_main_purpose_new">"Witaj w Panelu sterowania! Możesz użyć tej aplikacji oraz jej modułów (takich jak komponenty bezpieczeństwa czy usługi systemowe) do zwalniania miejsca, skanowania antywirusowego, kontrolowania zużycia baterii, optymalizacji urządzenia pod kątem gier, zarządzania aplikacjami i wielu innych rzeczy."</string>
     <string name="current_network_state_not_need_diagnose">Sieć działa poprawnie.</string>
@@ -604,7 +593,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="main_alert_message_open_traffic_ctrl">Ogranicz użycie danych</string>
     <string name="main_bill_remained">Środki</string>
     <string name="main_normal_data_usage">Użycie danych mobilnych</string>
-    <string name="manage_notification_access_title">Przeczytaj, odpowiedz i kontroluj powiadomienia</string>
     <string name="megabyteShort">" MB"</string>
     <string name="megabyte_per_second">" MB/s"</string>
     <string name="menu_call">Połącz</string>
@@ -746,7 +734,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_fast_charge_notifi_switch_summary">Powiadamiaj o zwiększeniu prędkości ładowania, gdy podłączona jest dołączona ładowarka o mocy %dW, a poziom baterii znajduje się poniżej ustawionego poziomu</string>
     <string name="pc_fast_charge_notifi_title">Ładowanie %dW</string>
     <string name="pc_fast_charge_switch_toast_message">Zmiany zostaną zastosowane przy następnym ładowaniu</string>
-    <string name="pc_first_use_error_tips">Obliczanie</string>
     <string name="pc_health_charge_protect_noti_summary_title">Urządzenie przestanie się ładować, gdy osiągnie %1$s baterii</string>
     <string name="pc_hidemode_normal">Zbalansowany</string>
     <string name="pc_hidemode_normal_title">Tryb zbalansowany</string>
@@ -770,7 +757,6 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_main_battery_text_minute">Wydłużono o %1$s min, pozostało ok. %2$s min</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s dni %2$s godz.</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s godz. %2$s min</string>
-    <string name="pc_night_charge_protect_title">Ochrona przed ładowaniem w nocy</string>
     <string name="pc_power_mode_has_berserk">Włączono Tryb wydajności</string>
     <string name="pc_power_mode_has_performance">Włączono Tryb wydajności</string>
     <string name="pc_reminder_always_protect_summary">Włącz ograniczone ładowanie, aby zredukować starzenie się baterii</string>
@@ -778,7 +764,6 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_save_power">Oszczędzanie baterii</string>
     <string name="pc_smart_charge_button_summary">Aby przedłużyć żywotność baterii, system będzie się uczyć tego, jak ładujesz urządzenie, i zatrzyma ładowanie przy %1$s baterii</string>
     <string name="pc_smart_charge_notify_summary_high_temp">Twoje urządzenie się przegrzało. Ładowanie zostanie zatrzymane przy %1$s baterii.</string>
-    <string name="pc_smart_charge_notify_summary_high_temp_protect">Aby chronić urządzenie przed przegrzaniem, ładowanie zatrzyma się przy %1$s baterii</string>
     <string name="pc_smart_charge_notify_summary_navagition">Nawigowanie… Ładowanie zostanie zatrzymane przy %1$s baterii</string>
     <string name="pc_smart_charge_notify_summary_night_charge">Ładowanie zatrzyma się o %s</string>
     <string name="pc_smart_discharge_checkbox_title">Zatrzymywanie ładowania</string>
@@ -795,8 +780,6 @@ Ultraoszczędzania baterii"</string>
     <string name="perm_intercept_privacy_content">Te działania mogą narazić Twoje dane osobowe na ujawnienie. Udzielić uprawnień (%1s) mimo wszystko?</string>
     <string name="perm_intercept_title">Zezwolenie na dostęp do danych użytkowania dla %1s pozwoli tej aplikacji na wykonanie następujących działań:</string>
     <string name="perm_intercept_unknown_title">Zezwolenie aplikacji %1s na instalowanie aplikacji z nieznanych źródeł może stwarzać następujące ryzyko:</string>
-    <string name="permdesc_coarse_location">Przybliżona lokalizacja</string>
-    <string name="permdesc_fine_location">Lokalizacja</string>
     <string name="permisison_usage_menu_all">Wszystko</string>
     <string name="permisison_usage_menu_terminal">Interakcja urządzeń Xiaomi</string>
     <string name="permisison_usage_now_camera">Ta aplikacja używa teraz aparatu</string>
@@ -805,8 +788,6 @@ Ultraoszczędzania baterii"</string>
     <string name="permission_action_virtual_phone_summary">"Nadaj aplikacjom odpowiednie uprawnienia, ale nie zezwól im na dostęp do numeru telefonu z karty SIM"</string>
     <string name="permission_close_permission_control_dialog_msg">Kiedy \"Zarządzanie uprawnieniami\" jest wyłączone, aplikacje nie będą prosić o pozwolenie na czytanie kontaktów, wyświetlanie historii połączeń, zmianę ustawień systemowych, dostęp do aparatu czy innych zasobów systemowych.</string>
     <string name="permission_exception_title">Ograniczenia łączności dla aplikacji</string>
-    <string name="permission_group_note">Aby zezwolić aplikacji na dostęp do elementów z Notatek, przyznaj to uprawnienie.</string>
-    <string name="permission_group_record">Aby zezwolić aplikacji na dostęp do elementów z Dyktafonu, przyznaj to uprawnienie.</string>
     <string name="permission_instruction_access_notification">To uprawnienie zezwala aplikacjom na odczyt, wyszukanie i wyczyszczenie wszystkich powiadomień. Pamiętaj, że te uprawnienia mogą zawierać prywatne dane (takie jak hasła czy numery kart z banku).</string>
     <string name="permission_instruction_activity_recognition">To uprawnienie zezwala aplikacjom na dostęp do informacji gromadzonych przez wbudowane sensory wykrywające Twoją aktywność fizyczną (np. kroki czy ćwiczenia).</string>
     <string name="permission_instruction_add_voicemail">To uprawnienie zezwala aplikacjom na dodanie poczty głosowej do systemu.</string>
@@ -833,9 +814,7 @@ Ultraoszczędzania baterii"</string>
     <string name="permission_instruction_popup_window">To uprawnienie zezwala aplikacjom na wyświetlanie pływających okienek nad jakimkolwiek innym interfejsem na urządzeniu, co może wpłynąć na normalne użytkowanie innych aplikacji. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu odczytu lub gromadzenia prywatnych danych (np. haseł) przez przezroczyste pływające okna.</string>
     <string name="permission_instruction_read_appplication_list">To uprawnienie zezwala aplikacjom na dostęp do informacji o wszystkich aplikacjach zainstalowanych na urządzeniu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu analizy Twoich preferencji.</string>
     <string name="permission_instruction_read_clipboard">To uprawnienie zezwala aplikacjom na odczyt całej kopiowanej przez Ciebie zawartości - może ona obejmować prywatne dane (np. szczegóły dot. konta, numery kart, hasła).</string>
-    <string name="permission_instruction_read_note">Dostęp do notatek</string>
     <string name="permission_instruction_read_notify_sms">To uprawnienie zezwala aplikacjom na odczyt powiadomienia o SMS-ie znajdującego się na urządzeniu bądź karcie SIM.</string>
-    <string name="permission_instruction_read_record">Dostęp do nagrań</string>
     <string name="permission_instruction_receive_mms">To uprawnienie zezwala aplikacjom na odczyt wszystkich MMS-ów znajdujących się na urządzeniu bądź karcie SIM. Mogą one zawierać m.in. hasła, kody jednorazowe, dane dot. konta w banku czy inne osobiste dane.</string>
     <string name="permission_instruction_receive_sms">Otrzymywanie SMS-ów i MMS-ów</string>
     <string name="permission_instruction_record_audio">"To uprawnienie zezwala aplikacjom na korzystanie z mikrofonu w celu nagrania dźwięku. Pamiętaj jednak, że to uprawnienie zezwala aplikacjom na nagranie wszystkiego, co dzieje się w Twoim otoczeniu, włącznie z Twoimi rozmowami z innymi osobami. Najlepszą opcją jest zezwolenie aplikacjom na korzystanie z tego uprawnienia wyłącznie wtedy, gdy ich rzeczywiście używasz."</string>
@@ -985,7 +964,6 @@ Ultraoszczędzania baterii"</string>
     <string name="power_center_surface_temp_normal">OK</string>
     <string name="power_center_unoffical_battery_tip">"Informacje o kondycji baterii nie są dostępne dla tej nieautoryzowanej baterii. Dotknij, aby dowiedzieć się więcej o zagrożeniach dla bezpieczeństwa."</string>
     <string name="power_dailog_night_charge_protection_summary">Wygląda na to, że w większości przypadków ładujesz swoją baterię do pełna, co może przyspieszyć jej starzenie. Aby uniknąć tego problemu, włączono optymalizację ładowania.</string>
-    <string name="power_dailog_night_charge_protection_summary_new">"Wygląda na to, że często ładujesz baterię do pełna, co może przyspieszyć jej starzenie. Włączono Ochronę przed ładowaniem w nocy, aby automatycznie dostosować czas ładowania i zachować żywotność baterii."</string>
     <string name="power_dialog_performance_mode_checkbox">Przełącz na odświeżanie %d Hz</string>
     <string name="power_dialog_super_save_msg">"Ultraoszczędzanie baterii ogranicza większość energochłonnych funkcji systemu i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?"</string>
     <string name="power_dialog_super_save_msg_5g">Ultraoszczędzanie baterii ogranicza większość energochłonnych funkcji systemu (np. łączność 5G) i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?</string>
@@ -1553,6 +1531,7 @@ Wycofać zgodę?"</string>
     <string name="usage_access_title">Dostęp do statystyk użytkowania</string>
     <string name="vb_dult_effect">3D LUT</string>
     <string name="vb_fps_settings">Autom. częstotliwość odświeżania</string>
+    <string name="vb_movie_power_hint">Tryb kinowy zapewnia wciągające wrażenia wizualne. Twoje urządzenie może się nagrzewać i zużywać więcej energii.</string>
     <string name="vb_power_performance_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączony jest Tryb wydajności"</string>
     <string name="vb_power_save_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączone jest Oszczędzanie baterii"</string>
     <string name="vb_super_power_save_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączone jest Ultraoszczędzanie baterii"</string>

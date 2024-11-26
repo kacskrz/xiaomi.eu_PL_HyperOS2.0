@@ -9,11 +9,6 @@
         <item quantity="other">64-bitowe aktualizacje %1$d aplikacji</item>
         <item quantity="one">64-bitowa aktualizacja jednej z aplikacji</item>
     </plurals>
-    <plurals name="apple_install_install_immediately">
-        <item quantity="other">Zainstaluj %d aplikacji</item>
-        <item quantity="few">Zainstaluj %d aplikacje</item>
-        <item quantity="one">Zainstaluj %d aplikację</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Wybrano %d elementy</item>
         <item quantity="one">Wybrano %d element</item>

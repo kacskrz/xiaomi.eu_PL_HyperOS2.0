@@ -9,11 +9,6 @@
         <item quantity="other">Około %d razy dziennie</item>
         <item quantity="one">Około %d raz dziennie</item>
     </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Wyszukaj %d aplikacji</item>
-        <item quantity="few">Wyszukaj %d aplikacje</item>
-        <item quantity="one">Wyszukaj %d aplikację</item>
-    </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Od dostępu do informacji dzieli Cię już tylko kroków: %1$d.</item>
         <item quantity="one">Od dostępu do informacji dzieli Cię już tylko %1$d krok.</item>
