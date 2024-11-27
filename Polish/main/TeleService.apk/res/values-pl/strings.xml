@@ -74,6 +74,7 @@
     <string name="network_settings_title">Karty SIM i sieci mobilne</string>
     <string name="offline_call_has_call">Druga osoba jest zajęta. Spróbuj ponownie za minutę lub dwie.</string>
     <string name="offline_call_not_match_contact">Nie udało się dodzwonić. Nie znajdujesz się w kontaktach drugiej osoby.</string>
+    <string name="offline_connection_service_label">Połączenia offline</string>
     <string name="opened_dual_4g_confirm_prompt">Wygląda na to, że karta SIM wspiera tylko LTE. Podwójne LTE zostało włączone w systemie automatycznie.</string>
     <string name="path_answer_state_setting_title">Aplikacje/Inne ustawienia/Systemowe/Telefon/Połączenia przychodzące</string>
     <string name="path_antispam_setting">Aplikacje/Inne ustawienia/Systemowe/Telefon/Blokowanie numerów</string>

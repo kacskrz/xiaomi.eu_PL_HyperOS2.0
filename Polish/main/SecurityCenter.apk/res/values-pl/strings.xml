@@ -477,6 +477,49 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
 · Przeciągnij aplikację na środek ekranu, aby otworzyć ją w pływającym oknie lub do krawędzi, aby skorzystać z Dzielonego ekranu."</string>
     <string name="fully_informed_privacy">Świadomość dot. prywatności</string>
     <string name="function_oncall_not_close_network">Nie odbieraj połączeń</string>
+    <string name="game_center_more">Więcej</string>
+    <string name="game_center_network_setting_tip">Zezwól Panelowi sterowania na łączenie się z Internetem w Ustawieniach</string>
+    <string name="game_center_recommend">Zalecane</string>
+    <string name="game_perf_config_audio_desc">Dostosuj styl dźwięku gry</string>
+    <string name="game_perf_config_audio_title">Dźwięk gry</string>
+    <string name="game_perf_config_display_desc_disabled">Niedostępne</string>
+    <string name="game_perf_config_display_desc_enabled">Zmień rozdzielczość i klatkaż</string>
+    <string name="game_perf_config_motion_desc">Zmień czułość dotyku w grach</string>
+    <string name="game_perf_config_network_desc">Zmniejsz opóźnienie i zakłócenia sieci</string>
+    <string name="game_perf_config_network_title">Przyspieszenie prędkości sieci</string>
+    <string name="game_perf_config_strategy_diy">Własne</string>
+    <string name="game_perf_config_strategy_fps_first">Priorytet klatkażu</string>
+    <string name="game_perf_config_strategy_picture_first">Priorytet obrazu</string>
+    <string name="game_perf_config_strategy_title">Strategia wydajności</string>
+    <string name="game_toolbox_ai_qa_desc">Q&amp;A dużego modelu</string>
+    <string name="game_toolbox_ai_qa_title">Przewodnik SI</string>
+    <string name="game_toolbox_ai_service_desc">Ulepszone granie z SI</string>
+    <string name="game_toolbox_ai_service_title">Usługi grania z SI</string>
+    <string name="game_toolbox_ai_upgrade_dialog_btn">Aktualizuj</string>
+    <string name="game_toolbox_ai_upgrade_dialog_desc">Dostępna jest aktualizacja usług grania SI. Zanim użyjesz powiązanych z nimi funkcji, zaktualizuj je.</string>
+    <string name="game_toolbox_ai_upgrade_dialog_title">Aktualizacja</string>
+    <string name="game_toolbox_cellular_network">Przyspieszenie prędkości danych mobilnych</string>
+    <string name="game_toolbox_display_avrs_desc">Włącz, aby nieznacznie zmniejszyć jakość obrazu i znacznie zmniejszyć zużycie energii</string>
+    <string name="game_toolbox_display_style_desc">Dostosuj styl grafiki (wspiera HDR w grze)</string>
+    <string name="game_toolbox_display_style_game_hdr">HDR w grze</string>
+    <string name="game_toolbox_display_style_title">Styl grafiki</string>
+    <string name="game_toolbox_fps_average">Średnio %d kl./s</string>
+    <string name="game_toolbox_fps_realtime">Obecnie %d kl./s</string>
+    <string name="game_toolbox_fps_shake">Opóźnienie %d kl./s</string>
+    <string name="game_toolbox_immersion_sound_desc">Dokładnie odtwarzaj efekty dźwiękowe, takie jak kroki i głosy, zwiększając immersję w grze, gdy używasz słuchawek</string>
+    <string name="game_toolbox_immersion_sound_title">Dźwięk przestrzenny</string>
+    <string name="game_toolbox_margin_restrain_description">Ustaw obszar niewrażliwy na dotyk, aby ograniczyć przypadkowe dotknięcia</string>
+    <string name="game_toolbox_mem_clean_desc">Wyczyść RAM i zwiększ prędkość</string>
+    <string name="game_toolbox_more_tools_title">Więcej narzędzi</string>
+    <string name="game_toolbox_perf_config_desc">Skonfiguruj ustawienia wydajności gry</string>
+    <string name="game_toolbox_perf_config_title">Ustawienia wydajności</string>
+    <string name="game_toolbox_super_follow_up_msg">Lepsza reakcja na dotyk i śledzenie przez cały potok sprzętowo-programowy</string>
+    <string name="game_toolbox_super_shake_msg">Redukuj drgania przy dotknięciu i przesunięciu, poprawiając stabilność sterowania</string>
+    <string name="game_toolbox_title">Narzędzia gamingu</string>
+    <string name="game_toolbox_title_game_center">Gry</string>
+    <string name="game_toolbox_title_wild">Tryb Ultra</string>
+    <string name="game_toolbox_wild_mode_toast_tip">Zwiększono wydajność urządzenia</string>
+    <string name="game_toolbox_wild_mode_toast_title">Włączono tryb Ultra</string>
     <string name="gamebooster_confirm_dialog_title">Wyraź zgodę na warunki Polityki prywatności</string>
     <string name="gamebooster_network_dialog_cn_message">"Nie możesz korzystać z trybu Game Turbo, gdy Panel sterowania nie może połączyć się z Internetem i uzyskać dostępu do Twojej lokalizacji. Zezwolić na to teraz?"</string>
     <string name="gamebooster_network_dialog_message">Zezwolić Panelowi sterowania na połączenie z siecią w celu użycia wszystkich funkcji Game Turbo?</string>
@@ -509,13 +552,17 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="gb_game_macro_bubble_tips">Wypróbuj kombosy</string>
     <string name="gb_game_macro_toast_tips">"Wypróbuj kombosy!
 Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
+    <string name="gb_hot_area_seekbar">Obszar większej czułości</string>
     <string name="gb_performace_guide_disable_desc"><Data>"Nie można włączyć trybu zbalansowanego, gdy włączony jest systemowy Tryb wydajności. Możesz zmienić ustawienia baterii w Panelu sterowania.&lt;br>&lt;a href=\"#\">Otwórz Panel sterowania&lt;/a>"</Data></string>
     <string name="gb_performance_balance">Balans</string>
     <string name="gb_performance_balance_tips">"Tryb zbalansowany oszczędza baterię
 i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gb_predownload_dialog_message_china"><Data>"Urządzenie może automatycznie pobierać zaktualizowane treści dla tej gry po połączeniu się z siecią Wi-Fi i wyłączeniu ekranu. Dzięki temu będziesz mógł grać w grę w nowej wersji tuż po jej opublikowaniu.&lt;br>&lt;br>Przed skorzystaniem z tej funkcji przeczytaj i zaakceptuj &lt;a href=\"%1$s\">Stanowisko dot. aktualizacji w tle&lt;/a>."</Data></string>
     <string name="gb_shoulder_key_light_effect_subtitle">"Kolorowe animacje będą wyświetlane, gdy triggery są włączone i grasz"</string>
+    <string name="gb_smotion_super_core_level_bar_desc">Czułość</string>
     <string name="gb_storage_summary">Nie pokazuj ikon gier dodanych do Game Turbo na pulpicie</string>
+    <string name="gb_super_hot_area">Inteligentne dopasowanie obszaru</string>
+    <string name="gb_super_hot_area_msg">Adaptacyjne strefowanie SI, poprawiające wrażenia dotykowe na poziomie sterowania</string>
     <string name="gb_vision_enhance_frme_insertion_new_tips">"Ulepszony klatkaż
 %d kl./s"</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Int. odświeżanie
@@ -530,6 +577,7 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gd_app_edit_title_new">Dodaj aplikacje</string>
     <string name="gd_setting_conversation_desc">Różne funkcje, których można użyć w połączeniach audio i wideo</string>
     <string name="gd_setting_dock_activity_title">Przybornik</string>
+    <string name="gd_setting_dock_call_summary">Funkcje dla rozmów i wideokonferencji (np. wypełnianie światłem)</string>
     <string name="gd_setting_dock_call_summary_new">Użyj upiększania i innych funkcji w trakcie pełnoekranowych rozmów audio i wideo</string>
     <string name="gd_setting_dock_title">Pasek boczny</string>
     <string name="gd_setting_dock_video_summary">Użyj efektów takich jak Dolby Atmos podczas oglądania filmów</string>
@@ -662,6 +710,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
+    <string name="net_error">Wystąpił błąd sieci</string>
     <string name="network_assistant_privacy">Aby śledzić użycie danych przez aplikację, Xiaomi gromadzi informacje takie jak nazwy pakietów, użycie danych przez Wi-Fi i dane komórkowe, szczytowe i pozaszczytowe użycie danych oraz czas włączania i wyłączania Wi-Fi oraz danych mobilnych. Te dane są gromadzone lokalnie na urządzeniu.</string>
     <string name="network_operator_exception_summary">"Aktywacja karty SIM nie była możliwa. Upewnij się, czy karta SIM jest poprawnie włożona do urządzenia, a także czy posiadasz pakiet internetowy."</string>
     <string name="network_roaming_exception_tips">"Nie można użyć danych mobilnych podczas roamingu"</string>
@@ -1298,6 +1347,7 @@ Wycofać zgodę?"</string>
     <string name="sp_background_risk_type_messaging">Aplikacja do SMS-ów nie jest fabryczna</string>
     <string name="sp_background_risk_type_root">System został zrootowany</string>
     <string name="sp_network_privacy_dialog_message">Panel sterowania nie może działać poprawnie, ponieważ ograniczono łączność z Internetem. Zezwolić tej aplikacji na łączenie się z Internetem?</string>
+    <string name="sp_network_privacy_dialog_message_new">Panel sterowania (w tym komponenty bezpieczeństwa systemu) musi łączyć się z Internetem, aby dostarczać funkcje skanowania antywirusowego. Zezwolić?</string>
     <string name="sp_security_center_title">Panel sterowania</string>
     <string name="sp_settings_check_item_title_root">Root</string>
     <string name="sp_settings_check_item_title_sign_exception">Sygnatury aplikacji</string>
@@ -1532,6 +1582,8 @@ Wycofać zgodę?"</string>
     <string name="vb_dult_effect">3D LUT</string>
     <string name="vb_fps_settings">Autom. częstotliwość odświeżania</string>
     <string name="vb_movie_power_hint">Tryb kinowy zapewnia wciągające wrażenia wizualne. Twoje urządzenie może się nagrzewać i zużywać więcej energii.</string>
+    <string name="vb_movie_power_hint_new">"Dostosuj efekty dla olśniewających wrażeń wizualnych.
+Funkcja zwiększy zużycie energii."</string>
     <string name="vb_power_performance_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączony jest Tryb wydajności"</string>
     <string name="vb_power_save_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączone jest Oszczędzanie baterii"</string>
     <string name="vb_super_power_save_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączone jest Ultraoszczędzanie baterii"</string>

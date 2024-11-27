@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Action_Accept">Zezwól</string>
+    <string name="HIPS_Action_Reject">Odmów</string>
+    <string name="Location_map_of_nearby_title">Mapa urządzeń w pobliżu</string>
+    <string name="call_allowed_title">Zezwolenie na połączenia</string>
     <string name="celluar_tether_disconect_title">Rozłączono</string>
     <string name="celluar_tether_disconnect_WLAN_prompt">Aby poprawić prędkość połączenia, rozłącz się z Wi-Fi</string>
     <string name="celluar_tether_disconnect_notify">Twój telefon jest połączony z pojazdem elektrycznym. Wyłącz Łączność między urządzeniami na telefonie i spróbuj ponownie.</string>
@@ -23,6 +27,8 @@
     <string name="headset_incall_reject">Anuluj</string>
     <string name="headset_incall_summary">Odebrać połączenie na %1$s za pomocą słuchawek? Pozostaną one połączone z tym urządzeniem po zakończeniu rozmowy.</string>
     <string name="headset_incall_title">Odbierz połączenie za pomocą słuchawek</string>
+    <string name="location_display_summary">Wyświetl informację o lokalizacji urządzeniom w pobliżu</string>
+    <string name="location_display_title">Pokaż lokalizację</string>
     <string name="lyra_account_ap_summary">Zezwól tabletom i komputerom w pobliżu, które są zalogowane na Twoje konto Xiaomi, na włączenie hotspotu na tym urządzeniu i łączenie się z nim</string>
     <string name="lyra_account_ap_title">Asystent sieci</string>
     <string name="lyra_auto_connect_cancel">Anuluj</string>
@@ -68,4 +74,51 @@
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
+    <string name="nearby_contacts">Kontakty w pobliżu</string>
+    <string name="offline_app_name">Komunikacja między urządzeniami</string>
+    <string name="offline_call_balack_list">Lista blokowanych</string>
+    <string name="offline_call_balack_list_join">Dodaj do listy blokowanych</string>
+    <string name="offline_call_balack_list_join_title">Dodać %1$s do listy blokowanych?</string>
+    <string name="offline_call_balack_list_remove_device_title">Usunąć %1$s z listy blokowanych?</string>
+    <string name="offline_call_balack_list_remove_title">Usunąć tę osobę z listy blokowanych?</string>
+    <string name="offline_call_callable_all">Wszyscy</string>
+    <string name="offline_call_callable_close">Nikt</string>
+    <string name="offline_call_callable_only_contact">Tylko kontakty</string>
+    <string name="offline_call_callable_title">Kto może do mnie dzwonić</string>
+    <string name="offline_call_cancel">Anuluj</string>
+    <string name="offline_call_dial_out">Zadzwoń</string>
+    <string name="offline_call_earthquake_summary">Automatycznie włącz komunikację offline w razie wystąpienia trzęsienia ziemi w Twojej lokalizacji</string>
+    <string name="offline_call_earthquake_title">Włącz automatycznie podczas trzęsienia ziemi</string>
+    <string name="offline_call_join">Dodaj</string>
+    <string name="offline_call_map_mode">Mapa</string>
+    <string name="offline_call_map_navigation">Nawiguj do lokalizacji</string>
+    <string name="offline_call_map_select">Wybierz metodę nawigacji</string>
+    <string name="offline_call_nearby_all_device">Mapa osób w pobliżu</string>
+    <string name="offline_call_nearby_device_refresh">Odśwież</string>
+    <string name="offline_call_nearby_device_title">Osoby w pobliżu</string>
+    <string name="offline_call_nearby_dialog_message">Możesz wyznaczyć trasę do lokalizacji %1$s lub zadzwonić do %1$s."</string>
+    <string name="offline_call_nearby_dialog_negative">Nawiguj</string>
+    <string name="offline_call_nearby_dialog_positive">Zadzwoń</string>
+    <string name="offline_call_notification_broadcast_close">Wyłącz</string>
+    <string name="offline_call_notification_broadcast_location">Komunikacja między urządzeniami udostępnia Twoją lokalizację</string>
+    <string name="offline_call_notification_broadcast_start">Komunikacja między urządzeniami prowadzi transmisję</string>
+    <string name="offline_call_remove">Usuń</string>
+    <string name="offline_call_settings_summary">Komunikuj się z telefonami Xiaomi w pobliżu, gdy jesteś online i na obu urządzeniach włączony jest Bluetooth</string>
+    <string name="offline_call_settings_title">Komunikacja między urządzeniami</string>
+    <string name="offline_call_show_location_title">Udostępnij lokalizację osobom w pobliżu</string>
+    <string name="offline_chat_summary">Rozmawiaj z kontaktami znajdującymi się w pobliżu przez Bluetooth, gdy nie jesteś połączony z Internetem. Funkcja nie działa ze słuchawkami Bluetooth.</string>
+    <string name="offline_chat_title">Komunikacja między urządzeniami</string>
+    <string name="offline_connecting">Łączenie…</string>
+    <string name="permgroupdesc_location">Zezwolić %1$s na dostęp do lokalizacji?</string>
+    <string name="phone_in_talk">Rozmowa już trwa</string>
+    <string name="remove_black_list_title">Usuń z listy blokowanych</string>
+    <string name="start_failed_confirm">OK</string>
+    <string name="start_failed_content">Aby skorzystać z Komunikacji między urządzeniami, włóż kartę SIM i zaloguj się na konto Xiaomi.</string>
+    <string name="start_failed_title">Nie udało się włączyć</string>
+    <string name="user_agreement_cancel">Anuluj</string>
+    <string name="user_agreement_confirm">Zgadzam się</string>
+    <string name="user_agreement_content">"Komunikacja między urządzeniami to usługa połączenia głosowego oparta na Bluetooth dostarczana przez Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z przepisami prawa i standardami stosowanymi w branży.&lt;br&lt;b>Gdy włączysz tę funkcję, Xiaomi uzyska dostęp do Twoich kontaktów, numeru telefonu, stanu logowania na konto Xiaomi, adresu MAC Bluetooth, stanu połączenia i karty SIM, aby umożliwić Ci komunikację z wybranymi kontaktami, gdy nie masz połączenia z Internetem. &lt;/b&lt;br&lt;b>Gdy włączysz funkcje \"Pokaż lokalizację\" i \"Włącz automatycznie podczas trzęsienia ziemi\", Xiaomi zbierze dane o Twojej dokładnej lokalizacji, aby wyświetlić ją Twoim wybranym kontaktom.&lt;/b&lt;br&lt;b>Ta informacja będzie przetwarzana tylko na Twoim urządzeniu i nie zostanie przesłana do chmury.&lt;/b&lt;brDo korzystania z Komunikacji między urządzeniami niezbędne są następujące uprawnienia: &lt;br&amp;bull; Bluetooth: do wykonywania połączeń głosowych do urządzeń w pobliżu&lt;br&amp;bull; Kontakty: do odnajdywania i dzwonienia do kontaktów w pobliżu&lt;br&amp;bull; Łączność z Internetem: do łączenia się z siecią i uzyskiwania zawartości mapy&lt;br&amp;bull; Lokalizacja: do wyświetlania dokładnej lokalizacji wybranym kontaktom&lt;br&amp;bull; Telefon: do uzyskiwania statusu połączenia (Komunikacja między urządzeniami nie może być używana podczas trwania rozmowy)&lt;brJeśli nie wyrazisz zgody na przyznanie tych uprawnień, nie będzie można korzystać z tej usługi.&lt;brNiektóre funkcje dostarczają dostawcy usług - strony trzecie. Z tego powodu Xiaomi musi przekazać niektóre dane o Tobie właśnie do nich. &lt;a href=https://privacy.mi.com/Bluetoothcall-Share/>Dotknij tutaj, aby wyświetlić&lt;/a> warunki, w ramach których Xiaomi udostępnia Twoje dane stronom trzecim.&lt;brXiaomi będzie przetwarzać Twoje dane przez czas określony w tym oświadczeniu lub wymagany odpowiednimi przepisami prawa.&lt;brXiaomi posiada oddzielny dział zajmujący się wyłącznie ochroną danych osobowych. Jeśli masz jakieś pytania związane z tym oświadczeniem lub gromadzeniem, korzystaniem lub ujawnieniem Twoich danych, możesz skontaktować się z Xiaomi poprzez stronę &lt;a href=https://privacy.mi.com/support  >https://privacy.mi.com/support&lt;/a>. Xiaomi udzieli odpowiedzi zazwyczaj w ciągu piętnastu dni roboczych.&lt;br>
+        Aby potwierdzić zapoznanie się i akceptację tego oświadczenia, dotknij opcji \"Zgadzam się\"."</string>
+    <string name="user_agreement_title">Stanowisko dot. prywatności Komunikacji między urządzenaimi</string>
+    <string name="virtual_moresttings">Więcej ustawień</string>
 </resources>
