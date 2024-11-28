@@ -48,6 +48,7 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="micloud_wipe_data_confirm_title">Elementy z niektórych aplikacji są zsynchronizowane z Chmurą Xiaomi. Możesz usunąć je z tego urządzenia, jeśli chcesz - pozostaną one w Chmurze.</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
+    <string name="offline_find_msg_to_open_2">Włącz tę funkcję, aby zlokalizować to urządzenie lub wyświetlić położenie innych urządzeń, gdy nie są one połączone z siecią.</string>
     <string name="other_lockscreen_title">Wprowadź blokadę ekranu %s</string>
     <string name="other_lockscreen_update_password_error_hint">Zmieniano blokadę ekranu? Wprowadź starą blokadę w celu weryfikacji.</string>
     <string name="pre_privacy_policy">Polityka prywatności</string>
@@ -78,8 +79,12 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Synchronizuj SMS-y tylko przez Wi-Fi</string>
     <string name="trying_to_connect_to_network">Łączenie z siecią…</string>
     <string name="verify_dialog_open_lockscreen">Na innym urządzeniu włączono Zaawansowaną ochronę danych. Ustaw blokadę ekranu na tym urządzeniu, aby uzyskać dostęp do danych przechowywanych w Chmurze Xiaomi.</string>
+    <string name="verify_notification_text_find_device_push">Zezwól innemu urządzeniu na zlokalizowanie tego urządzenia</string>
     <string name="verify_notification_title">Włączono szyfrowanie end-to-end na innym urządzeniu</string>
+    <string name="verify_notification_title_find_device_push">Inne urządzenie włączyło \"Lokalizację offline\"</string>
     <string name="verify_scan_point_notice_view">Dotknij środka, aby wyostrzyć</string>
+    <string name="verify_warning_dialog_message_find_device">Włączono \"Lokalizację offline\" dla %s. Gdy ta funkcja jest włączona, będzie można sprawdzić położenie urządzenia, gdy jest ono offline.</string>
+    <string name="verify_warning_dialog_title_find_device">\"Lokalizacja offline\" włączona dla innego urządzenia</string>
     <string name="verify_warning_verify_dialog_message">Wprowadź kod weryfikacyjny na %s</string>
     <string name="verify_warning_verify_dialog_title">Zweryfikuj konto Xiaomi</string>
     <string name="wipe_data_dialog_button_check_sync">Zsynchronizować?</string>
