@@ -71,6 +71,7 @@
     <string name="setting_chinese_calendar">Chiński kalendarz</string>
     <string name="setting_show_almanac_yiji">Pokaż informacje z chińskiego almanachu (tylko kalendarz chiński)</string>
     <string name="setting_show_extend_month">Rozszerzony widok miesiąca</string>
+    <string name="still_num">%s</string>
     <string name="subscribe_card_success">Pomyślnie zasubskrybowano! Sprawdź szczegóły na stronie głównej.</string>
     <string name="subscribing_card">Subskrybujesz</string>
     <string name="toggle_month_view">Widok miesiąca</string>
