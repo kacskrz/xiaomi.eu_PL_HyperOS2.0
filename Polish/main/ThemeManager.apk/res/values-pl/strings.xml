@@ -46,7 +46,6 @@
     <string name="ai_image_size_too_large">Za duży obraz</string>
     <string name="ai_in_line">Jesteś w kolejce…</string>
     <string name="ai_inquire_apply_wallpaper">Zastosować tę tapetę?</string>
-    <string name="ai_moving_your_wallpaper">Zobacz, jak SI może ożywić Twoje tapety</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>.&lt;/Data></string>
     <string name="ai_select_again">Wybierz</string>
     <string name="ai_select_images_in_the_following_formats">Wybierz obrazy w formatach: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC lub HEIF.</string>
@@ -57,13 +56,11 @@
     <string name="ai_service_temporarily_unavailable">Funkcja jest niedostępna</string>
     <string name="ai_service_unavailable">Funkcja jest niedostępna</string>
     <string name="ai_waiting_in_line_please_wait">Jesteś w kolejce. Proszę czekać…</string>
-    <string name="ai_wallpaper">Dynamiczne tapety SI</string>
     <string name="ai_wallpaper_account_exception">Wygląda na to, że wystąpił problem na Twoim koncie. Spróbuj ponownie później lub zmień konto.</string>
     <string name="ai_wallpaper_cancel">Anuluj</string>
     <string name="ai_wallpaper_click_to">Dotknij, aby zobaczyć</string>
     <string name="ai_wallpaper_desc">Ta treść jest wygenerowana przez SI</string>
     <string name="ai_wallpaper_feedback">Opinia</string>
-    <string name="ai_wallpaper_function_introduction">Zmień zdjęcia pejzaży, miast, roślin, aut i innych rzeczy w dynamiczne filmy</string>
     <string name="ai_wallpaper_i_know">OK</string>
     <string name="ai_wallpaper_inside_invitation">Betatesty dynamicznych tapet SI</string>
     <string name="ai_wallpaper_inside_invitation_agree">Zgadzam się</string>

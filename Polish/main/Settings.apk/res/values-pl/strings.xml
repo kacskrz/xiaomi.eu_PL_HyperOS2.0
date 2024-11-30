@@ -619,6 +619,10 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="wifi_assistant">Utrzymuj połączenie</string>
     <string name="wifi_assistant_keep_connection">Utrzymuj połączenie</string>
     <string name="wifi_generation">Użyj ikon generacji Wi-Fi</string>
+    <string name="wifi_reconnect_failed_text">Twoje hasło do Wi-Fi jest nieprawidłowe. Wprowadź je ponownie.</string>
+    <string name="wifi_reconnect_failed_text_china">Twoje hasło do Wi-Fi jest nieprawidłowe. Wprowadź je ponownie.</string>
+    <string name="wifi_reconnect_failed_title">Nieprawidłowe hasło Wi-Fi</string>
+    <string name="wifi_reconnect_failed_title_china">Nieprawidłowe hasło Wi-Fi</string>
     <string name="wifi_region_summary">Włącz Wi-Fi ponownie, aby zastosować wybrany przez siebie region.</string>
     <string name="wifi_region_title">Region Wi-Fi</string>
     <string name="wlan_switch_tips_message">W trakcie przełączania się między dodatkową i główną siecią Wi-Fi urządzenie tymczasowo rozłączy się z dodatkową siecią. Przełączyć?</string>
