@@ -222,7 +222,8 @@ Dotknij dwa razy, aby wyświetlić szczegóły."</string>
     <string name="pa_lite_setting_service_memory_summary">Wyczyść pamięć jednym dotknięciem</string>
     <string name="pa_lite_setting_service_my_schedule">Harmonogram</string>
     <string name="pa_lite_setting_service_my_schedule_summary">Wyświetl nadchodzące wydarzenia</string>
-    <string name="pa_lite_setting_service_note">Notatki</string>
+    <string name="pa_lite_setting_service_note">Notatki (4×2)</string>
+    <string name="pa_lite_setting_service_note_small">Notatki (2×2)</string>
     <string name="pa_lite_setting_service_note_summary">Wyświetl swoje notatki</string>
     <string name="pa_lite_setting_service_quick_func">Skróty</string>
     <string name="pa_lite_setting_service_quick_func_summary">Otwieraj często używane aplikacje i usługi</string>

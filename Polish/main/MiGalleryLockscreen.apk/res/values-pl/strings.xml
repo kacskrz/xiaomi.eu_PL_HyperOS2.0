@@ -35,6 +35,7 @@
     <string name="add_local_picture">Galeria</string>
     <string name="add_online_picture">Obrazki online</string>
     <string name="add_to_cw">Dodaj do własnego pokazu slajdów</string>
+    <string name="add_to_my_wallpaper_success_toast">Dodano do \"Moich tapet\"</string>
     <string name="add_to_trust_device">To jest zaufane urządzenie</string>
     <string name="add_wallpaper">Dodaj tapety</string>
     <string name="addcw_apply_btn_txt">Dodaj tapetę</string>
@@ -658,6 +659,7 @@ dd.M"</string>
     <string name="sst_my_wallpaper_title">Moje tapety</string>
     <string name="sst_new_feature">Nowa funkcja</string>
     <string name="sst_no_favor_wallpaper_hint">Brak ulubionych tapet</string>
+    <string name="sst_no_wallpaper">Nic tu nie ma</string>
     <string name="sst_privacy_policy_title">Polityka prywatności</string>
     <string name="sst_prov_enable_desc">Włącz tapety na ekranie blokady</string>
     <string name="sst_prov_enable_title">Autom. zmiana tapet</string>
