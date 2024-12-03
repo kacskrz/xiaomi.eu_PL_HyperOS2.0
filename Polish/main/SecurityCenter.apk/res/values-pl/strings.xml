@@ -500,6 +500,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="game_toolbox_ai_upgrade_dialog_title">Aktualizacja</string>
     <string name="game_toolbox_cellular_network">Przyspieszenie prędkości danych mobilnych</string>
     <string name="game_toolbox_display_avrs_desc">Włącz, aby nieznacznie zmniejszyć jakość obrazu i znacznie zmniejszyć zużycie energii</string>
+    <string name="game_toolbox_display_enhance_view_frc_notice">"Uwaga:
+Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w grze oraz zewnętrzne) mogą niedokładnie odczytywać liczbę klatek. Aby uzyskać aktualną liczbę klatek, przejdź do panelu wydajności."</string>
     <string name="game_toolbox_display_style_desc">Dostosuj styl grafiki (wspiera HDR w grze)</string>
     <string name="game_toolbox_display_style_game_hdr">HDR w grze</string>
     <string name="game_toolbox_display_style_title">Styl grafiki</string>
@@ -513,6 +515,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="game_toolbox_more_tools_title">Więcej narzędzi</string>
     <string name="game_toolbox_perf_config_desc">Skonfiguruj ustawienia wydajności gry</string>
     <string name="game_toolbox_perf_config_title">Ustawienia wydajności</string>
+    <string name="game_toolbox_performance_config_frc_notice">Gdy włączony jest Priorytet klatkażu, to aktualny klatkaż wynosi tyle, ile pokazano w panelu wydajności</string>
+    <string name="game_toolbox_performance_config_resolution_notice">Gdy włączony jest Priorytet grafiki, to aktualny klatkaż wynosi tyle, ile pokazano w panelu wydajności</string>
     <string name="game_toolbox_super_follow_up_msg">Lepsza reakcja na dotyk i śledzenie przez cały potok sprzętowo-programowy</string>
     <string name="game_toolbox_super_shake_msg">Redukuj drgania przy dotknięciu i przesunięciu, poprawiając stabilność sterowania</string>
     <string name="game_toolbox_title">Narzędzia gamingu</string>
