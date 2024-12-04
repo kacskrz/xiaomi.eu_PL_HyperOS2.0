@@ -480,6 +480,8 @@ Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządz
     <string name="security_status">Status zabezpieczeń</string>
     <string name="security_update">Aktualizacja zabezpieczeń</string>
     <string name="select_gpo_version_title">Wybierz wersję GPO</string>
+    <string name="sensors_hal_log_summary">Użyj logów dla warstwy abstrakcji sensorów (Sensors HAL)</string>
+    <string name="sensors_hal_log_title">Logi HAL sensorów</string>
     <string name="show_carrier_under_keyguard_title">Pokaż nazwę operatora, gdy urządzenie jest zablokowane</string>
     <string name="show_owner_info_on_lockscreen_label">Pokaż tę informację na ekranie blokady</string>
     <string name="sidebar_setting">Ustawienia Paska bocznego</string>
