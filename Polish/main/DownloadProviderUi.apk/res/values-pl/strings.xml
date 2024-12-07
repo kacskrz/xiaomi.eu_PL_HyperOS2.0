@@ -57,6 +57,7 @@
     <string name="no_file_hint">Zadanie dot. tego pliku już istnieje</string>
     <string name="no_net">Nie udało się połączyć z siecią</string>
     <string name="no_support_modify_path">Nie można zmienić lokalizacji pobranych elementów ze względów bezpieczeństwa</string>
+    <string name="no_support_open">Nie można otworzyć tego elementu</string>
     <string name="notify_install_guide_forward_text">Otwórz</string>
     <string name="notify_install_guide_msg">Pomyślnie zainstalowano</string>
     <string name="nowInstall">Instaluj</string>
@@ -99,6 +100,7 @@
     <string name="subfile_list">Pliki</string>
     <string name="task_add">Dodawanie zadania…</string>
     <string name="task_fail">Nie udało się ukończyć operacji</string>
+    <string name="task_has_been_deleted">To zadanie zostało usunięte</string>
     <string name="third_web_cancel">Anuluj</string>
     <string name="third_web_title">Pobierz</string>
     <string name="tip_download_icon_restore">Dodaj skrót Pobrań na Ekranie głównym</string>

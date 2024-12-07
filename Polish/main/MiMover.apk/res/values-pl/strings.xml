@@ -43,6 +43,9 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
 3. Wróć do okna Przenoszenia danych i wybierz hotspot z nowego urządzenia."</string>
     <string name="connection_tips_owner_message">Przenoszenie danych jest zainstalowane domyślnie na wszystkich urządzeniach, na których znajduje się MIUI 11. Jeśli posiadasz starszą wersję MIUI, możesz pobrać najnowszą wersję Przenoszenia danych za pomocą tego linka: %1$s.</string>
     <string name="dialog_airplane_mode_content">"Przenoszenie danych nie działa, gdy włączony jest tryb samolotowy. Wyłącz go najpierw w Ustawieniach."</string>
+    <string name="dialog_backup_service_missing_btn">OK</string>
+    <string name="dialog_backup_service_missing_content">Nie można użyć Przenoszenia danych, ponieważ usługa kopii zapasowej jest niedostępna.</string>
+    <string name="dialog_backup_service_missing_title">Nie można użyć Przenoszenia danych</string>
     <string name="dialog_forbidden_use_tips">"Wersja systemu, której używasz, jest nieaktualna. Zaktualizuj urządzenie, aby móc używać Przenoszenia danych."</string>
     <string name="dialog_request_all_permission_content">"Aby przesyłać dane między starym a nowym urządzeniem, aplikacja musi łączyć się z Internetem i wymaga następujących uprawnień:
 • Dostęp do zdjęć, dźwięków i filmów
