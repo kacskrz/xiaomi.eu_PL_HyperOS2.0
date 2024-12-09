@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d wiadomości</item>
+        <item quantity="one">%d wiadomość</item>
+        <item quantity="few">%d wiadomości</item>
+        <item quantity="many">%d wiadomości</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%d SMS do synchronizacji"</item>
         <item quantity="one">"1 SMS do synchronizacji"</item>

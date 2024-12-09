@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_get_otp">Kopiuj kod</string>
-    <string name="ad_close_button_text">Reklamy</string>
     <string name="add_to_block_by_number">"Dodano %s
 do Listy blokowanych"</string>
     <string name="add_to_block_by_number_failed">"Nie udało się dodać %s do listy blokowanych.
@@ -43,6 +42,7 @@ Spróbuj ponownie."</string>
     <string name="carry_current_location">Załącz obecną lokalizację</string>
     <string name="carry_vital_signs">Uwzględnij funkcje życiowe</string>
     <string name="cloud_space_not_enough">Brak miejsca w Chmurze. Ulepsz swój plan, aby zsychronizować ostatnie elementy.</string>
+    <string name="cloud_state_disabled">Włącz synchronizację z chmurą, aby synchronizować wiadomości</string>
     <string name="cm_privacy_dialog_spannable_tips">Politykę prywatności</string>
     <string name="cm_privacy_dialog_tips">"Usługi inteligentnych wiadomości są dostarczane przez Twojego operatora. Aplikacja SMS wymaga połączenia z Internetem i dostępu do lokalizacji, aby dostarczać te usługi. Musisz zgodzić się na %1s swojego operatora przed używaniem tych usług. Czy zgadzasz się na to?"</string>
     <string name="cn_privacy_dialog_title">Uwaga</string>
@@ -54,6 +54,8 @@ Spróbuj ponownie."</string>
     <string name="conv_head_risk_tip">Może być podejrzane</string>
     <string name="conv_item_official">Oficjalne</string>
     <string name="conv_item_risk_tip">Ryzyko</string>
+    <string name="copy_message_text_success">Pomyślnie skopiowano</string>
+    <string name="current_data_version">Wersja Wiadomości Mi</string>
     <string name="delete_verification_code_sms_message">Usunąć wszystkie jednorazowe hasła?</string>
     <string name="delete_verification_code_sms_title">Usuń hasła jednorazowe</string>
     <string name="dialog_agree">Zgadzam się</string>
@@ -103,6 +105,10 @@ Spróbuj ponownie."</string>
     <string name="menu_traffic_destination">Cel</string>
     <string name="message_saved_as_draft">Wiadomość została zapisana jako wersja robocza.</string>
     <string name="message_send_read_report">Wysłany zostanie raport o odczytaniu wiadomości.</string>
+    <string name="mi_message_title">Wiadomości Mi</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja z chmurą jest wyłączona</string>
+    <string name="miuix_appcompat_cloud_state_finished">Pomyślnie zsynchronizowano z chmurą</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Synchronizowanie z chmurą…</string>
     <string name="mms_5g_mms_privacy_policy">Polityka prywatności Wiadomości 5G</string>
     <string name="mms_5g_mms_privacy_policy_revoke">Wycofaj zgodę na warunki Polityki prywatności Wiadomości 5G</string>
     <string name="mms_block_alert_message">Wszystkie MMS-y z wyjątkiem tych otrzymanych od autoryzowanych nadawców (takich jak operatorzy komórkowi, kolej itd.) zostaną zablokowane.</string>
@@ -160,6 +166,8 @@ Spróbuj ponownie."</string>
     <string name="mx_activate_network_allow_notice">Ta usługa wymaga dostępu do sieci w celu sprawdzenia, czy inny użytkownik jest online. Zgadzasz się?</string>
     <string name="mx_dspt_provision_ex2">Polityka prywatności</string>
     <string name="mx_filter_message_from_stranger_summary">"Zwykłe SMS będą nadal możliwe do odebrania"</string>
+    <string name="mx_main_purpose">"Wiadomości Mi umożliwiają wysyłanie wiadomości do innych użytkowników Wiadomości Mi przez internet bez ponoszenia opłat.
+W celu aktywacji Wiadomości Mi wymagane jest wysłanie wiadomości SMS. Twój operator obciąży Cię opłatą za tę wiadomość."</string>
     <string name="mx_main_purpose_short">Wiadomości Mi pozwalają użytkownikom Xiaomi wysyłać i otrzymywać wiadomości od innych użytkowników Xiaomi bez żadnych opłat.</string>
     <string name="mx_privacy_policy">Polityka prywatności Wiadomości Mi</string>
     <string name="mx_privacy_policy_revoke">Wycofaj zgodę na warunki Polityki prywatności Wiadomości Mi</string>
@@ -176,17 +184,21 @@ Spróbuj ponownie."</string>
     <string name="notification_copy">Kopiuj hasło</string>
     <string name="notification_group_name">Wiadomości</string>
     <string name="notification_seen">Przeczytane</string>
+    <string name="number_recognition_partner">Dostawcy usługi rozpoznawania ID nadawcy</string>
     <string name="open_audio_record_panel">Otwórz nagrywanie</string>
     <string name="open_edit_sms_panel">Otwórz panel edycji</string>
     <string name="open_now">Ustawienia</string>
     <string name="perm_purpose_mms_account">Aby uzyskać informacje o koncie</string>
+    <string name="perm_purpose_mms_storage">Do zapisywania załączników MMS</string>
     <string name="perm_purpose_rcs_account">Do wyświetlania samouczka dla początkujących</string>
+    <string name="perm_purpose_rcs_storage">Do zapisywania zdjęć, filmów wideo, plików i innych załączników RCS</string>
     <string name="permission_new_retry_dialog_msg">Aby móc działać normalnie, aplikacja SMS wymaga dostępu do kontaktów. Możesz zmienić uprawnienia w Ustawieniach > Aplikacje > Systemowe.</string>
-    <string name="pop_text">Nie odłączaj urządzenia od ładowarki. Urządzenie uporządkuje wiadomości szybciej, gdy ekran będzie wyłączony.</string>
     <string name="pref_advanced_settings_title">Zaawansowane</string>
     <string name="pref_ai_summary">Podsumowanie wiadomości SI</string>
     <string name="pref_hide_verification_code_summary">Automatycznie ukrywaj hasła jednorazowe w podglądzie wiadomości na zabezpieczonym ekranie blokady</string>
     <string name="pref_messages_to_save">Liczba wiadomości</string>
+    <string name="pref_rcs_show_report_message">Otrzymuj potwierdzenie dostarczenia</string>
+    <string name="pref_rcs_show_report_message_tip">Otrzymuj raporty, gdy Twoje wiadomości zostaną dostarczone do drugiej osoby</string>
     <string name="pref_show_list_avatar_summary">Pokaż zdjęcia kontaktów na liście wątków</string>
     <string name="pref_show_sms_template_entry_summary">Wykrywaj kody jednorazowe i pokaż menu podręczne</string>
     <string name="pref_show_sms_template_summary">Kopiuj kody weryfikacyjne do formularzy</string>
@@ -234,7 +246,35 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj jej warunki."</string>
     <string name="privacy_state_revoked_synopsis">Wyłączając tą opcję, wycofujesz swoją zgodę na warunki Polityki prywatności aplikacji SMS.</string>
     <string name="progress_text">Porządkowanie wiadomości… (%s)</string>
     <string name="quick_reply">Odpowiedz</string>
+    <string name="rcs_auto_resend_mms">Konwertuj do wiadmości MMS</string>
+    <string name="rcs_auto_resend_sms">Konwertuj do wiadmości SMS</string>
+    <string name="rcs_auto_resume">Automatycznie przywracaj przerwane przesyłanie</string>
+    <string name="rcs_auto_resume_only_by_wifi">Wznawiaj przesyłanie tylko przy połączeniu z siecią Wi-Fi</string>
+    <string name="rcs_chatbot_a2p_message">Otrzymałeś wiadomość A2P. Dotknij, aby wyświetlić szczegóły.</string>
+    <string name="rcs_chatbot_audio_message">Otrzymałeś wiadomość dźwiękową. Dotknij, aby wyświetlić szczegóły.</string>
+    <string name="rcs_chatbot_card_message">Otrzymałeś kartę. Dotknij, aby wyświetlić szczegóły.</string>
+    <string name="rcs_chatbot_file_message">Otrzymałeś plik. Dotknij, aby wyświetlić szczegóły.</string>
+    <string name="rcs_chatbot_geo_message">Otrzymałeś wiadomość z lokalizacją. Dotknij, aby wyświetlić szczegóły.</string>
+    <string name="rcs_chatbot_image_message">Otrzymałeś obraz. Dotknij, aby wyświetlić szczegóły.</string>
+    <string name="rcs_chatbot_local_net_error">"Nie można uzyskać danych.
+Włącz dane mobilne i otwórz tę stronę ponownie."</string>
+    <string name="rcs_chatbot_normal_message">Otrzymałeś wiadomość. Dotknij, aby wyświetlić szczegóły.</string>
+    <string name="rcs_chatbot_vcard_message">Otrzymałeś wizytówkę. Dotknij, aby wyświetlić szczegóły.</string>
+    <string name="rcs_chatbot_video_message">Otrzymałeś wideo. Dotknij, aby wyświetlić szczegóły.</string>
+    <string name="rcs_main_purpose">Możesz korzystać z tej usługi, aby wysyłać i odbierać zdjęcia, wiadomości głosowe, filmy i wiele więcej.</string>
+    <string name="rcs_message_title">Wiadomości 5G</string>
+    <string name="rcs_send_rms_remind_change">Ustawienia</string>
+    <string name="rcs_send_rms_remind_desp">Wiadomości 5G są szybką usługą świadczoną przez China Mobile. Możesz wyłączyć tę funkcję w ustawieniach.</string>
+    <string name="rcs_send_rms_remind_title">Użyj Wiadomości 5G</string>
+    <string name="rcs_service_agreement">Umowa o świadczeniu usług</string>
+    <string name="rcs_silence_message">Wycisz powiadomienia wiadomości</string>
+    <string name="rcs_summary_auto_resend_mms">Nie udało się wysłać oryginalnej wiadomości multimedialnej 5G. Wiadomość tekstowa China Mobile została przekonwertowana na MMS. Twój operator naliczy dodatkową opłatę za wiadomość.</string>
+    <string name="rcs_summary_auto_resend_sms">Nie udało się wysłać oryginalnej wiadomości 5G. Wiadomość tekstowa China Mobile została przekonwertowana na SMS. Twój operator naliczy dodatkową opłatę za wiadomość.</string>
+    <string name="rcs_summary_silence_message">Wycisz powiadomienia wiadomości kiedy pulpit zdalny jest włączony</string>
     <string name="recipients_contain_sub_sim_number">"Wygląda na to, że wśród odbiorców jest numer przypisany do drugiej karty SIM. Wyślij wiadomość za pomocą drugiej karty SIM."</string>
+    <string name="recommend_bar_message_mx">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych użytkowników Xiaomi bez ponoszenia opłat.</string>
+    <string name="recommend_bar_message_rcs">Wiadomości China Mobile pozwalają na wysyłanie bezpłatnych wiadomości do innych użytkowników sieci w Chinach kontynentalnych bez ponoszenia opłat.</string>
+    <string name="recommend_bar_message_smart_message">Kopiuj jednorazowe hasła, śledź przesyłki, korzystaj z inteligentnych menu i nie tylko</string>
     <string name="recommend_bar_title_smart_message">Inteligetne wiadomości</string>
     <string name="satellite_location_failed">"Nie udało się wysłać lokalizacji. Wysłano SMS-a bez niej."</string>
     <string name="satellite_location_privacy"><Data>Satelita Tiantong musi uzyskać Twoją lokalizację, aby móc wysłać SMS-a. Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;font color=\"%1$s\">&lt;a href=\"%2$s\">Polityki prywatności&lt;/a>&lt;/font>.</Data></string>
@@ -328,6 +368,7 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
     <string name="unable_connect_camera">"Jesteś incognito. Nie można korzystać teraz z aparatu."</string>
     <string name="unable_get_location">"Jesteś incognito. Nie można korzystać teraz z lokalizacji."</string>
     <string name="unable_use_microphone">"Jeteś incognito. Nie można używać teraz mikrofonu."</string>
+    <string name="updating">Aktualizowanie…</string>
     <string name="user_agreement">Umowę użytkownika</string>
     <string name="vital_signs_cta_body">"Dane dotyczące funkcji życiowych (w tym tętna, SpO₂ i informacji medycznych) są pobierane z Mi Fitness. Zaznaczenie poniższych opcji oznacza wyrażenie przez Ciebie zgody na dostęp do tych danych i ich wykorzystywanie.
 Aby kontrolować długość wiadomości, pobrane zostanie tylko pierwsze 50 znaków każdej informacji w karcie medycznej."</string>
