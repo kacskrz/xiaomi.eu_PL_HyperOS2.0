@@ -3,4 +3,9 @@
     <plurals name="ime_countDown_timer">
         <item quantity="other">Przełącz (%d s)</item>
     </plurals>
+    <plurals name="tethered_notification_multi_device_message">
+        <item quantity="other">Połączono %1$s urządzeń. Możliwe nagrzanie i zużycie większej ilości energii.</item>
+        <item quantity="few">Połączono %1$s urządzenia. Możliwe nagrzanie i zużycie większej ilości energii.</item>
+        <item quantity="one">Połączono %1$s urządzenie. Możliwe nagrzanie i zużycie większej ilości energii.</item>
+    </plurals>
 </resources>
