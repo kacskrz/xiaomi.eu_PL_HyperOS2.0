@@ -78,6 +78,11 @@
         <item quantity="few">Wybierz %d elementy</item>
         <item quantity="one">Wybierz %d element</item>
     </plurals>
+    <plurals name="privacy_watermark_word_count_not_full">
+        <item quantity="other">Wprowadź jeszcze %d znaków</item>
+        <item quantity="few">Wprowadź jeszcze %d znaki</item>
+        <item quantity="one">Wprowadź jeszcze %d znak</item>
+    </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
         <item quantity="other">"Nie można usunąć %2$d elementów z prywatnego albumu. %1$s."</item>
         <item quantity="one">"Nie można usunąć %2$d elementu z prywatnego albumu. %1$s."</item>
