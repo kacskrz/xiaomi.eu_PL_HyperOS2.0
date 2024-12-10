@@ -26,6 +26,7 @@
     <string name="allow_interruption_summary">Zezwól tej aplikacji na dźwięki, wibracje i/lub wyświetlanie powiadomień na ekranie</string>
     <string name="allow_oaid_used_desc">"System nie będzie dostarczać wirtualnego ID aplikacjom. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
     <string name="allow_ongoing_summary">Zezwól na powiadomienia, które mogą być usuwane tylko ręcznie</string>
+    <string name="allow_update_system_app">Zezwalaj na aktualizację aplikacji systemowych (nieobjęte wsparciem technicznym)</string>
     <string name="alpha_build">" (alfa)"</string>
     <string name="aod_style_description">Dostosuj styl trybu Ekran zawsze włączony</string>
     <string name="aon_gesture_dialog_message">"Gdy ta funkcja jest włączona, urządzenie będzie wykrywać i analizować Twoje gesty. Dane osobowe nie będą przetwarzane w żadnym stopniu (zarówno lokalnie, jak i w chmurze)."</string>
