@@ -67,6 +67,8 @@
     <string name="global_macmini">Mój Mac mini</string>
     <string name="global_macpro">Mój Mac Pro</string>
     <string name="global_macstudio">Mój Mac Studio</string>
+    <string name="global_my">"Moje urządzenie
+%1$s"</string>
     <string name="go_to_sleep">Wyłącz ekran</string>
     <string name="handy_mode_enter_dlg_msg">Włączyć tryb Jednej dłoni?</string>
     <string name="handy_mode_enter_dlg_title">Jedna dłoń</string>

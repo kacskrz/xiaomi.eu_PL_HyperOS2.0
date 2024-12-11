@@ -137,6 +137,7 @@
     <string name="new_usb_unwritable_storage_content">"Nie udało się zapisać elementów na pamięć zewnętrzną. Spróbuj podłączyć ją ponownie."</string>
     <string name="new_usb_unwritable_storage_title">"Nie udało się zapisać"</string>
     <string name="not_enough_storage_tips">Za mało miejsca. Zwolnij je i spróbuj ponownie.</string>
+    <string name="open_compatibility_mode">Włącz</string>
     <string name="permission_backup_calendar">W celu skopiowania wydarzeń z kalendarza</string>
     <string name="permission_backup_calllog">W celu skopiowania historii połączeń</string>
     <string name="permission_backup_contacts">W celu skopiowania kontaktów</string>

@@ -556,7 +556,7 @@ Dodaj widżety, aby rozpocząć."</string>
     <string name="pa_widget_menu_improve_replace">Zastąp</string>
     <string name="pa_widget_menu_remove">Usuń</string>
     <string name="pa_widget_menu_remove_card_in_stack">Usuń \"%s\"</string>
-    <string name="pa_widget_menu_replace">Zmień</string>
+    <string name="pa_widget_menu_replace">Zastąp</string>
     <string name="pa_widget_need_download_dialog_cancel">Anuluj</string>
     <string name="pa_widget_need_download_dialog_confirm">OK</string>
     <string name="pa_widget_need_download_dialog_message_install">Aby móc używać widżetów, najpierw zainstaluj aplikację \"%s\".</string>

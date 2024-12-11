@@ -454,6 +454,9 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="exception_dialog_message">Dane statystyczne nie mogły zostać obliczone ze względu na błąd. Bez dokładnych danych Panel sterowania nie będzie w stanie monitorować zużycia danych. Uruchomić ponownie, aby przywrócić tę funkcjonalność?</string>
     <string name="exit_dialog_homepage_optimise_message">"Poziom wydajności tego urządzenia spadł poniżej 80 punktów. Zoptymalizować teraz?"</string>
     <string name="exit_dialog_scan_message">"Poziom wydajności tego urządzenia spadł poniżej 75 punktów. Zoptymalizować system teraz?"</string>
+    <string name="face_unlock">Odblokuj twarzą</string>
+    <string name="finger_or_face_unlock">Odblokuj odciskiem palca lub twarzą</string>
+    <string name="finger_unlock">Odblokuj odciskiem palca</string>
     <string name="fingerprint_to_lock_summary">Odblokuj dostęp do aplikacji odciskiem palca</string>
     <string name="fingerprint_verify_try_agin">"Nie można zeskanować. Spróbuj ponownie."</string>
     <string name="fingerprint_verify_try_error">Zbyt wiele nieudanych prób. Przed ponowną próbą zablokuj i odblokuj urządzenie.</string>
@@ -515,8 +518,11 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="game_toolbox_more_tools_title">Więcej narzędzi</string>
     <string name="game_toolbox_perf_config_desc">Skonfiguruj ustawienia wydajności gry</string>
     <string name="game_toolbox_perf_config_title">Ustawienia wydajności</string>
+    <string name="game_toolbox_performance_config_custom_notice_new">Możesz dostosować Superrozdzielczość i Inteligentny klatkaż, aby zarządzać klatkażem i jakością obrazu. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
     <string name="game_toolbox_performance_config_frc_notice">Gdy włączony jest Priorytet klatkażu, to aktualny klatkaż wynosi tyle, ile pokazano w panelu wydajności</string>
+    <string name="game_toolbox_performance_config_frc_notice_new">Priorytet klatkażu poprawia liczbę klatek poprzez Inteligentny klatkaż. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
     <string name="game_toolbox_performance_config_resolution_notice">Gdy włączony jest Priorytet grafiki, to aktualny klatkaż wynosi tyle, ile pokazano w panelu wydajności</string>
+    <string name="game_toolbox_performance_config_resolution_notice_new">Priorytet obrazu poprawia jakość obrazu dzięki Superrozdzielczości i zarządza klatkażem poprzez Inteligentny klatkaż. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
     <string name="game_toolbox_super_follow_up_msg">Lepsza reakcja na dotyk i śledzenie przez cały potok sprzętowo-programowy</string>
     <string name="game_toolbox_super_shake_msg">Redukuj drgania przy dotknięciu i przesunięciu, poprawiając stabilność sterowania</string>
     <string name="game_toolbox_title">Narzędzia gamingu</string>
@@ -603,6 +609,7 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
 Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="global_wa_setting_alert_dialog_title">Czyszczenie WhatsAppa</string>
     <string name="gmscore_support_remind">Włącz tę funkcję, jeśli doświadczasz problemów z Gmail, Mapami Google i innymi aplikacjami Google. Zmniejszy to trochę czas pracy telefonu na baterii.</string>
+    <string name="grant_dialog_button_onetime">Zezwól raz</string>
     <string name="group_connect_device">Interakcja urządzeń Xiaomi</string>
     <string name="gtb_dialog_privacy_voice_message">"Niedługo skorzystasz z funkcji Xunyou Game Voice Changer. Usługa będzie gromadzić ID Twojego konta Xiaomi, aby rejestrować czas trwania Twojego członkostwa."</string>
     <string name="gtb_exit_game_to_gtb">Otwórz przybornik</string>
@@ -638,7 +645,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="label_callwait">Połączenia oczekujące</string>
     <string formatted="false" name="loading_text_format">Sprawdzanie, czy zdjęcia zawierają prywatne dane (%d/%d)…</string>
     <string name="location">Lokalizacja</string>
-    <string name="location_services_title">Usługi lokalizacji</string>
+    <string name="location_services_title">Lokalizacja</string>
     <string name="lock_mode_title">Opcje blokady</string>
     <string name="lock_screen_traffic_notify_body">Użyto %3$s po %2$s od blokady (%1$s)</string>
     <string name="long_click_dialog_summary">Przytrzymaj długo palcem na wyniku, aby dodać go do wyjątków</string>
@@ -764,6 +771,11 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="optimize_result_button_onekey_restore">Przywróć</string>
     <string name="optmizingbar_title_system">Zabezpieczenia systemu</string>
     <string name="overlay_permission_dialog_message_security_service">Panel sterowania wymaga pewnych uprawnień do poprawnego działania.</string>
+    <string name="password_or_finger_unlock">Odblokuj hasłem lub odciskiem palca</string>
+    <string name="password_switch">Użyj hasła</string>
+    <string name="password_unlock">Odblokuj hasłem</string>
+    <string name="pc_18W_high_power_reverse_charging_summary">Ładuj urządzenia szybciej dzięki ulepszonemu ładowaniu zwrotnemu. Połączenie USB będzie używane tylko do ładowania.</string>
+    <string name="pc_18W_high_power_reverse_charging_title">Ładowanie zwrotne</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">Zapobiega przejściu systemu w tryb uśpienia</string>
     <string name="pc_always_charge_protect_summary">Aby zachować żywotność baterii, zezwól na ładowanie tylko do %1$s</string>
     <string name="pc_battery_history_battery_software_menu_item">System</string>
@@ -774,6 +786,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_berserk_mode_dialog_title">Włącz Tryb wydajności</string>
     <string name="pc_berserk_mode_noti_summary">Tryb wydajności może zwiększyć zużycie energii i prowadzić do przegrzania urządzenia</string>
     <string name="pc_berserk_mode_performance_title">Tryb wydajności</string>
+    <string name="pc_camera_handle_setting_title">Ładuj urządzenie uchwytem</string>
     <string name="pc_charge_mode_low_power_fast_speed">Przyspieszenie</string>
     <string name="pc_charge_protection_wireless_reverse_charge">Bezprzewodowe ładowanie zwrotne</string>
     <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">Wyłącz bezprzewodowe ładowanie zwrotne, gdy poziom naładowania baterii tego urządzenia spadnie poniżej %1$s</string>
@@ -816,6 +829,7 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_satellite_auto_enter_super_power">Włączono Ultraoszczędzanie baterii, aby zapewnić działanie komunikacji satelitarnej</string>
     <string name="pc_save_power">Oszczędzanie baterii</string>
     <string name="pc_smart_charge_button_summary">Aby przedłużyć żywotność baterii, system będzie się uczyć tego, jak ładujesz urządzenie, i zatrzyma ładowanie przy %1$s baterii</string>
+    <string name="pc_smart_charge_button_summary_new">Aby wydłużyć żywotność baterii, system będzie się uczyć tego, jak ładujesz urządzenie, i w odpowiednich sytuacjach zatrzyma ładowanie przy %1$s baterii</string>
     <string name="pc_smart_charge_notify_summary_high_temp">Twoje urządzenie się przegrzało. Ładowanie zostanie zatrzymane przy %1$s baterii.</string>
     <string name="pc_smart_charge_notify_summary_navagition">Nawigowanie… Ładowanie zostanie zatrzymane przy %1$s baterii</string>
     <string name="pc_smart_charge_notify_summary_night_charge">Ładowanie zatrzyma się o %s</string>
@@ -1326,7 +1340,7 @@ Wycofać zgodę?"</string>
     <string name="sim_lock_start_bind_device_superscript">Zalecane</string>
     <string name="sim_lock_start_bind_device_title">Zablokuj kartę SIM i powiąż ją z tym urządzeniem</string>
     <string name="sim_lock_start_close_dialog_enable">OK</string>
-    <string name="sim_lock_start_close_dialog_message">Wyłączenie tej funkcji spowoduje, że Twoja karta SIM będzie bardziej narażona na zagrożenia bezpieczeństwa. Czy chcesz, aby ta funkcja dalej była włączona?</string>
+    <string name="sim_lock_start_close_dialog_message">Wyłączenie tej funkcji spowoduje, że Twoja karta SIM będzie bardziej narażona na zagrożenia bezpieczeństwa. Wyłączyć mimo to?</string>
     <string name="sim_lock_start_close_dialog_title">Uwaga</string>
     <string name="sim_lock_start_confirm_password_title">Potwierdź blokadę ekranu</string>
     <string name="sim_lock_start_keyguard_dialog_cancel">Anuluj</string>
@@ -1642,16 +1656,16 @@ Funkcja nie będzie działać, gdy włączone jest Oszczędzanie baterii lub Ult
     <string name="warningcenter_mijia_devices_3">Detektor gazu</string>
     <string name="warningcenter_mijia_devices_4">Inteligentna blokada</string>
     <string name="warningcenter_mijia_devices_support">Wspierane urządzenia</string>
-    <string name="warningcenter_mijia_devices_support_tips">"Uwaga: Jeśli wylogujesz się z swojego konta w aplikacji Mi Home lub odinstalujesz tą aplikację, nie będziesz otrzymywać alertów."</string>
+    <string name="warningcenter_mijia_devices_support_tips">"Uwaga: Jeśli wylogujesz się z swojego konta w aplikacji Xiaomi Home lub odinstalujesz tą aplikację, nie będziesz otrzymywać alertów."</string>
     <string name="warningcenter_mijia_info">Monitoruj bezpieczeństwo swojego domu</string>
     <string name="warningcenter_mijia_notification_summary">Możesz otrzymywać natychmiastowe informacje</string>
     <string name="warningcenter_mijia_notification_title">Alerty z urządzeń smart home są włączone</string>
-    <string name="warningcenter_mijia_open_desc">"Otrzymasz alerty na tym telefonie (oraz innych udostępnionych urządzeniach) z urządzeń, które dodano w aplikacji Mi Home"</string>
+    <string name="warningcenter_mijia_open_desc">"Otrzymasz alerty na tym telefonie (oraz innych udostępnionych urządzeniach) z urządzeń, które dodano w aplikacji Xiaomi Home"</string>
     <string name="warningcenter_mijia_open_title">Otrzymuj alerty z urządzeń smart home</string>
     <string name="warningcenter_mijia_page_title">Alerty</string>
-    <string name="warningcenter_mijia_search_keywords">Alerty z aplikacji Mi Home</string>
+    <string name="warningcenter_mijia_search_keywords">Alerty z aplikacji Xiaomi Home</string>
     <string name="warningcenter_mijia_title">Alerty z urządzeń smart home</string>
-    <string name="warningcenter_smarthome">Mi Home</string>
+    <string name="warningcenter_smarthome">Xiaomi Home</string>
     <string name="warningcenter_title">Centrum ostrzeżeń</string>
     <string name="wednesday_shortest">Ś</string>
     <string name="weight_heavy">Gruba</string>

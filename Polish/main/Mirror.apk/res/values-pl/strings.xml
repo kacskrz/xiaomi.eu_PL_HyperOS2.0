@@ -162,6 +162,7 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="pc_cooperate_guide_undo">Cofnij (Ctrl+Z)</string>
     <string name="pc_low_version_toast">Zaktualizuj oprogramowanie na komputerze</string>
     <string name="pcmode_not_support_multi_window">"Tryb PC nie wspiera wyświetlania wielu okien."</string>
+    <string name="phone_connect_with_car_toast">Telefon jest połączony z pojazdem</string>
     <string name="phone_pad_app_introduction_summary">Kontynuuj zadania w tej samej aplikacji na tablecie</string>
     <string name="phone_pad_doc_introduction_summary">Udostępniaj sesje edycji dokumentów innym urządzeniom i zapisuj zmiany w swojej preferowanej lokalizacji</string>
     <string name="phone_pad_doc_introduction_title">Pliki</string>
