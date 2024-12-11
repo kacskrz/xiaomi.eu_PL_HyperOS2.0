@@ -32,6 +32,7 @@
     <string name="controls_seeding_in_progress">Ładowanie rekomendacji</string>
     <string name="controls_structure_tooltip">Przeciągnij, aby zobaczyć więcej</string>
     <string name="drag_to_add_tiles">Przytrzymaj, aby dodać lub zmienić kolejność elementów</string>
+    <string name="flashlight_not_available">Nie można używać latarki podczas korzystania z aparatu</string>
     <string name="miui_dnd_count_down_time">"Licznik Nie przeszkadzać
 %s"</string>
     <string name="month_april">kwietnia</string>
