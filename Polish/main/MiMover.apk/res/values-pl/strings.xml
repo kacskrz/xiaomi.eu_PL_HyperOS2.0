@@ -72,7 +72,6 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="host_verify_lock_retry">Potwierdź blokadę ekranu</string>
     <string name="host_verify_lock_summary">"Będzie to Twoja nowa blokada ekranu"</string>
     <string name="host_verify_lock_title">"Wprowadź starą blokadę ekranu"</string>
-    <string name="host_verify_lock_waiting">Weryfikowanie…</string>
     <string name="hsa_input_tip">Twoje Apple ID używa uwierzytelniania dwuskładnikowego. Wpisz kod weryfikacyjny.</string>
     <string name="hsa_tip_message_shutdown_hsa">Jak wyłączyć uwierzytelnianie dwuskładnikowe</string>
     <string name="hsa_verify_failed">"Nie udało się uwierzytelnić"</string>
@@ -205,7 +204,6 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="provision_set_new_phone">Użyj jako nowe urządzenie</string>
     <string name="provision_set_old_pad">Importuj ze staregu urządzenia</string>
     <string name="receiver">Otrzymaj</string>
-    <string name="receiver_finish_detail">Prześlij elementy</string>
     <string name="receiver_finish_detail_success">Przeniesione elementy</string>
     <string name="receiver_finish_title">"Gotowe!"</string>
     <string name="receiver_video_summary">Odblokuj stare urządzenie, dotknij opcji \"Wyślij\" i zeskanuj ten obrazek</string>

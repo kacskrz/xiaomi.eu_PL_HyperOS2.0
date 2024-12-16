@@ -38,8 +38,6 @@ d.MM"</string>
     <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">"Ten Ekran blokady nie wspiera Supertapet. Jeśli przejdziesz dalej, tapeta zarówno na Ekranie głównym, jak i na Ekranie blokady, zostanie zmieniona. Przejść dalej?"</string>
     <string name="kg_dialog_apply_super_wallpaper_confirm">"Używasz Supertapety. Jeśli przejdziesz dalej, zostanie ona zmieniona na nową tapetę zarówno na Ekranie głównym, jak i na Ekranie blokady. Przejść dalej?"</string>
     <string name="kg_dialog_fashion_gallery_message">"Używasz Tapet Blokady. Zastosowanie dynamicznej tapety wyłączy je. Zastosować mimo to?"</string>
-    <string name="kg_doodle_text_not_support_clock_tip">Nie można używać gryzmołów z tym zegarem</string>
-    <string name="kg_exit">Wyjdź</string>
     <string name="kg_glass_filter_on_time">Zastosuj do zegara</string>
     <string name="kg_guidance_dialog_title">Nowy, spersonalizowany Ekran blokady</string>
     <string name="kg_template_description_rhombus">Czas jest ważny. Wykorzystaj go.</string>
