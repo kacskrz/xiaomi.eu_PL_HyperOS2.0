@@ -3,6 +3,7 @@
     <string name="accessibility_enter_lock_setting">Dotknij, aby otworzyć ustawienia Tapet blokady</string>
     <string name="accessibility_enter_lock_wallpaper">Pokaż Tapety blokady</string>
     <string name="accessibility_left_lock_screen_magazine_button">Tapety blokady</string>
+    <string name="accessibility_quick_settings_handle_handsfree_battery_level">Podłączono uchwyt</string>
     <string name="alertdialog_safemode_button_submit">Prześlij</string>
     <string name="alertdialog_safemode_message">Twoje urządzenie weszło w Tryb bezpieczny ze względu na problemy interfejsu systemu sprawiające, że niektóre funkcje stały się niedostępne. Aby przyspieszyć rozwiązanie problemu, prześlij swoją opinię.</string>
     <string name="alertdialog_safemode_title">Tryb bezpieczny</string>

@@ -77,7 +77,6 @@
     <string name="satellite_debug_evevation">Wysokość</string>
     <string name="satellite_debug_rssi">Siła sygnału</string>
     <string name="satellite_debug_satellite">Satelita</string>
-    <string name="satellite_diable_earpiece">"Nie można użyć głośnika do rozmów w połączeniach satelitarnych"</string>
     <string name="satellite_dialog_cancel_exp">Anuluj</string>
     <string name="satellite_get_gps_timeout">"Nie można uzyskać lokalizacji. Pozostań na otwartej przestrzeni i unikaj obiektów, które blokują sygnał."</string>
     <string name="satellite_guide_azimuth">Poruszaj, dopóki satelita nie znajdzie się w obszarze skanowania</string>
@@ -101,6 +100,7 @@ aby umieścić piłkę w niebieskim polu"</string>
     <string name="satellite_satellite_service_redirection">Aktywuj</string>
     <string name="satellite_satellite_service_tip">"Wygląda na to, że nie aktywowano usługi bezpośredniej łączności z satelitą. Wyszuaj satelity po aktywacji tej usługi."</string>
     <string name="satellite_service_provider">Usługę dostarcza China Telecom</string>
+    <string name="satellite_service_provider_tiantong">Dostarczane przez Tiantong</string>
     <string name="satellite_signal_boost_setting_dialog">Jeśli już kupiłeś i zainstalowałeś wzmacniacz, dotknij opcji \"Użyj\". Przy prawidłowym korzystaniu wzmacniacz może poprawić siłę i stabilność sygnału, nawet przy kiepskiej pogodzie. Aby uniknąć potencjalnych zakłóceń, nie wybieraj tej opcji, jeśli jeszcze nie zainstalowałeś wzmacniacza.</string>
     <string name="satellite_signal_boost_setting_dialog_title">Użyj wzmacniacza sygnału satelity</string>
     <string name="satellite_state_connected">"Połączono z satelitą

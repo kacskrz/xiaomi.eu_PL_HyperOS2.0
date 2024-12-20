@@ -13,8 +13,8 @@
     <string name="celluar_tether_prompt">"Dzięki bezprzewodowemu tetheringowi Twój tablet może korzystać z danych mobilnych Twojego telefonu. Wygląda na to, że w pobliżu nie ma kompatybilnego z tą funkcją urządzenia Xiaomi. Upewnij się, że Twoj telefon i tablet są zalogowane na to samo konto Xiaomi, dane mobilne na Twoim telefonie są włączone, a oba urządzenia są połączone z siecią Wi-Fi."</string>
     <string name="celluar_tether_prompt_china">"Dzięki bezprzewodowemu tetheringowi Twój tablet może korzystać z danych mobilnych Twojego telefonu. Wygląda na to, że w pobliżu nie ma kompatybilnego z tą funkcją urządzenia Xiaomi. Upewnij się, że Twoj telefon i tablet są zalogowane na to samo konto Xiaomi, dane mobilne na Twoim telefonie są włączone, a oba urządzenia są połączone z siecią Wi-Fi."</string>
     <string name="config_net_device_ignore">Anuluj</string>
-    <string name="config_net_device_title_find_headset">Znajdź %1$s</string>
-    <string name="config_net_download_tips">Zainstaluj aplikację Mi Fitness, zaloguj się w niej i zbliż telefon do urządzenia.</string>
+    <string name="config_net_device_title_find_headset">Znaleziono \"%1$s\"</string>
+    <string name="config_net_download_tips">Zainstaluj aplikację Mi Fitness i zaloguj się w niej, aby połączyć się z tym urządzeniem.</string>
     <string name="device_busy_notify">Urządzenie jest zajęte. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="easy_tether_auto_connect_summary">Możesz włączyć hotspot i umożliwić urządzeniom w pobliżu korzystającym z Twojego konta Xiaomi automatyczne łączenie się z tym hotspotem, gdy nie mogą one uzyskać dostępu do sieci za pomocą innych metod.</string>
     <string name="easy_tether_auto_connect_summary_v2">"Automatycznie włącz dane komórkowe lub hotspot i połącz się z urządzeniami w pobliżu z tym samym kontem, gdy potrzebują one dostępu do Internetu."</string>
@@ -41,6 +41,7 @@
     <string name="lyra_auto_connect_msg">"Wygląda na to, że to urządzenie nie ma połączenia z siecią. Możesz się połączyć z tym hotspotem."</string>
     <string name="lyra_auto_connect_summary">"Automatycznie włącz hotspot i łącz z nim urządzenia w pobliżu, które są zalogowane na Twoje konto Xiaomi, gdy nie mają one połączenia z siecią"</string>
     <string name="lyra_auto_connect_title">Automatycznie włącz hotspot</string>
+    <string name="mi_home_device_find">Znaleziono \"%1$s\"</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">K</string>
