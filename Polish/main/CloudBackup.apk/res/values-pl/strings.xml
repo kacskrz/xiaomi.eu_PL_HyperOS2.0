@@ -16,6 +16,7 @@
 * Ustawień systemu 
 
 Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
+    <string name="cloud_backup_detail_header_condition_battery_content_description">co najmniej %s</string>
     <string name="cloud_backup_detail_state_summary_china_content_description">Wymaga połączenia z Wi-Fi, co najmniej %s baterii i wyłączonego ekranu</string>
     <string name="cloud_backup_detail_state_summary_content_description">Wymaga połączenia z Wi-Fi, co najmniej %s baterii i wyłączonego ekranu</string>
     <string name="cta_dialog_all_purpose">"Witaj w Kopii w Chmurze! Możesz użyć tej aplikacji do wykonywania kopii zapasowych układu pulpitu, aplikacji i ustawień systemu w Chmurze."</string>
