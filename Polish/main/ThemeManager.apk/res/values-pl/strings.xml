@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_ai_wallpaper">O Motywach</string>
     <string name="about_app_name">O Motywach</string>
     <string name="about_version_update">"Co nowego?"</string>
     <string name="accessibiliy_description_content_comment">Komentarz</string>
@@ -22,24 +21,15 @@
     <string name="add">Dodaj</string>
     <string name="add_home_icon_success">Pomyślnie dodano</string>
     <string name="ai_account_violated_service_unavailable_try_again_later">Twoje konto wielokrotnie naruszyło wytyczne Xiaomi i zostało zawieszone. Spróbuj ponownie później.</string>
-    <string name="ai_apply_wallpaper">Zastosuj</string>
     <string name="ai_cannot_scrolling_with_the_screen">Nie można włączyć przewijania dla tej tapety</string>
     <string name="ai_delete_wallpaper">Wyjdź</string>
     <string name="ai_estimated_two_three_minutes" formatted="false">Zajmie to %d–%d minuty</string>
-    <string name="ai_generate">Wygenerowane przez SI</string>
-    <string name="ai_generate_action">Generuj</string>
-    <string name="ai_generate_background">Dokończ w tle</string>
-    <string name="ai_generate_determine">Analizowanie zdjęć…</string>
-    <string name="ai_generate_fail">Nie udało się wygenerować</string>
-    <string name="ai_generate_forbid">Aktualizujemy tę funkcję. Bądź czujny!"</string>
     <string name="ai_generate_loading">Generowanie tapety…</string>
     <string name="ai_generate_message">Jeśli wygenerujesz dynamiczną tapetę, zmiany dodane do statycznej wersji tapety nie zostaną zapisane. Wygenerować?</string>
     <string name="ai_generate_text">Generuj dynamiczną tapetę</string>
     <string name="ai_generate_title">Wygenerować dynamiczną tapetę?</string>
     <string name="ai_generate_verify_text">Weryfikowanie zawartości obrazu…</string>
     <string name="ai_generate_waiting">Serwer jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
-    <string name="ai_generate_wallpaper_done">Pomyślnie wygenerowano dynamiczną tapetę SI</string>
-    <string name="ai_generate_wallpaper_fail">Nie udało się wygenerować dynamicznej tapety SI</string>
     <string name="ai_generate_wallpaper_fail_message">Wybrane przez Ciebie zdjęcia mogły naruszyć wytyczne Xiaomi. Wybierz nowe zdjęcia.</string>
     <string name="ai_generating">Generowanie…</string>
     <string name="ai_generating_wallpaper">Generowanie tapety…</string>
@@ -48,44 +38,19 @@
     <string name="ai_in_line">Jesteś w kolejce…</string>
     <string name="ai_inquire_apply_wallpaper">Zastosować tę tapetę?</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>.&lt;/Data></string>
-    <string name="ai_select_again">Wybierz</string>
     <string name="ai_select_images_in_the_following_formats">Wybierz obrazy w formatach: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC lub HEIF.</string>
     <string name="ai_select_images_smaller_than_one_hundred">Wybierz obraz mniejszy niż %d MB i spróbuj ponownie.</string>
     <string name="ai_select_message">Wybieraj tylko zdjęcia pejzaży, miast, roślin i aut. Upewnij się, że główny obiekt zdjęcia jest ostry i niezasłonięty innymi rzeczami.</string>
-    <string name="ai_select_title">Nie można przetworzyć zdjęć</string>
-    <string name="ai_select_wallpaper">Wybierz tapetę</string>
     <string name="ai_service_temporarily_unavailable">Funkcja jest niedostępna</string>
-    <string name="ai_service_unavailable">Funkcja jest niedostępna</string>
     <string name="ai_waiting_in_line_please_wait">Jesteś w kolejce. Proszę czekać…</string>
     <string name="ai_wallpaper_account_exception">Wygląda na to, że wystąpił problem na Twoim koncie. Spróbuj ponownie później lub zmień konto.</string>
-    <string name="ai_wallpaper_cancel">Anuluj</string>
     <string name="ai_wallpaper_click_to">Dotknij, aby zobaczyć</string>
-    <string name="ai_wallpaper_desc">Ta treść jest wygenerowana przez SI</string>
-    <string name="ai_wallpaper_feedback">Opinia</string>
-    <string name="ai_wallpaper_i_know">OK</string>
     <string name="ai_wallpaper_inside_invitation">Betatesty dynamicznych tapet SI</string>
-    <string name="ai_wallpaper_inside_invitation_agree">Zgadzam się</string>
-    <string name="ai_wallpaper_inside_invitation_description">Ta funkcja używa możliwości dużych modeli językowych do generowania dynamicznych tapet wideo ze zdjęć pejzaży, miast, roślin i aut. Dotknij opcji \"Zgadzam się\", aby ją wypróbować!</string>
-    <string name="ai_wallpaper_inside_invitation_disagree">Nie zgadzam się</string>
-    <string name="ai_wallpaper_network_connection_exception">Nie udało się połączyć z siecią</string>
-    <string name="ai_wallpaper_network_exception">Wystąpił błąd sieci</string>
-    <string name="ai_wallpaper_no_longer">Nie pokazuj ponownie</string>
-    <string name="ai_wallpaper_not_conform_to_generation_condition">Nie można wygenerować tapety dla tego obrazu</string>
-    <string name="ai_wallpaper_notification_title">Motywy</string>
-    <string name="ai_wallpaper_retry">Spróbuj ponownie</string>
     <string name="ai_wallpaper_select_picture">Wybierz</string>
-    <string name="ai_wallpaper_selection_prompt">Wybierz zdjęcia</string>
     <string name="ai_wallpaper_selection_prompt_message">Dla lepszego efektu wybierz zdjęcia z poniższych kategorii i upewnij się, że główny obiekt zdjęcia jest ostry i niezasłonięty innymi rzeczami.</string>
     <string name="ai_wallpaper_service_exception">Wystąpił błąd</string>
-    <string name="ai_wallpaper_start_use">Start</string>
-    <string name="ai_wallpaper_tips_car">Auta</string>
-    <string name="ai_wallpaper_tips_city">Miasta</string>
     <string name="ai_wallpaper_tips_content_violation">Ta treść może naruszać wytyczne Xiaomi. Nie można kontynuować generowania tapety.</string>
-    <string name="ai_wallpaper_tips_network_exception">Nie udało się połączyć z siecią. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
-    <string name="ai_wallpaper_tips_plant">Rośliny</string>
-    <string name="ai_wallpaper_tips_service_exception">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="ai_wallpaper_tips_title_content_violation">Nieodpowiednia zawartość</string>
-    <string name="ai_wallpaper_tips_view">Pejzaże</string>
     <string name="allow">Przyznano</string>
     <string name="already_latest_version">Aktualna</string>
     <string name="already_newest_version">Wersja jest aktualna</string>
@@ -150,9 +115,7 @@
     <string name="carousel_no_set_wallpaper_effects">Nie można ustawić efektów, gdy włączone są Tapety Blokady</string>
     <string name="check_has_new_version">Dostępna jest aktualizacja</string>
     <string name="choose_from_photo">Wybierz z Galerii</string>
-    <string name="choose_video_dialog_invalid_default_message">To wideo nie jest wspierane.</string>
     <string name="choose_video_dialog_invalid_direction_title">Poziome wideo nie jest wspierane.</string>
-    <string name="choose_video_dialog_invalid_format_message">Wspierane są tylko filmy *.mp4 i *.mov niewykorzystujące HDR.</string>
     <string name="choose_video_dialog_invalid_format_title">Niewspierany format wideo</string>
     <string name="clock">Zainstaluj Zegar</string>
     <string name="close_custom_permission_warning_text">"Bez uprawnień do pamięci aplikacja nie będzie mogła pobierać elementów i personalizować Twojego urządzenia. Wyłączyć mimo to?"</string>
@@ -264,7 +227,6 @@
     <string name="dynamic_large_icon_not_support_current_type">"%s nie jest wspierana dla tej dynamicznej ikony"</string>
     <string name="dynamic_video_wallpaper">Tapeta zależna od pory dnia</string>
     <string name="editor_cancel">Anuluj</string>
-    <string name="editor_continue">Kontynuuj</string>
     <string name="enable_accessibility">Wymagane uprawnienia ułatwień dostępu</string>
     <string name="enable_accessibility_hint">"Możesz włączyć tą usługę w aplikacji Motywy. Po włączeniu jej będziesz w stanie wybrać aplikacje, które powinny działać z przezroczystą tapetą w tle."</string>
     <string name="enable_all_free_mode">Włącz</string>
@@ -315,7 +277,6 @@
     <string name="forbid_video_wallpaper_by_second_space">Najpierw zastosuj dynamiczną tapetę w Pierwszej przestrzeni.</string>
     <string name="format_month_day_style2">d.MM</string>
     <string name="format_month_day_week">EEEE, d MMMM</string>
-    <string name="function_introduction">Dowiedz się więcej</string>
     <string name="gallery_wallpaper">Tapety Blokady</string>
     <string name="gallery_wallpaper_history">Dotknij, aby wyświetlić obrazy pokazywane wcześniej w Tapetach Blokady</string>
     <string name="gallery_wallpaper_history_go">Wyświetl</string>
@@ -546,7 +507,6 @@ d.MM."</string>
     <string name="month_september_shortest">Wrz</string>
     <string name="more_icon_style">Więcej ikon</string>
     <string name="more_sub_comment">Zobacz wszystkie odpowiedzi (%1$d)></string>
-    <string name="movie_save_stop_tips_toast">Dotknij ponownie, aby zatrzymać zapisywanie</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Dzwonek będzie zastosowany dla obydwu kart SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Dzwonek będzie zastosowany dla obydwu kart SIM.</string>
     <string name="multiwindow_no_support_icon">"Nie można zmienić ikon podczas korzystania z Dzielonego ekranu"</string>
@@ -818,7 +778,6 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="resource_no_result">Brak wyników</string>
     <string name="resource_present">Podaruj</string>
     <string name="resource_price_free">Darmowy</string>
-    <string name="resource_re_choose">Wybierz</string>
     <string name="resource_restore">Przywróć</string>
     <string name="resource_restore_fail">"Nie można przywrócić"</string>
     <string name="resource_restore_succ">Pomyślnie przywrócono</string>
@@ -920,6 +879,7 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="support_theme_store_supported">Dziękujemy za Twoje wsparcie!</string>
     <string name="support_theme_store_title">Wspomóż twórców Xiaomi</string>
     <string name="swipe_find_more">Przesuń w lewo, aby wyświetlić więcej</string>
+    <string name="system_aod_dialog_message">Włącz Ekran zawsze włączony, aby móc korzystać z tej funkcji.</string>
     <string name="system_cta_agree_desc">Zezwól tej aplikacji na połączenie się z Internetem i nadaj uprawnienia wymienione powyżej.</string>
     <string name="system_cta_all_purpose">"Witaj w aplikacji Motywy! Dzięki tej aplikacji możesz zarządzać swoimi motywami, tapetami, dzwonkami i czcionkami. "</string>
     <string name="system_cta_all_purpose_fold">Witaj w Tapetach i personalizacji! Możesz użyć tej aplikacji do zarządzania swoimi motywami Ekranu zawsze włączonego, tapetami, dzwonkami i czcionkami.</string>
@@ -935,7 +895,6 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="system_precust">Systemowe</string>
     <string name="tag_ad">Reklama</string>
     <string name="task_already_exist">Zadanie już istnieje</string>
-    <string name="the_wallpaper_does_not_support_graffiti_text">Ta tapeta nie wspiera gryzmołów</string>
     <string name="theme_apply_audio_dialog_item_alarm">Alarmy</string>
     <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Własny dzwonek</string>
     <string name="theme_apply_audio_dialog_item_mms">SMS</string>
@@ -1048,9 +1007,6 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
     <string name="video_edit_export_fail_toast">Nie udało się wyeksportować</string>
     <string name="video_wallpaper_apply_warning">Ta tapeta zostanie ustawiona zarówno na Ekranie głównym, jak i na Ekranie blokady. Zrobić to?</string>
     <string name="video_wallpaper_import">Kliknij, aby dodać elementy</string>
-    <string name="vlog_saving_no_edit">Przygotowywanie wideo…</string>
-    <string name="vlog_talkback_view_pause">Pauza</string>
-    <string name="vlog_talkback_view_play">Odtwórz</string>
     <string name="voice_input">Wprowadzanie głosowe</string>
     <string name="wallpaper_apply_full">Zastosuj na obu ekranach</string>
     <string name="wallpaper_apply_inner">Ustaw na wewnętrznym ekranie</string>
@@ -1061,7 +1017,6 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
     <string name="wallpaper_apply_small">Zastosuj na zewnętrznym ekranie</string>
     <string name="wallpaper_auto_change_title">Ekran blokady</string>
     <string name="wallpaper_dark_mode_image_preview_tip">Podgląd Ciemnego motywu</string>
-    <string name="wallpaper_delete_all">Usunąć wybrane elementy?</string>
     <string name="wallpaper_download_incall_show">Pobierz wideo</string>
     <string name="wallpaper_dynamic">Dynamiczne</string>
     <string name="wallpaper_group_set_loop">Slajdy z podobnymi obrazami</string>

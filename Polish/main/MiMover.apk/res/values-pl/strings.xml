@@ -253,9 +253,6 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="tips_prudent_operation_title">%d. Nie wyłączaj i nie zmieniaj hotspotu Wi-Fi.</string>
     <string name="tips_prudent_operation_title_overseas">%d. Nie wyłączaj i nie zmieniaj hotspotu Wi-Fi.</string>
     <string name="title_request_write_settings_perm">Zezwól na zmienianie ustawień systemu</string>
-    <string name="trans_apple">"Połącz się z urządzeniem Apple"</string>
-    <string name="trans_apple_hint_1_content">"Pobierz Przenoszenie danych ze sklepu App Store lub zeskanuj ten kod QR za pomocą aplikacji Aparat w Twoim urządzeniu Apple."</string>
-    <string name="trans_apple_hint_2_content">Otwórz Przenoszenie danych na Twoim urządzeniu Apple, wybierz opcję \"Dotknij, aby przesłać elementy\" i zeskanuj kod QR.</string>
     <string name="trans_apple_hint_2_title">%d. Połącz urządzenia</string>
     <string name="trans_apple_hint_china">Nie opuszczaj tej strony i nie korzystaj z Wi-Fi, dopóki transfer się nie zakończy.</string>
     <string name="trans_install_guide_new_content_first">"Zeskanuj ten kod QR na nowym urządzeniu. 
@@ -264,7 +261,6 @@ Pobierz i zainstaluj Przenoszenie danych."</string>
 2. Pobierz i zainstaluj Przenoszenie danych.
 3. Dotknij przycisk poniżej, gdy instalacja się zakończy."</string>
     <string name="trans_show_qr_code_label_for_pad">Otwórz Przenoszenie danych na starym urządzeniu</string>
-    <string name="trans_sync_transfer_data_list_apple">"Wybierz elementy do przeniesienia na swoim urządzeniu Apple"</string>
     <string name="transfer_bottom_tip">"Nie będziesz w stanie używać Wi-Fi lub Bluetooth w trakcie przenoszenia. Nie opuszczaj tej strony."</string>
     <string name="transfer_finish_bottom_tip">"Jeśli nie zamierzasz już używać starego urządzenia, możesz wymazać wszystkie dane na nim po potwierdzeniu, że wszystkie najważniejsze elementy zostały pomyślnie przeniesione."</string>
     <string name="transfer_long_pause_in_progress">Przesyłanie…</string>

@@ -9,7 +9,6 @@
     <string name="date_time_fmt">%1$s (%2$s)</string>
     <string name="desk_calendar">Bogaty kalendarz biurkowy</string>
     <string name="desk_image_cannot_slip_hint">Na razie to wszystko</string>
-    <string name="desk_theme_selection">Motyw kalendarza na biurko</string>
     <string name="icon_remove_description_content">Kalendarz jest aplikacją systemową. Zezwala na tworzenie i zarządzanie wydarzeniami. Po usunięciu Kalendarza z Ekranu głównego nadal będzie możliwe korzystanie z niego poprzez widżet na Ekranie głównym i Asystenta HyperOS.</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>

@@ -480,44 +480,26 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
 · Przeciągnij aplikację na środek ekranu, aby otworzyć ją w pływającym oknie lub do krawędzi, aby skorzystać z Dzielonego ekranu."</string>
     <string name="fully_informed_privacy">Świadomość dot. prywatności</string>
     <string name="function_oncall_not_close_network">Nie odbieraj połączeń</string>
-    <string name="game_center_more">Więcej</string>
     <string name="game_center_network_setting_tip">Zezwól Panelowi sterowania na łączenie się z Internetem w Ustawieniach</string>
-    <string name="game_center_recommend">Zalecane</string>
-    <string name="game_perf_config_audio_desc">Dostosuj styl dźwięku gry</string>
-    <string name="game_perf_config_audio_title">Dźwięk gry</string>
-    <string name="game_perf_config_display_desc_disabled">Niedostępne</string>
     <string name="game_perf_config_display_desc_enabled">Zmień rozdzielczość i klatkaż</string>
     <string name="game_perf_config_motion_desc">Zmień czułość dotyku w grach</string>
     <string name="game_perf_config_network_desc">Zmniejsz opóźnienie i zakłócenia sieci</string>
-    <string name="game_perf_config_network_title">Przyspieszenie prędkości sieci</string>
     <string name="game_perf_config_strategy_diy">Własne</string>
     <string name="game_perf_config_strategy_fps_first">Priorytet klatkażu</string>
     <string name="game_perf_config_strategy_picture_first">Priorytet obrazu</string>
     <string name="game_perf_config_strategy_title">Strategia wydajności</string>
-    <string name="game_toolbox_ai_qa_desc">Q&amp;A dużego modelu</string>
-    <string name="game_toolbox_ai_qa_title">Przewodnik SI</string>
     <string name="game_toolbox_ai_service_desc">Ulepszone granie z SI</string>
-    <string name="game_toolbox_ai_service_title">Usługi grania z SI</string>
-    <string name="game_toolbox_ai_upgrade_dialog_btn">Aktualizuj</string>
     <string name="game_toolbox_ai_upgrade_dialog_desc">Dostępna jest aktualizacja usług grania SI. Zanim użyjesz powiązanych z nimi funkcji, zaktualizuj je.</string>
     <string name="game_toolbox_ai_upgrade_dialog_title">Aktualizacja</string>
     <string name="game_toolbox_cellular_network">Przyspieszenie prędkości danych mobilnych</string>
-    <string name="game_toolbox_display_avrs_desc">Włącz, aby nieznacznie zmniejszyć jakość obrazu i znacznie zmniejszyć zużycie energii</string>
     <string name="game_toolbox_display_enhance_view_frc_notice">"Uwaga:
 Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w grze oraz zewnętrzne) mogą niedokładnie odczytywać liczbę klatek. Aby uzyskać aktualną liczbę klatek, przejdź do panelu wydajności."</string>
-    <string name="game_toolbox_display_style_desc">Dostosuj styl grafiki (wspiera HDR w grze)</string>
     <string name="game_toolbox_display_style_game_hdr">HDR w grze</string>
-    <string name="game_toolbox_display_style_title">Styl grafiki</string>
-    <string name="game_toolbox_fps_average">Średnio %d kl./s</string>
     <string name="game_toolbox_fps_realtime">Obecnie %d kl./s</string>
     <string name="game_toolbox_fps_shake">Opóźnienie %d kl./s</string>
     <string name="game_toolbox_immersion_sound_desc">Dokładnie odtwarzaj efekty dźwiękowe, takie jak kroki i głosy, zwiększając immersję w grze, gdy używasz słuchawek</string>
-    <string name="game_toolbox_immersion_sound_title">Dźwięk przestrzenny</string>
     <string name="game_toolbox_margin_restrain_description">Ustaw obszar niewrażliwy na dotyk, aby ograniczyć przypadkowe dotknięcia</string>
     <string name="game_toolbox_mem_clean_desc">Wyczyść RAM i zwiększ prędkość</string>
-    <string name="game_toolbox_more_tools_title">Więcej narzędzi</string>
-    <string name="game_toolbox_perf_config_desc">Skonfiguruj ustawienia wydajności gry</string>
-    <string name="game_toolbox_perf_config_title">Ustawienia wydajności</string>
     <string name="game_toolbox_performance_config_custom_notice_new">Możesz dostosować Superrozdzielczość i Inteligentny klatkaż, aby zarządzać klatkażem i jakością obrazu. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
     <string name="game_toolbox_performance_config_frc_notice">Gdy włączony jest Priorytet klatkażu, to aktualny klatkaż wynosi tyle, ile pokazano w panelu wydajności</string>
     <string name="game_toolbox_performance_config_frc_notice_new">Priorytet klatkażu poprawia liczbę klatek poprzez Inteligentny klatkaż. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
@@ -525,8 +507,6 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="game_toolbox_performance_config_resolution_notice_new">Priorytet obrazu poprawia jakość obrazu dzięki Superrozdzielczości i zarządza klatkażem poprzez Inteligentny klatkaż. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
     <string name="game_toolbox_super_follow_up_msg">Lepsza reakcja na dotyk i śledzenie przez cały potok sprzętowo-programowy</string>
     <string name="game_toolbox_super_shake_msg">Redukuj drgania przy dotknięciu i przesunięciu, poprawiając stabilność sterowania</string>
-    <string name="game_toolbox_title">Narzędzia gamingu</string>
-    <string name="game_toolbox_title_game_center">Gry</string>
     <string name="game_toolbox_title_wild">Tryb Ultra</string>
     <string name="game_toolbox_wild_mode_toast_tip">Zwiększono wydajność urządzenia</string>
     <string name="game_toolbox_wild_mode_toast_title">Włączono tryb Ultra</string>
@@ -569,7 +549,6 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
 i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gb_predownload_dialog_message_china"><Data>"Urządzenie może automatycznie pobierać zaktualizowane treści dla tej gry po połączeniu się z siecią Wi-Fi i wyłączeniu ekranu. Dzięki temu będziesz mógł grać w grę w nowej wersji tuż po jej opublikowaniu.&lt;br>&lt;br>Przed skorzystaniem z tej funkcji przeczytaj i zaakceptuj &lt;a href=\"%1$s\">Stanowisko dot. aktualizacji w tle&lt;/a>."</Data></string>
     <string name="gb_shoulder_key_light_effect_subtitle">"Kolorowe animacje będą wyświetlane, gdy triggery są włączone i grasz"</string>
-    <string name="gb_smotion_super_core_level_bar_desc">Czułość</string>
     <string name="gb_storage_summary">Nie pokazuj ikon gier dodanych do Game Turbo na pulpicie</string>
     <string name="gb_super_hot_area">Inteligentne dopasowanie obszaru</string>
     <string name="gb_super_hot_area_msg">Adaptacyjne strefowanie SI, poprawiające wrażenia dotykowe na poziomie sterowania</string>
@@ -609,7 +588,6 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
 Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="global_wa_setting_alert_dialog_title">Czyszczenie WhatsAppa</string>
     <string name="gmscore_support_remind">Włącz tę funkcję, jeśli doświadczasz problemów z Gmail, Mapami Google i innymi aplikacjami Google. Zmniejszy to trochę czas pracy telefonu na baterii.</string>
-    <string name="grant_dialog_button_onetime">Zezwól raz</string>
     <string name="group_connect_device">Interakcja urządzeń Xiaomi</string>
     <string name="gtb_dialog_privacy_voice_message">"Niedługo skorzystasz z funkcji Xunyou Game Voice Changer. Usługa będzie gromadzić ID Twojego konta Xiaomi, aby rejestrować czas trwania Twojego członkostwa."</string>
     <string name="gtb_exit_game_to_gtb">Otwórz przybornik</string>
@@ -645,7 +623,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="label_callwait">Połączenia oczekujące</string>
     <string formatted="false" name="loading_text_format">Sprawdzanie, czy zdjęcia zawierają prywatne dane (%d/%d)…</string>
     <string name="location">Lokalizacja</string>
-    <string name="location_services_title">Lokalizacja</string>
     <string name="lock_mode_title">Opcje blokady</string>
     <string name="lock_screen_traffic_notify_body">Użyto %3$s po %2$s od blokady (%1$s)</string>
     <string name="long_click_dialog_summary">Przytrzymaj długo palcem na wyniku, aby dodać go do wyjątków</string>
@@ -772,8 +749,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="optmizingbar_title_system">Zabezpieczenia systemu</string>
     <string name="overlay_permission_dialog_message_security_service">Panel sterowania wymaga pewnych uprawnień do poprawnego działania.</string>
     <string name="password_or_finger_unlock">Odblokuj hasłem lub odciskiem palca</string>
-    <string name="password_switch">Użyj hasła</string>
-    <string name="password_unlock">Odblokuj hasłem</string>
     <string name="pc_18W_high_power_reverse_charging_summary">Ładuj urządzenia szybciej dzięki ulepszonemu ładowaniu zwrotnemu. Połączenie USB będzie używane tylko do ładowania.</string>
     <string name="pc_18W_high_power_reverse_charging_title">Ładowanie zwrotne</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">Zapobiega przejściu systemu w tryb uśpienia</string>
@@ -786,7 +761,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_berserk_mode_dialog_title">Włącz Tryb wydajności</string>
     <string name="pc_berserk_mode_noti_summary">Tryb wydajności może zwiększyć zużycie energii i prowadzić do przegrzania urządzenia</string>
     <string name="pc_berserk_mode_performance_title">Tryb wydajności</string>
-    <string name="pc_camera_handle_setting_title">Ładuj urządzenie uchwytem</string>
     <string name="pc_charge_mode_low_power_fast_speed">Przyspieszenie</string>
     <string name="pc_charge_protection_wireless_reverse_charge">Bezprzewodowe ładowanie zwrotne</string>
     <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">Wyłącz bezprzewodowe ładowanie zwrotne, gdy poziom naładowania baterii tego urządzenia spadnie poniżej %1$s</string>
@@ -1600,8 +1574,6 @@ Wycofać zgodę?"</string>
     <string name="vb_dult_effect">3D LUT</string>
     <string name="vb_fps_settings">Autom. częstotliwość odświeżania</string>
     <string name="vb_movie_power_hint">Tryb kinowy zapewnia wciągające wrażenia wizualne. Twoje urządzenie może się nagrzewać i zużywać więcej energii.</string>
-    <string name="vb_movie_power_hint_new">"Dostosuj efekty dla olśniewających wrażeń wizualnych.
-Funkcja zwiększy zużycie energii."</string>
     <string name="vb_power_performance_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączony jest Tryb wydajności"</string>
     <string name="vb_power_save_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączone jest Oszczędzanie baterii"</string>
     <string name="vb_super_power_save_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączone jest Ultraoszczędzanie baterii"</string>

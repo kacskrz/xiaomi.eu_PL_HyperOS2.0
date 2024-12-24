@@ -32,9 +32,4 @@ Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
     <string name="restore_32bit_apps_no_tango_page_sub_title">Te aplikacje nie są kompatybilne z architekturą %d-bitową i nie mogą zostać przywrócone na tym urządzeniu. Możesz kontynuować proces przywracania, ale te aplikacje zostaną pominięte.</string>
     <string name="restore_32bit_apps_page_sub_title">Te aplikacje nie są kompatybilne z architekturą %d-bitową. Aby je przywrócić, włącz tryb zgodności aplikacji.</string>
     <string name="self_device_disable">%s (niewspierane na tym urządzeniu)</string>
-    <string name="session_action_btn_text_return_home">Ekran główny</string>
-    <string name="session_failed_invalid_token_action">Zaloguj się</string>
-    <string name="session_failed_invalid_token_detail">Zaloguj się ponownie</string>
-    <string name="session_failed_invalid_token_title">Nieprawidłowe poświadczenia</string>
-    <string name="session_failed_reason_invalid_token">Nieprawidłowe poświadczenia logowania. Zaloguj się ponownie.</string>
 </resources>
