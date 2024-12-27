@@ -14,12 +14,15 @@ Możesz teraz zalogować się na konto Xiaomi, korzystając z %s."</string>
     <string name="cloud_member_status_non_vip">Ulepsz</string>
     <string name="kr_license_desc">Aby korzystać z konta oraz chmury Xiaomi, musisz przeczytać i zaakceptować Umowę użytkownika i Politykę prywatności.</string>
     <string name="notify_bind_security_phone">Dodaj zapasowy numer telefonu</string>
+    <string name="pasport_register_dialog_message">Utworzyć konto Xiaomi za pomocą Twojego numeru telefonu %s?</string>
     <string name="passport_click_email_to_valid">"W celu aktywacji konta przejdź pod link podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="passport_get_innetdate_msg">&lt;font color=Red>Prawdopodobnie&lt;/font> numer %s został przypisany do kogoś innego przez operatora. Sprawdzić, kiedy był ostatnio online?</string>
     <string name="passport_get_innetdate_title">Sprawdź, kiedy nr był online</string>
     <string name="passport_no_account">Niezalogowany</string>
     <string name="passport_privacy_policy">Polityka prywatności</string>
     <string name="passport_privacy_policy_required">Polityka prywatności (wymagana)</string>
+    <string name="passport_register_dialog_positive">Utwórz</string>
+    <string name="passport_register_dialog_title">Utwórz konto Xiaomi</string>
     <string name="passport_registered_phone_user_ID">ID użytkownika: %s</string>
     <string name="passport_trust_device">Dodaj do zaufanych urządzeń</string>
     <string name="passport_tz_invalid">Znaleziono zagrożenia dot. bezpieczeństwa urządzenia. Mogło ono zostać zrootowane bądź wgrano na nim inne oprogramowanie. Spróbuj się zalogować za pomocą innych metod.</string>
