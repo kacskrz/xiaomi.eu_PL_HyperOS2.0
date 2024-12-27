@@ -46,6 +46,7 @@
     <string name="ai_wallpaper_account_exception">Wygląda na to, że wystąpił problem na Twoim koncie. Spróbuj ponownie później lub zmień konto.</string>
     <string name="ai_wallpaper_click_to">Dotknij, aby zobaczyć</string>
     <string name="ai_wallpaper_inside_invitation">Betatesty dynamicznych tapet SI</string>
+    <string name="ai_wallpaper_inside_invitation_description_all">Ta funkcja używa możliwości dużych modeli językowych do generowania dynamicznych tapet wideo ze zdjęć pejzaży, miast, roślin i aut. Dotknij opcji \"Zgadzam się\", aby ją wypróbować!</string>
     <string name="ai_wallpaper_select_picture">Wybierz</string>
     <string name="ai_wallpaper_selection_prompt_message">Dla lepszego efektu wybierz zdjęcia z poniższych kategorii i upewnij się, że główny obiekt zdjęcia jest ostry i niezasłonięty innymi rzeczami.</string>
     <string name="ai_wallpaper_service_exception">Wystąpił błąd</string>
