@@ -122,6 +122,7 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
     <string name="child_face_unlock_open_education_center">Otwórz Education Center po odblokowaniu</string>
     <string name="child_face_unlock_open_education_center_summary">Wybierz dane twarzy osoby, która będzie korzystać z tej funkcji</string>
     <string name="child_face_unlock_use">Użyj</string>
+    <string name="circle_to_search_title">Zaznacz, aby wyszukać</string>
     <string name="clear_failed_dlg_text">Nie można wyczyścić danych aplikacji.</string>
     <string name="close_aod">"Ta funkcja nie może być połączona z trybem \"Ekran zawsze włączony\". Wyłącz najpierw ten tryb.</string>
     <string name="close_optimization_message">Wyłączenie tej funkcji może mieć wpływ na wygląd tekstu, kont i innych części systemu.</string>
@@ -246,6 +247,9 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="full_screen_reminder">Ostrzeżenie</string>
     <string name="full_transparent_smarrcover_title">Przezroczysty front</string>
     <string name="gd_setting_title">Pasek boczny</string>
+    <string name="gemini_description">Czatuj z Gemini, aby ulepszyć swoje pomysły. Uzyskaj pomoc w nauce na nowe sposoby, pisaniu podziękowań, planowaniu wydarzeń i więcej. Użyj tekstu, głosu, zdjęć i aparatu, aby uzyskać pomoc na nowe sposoby. <a href="https://support.google.com/gemini/answer/14579026#zippy=%2Cwhere-you-can-download-the-gemini-app-from-the-google-play-store">Dowiedz się więcej na temat dostępności tej funkcji.</a></string>
+    <string name="gemini_function">Ulepsz swoje pomysły z Google Gemini, twoim nowym asystentem z SI</string>
+    <string name="gemini_setting">Przełącznik Gemini</string>
     <string name="gesture_lockcreen_doubletap_wakeup_title">Dwukrotnie dotknij Ekranu blokady, aby wybudzić</string>
     <string name="gesture_lockcreen_sleep_title">Dwukrotnie dotknij Ekranu blokady, aby uśpić</string>
     <string name="gesture_lockcreen_wakeup_mode_doubletap">Po dwukrotnym dotknięciu</string>
