@@ -16,7 +16,6 @@ Spróbuj utworzyć obraz SI za pomocą innych zdjęć."</string>
     <string name="ai_cta_dialog_message">Zezwól Galerii na łączenie się z Internetem, aby móc tworzyć portrety SI.</string>
     <string name="ai_download_filter_photo_so_message">Aby móc użyć wszystkich funkcji portretu SI, pobierz wtyczkę.</string>
     <string name="ai_ensure_exit_select_message">"Przy następnym podejściu trzeba będzie ponownie wybrać zdjęcia."</string>
-    <string name="ai_exit">Wyjdź</string>
     <string name="ai_free_creation_illegal_text_toast">Ten tekst narusza standardy społeczności Xiaomi. Zmień go na inny.</string>
     <string name="ai_free_creation_text_container_tips">"Generator obrazów SI Xiaomi jest stale ulepszany. Jeśli nie zadowalają Cię jego rezultaty, możesz spróbować później!"</string>
     <string name="ai_free_creation_text_illage">Ten opis narusza standardy społeczności</string>

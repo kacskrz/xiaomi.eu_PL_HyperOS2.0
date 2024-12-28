@@ -94,6 +94,20 @@
         <item>Nie do zatrzymania</item>
         <item>Bycie fit</item>
     </string-array>
+    <string-array name="month">
+        <item>Styczeń</item>
+        <item>Luty</item>
+        <item>Marzec</item>
+        <item>Kwiecień</item>
+        <item>Maj</item>
+        <item>Czerwiec</item>
+        <item>Lipiec</item>
+        <item>Sierpień</item>
+        <item>Wrzesień</item>
+        <item>Październik</item>
+        <item>Listopad</item>
+        <item>Grudzień</item>
+    </string-array>
     <string-array name="month_last_year">
         <item>Poprzedni styczeń</item>
         <item>Poprzedni luty</item>
