@@ -651,6 +651,7 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="wifi_reconnect_failed_title_china">Nieprawidłowe hasło Wi-Fi</string>
     <string name="wifi_region_summary">Włącz Wi-Fi ponownie, aby zastosować wybrany przez siebie region.</string>
     <string name="wifi_region_title">Region Wi-Fi</string>
+    <string name="wifi_required_info_text">Aby dokończyć konfigurację, urządzenie musi się połączyć z siecią Wi-Fi. Po zakończeniu konfiguracji możesz się przełączać między danymi mobilnymi i Wi-Fi.</string>
     <string name="wifi_scan_notify_text_scanning_off">Aby poprawić dokładność lokalizacji, włącz skanowanie Wi-Fi w LINK_BEGINustawieniach skanowania Wi-FiLINK_END.</string>
     <string name="wifi_scan_throttling">Throttling skanowania Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Ogranicza drenowanie baterii i poprawia jakość sieci</string>
