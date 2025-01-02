@@ -24,6 +24,8 @@
     <string name="ai_cannot_scrolling_with_the_screen">Nie można włączyć przewijania dla tej tapety</string>
     <string name="ai_delete_wallpaper">Wyjdź</string>
     <string name="ai_estimated_two_three_minutes" formatted="false">Zajmie to %d–%d minuty</string>
+    <string name="ai_generate_add_latter">Poczekaj, aż zakończy się generowanie tapety dla poprzedniego zdjęcia.</string>
+    <string name="ai_generate_latter">Spróbuj później</string>
     <string name="ai_generate_loading">Generowanie tapety…</string>
     <string name="ai_generate_message">Jeśli wygenerujesz dynamiczną tapetę, zmiany dodane do statycznej wersji tapety nie zostaną zapisane. Wygenerować?</string>
     <string name="ai_generate_text">Generuj dynamiczną tapetę</string>
@@ -32,10 +34,12 @@
     <string name="ai_generate_waiting">Serwer jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="ai_generate_wallpaper_fail_message">Wybrane przez Ciebie zdjęcia mogły naruszyć wytyczne Xiaomi. Wybierz nowe zdjęcia.</string>
     <string name="ai_generating">Generowanie…</string>
+    <string name="ai_generating_loading">Generowanie…</string>
     <string name="ai_generating_wallpaper">Generowanie tapety…</string>
     <string name="ai_image_format_does_not_support_generation">Niewspierany format</string>
     <string name="ai_image_size_too_large">Za duży obraz</string>
     <string name="ai_in_line">Jesteś w kolejce…</string>
+    <string name="ai_in_line_match">Duży ruch</string>
     <string name="ai_inquire_apply_wallpaper">Zastosować tę tapetę?</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>.&lt;/Data></string>
     <string name="ai_select_images_in_the_following_formats">Wybierz obrazy w formatach: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC lub HEIF.</string>
