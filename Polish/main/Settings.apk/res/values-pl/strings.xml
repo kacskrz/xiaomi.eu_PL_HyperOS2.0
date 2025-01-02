@@ -52,8 +52,12 @@
     <string name="auto_disable_screenbuttons_rotation_title">Zablokuj w poziomie</string>
     <string name="auto_silent_info">Jeśli włączysz tryb Nie przeszkadzać ręcznie, ta funkcja przestanie działać</string>
     <string name="back_double_tap">Dwukrotne dotknięcie z tyłu</string>
+    <string name="back_strap_image_new_text">Włącz tę funkcję, aby wyświetlać informacje o powiadomieniach i spersonalizowane efekty świetlne</string>
     <string name="back_strap_image_simplified_text">Gdy urządzenie jest zwrócone ekranem do dołu i jest on wyłączony, lampa błyskowa będzie informować o nowych powiadomieniach</string>
     <string name="back_strap_image_text">Gdy urządzenie leży ekranem do dołu i jest on wyłączony, dioda będzie wyświetlać przypomnienia o powiadomieniach i efekty oświetleniowe w różnych sytuacjach</string>
+    <string name="back_strap_off">Wył.</string>
+    <string name="back_strap_on">Wł.</string>
+    <string name="back_strap_on_back_light_display">Gdy telefon jest zwrócony ekranem do dołu</string>
     <string name="back_strap_title">Efekty tylnej diody</string>
     <string name="back_tap">Dotknięcie z tyłu</string>
     <string name="back_triple_tap">Trzykrotne dotknięcie z tyłu</string>
