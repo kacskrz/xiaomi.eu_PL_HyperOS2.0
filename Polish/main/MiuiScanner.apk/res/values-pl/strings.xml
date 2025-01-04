@@ -691,6 +691,8 @@
     <string name="visit">Otwórz link</string>
     <string name="waybill_num">"Przesyłka: "</string>
     <string name="web">"WWW: "</string>
+    <string name="web_url_confirm_content">Zeskanowany kod QR może prowadzić do strony stwarzającej zagrożenie dla Twojego urządzenia lub prywatności. Upewnij się, że masz świadomość związanego z tym ryzyka.</string>
+    <string name="web_url_confirm_title">Uwaga</string>
     <string name="website_details">"WWW: "</string>
     <string name="wechat_scan_code">Skaner WeChat</string>
     <string name="wechatcode_auto_processing_function_requires_permissions">Automatyczne przetwarzanie kodów WeChat wymaga uprawnień dla aplikacji WeChat do aparatu i pamięci.</string>
