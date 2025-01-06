@@ -272,7 +272,6 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="privacy_protect_settings_title">Ochrona prywatności</string>
     <string name="privacy_rejected_map_detail">Wycofanie przez Ciebie zgody na warunki Polityki prywatności Mapy Galerii zostanie potraktowane jako odmowa akceptacji jej usług. Inne funkcje i usługi Galerii nadal będą funkcjonować normalnie. Wycofać zgodę?</string>
     <string name="privacy_share_album_confirm_detail">Udostępniane albumy są dostarczane przez Chmurę Xiaomi. Zanim z nich skorzystasz, przeczytaj i zaakceptuj warunki &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Polityki prywatności&lt;/a>&lt;/font>.</string>
-    <string name="privacy_watermark_word_count_full">Nie można wprowadzić więcej znaków</string>
     <string name="recently_deleted">Ostatnio usunięte</string>
     <string name="recovery_confirm_button">Przywróć</string>
     <string name="recovery_confirm_text">Przywrócić ten element?</string>

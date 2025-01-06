@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_introduce_card_sub_title">Pozwól SI automatycznie dodawać podróże, bilety i inne typy wydarzeń do Twojego kalendarza</string>
     <string name="app_name">Kalendarz</string>
+    <string name="apply_auto_insert_ai_event_button">Włącz</string>
+    <string name="auto_insert_ai_event_toast">Włączono asystenta wydarzeń SI</string>
     <string name="bottom_navigator_days">%1$d dni</string>
     <string name="calendar_data_sharing_instruction">Oświadczenie o udostępnianiu danych firmom zewnętrznym</string>
     <string name="calendar_desc_withdraw_consent">Cofnij zgodę na Politykę prywatności Kalendarza</string>
@@ -67,6 +70,7 @@
     <string name="repeat_alarm_close_title">To wydarzenie się powtarza. Wyłączyć przypomnienie alarmem?</string>
     <string name="repeat_alarm_open_title">To wydarzenie się powtarza. Ustawić przypomnienie alarmem?</string>
     <string name="schedule_about_to_begin">Start o %1$s</string>
+    <string name="setting_auto_insert">Asystent wydarzeń SI</string>
     <string name="setting_chinese_calendar">Chiński kalendarz</string>
     <string name="setting_show_almanac_yiji">Pokaż informacje z chińskiego almanachu (tylko kalendarz chiński)</string>
     <string name="setting_show_extend_month">Rozszerzony widok miesiąca</string>
