@@ -24,8 +24,6 @@
     <string name="ai_cannot_scrolling_with_the_screen">Nie można włączyć przewijania dla tej tapety</string>
     <string name="ai_delete_wallpaper">Wyjdź</string>
     <string name="ai_estimated_two_three_minutes" formatted="false">Zajmie to %d–%d minuty</string>
-    <string name="ai_generate_add_latter">Poczekaj, aż zakończy się generowanie tapety dla poprzedniego zdjęcia.</string>
-    <string name="ai_generate_latter">Spróbuj później</string>
     <string name="ai_generate_loading">Generowanie tapety…</string>
     <string name="ai_generate_message">Jeśli wygenerujesz dynamiczną tapetę, zmiany dodane do statycznej wersji tapety nie zostaną zapisane. Wygenerować?</string>
     <string name="ai_generate_text">Generuj dynamiczną tapetę</string>
@@ -33,24 +31,20 @@
     <string name="ai_generate_verify_text">Weryfikowanie zawartości obrazu…</string>
     <string name="ai_generate_waiting">Serwer jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="ai_generate_wallpaper_fail_message">Wybrane przez Ciebie zdjęcia mogły naruszyć wytyczne Xiaomi. Wybierz nowe zdjęcia.</string>
-    <string name="ai_generating">Generowanie…</string>
-    <string name="ai_generating_loading">Generowanie…</string>
     <string name="ai_generating_wallpaper">Generowanie tapety…</string>
     <string name="ai_image_format_does_not_support_generation">Niewspierany format</string>
     <string name="ai_image_size_too_large">Za duży obraz</string>
     <string name="ai_in_line">Jesteś w kolejce…</string>
-    <string name="ai_in_line_match">Duży ruch</string>
     <string name="ai_inquire_apply_wallpaper">Zastosować tę tapetę?</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>.&lt;/Data></string>
-    <string name="ai_select_images_in_the_following_formats">Wybierz obrazy w formatach: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC lub HEIF.</string>
     <string name="ai_select_images_smaller_than_one_hundred">Wybierz obraz mniejszy niż %d MB i spróbuj ponownie.</string>
-    <string name="ai_select_message">Wybieraj tylko zdjęcia pejzaży, miast, roślin i aut. Upewnij się, że główny obiekt zdjęcia jest ostry i niezasłonięty innymi rzeczami.</string>
+    <string name="ai_select_message">Wybierz zdjęcie, na którym obiekt jest wyraźnie widoczny.</string>
+    <string name="ai_select_title">Nie udało się wygenerować</string>
     <string name="ai_service_temporarily_unavailable">Funkcja jest niedostępna</string>
-    <string name="ai_waiting_in_line_please_wait">Jesteś w kolejce. Proszę czekać…</string>
     <string name="ai_wallpaper_account_exception">Wygląda na to, że wystąpił problem na Twoim koncie. Spróbuj ponownie później lub zmień konto.</string>
     <string name="ai_wallpaper_click_to">Dotknij, aby zobaczyć</string>
     <string name="ai_wallpaper_inside_invitation">Betatesty dynamicznych tapet SI</string>
-    <string name="ai_wallpaper_inside_invitation_description_all">Ta funkcja używa możliwości dużych modeli językowych do generowania dynamicznych tapet wideo ze zdjęć pejzaży, miast, roślin i aut. Dotknij opcji \"Zgadzam się\", aby ją wypróbować!</string>
+    <string name="ai_wallpaper_inside_invitation_description">Funkcja używa możliwości dużych modeli do generowania dynamicznych tapet ze statycznych obrazów. Dotknij opcji \"Zgadzam się\", aby ją wypróbować!</string>
     <string name="ai_wallpaper_select_picture">Wybierz</string>
     <string name="ai_wallpaper_selection_prompt_message">Dla lepszego efektu wybierz zdjęcia z poniższych kategorii i upewnij się, że główny obiekt zdjęcia jest ostry i niezasłonięty innymi rzeczami.</string>
     <string name="ai_wallpaper_service_exception">Wystąpił błąd</string>
@@ -95,7 +89,6 @@
     <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Używasz zestawu tapet. Jeśli zastosujesz nową tapetę, tapety Ekranu głównego i Ekranu blokady zostaną nią zastąpione, a ekran powróci do swojego poprzedniego stylu. Zastosować?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Używasz obecnie supertapety. Jeśli wybierzesz nową tapetę, zostanie ona zastosowana zarówno na Ekranie głównym, jak i Ekranie blokady. Zostaną także przywrócone poprzednie ustawienia Ekranu zawsze włączonego. Zastosować?"</string>
     <string name="apply_wallpaper_warning_use_linked_wallpaper">>Używasz zestawu tapet. Jeśli zastosujesz nową tapetę, tapety Ekranu głównego i Ekranu blokady zostaną nią zastąpione. Zastosować?</string>
-    <string name="apply_wallpaper_warning_use_super_wallpaper">"Używasz obecnie supertapety. Jeśli wybierzesz nową tapetę, zostanie ona zastosowana zarówno na Ekranie głównym, jak i Ekranie blokady. Zastosować?"</string>
     <string name="apply_wallpaper_warning_when_use_super_wallpaper">Aby nadal używać Supertapet, zaktualizuj je do najnowszej wersji.</string>
     <string name="apply_warning_get_device_dialog_message">Aby móc używać pobranych treści, zezwól tej funkcji na dostęp do Twojego ID urządzenia. Możesz nadać to uprawnienie w Ustawieniach > Prywatność.</string>
     <string name="apply_warning_tip_get_device_status">Najpierw zezwól tej aplikacji na dostęp do Twojego ID urządzenia w menu Moje konto > Ustawienia.</string>
@@ -229,6 +222,7 @@
     <string name="dialog_trans_wallpaper_offline_title">"Przezroczyste tapety nie są dostępne"</string>
     <string name="display">Wyświetlaj</string>
     <string name="do_not_allow">Ograniczono</string>
+    <string name="download_limit">Obecnie nie można pobrać więcej elementów. Spróbuj ponownie później.</string>
     <string name="dynamic_large_icon_not_support_current_type">"%s nie jest wspierana dla tej dynamicznej ikony"</string>
     <string name="dynamic_video_wallpaper">Tapeta zależna od pory dnia</string>
     <string name="editor_cancel">Anuluj</string>
@@ -347,15 +341,22 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
     <string name="kg_apply_to_aod_alert_dialog_negative_text">Nie, dzięki</string>
     <string name="kg_classic_item_lunar_year">Rok (tradycyjny chiński kalendarz)</string>
     <string name="kg_classic_item_weather_cloudy">Pochmurnie</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_confirm_title">Zastosuj motyw</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_nagetive_button">Anuluj</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_positive_button">Zastosuj</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_wallpaper_confirm">Obecnie używasz zestawu tapet. Jeśli zastosujesz nowy motyw, tapety Ekranu blokady i Ekranu głównego zostaną zastąpione. Zostanie również przywrócona poprzednia wersja Ekranu zawsze włączonego. Chcesz kontynuować?</string>
     <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">Ten ekran blokady nie wspiera supertapet. Jeśli przejdziesz dalej, tapety na Ekranie głównym i Ekranie blokady zostaną zmienione. Przejść dalej?</string>
     <string name="kg_dialog_apply_super_wallpaper_confirm">Używasz supertapety. Jeśli przejdziesz dalej, zostanie ona zastąpiona nową tapetą na Ekranie głównym oraz Ekranie blokady. Przejść dalej?</string>
     <string name="kg_dialog_fashion_gallery_message">Używasz Tapet Blokady. Zastosowanie dynamicznej tapety wyłączy Tapety Blokady. Zastosować?</string>
     <string name="kg_doodle_font_label">Szkic</string>
     <string name="kg_doodle_primary_label">Szkice</string>
     <string name="kg_doodle_text_not_support_gallery_tip">Tapety Blokady nie wspierają szkiców</string>
+    <string name="kg_doodle_text_not_support_third_party_wallpaper_service_tip">Tapety stron trzecich nie wspierają szkiców</string>
     <string name="kg_doodle_text_not_support_wallpaper_tip">Ta tapeta nie wspiera szkiców</string>
+    <string name="kg_effects_not_support_gallery_tip">Nie można ustawić efektów, korzystając z pokazu slajdów</string>
     <string name="kg_effects_tip_desc">Efekt głębi ostrości nie może być łączony z filtrami. Użycie jednej z tych opcji wyłączy drugą.</string>
     <string name="kg_glass_filter_on_time">Zastosuj na zegarze</string>
+    <string name="kg_hierarchy_not_support_gallery_tip">Nie można włączyć efektu głębi, korzystając z pokazu slajdów</string>
     <string name="kg_main_toast_current_template_delete_third_party_theme">Nie można usunąć tego elementu, gdy zastosowany jest motyw</string>
     <string name="kg_template_description_eastern_art">Współczesna interpretacja wschodnich motywów wykorzystująca klasyczną symetrię krzyżową, charakterystyczny układ pionowy i kaligraficzną ekspresję</string>
     <string name="kg_template_description_rhombus">Czas jest ważny. Wykorzystaj go.</string>
@@ -412,6 +413,7 @@ Dotknij, aby go wyłączyć."</string>
     <string name="loop_video_wallpaper">Zapętlij dynamiczne tapety</string>
     <string name="mine_tab_not_login">Zaloguj się, aby wyświetlić elementy.
 Aby się zalogować, dotknij tutaj."</string>
+    <string name="mashup_sound">Miks natury</string>
     <string name="mine_tab_title_favorite">Ulubione</string>
     <string name="mine_tab_title_like">Polubienia</string>
     <string name="mine_tab_title_local">Lokalne</string>
@@ -711,6 +713,7 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="repeat_exchange_dialog_positive_btn">Sprawdź</string>
     <string name="repeat_exchange_dialog_title">Spróbuj ponownie</string>
     <string name="request_time_out">Upłynął limit czasu żądania. Spróbuj ponownie.</string>
+    <string name="resource_alarm_default_with_brackets">Alarm (%1$s)</string>
     <string name="resource_apply_trial">Wypróbuj</string>
     <string name="resource_can_not_selected">%1$s nie może zostać zaznaczony</string>
     <string name="resource_comment_1_star">*</string>
@@ -755,6 +758,7 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="resource_comment_upload_success">Komentarz wysłany!</string>
     <string name="resource_comment_wonderful_comments">Popularne komentarze</string>
     <string name="resource_current_using_title">Obecnie używany</string>
+    <string name="resource_default_with_brackets">Domyślny dzwonek (%1$s)</string>
     <string name="resource_delete_all">Czy chcesz usunąć %1$d elementów?</string>
     <string name="resource_delete_font_title">Usuń czcionki</string>
     <string name="resource_delete_icon_title">Usuń ikony</string>
@@ -781,11 +785,13 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="resource_incall_show_download">Pobierz wideo</string>
     <string name="resource_is_off_shelf_can_not_share">"Nie można wysłać tego elementu, ponieważ nie jest już on dostępny."</string>
     <string name="resource_no_result">Brak wyników</string>
+    <string name="resource_notification_default_with_brackets">Dźwięk powiadomienia (%1$s)</string>
     <string name="resource_present">Podaruj</string>
     <string name="resource_price_free">Darmowy</string>
     <string name="resource_restore">Przywróć</string>
     <string name="resource_restore_fail">"Nie można przywrócić"</string>
     <string name="resource_restore_succ">Pomyślnie przywrócono</string>
+    <string name="resource_ringtone_default_with_brackets">Dzwonek (%1$s)</string>
     <string name="resource_ringtone_too_large_waring">Pliki dzwonków mogą mieć nie więcej niż %1$d MB</string>
     <string name="resource_save_to_note">Zapisz do Notatek</string>
     <string name="resource_search_history">Historia wyszukiwania</string>
@@ -875,8 +881,6 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="storage_permission_denied_desc">Aby móc wyświetlać elementy, zezwól aplikacji Motywy na dostęp do pamięci</string>
     <string name="super_wallpaper">Supertapety</string>
     <string name="super_wallpaper_dialog_content">Oszczędzanie baterii wyłączy dynamiczne zawartości tapet.</string>
-    <string name="super_wallpaper_list_footer_text">Bądź czujny - nowe wydania wkrótce!</string>
-    <string name="super_wallpaper_list_label">Supertapety</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Wybierz lokalizację</string>
     <string name="supersave_mode_toast_message">"Ta funkcja nie jest dostępna, gdy używasz Ultraoszczędzania baterii. Wyłącz ten tryb, aby móc korzystać z tej funkcji."</string>
     <string name="superwallpaper_has_bound_account_dialog_content">Ta tapeta jest już powiązana z innym kontem Xiaomi. Zaloguj się na nim i spróbuj ponownie.</string>
