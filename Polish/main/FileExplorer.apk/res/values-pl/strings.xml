@@ -37,6 +37,7 @@
     <string name="operation_show_privacy_policy">Wyświetl politykę prywatności</string>
     <string name="operation_show_sys">Pokaż ukryte pliki i katalogi</string>
     <string name="operation_upload_buy_space">Ulepsz</string>
+    <string name="operation_upload_err_full_manage_space">Pamięć chmury jest pełna. Ulepsz plan przestrzeni dyskowej lub usuń niepotrzebne pliki. Dotknij „Wyświetl”, aby przejrzeć dysk w chmurze i zarządzać zapisanymi plikami, albo „Odrzuć”, aby anulować wysyłanie.</string>
     <string name="operation_upload_err_full_space">W Chmurze nie ma miejsca. Ulepsz swój plan, aby móc wysłać więcej elementów.</string>
     <string name="operation_upload_err_not_support_overseas">W tym momencie wysyłać pliki mogą tylko użytkownicy z Chin kontynentalnych.</string>
     <string name="operation_upload_err_other">Wystąpił błąd systemu. Odczekaj minutę lub dwie i spróbuj ponownie.</string>

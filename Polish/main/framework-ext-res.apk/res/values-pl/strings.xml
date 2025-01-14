@@ -137,6 +137,7 @@
     <string name="presentation_private">Prywatny numer</string>
     <string name="presentation_unknown">Nieznany numer</string>
     <string name="projection_disable_camera_toast">Ta aplikacja nie pozwala na korzystanie z aparatu innego połączonego urządzenia podczas projekcji. Przełącz się na swój telefon.</string>
+    <string name="projection_prevent_chain_start_toast">Nie można otworzyć żądanej aplikacji</string>
     <string name="propotional_freeform_tip">"Wygląda na to, że ta aplikacja nie wspiera w pełni pływających okien"</string>
     <string name="rescueparty_package_tips">Wykryto uszkodzenie usługi systemowej {0}</string>
     <string name="resolver_offical_recommend">Oficjalna</string>
