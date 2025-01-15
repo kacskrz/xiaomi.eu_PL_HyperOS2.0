@@ -305,6 +305,8 @@ został wykorzystany"</string>
     <string name="title_mix_match_tips">Dotknij ikon zwierząt, aby odtworzyć nagrania demonstracyjne. Do zestawu można dodać maks. 5 zwierząt.</string>
     <string name="title_submit_mix_match">Dotknij przycisku \"Zastosuj\", aby ustawić ogólny dzwonek.</string>
     <string name="toco_toucan">Tukan wielki</string>
+    <string name="today">Dziś</string>
+    <string name="today_usage_title">Dziś</string>
     <string name="toucan_info">Tukany mają duże, kolorowe dzioby. Często zakładają gniazda w dziuplach.</string>
     <string name="tree_hyrax">Arbogóralek</string>
     <string name="two_toed_sloths">Leniwiec dwupalczasty</string>
@@ -366,6 +368,7 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="usage_state_remind_title">Limit korzystania z urządzenia</string>
     <string name="usage_state_sunday">Ndz</string>
     <string name="usage_state_time_end">Osiągnąłeś swój dzisiejszy limit czasu</string>
+    <string name="usage_state_today">Dziś</string>
     <string name="usage_state_today_total_text">Dziś używano przez</string>
     <string name="usage_state_usage_time">Limit czasu</string>
     <string name="usage_state_usage_time_remind">Ustaw limity korzystania z urządzenia</string>
