@@ -572,6 +572,8 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gd_setting_dock_video_summary">Użyj efektów takich jak Dolby Atmos podczas oglądania filmów</string>
     <string name="gd_setting_group_custom_gtb_apps_new">Zarządzaj grami</string>
     <string name="gd_setting_title">Pasek boczny</string>
+    <string name="gd_sidebar_edit_add_app_tips_talkback">Dodaj aplikację</string>
+    <string name="gd_sidebar_edit_delete_app_tips_talkback">Usuń aplikację</string>
     <string name="gd_sidebar_long_press_tips">Przytrzymaj pasek, aby go przesunąć, gdy używasz urządzenia pionowo</string>
     <string name="gdpr_msg">Aplikacja wymaga dostępu do sieci, aby działać poprawnie. Ponadto w celu dostarczenia podstawowych funkcjonalności Panelu sterowania Xiaomi będzie zapisywać niektóre osobiste dane, statystyki użytkowania i informacje o urządzeniu. Jeśli nie zgodzisz się na gromadzenie niektórych informacji, aplikacja wciąż będzie działać, jednak niektóre funkcje nie będą dla Ciebie dostępne.</string>
     <string name="gigabyteShort">" GB"</string>
@@ -1164,6 +1166,7 @@ Ultraoszczędzania baterii"</string>
     <string name="privacy_pop_location">Dzisiejszy dostęp do lokalizacji</string>
     <string name="privacy_pop_record">Dzisiejsze nagrania audio</string>
     <string name="privacy_pop_storage">Dzisiejszy dostęp do pamięci</string>
+    <string name="privacy_privacy_title">Polityka prywatności</string>
     <string name="privacy_provison_no_network">Połącz się z siecią.</string>
     <string name="privacy_revoke_dialog_content">Wyłączając tą opcję, cofasz swoją zgodę na warunki Polityki prywatności Panelu sterowania. Xiaomi zaprzestanie gromadzenia Twoich informacji osobistych, zaś już zgromadzone i przetworzone dane zostaną usunięte w terminach określonych przez odpowiednie przepisy prawa. Aby dostarczać Ci podstawowe usługi, Panel sterowania musi gromadzić niezbędne informacje. Twoje cofnięcie zgody na warunki Polityki prywatności zostanie uznane jako brak zgody na akceptację tego warunku.</string>
     <string name="privacy_revoke_dialog_content_cn">"Jeśli będziesz kontynuować, wycofasz zgodę na warunki Polityki prywatności usługi %1$s. Xiaomi zaprzestanie gromadzenia Twoich danych, zaś te informacje, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym lokalnymi przepisami i regulacjami, chyba że ustalono inaczej.
@@ -1187,6 +1190,7 @@ Wycofać zgodę?"</string>
     <string name="privacy_update_dialog_content_1">Zaktualizowano Politykę prywatności %s:</string>
     <string name="privacy_update_dialog_content_2"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>.</Data></string>
     <string name="privacy_update_dialog_title">Zaktualizowano Politykę prywatności</string>
+    <string name="privacy_user_notice_title">Informacja dla użytkownika</string>
     <string name="protect_data_security">Izolowane dane</string>
     <string name="protect_data_security_detail">Dane wygenerowane przez klawiaturę będą izolowane i staną się niedostępne dla innych aplikacji.</string>
     <string name="quick_optimize_no_fix_issue_title">Nie udało się zoptymalizować elementów z wysokim zużyciem energii</string>
