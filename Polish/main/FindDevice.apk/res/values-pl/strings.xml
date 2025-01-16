@@ -4,8 +4,6 @@
     <string name="find_device_noise_title">Zlokalizuj dźwięk</string>
     <string name="find_device_stop_noise">Naciśnij OK, aby wyciszyć</string>
     <string name="find_device_storage_corrupted">Magazyn danych funkcji Znajdź urządzenie jest uszkodzony. Urządzenie może nie być bezpieczne.</string>
-    <string name="notification_locate_device">Lokalizowanie urządzeń</string>
-    <string name="notification_open_find">Włączono funkcję Znajdź urządzenie</string>
     <string name="open_wifi_settings">Otwórz ustawienia Wi-Fi</string>
     <string name="open_wifi_settings_china">Otwórz ustawienia Wi-Fi</string>
     <string name="unlock_help">"Połącz się z siecią.

@@ -59,7 +59,6 @@
     <string name="gesture_function_dialog_message">Gest %1$s jest używany do wywołania funkcji \"%2$s\". Czy chcesz go zastąpić \"%3$s\"?</string>
     <string name="global_actions_reboot">Restart</string>
     <string name="global_actions_silent_mode">Cichy</string>
-    <string name="global_help">Nie można znaleźć urządzenia</string>
     <string name="global_imac">Mój iMac</string>
     <string name="global_ipad">Mój iPad</string>
     <string name="global_iphone">Mój iPhone</string>
@@ -67,8 +66,6 @@
     <string name="global_macmini">Mój Mac mini</string>
     <string name="global_macpro">Mój Mac Pro</string>
     <string name="global_macstudio">Mój Mac Studio</string>
-    <string name="global_my">"Moje urządzenie
-%1$s"</string>
     <string name="go_to_sleep">Wyłącz ekran</string>
     <string name="handy_mode_enter_dlg_msg">Włączyć tryb Jednej dłoni?</string>
     <string name="handy_mode_enter_dlg_title">Jedna dłoń</string>
@@ -117,10 +114,8 @@
     <string name="miui_multiwindow_not_support_small_window">"%1$s nie wspiera pływających okien"</string>
     <string name="miui_screen_ratio_hint_message">Aplikacja ma zezwolenie na uruchomienie w trybie pełnoekranowym, co może spowodować nieprawidłowe wyświetlanie. Możesz to zmienić w Ustawienia > Dodatkowe ustawienia > Przyciski.</string>
     <string name="monet">Staw z liliami</string>
-    <string name="motorola_phone">Telefon Motorola</string>
     <string name="mountainspring">Górska wiosna</string>
     <string name="mute">Tryb cichy</string>
-    <string name="nio_phone">Telefon NIO</string>
     <string name="notification_channel_hotspot">Powiadomienie o hotspocie</string>
     <string name="nps_ContentText">Dotknij, aby sprawdzić szczegóły</string>
     <string name="nps_ContentTitle">Wyszukiwanie GPS</string>
@@ -137,7 +132,6 @@
     <string name="presentation_private">Prywatny numer</string>
     <string name="presentation_unknown">Nieznany numer</string>
     <string name="projection_disable_camera_toast">Ta aplikacja nie pozwala na korzystanie z aparatu innego połączonego urządzenia podczas projekcji. Przełącz się na swój telefon.</string>
-    <string name="projection_prevent_chain_start_toast">Nie można otworzyć żądanej aplikacji</string>
     <string name="propotional_freeform_tip">"Wygląda na to, że ta aplikacja nie wspiera w pełni pływających okien"</string>
     <string name="rescueparty_package_tips">Wykryto uszkodzenie usługi systemowej {0}</string>
     <string name="resolver_offical_recommend">Oficjalna</string>

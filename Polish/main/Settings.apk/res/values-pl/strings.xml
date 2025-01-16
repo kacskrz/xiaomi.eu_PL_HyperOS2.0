@@ -20,12 +20,10 @@
     <string name="add_fingerprint_instruction_msg">Dotknij czytnika linii papilarnych w przycisku pod ekranem.</string>
     <string name="advanced_screen_paper_mode_title_new">Komfort oczu</string>
     <string name="after_sale_service">Usługi posprzedażowe</string>
-    <string name="ai_notification_settings">Podsumowanie powiadomień SI</string>
     <string name="allow_all_rotations_title">Zezwalaj na obrót w każdym kierunku</string>
     <string name="allow_badge_summary">Zezwól na wyświetlanie czerwonej kropki z liczbą powiadomień na ikonach Ekranu głównego</string>
     <string name="allow_interruption_summary">Zezwól tej aplikacji na dźwięki, wibracje i/lub wyświetlanie powiadomień na ekranie</string>
     <string name="allow_oaid_used_desc">"System nie będzie dostarczać wirtualnego ID aplikacjom. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
-    <string name="allow_ongoing_summary">Zezwól na powiadomienia, które mogą być usuwane tylko ręcznie</string>
     <string name="allow_update_system_app">Zezwalaj na aktualizację aplikacji systemowych (nieobjęte wsparciem technicznym)</string>
     <string name="alpha_build">" (alfa)"</string>
     <string name="aod_style_description">Dostosuj styl trybu Ekran zawsze włączony</string>
@@ -215,7 +213,6 @@ patrząc na zewnętrzny ekran"</string>
     <string name="face_unlock_stay_away_screen">Zachowaj odległość 25 do 40 cm od ekranu</string>
     <string name="face_unlock_success_show_message_dialog_msg">Zezwól na wyświetlanie powiadomień na Ekranie blokady.</string>
     <string name="face_unlock_success_show_message_msg">Pokaż szczegóły powiadomień na zablokowanym ekranie po weryfikacji danych twarzy</string>
-    <string name="factory_reset_loading">Wykonywanie resetu do ustawień fabrycznych…</string>
     <string name="fingerprint_double_tap">Dwukrotnie dotknij czytnika linii papilarnych</string>
     <string name="fingerprint_wakeup_summary">Wybudź ekran czytnikiem, gdy nie dodano żadnych odcisków palców</string>
     <string name="fingerprint_wakeup_title">Dotknij czytnika linii papilarnych, aby wybudzić</string>
@@ -224,9 +221,6 @@ patrząc na zewnętrzny ekran"</string>
     <string name="firewall_restrict_all">Ogranicz łączność dla wszystkich aplikacji z użyciem tych metod</string>
     <string name="flash_notifications_title">Powiadomienia błyskowe</string>
     <string name="focus_title">Skupienie powiadomień</string>
-    <string name="font_preview_text_content">"Przykładowy tekst:
-
-Xiaomi nieustannie tworzy niesamowite produkty w uczciwych cenach, aby pozwolić każdemu na świecie cieszyć się lepszym życiem dzięki innowacyjnej technologii."</string>
     <string name="font_setting_weight_toast">"Obecna czcionka nie wspiera zmiany jej grubości"</string>
     <string name="forbidden_set_unlock_password_msg">Nie można obecnie ustawić bądź zmienić hasła, ponieważ włączono Tryb naprawy.</string>
     <string name="forget_password_dialog_content_four">2. Pojawi się prośba o wpisanie hasła ekranu blokady. Dotknij strzałki na dole ekranu, potem wybierz [Wipe] i przesuń suwak na dole, a następnie kliknij przycisk [Reboot System].</string>
@@ -303,7 +297,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="launcher_title">Ekran główny</string>
     <string name="layout_exhuge_font_take_effect_tips">Tekst w rozmiarze XXL wyświetlany jest tylko w aplikacjach SMS, Telefon i Kontakty</string>
     <string name="layout_exhuge_font_tips_reg">Ułatwieniach dostępu > Rozmiar wyświetlacza</string>
-    <string name="leave_lockscreen_summary">Urządzenie zablokuje się, gdy odsuniesz się od ekranu</string>
     <string name="leave_loclscreen_title">Zablokuj ekran, gdy się oddalasz</string>
     <string name="led_pulse_summary">Pulsuj diodą powiadomień, gdy otrzymano nowe powiadomienie</string>
     <string name="legacy_power_menu">Stare menu zasilania</string>
@@ -447,15 +440,11 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="permit_full_screen_intent">Zezwól na powiadomienia pełnoekranowe z tej aplikacji</string>
     <string name="phone_backup_title">Telefon</string>
     <string name="photography_handle_button_function_settings">Ustaw przycisk uchwytu</string>
-    <string name="photography_handle_charge_settings">Ustawienia ładowania</string>
     <string name="photography_handle_charge_state_choice_always">Zawsze</string>
     <string name="photography_handle_charge_state_choice_emergency">Wyjątkowo</string>
     <string name="photography_handle_charge_state_summary_new">Zacznij ładowanie tego urządzenia z uchwytu aparatu po jego podłączeniu</string>
     <string name="photography_handle_emergency_charge_summary">Zacznij alarmowe ładowanie, gdy poziom baterii będzie mniejszy niż %1$s</string>
     <string name="photography_handle_emergency_charge_title">Poziom alarmowego ładowania</string>
-    <string name="photography_handle_function_settings">Ustawienia uchwytu aparatu</string>
-    <string name="photography_handle_sn">Numer seryjny</string>
-    <string name="photography_handle_update_and_maintain">Aktualizacje</string>
     <string name="picture_in_picture_app_detail_switch">Pozwól na tryb obraz w obrazie</string>
     <string name="picture_in_picture_app_detail_title">Obraz w obrazie</string>
     <string name="picture_in_picture_empty_text">Żadna zainstalowana aplikacja nie obsługuje trybu obrazu w obrazie</string>
@@ -590,8 +579,6 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="tap_to_sign_up">Dotknij, aby się zarejestrować</string>
     <string name="tether_limit_value_custom">Własny</string>
     <string name="tether_use_wifi6_title">Wsparcie standardu Wi-Fi 6</string>
-    <string name="text_layout_optimization_switch_label">Zoptymalizuj układ tekstu</string>
-    <string name="text_layout_optimization_switch_toast">Nie można zoptymalizować układu tekstu z obecną czcionką</string>
     <string name="title_device_control">Kontrolki urządzeń smart home</string>
     <string name="title_layout_current2_weight">Rozmiar i grubość czcionki</string>
     <string name="touch_sensitive_turn_off_summary">Wyłączyć także funkcję przypadkowego użycia telefonu w kieszeni?</string>
@@ -650,9 +637,7 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="wifi_assistant">Utrzymuj połączenie</string>
     <string name="wifi_assistant_keep_connection">Utrzymuj połączenie</string>
     <string name="wifi_generation">Użyj ikon generacji Wi-Fi</string>
-    <string name="wifi_reconnect_failed_text">Twoje hasło do Wi-Fi jest nieprawidłowe. Wprowadź je ponownie.</string>
     <string name="wifi_reconnect_failed_text_china">Twoje hasło do Wi-Fi jest nieprawidłowe. Wprowadź je ponownie.</string>
-    <string name="wifi_reconnect_failed_title">Nieprawidłowe hasło Wi-Fi</string>
     <string name="wifi_reconnect_failed_title_china">Nieprawidłowe hasło Wi-Fi</string>
     <string name="wifi_region_summary">Włącz Wi-Fi ponownie, aby zastosować wybrany przez siebie region.</string>
     <string name="wifi_region_title">Region Wi-Fi</string>

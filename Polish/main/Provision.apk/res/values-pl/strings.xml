@@ -201,8 +201,6 @@
     <string name="terms_of_use_label_system_quality_monitoring">Monitoring jakości systemu</string>
     <string name="terms_of_use_label_use_location_and_network_global">"Przed skorzystaniem z systemu przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią i uzyskają Twoją lokalizację:"</string>
     <string name="terms_of_use_lable_smart_cards">Karty asystenta</string>
-    <string name="title_fingers_and_faces">Ustaw odcisk palca i dane twarzy</string>
-    <string name="title_only_fingerprint">Ustaw odcisk palca</string>
     <string name="used_date_viewing">W celu sprawdzania daty</string>
     <string name="verify_application_security">W celu weryfikacji bezpieczeństwa aplikacji</string>
     <string name="verify_device_security">W celu weryfikacji bezpieczeństwa urządzenia</string>
