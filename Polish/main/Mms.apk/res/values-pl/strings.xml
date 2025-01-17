@@ -244,6 +244,8 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj jej warunki."</string>
     <string name="privacy_policy_name_websms">Wiadomości w Chmurze</string>
     <string name="privacy_state_revoked_content">Wyłączając tą opcję, wycofujesz swoją zgodę na warunki Polityki prywatności aplikacji SMS. Xiaomi zaprzestanie w tym momencie gromadzenia informacji o Tobie, zaś już zgromadzone i przetworzone dane zostaną usunięte z serwerów firmy w czasie określonym przepisami prawa. Usługi dostarczane przez aplikację, takie jak Wiadomości w Chmurze czy Inteligentne wiadomości muszą gromadzić niezbędne dane, aby działać normalnie. Cofnięcie zgody na warunki Polityki prywatności aplikacji SMS zostanie uznane również jako cofnięcie zgody na warunki tychże usług.</string>
     <string name="privacy_state_revoked_synopsis">Wyłączając tą opcję, wycofujesz swoją zgodę na warunki Polityki prywatności aplikacji SMS.</string>
+    <string name="progress_start_tips">Analizowanie SMS-ów w celu dostarczania dokładniejszych wyników…</string>
+    <string name="progress_stop_tips">Wiadomości będą analizowane na Twoim urządzeniu, aby dostarczać dokładniejsze wyniki</string>
     <string name="progress_text">Porządkowanie wiadomości… (%s)</string>
     <string name="quick_reply">Odpowiedz</string>
     <string name="rcs_auto_resend_mms">Konwertuj do wiadmości MMS</string>
