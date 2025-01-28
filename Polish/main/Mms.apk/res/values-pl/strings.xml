@@ -316,8 +316,9 @@ Włącz dane mobilne i otwórz tę stronę ponownie."</string>
     <string name="storage_unavailable">Brak miejsca</string>
     <string name="sub_sim_not_support_mms">"Nie można wysłać MMS-a za pomocą drugiej karty SIM"</string>
     <string name="suspected_fraud_tip">Możliwe oszustwo</string>
-    <string formatted="false" name="system_permission_declare_double_link">Przed użyciem tej funkcji przeczytaj i zaakceptuj %1s oraz %2s.</string>
+    <string name="system_permission_declare_double_link" formatted="false">Przed użyciem tej funkcji przeczytaj i zaakceptuj %1s oraz %2s.</string>
     <string name="system_permission_declare_exit">Wyjdź</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">Witaj w %1s! %2s</string>
     <string name="system_permission_declare_mi_message">Witaj w Wiadomościach Mi!</string>
     <string name="system_permission_declare_no_say_no">"Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi regulacjami i politykami prywatności.
 Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bądź wysyłanie Twoich danych, nie będziesz mógł korzystać z tej aplikacji."</string>
