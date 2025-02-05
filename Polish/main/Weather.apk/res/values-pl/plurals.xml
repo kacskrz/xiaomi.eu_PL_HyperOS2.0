@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="daily_forcast_drawer_on_top">
+       <item quantity="other">Prognoza %1$s-dniowa</item>
+       <item quantity="one">Prognoza %1$s-dniowa</item>
+       <item quantity="few">Prognoza %1$s-dniowa</item>
+       <item quantity="many">Prognoza %1$s-dniowa</item>
+    </plurals>
+</resources>

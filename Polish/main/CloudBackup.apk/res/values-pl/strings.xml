@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="backup_action_international_no_space_with_wechat_off_content">Brak miejsca. Nie można wykonać kopii tego urządzenia.</string>
     <string name="backup_action_no_space_with_wechat_off_content">Brakuje miejsca w Chmurze, aby wykonać kopię elementów z tego urządzenia. Dotknij, aby zobaczyć dostępne plany Chmury.</string>
     <string name="backup_action_no_space_with_wechat_on_content">Brakuje miejsca w Chmurze, aby wykonać kopię danych WeChata. Ulepsz swój plan chmury, aby móc wykonać kopię.</string>
     <string name="backup_app_prominent_disclosure_dialog_message">Kopia w Chmurze zgromadzi listę aplikacji zainstalowanych na tym urządzeniu i przechowa te dane na serwerach Xiaomi po to, aby w przyszłości można było je pobrać i przywrócić. Jeśli wyrażasz zgodę na takie działanie, dotknij przycisku \"OK\".</string>
@@ -16,7 +17,8 @@
 * Ustawień systemu 
 
 Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
-    <string name="cloud_backup_detail_header_condition_battery_content_description">co najmniej %s</string>
+    <string name="cloud_backup_detail_header_condition_battery">≥ %s</string>
+    <string name="cloud_backup_detail_header_condition_battery_content_description">Bateria w co najmniej %s</string>
     <string name="cloud_backup_detail_state_summary_china_content_description">Wymaga połączenia z Wi-Fi, co najmniej %s baterii i wyłączonego ekranu</string>
     <string name="cloud_backup_detail_state_summary_content_description">Wymaga połączenia z Wi-Fi, co najmniej %s baterii i wyłączonego ekranu</string>
     <string name="cta_dialog_all_purpose">"Witaj w Kopii w Chmurze! Możesz użyć tej aplikacji do wykonywania kopii zapasowych układu pulpitu, aplikacji i ustawień systemu w Chmurze."</string>
@@ -29,7 +31,18 @@ Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
     <string name="not_backup_reason_battery_exception">Mniej niż %s baterii</string>
     <string name="not_backup_reason_screen_exception">"Ekran nie był zablokowany"</string>
     <string name="oobe_use_as_new_device">Możesz użyć tego urządzenia jako nowego.</string>
+    <string name="privacy_revoked_dialog_message">Wycofałeś swoją zgodę na warunki Polityki prywatności Chmury Xiaomi. Wszystkie Twoje dane przechowywane w chmurze zostały usunięte.</string>
+    <string name="privacy_revoked_dialog_positive_btn">Wstecz</string>
+    <string name="privacy_revoked_dialog_title">Wycofanie zgody</string>
+    <string name="privacy_revoked_reactivation_dialog_message">Wycofałeś swoją zgodę na warunki Polityki prywatności Chmury Xiaomi, w związku z czym wszystkie Twoje dane przechowywane w chmurze zostały usunięte. Jeśli chcesz ponownie skorzystać z tej usługi, możesz wyrazić zgodę na warunki Polityki prywatności i zreaktywować swoje konto na stronie i.mi.com. Ze względów bezpieczeństwa możesz to zrobić tylko raz dziennie.</string>
+    <string name="privacy_revoked_reactivation_dialog_negative_btn">Anuluj</string>
+    <string name="privacy_revoked_reactivation_dialog_positive_btn">Reaktywuj</string>
+    <string name="privacy_revoked_reactivation_dialog_title">Uwaga</string>
     <string name="restore_32bit_apps_no_tango_page_sub_title">Te aplikacje nie są kompatybilne z architekturą %d-bitową i nie mogą zostać przywrócone na tym urządzeniu. Możesz kontynuować proces przywracania, ale te aplikacje zostaną pominięte.</string>
     <string name="restore_32bit_apps_page_sub_title">Te aplikacje nie są kompatybilne z architekturą %d-bitową. Aby je przywrócić, włącz tryb zgodności aplikacji.</string>
     <string name="self_device_disable">%s (niewspierane na tym urządzeniu)</string>
+    <string name="session_failed_international_cloud_no_space_title">Brak miejsca w chmurze</string>
+    <string name="session_failed_privacy_revoked_btn_text">Zobacz szczegóły</string>
+    <string name="session_failed_privacy_revoked_title">Wycofałeś swoją zgodę na warunki Polityki prywatności Chmury Xiaomi</string>
+    <string name="session_interrupted_title_backup">Wstrzymano kopię zapasową</string>
 </resources>

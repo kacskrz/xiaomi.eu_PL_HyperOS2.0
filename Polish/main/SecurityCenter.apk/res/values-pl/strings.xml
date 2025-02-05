@@ -288,6 +288,7 @@
     <string name="btn_text_optimize_extend_battery_time">Wydłuż o %s</string>
     <string name="btn_text_quick_save_power">Wykonaj</string>
     <string name="byteShort">" B"</string>
+    <string name="call_all_number_block">Blokuj wszystkie połączenia</string>
     <string name="camera">Aparat</string>
     <string name="card_main_apkclean_title">Usuń pliki APK</string>
     <string name="card_main_facebookclean_title">Czyszczenie Facebooka</string>
@@ -510,6 +511,10 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="game_toolbox_title_wild">Tryb Ultra</string>
     <string name="game_toolbox_wild_mode_toast_tip">Zwiększono wydajność urządzenia</string>
     <string name="game_toolbox_wild_mode_toast_title">Włączono tryb Ultra</string>
+    <string name="game_turbo_custom_subtitle">Możesz ustawiać superrozdzielczość i inteligentny klatkaż, aby zarządzać klatkażem i jakością obrazu</string>
+    <string name="game_turbo_frame_rate_priority_subtitle">Inteligentnie poprawiaj klatkaż</string>
+    <string name="game_turbo_image_quality_priority_subtitle">\"Polepsz jakość obrazu\" poprawia jakość obrazu dzięki superrozdzielczości i zarządza klatkażem przez inteligentny klatkaż</string>
+    <string name="game_turbo_performance_strategy_subtitle">Aktualny klatkaż wyświetla się w panelu wydajności</string>
     <string name="gamebooster_confirm_dialog_title">Wyraź zgodę na warunki Polityki prywatności</string>
     <string name="gamebooster_network_dialog_cn_message">"Nie możesz korzystać z trybu Game Turbo, gdy Panel sterowania nie może połączyć się z Internetem i uzyskać dostępu do Twojej lokalizacji. Zezwolić na to teraz?"</string>
     <string name="gamebooster_network_dialog_message">Zezwolić Panelowi sterowania na połączenie z siecią w celu użycia wszystkich funkcji Game Turbo?</string>
@@ -573,7 +578,9 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gd_setting_group_custom_gtb_apps_new">Zarządzaj grami</string>
     <string name="gd_setting_title">Pasek boczny</string>
     <string name="gd_sidebar_edit_add_app_tips_talkback">Dodaj aplikację</string>
+    <string name="gd_sidebar_edit_add_app_upper_limit_talkback">Nie można dodać więcej widżetów</string>
     <string name="gd_sidebar_edit_delete_app_tips_talkback">Usuń aplikację</string>
+    <string name="gd_sidebar_edit_division_line_talkback">Linia podziału</string>
     <string name="gd_sidebar_long_press_tips">Przytrzymaj pasek, aby go przesunąć, gdy używasz urządzenia pionowo</string>
     <string name="gdpr_msg">Aplikacja wymaga dostępu do sieci, aby działać poprawnie. Ponadto w celu dostarczenia podstawowych funkcjonalności Panelu sterowania Xiaomi będzie zapisywać niektóre osobiste dane, statystyki użytkowania i informacje o urządzeniu. Jeśli nie zgodzisz się na gromadzenie niektórych informacji, aplikacja wciąż będzie działać, jednak niektóre funkcje nie będą dla Ciebie dostępne.</string>
     <string name="gigabyteShort">" GB"</string>
@@ -598,6 +605,8 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="hint_antispam_mode_edit">Własne</string>
     <string name="hints_scan_danger_result">Wykryto zagrożenie. Napraw.</string>
     <string name="hints_virus_lib_update_default_summary">Ostatnia aktualizacja: brak danych</string>
+    <string name="how_to_modify_risk_app_permission">Kroki</string>
+    <string name="how_to_modify_risk_app_permission_desc">"Jeśli ufasz twórcy aplikacji, postępuj zgodnie z tymi krokami, aby zezwolić jej na dostęp do uprawnień:"</string>
     <string name="image_protect_auto_del">Aplikacja %s próbuje usunąć zdjęcia</string>
     <string name="image_protect_del_pic_tips">Informuj o usuwaniu zdjęć</string>
     <string name="image_protect_del_success">Pomyślnie usunięto</string>
@@ -623,7 +632,8 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="kilobyteShort">" KB"</string>
     <string name="kilobyte_per_second">" kB/s"</string>
     <string name="label_callwait">Połączenia oczekujące</string>
-    <string formatted="false" name="loading_text_format">Sprawdzanie, czy zdjęcia zawierają prywatne dane (%d/%d)…</string>
+    <string name="learn_risk_app_permission_settings">Odblokowywanie uprawnień</string>
+    <string name="loading_text_format" formatted="false">Sprawdzanie, czy zdjęcia zawierają prywatne dane (%d/%d)…</string>
     <string name="location">Lokalizacja</string>
     <string name="lock_mode_title">Opcje blokady</string>
     <string name="lock_screen_traffic_notify_body">Użyto %3$s po %2$s od blokady (%1$s)</string>
@@ -631,6 +641,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="main_alert_message_open_traffic_ctrl">Ogranicz użycie danych</string>
     <string name="main_bill_remained">Środki</string>
     <string name="main_normal_data_usage">Użycie danych mobilnych</string>
+    <string name="mark_call_intercept_threshold_dialog_message">*Jeśli numer został zgłoszony jako oszustwo lub spam przez liczbę użytkowników przekraczającą ustawiony próg, połączenie zostanie zablokowane. Jeśli ustawisz próg zbyt nisko, możesz przypadkowo zablokować połączenia niebędące spamem.</string>
     <string name="megabyteShort">" MB"</string>
     <string name="megabyte_per_second">" MB/s"</string>
     <string name="menu_call">Połącz</string>
@@ -664,6 +675,11 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="mic">Mikrofon</string>
     <string name="mic_noise_reduction_mode_standard">Standardowy</string>
     <string name="mic_noise_reduction_mode_ultimate">Wybrany</string>
+    <string name="modify_risk_app_permission_dialog_cancel">Anuluj</string>
+    <string name="modify_risk_app_permission_dialog_confirm">Włącz</string>
+    <string name="modify_risk_app_permission_dialog_message">Aby chronić Twoją prywatność, zalecamy włączenie opcji \"Zwracaj puste wiadomości\" po przyznaniu uprawnień tej aplikacji.</string>
+    <string name="modify_risk_app_permission_dialog_title">Zwracaj puste wiadomości</string>
+    <string name="modify_risk_app_permission_steps">%1$d. Otwórz &lt;b>Ustawienia&lt;/b> > &lt;b>Aplikacje&lt;/b>.&lt;br>&lt;/br> %2$d. Wybierz &lt;b>Aplikacje&lt;/b>.&lt;br>&lt;/br> %3$d. Wybierz &lt;b>Zarządzaj uprawnieniami&lt;/b>.&lt;br>&lt;/br> %4$d. Dotknij ikony ︙ i wybierz &lt;b>Odblokuj uprawnienia&lt;/b>.&lt;br>&lt;/br> %5$d. Gotowe. Możesz nadać poszczególne uprawnienia.</string>
     <string name="monday_shortest">P</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
@@ -1206,8 +1222,14 @@ Wycofać zgodę?"</string>
     <string name="reset_data_dialog_message">"Urządzenie nie jest powiązane z kontem Xiaomi. Nie można przywrócić lub zmienić hasła. Skopiuj wszystkie ważne dane i wykonaj reset do ustawień fabrycznych. Proces ten usunie wszystkie dane z urządzenia - w tym także z nośnika USB."</string>
     <string name="reset_data_dialog_ok">Ustawienia fabryczne</string>
     <string name="reset_data_title">"Nie można przywrócić hasła"</string>
+    <string name="risk_app_dialog_confirm">OK</string>
+    <string name="risk_app_dialog_message">System zablokował dostęp tej aplikacji do wrażliwych uprawnień, ponieważ pochodzi ona z nieznanego źródła.</string>
+    <string name="risk_app_dialog_more_info">Jak odblokować uprawnienia</string>
+    <string name="risk_app_dialog_title">Brak uprawnień</string>
     <string name="risk_app_install_auth_result">"Autoryzowano instalację aplikacji %1$s. Możesz kontynuować ją po wykryciu pliku APK."</string>
     <string name="risk_app_install_item_des">Wersja: %1$s</string>
+    <string name="risk_app_menu_title">Odblokuj uprawnienia</string>
+    <string name="risk_app_permission_settings_desc">Zezwalanie aplikacjom z nieznanych źródeł na dostęp do wrażliwych uprawnień może stworzyć zagrożenie dla Twojego urządzenia i danych. Aby temu zapobiec, domyślnie niektóre aplikacje nie będą miały dostępu do pewnych uprawnień. Możesz ręcznie &lt;u>odblokować uprawnienia&lt;/u>, a następnie je przyznać według własnego uznania.</string>
     <string name="roaming_limit_network_notification_body">Pokaż dostępne sieci</string>
     <string name="safe_result_item_info_sms_default">Aplikacja SMS od Xiaomi jest domyślna</string>
     <string name="saturday_shortest">S</string>
@@ -1367,6 +1389,15 @@ Wycofać zgodę?"</string>
     <string name="special_perm_virtual_title">Zarządzanie wirtualnym identyfikatorem</string>
     <string name="special_perm_vr_title">Używanie asystenta VR</string>
     <string name="special_perm_window_title">Wyświetlanie elementów w trybie Obraz w obrazie</string>
+    <string name="st_call_intercept_all">Blokuj wszystkie połączenia</string>
+    <string name="st_call_intercept_mark_agent">Blokuj połączenia od agentów nieruchomości</string>
+    <string name="st_call_intercept_mark_fraud">Blokuj połączenia od oszustów</string>
+    <string name="st_call_intercept_mark_sell">Blokuj połączenia marketingowe</string>
+    <string name="st_confirm_call_all_dialog_summary">Wszystkie połączenia z numerów, które nie znajdują się w Twoich wyjątkach, zostaną zablokowane. Włączyć?</string>
+    <string name="st_confirm_dialog_summary_stranger_call">Połączenia z numerów, które nie znajdują się w Twoich wyjątkach lub w kontaktach, zostaną zablokowane. Włączyć?</string>
+    <string name="st_mark_call_intercept_threshold_summary">Automatycznie blokuj numery zgłaszane określoną liczbę razy</string>
+    <string name="st_mark_call_intercept_threshold_title">Próg blokady</string>
+    <string name="st_mark_number_group">Blokuj połączenia ze zgłaszanych numerów</string>
     <string name="st_title_back_sound_busy">Sygnał zajętego numeru</string>
     <string name="status_bar_network_flow_content">"Dziś: %1$s | Pozostało: %2$s"</string>
     <string name="status_bar_network_flow_content_not_setting">"Dziś: %1$s | W tym miesiącu: %2$s"</string>
@@ -1377,6 +1408,13 @@ Wycofać zgodę?"</string>
     <string name="storage_app_manager_disable_dlg_title">Wyłączyć domyślnie zainstalowaną aplikację?</string>
     <string name="storage_available_total_size">Dostępne %1$s z %2$s</string>
     <string name="storage_clear_available_total_size">Zajęto %1$s/%3$s | Dostępne %2$s</string>
+    <string name="storage_fbo_action_des">Dotknij opcji \"Defragmentuj\", aby rozpocząć. Podczas tego procesu urządzenie może działać wolniej. Aby defragmentacja przebiegła szybciej, nie używaj urządzenia.</string>
+    <string name="storage_fbo_btn">Defragmentuj</string>
+    <string name="storage_fbo_btn_estimate">Przygotowywanie…</string>
+    <string name="storage_fbo_finish_btn">Gotowe</string>
+    <string name="storage_fbo_notification_finish_title">Ukończono defragmentację</string>
+    <string name="storage_fbo_notification_start_content">Podczas tego procesu urządzenie może działać wolniej</string>
+    <string name="storage_fbo_notification_start_title">Defragmentowanie pamięci</string>
     <string name="storage_fbo_number_tip">Wykonano %1$s</string>
     <string name="storage_file_list_from">Z %s</string>
     <string name="storage_fob_date_format">d.MM.</string>
