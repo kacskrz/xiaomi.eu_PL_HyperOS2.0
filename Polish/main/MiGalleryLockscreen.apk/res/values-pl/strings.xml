@@ -230,6 +230,9 @@
     <string name="left_lks_detail_entrance">Zobacz więcej</string>
     <string name="left_lks_download_now">Pobierz</string>
     <string name="left_lks_reverse">Zarezerwuj</string>
+    <string name="left_lks_see_more">Wyświetl</string>
+    <string name="left_lks_subscribe">Przedsprzedaż</string>
+    <string name="left_lks_unlocked_download_tip">%s zostanie pobrane po odblokowaniu urządzenia. Możesz anulować tę akcję w Panelu powiadomień.</string>
     <string name="left_lks_view">Wyświetl</string>
     <string name="like">Lubię</string>
     <string name="liked">Polubione</string>
