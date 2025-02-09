@@ -4,6 +4,7 @@
     <string name="cloud_storage_default_title">Przestrzeń Chmury</string>
     <string name="cloud_storage_full_international_upgrade_default_text">Za mało miejsca. Wstrzymano synchronizację z chmurą.</string>
     <string name="cloud_storage_international_almost_full_upgrade_text">Brak miejsca. Wstrzymywanie synchronizacji z chmurą.</string>
+    <string name="cloud_storage_manage_title">Zarządzaj</string>
     <string name="cloud_storage_sufficient_text">Ulepsz, aby uzyskać do %d TB pamięci</string>
     <string name="cloud_storage_upgrade_text">Ulepsz</string>
     <string name="cloud_storage_upgrade_text_now">Ulepsz</string>
