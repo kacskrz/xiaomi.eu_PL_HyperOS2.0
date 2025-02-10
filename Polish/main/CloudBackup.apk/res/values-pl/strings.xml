@@ -41,7 +41,6 @@ Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
     <string name="restore_32bit_apps_no_tango_page_sub_title">Te aplikacje nie są kompatybilne z architekturą %d-bitową i nie mogą zostać przywrócone na tym urządzeniu. Możesz kontynuować proces przywracania, ale te aplikacje zostaną pominięte.</string>
     <string name="restore_32bit_apps_page_sub_title">Te aplikacje nie są kompatybilne z architekturą %d-bitową. Aby je przywrócić, włącz tryb zgodności aplikacji.</string>
     <string name="self_device_disable">%s (niewspierane na tym urządzeniu)</string>
-    <string name="session_failed_international_cloud_no_space_title">Brak miejsca w chmurze</string>
     <string name="session_failed_privacy_revoked_btn_text">Zobacz szczegóły</string>
     <string name="session_failed_privacy_revoked_title">Wycofałeś swoją zgodę na warunki Polityki prywatności Chmury Xiaomi</string>
     <string name="session_interrupted_title_backup">Wstrzymano kopię zapasową</string>

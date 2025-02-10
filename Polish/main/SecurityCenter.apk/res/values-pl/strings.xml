@@ -1183,6 +1183,7 @@ Ultraoszczędzania baterii"</string>
     <string name="privacy_pop_record">Dzisiejsze nagrania audio</string>
     <string name="privacy_pop_storage">Dzisiejszy dostęp do pamięci</string>
     <string name="privacy_privacy_title">Polityka prywatności</string>
+    <string name="privacy_protect_summary">Chroń prywatne rzeczy</string>
     <string name="privacy_provison_no_network">Połącz się z siecią.</string>
     <string name="privacy_revoke_dialog_content">Wyłączając tą opcję, cofasz swoją zgodę na warunki Polityki prywatności Panelu sterowania. Xiaomi zaprzestanie gromadzenia Twoich informacji osobistych, zaś już zgromadzone i przetworzone dane zostaną usunięte w terminach określonych przez odpowiednie przepisy prawa. Aby dostarczać Ci podstawowe usługi, Panel sterowania musi gromadzić niezbędne informacje. Twoje cofnięcie zgody na warunki Polityki prywatności zostanie uznane jako brak zgody na akceptację tego warunku.</string>
     <string name="privacy_revoke_dialog_content_cn">"Jeśli będziesz kontynuować, wycofasz zgodę na warunki Polityki prywatności usługi %1$s. Xiaomi zaprzestanie gromadzenia Twoich danych, zaś te informacje, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym lokalnymi przepisami i regulacjami, chyba że ustalono inaczej.

@@ -85,6 +85,7 @@
     <string name="powerful_acceleration_tip_high"><Data>Twoja pamięć jest &lt;font color=#ff0000 >znacznie&lt;/font> pofragmentowana. Defragmentacja może rozwiązać ten problem.</Data></string>
     <string name="powerful_acceleration_tip_middle"><Data>Twoja pamięć jest &lt;font color=#ff0000 >częściowo&lt;/font> pofragmentowana. Defragmentacja może rozwiązać ten problem.</Data></string>
     <string name="pref_summary_garbage_auto_clean_content">Wybierz, co czyścić</string>
+    <string name="pref_title_engine">Definicje skanowania</string>
     <string name="security_center_slogan">Panel sterowania</string>
     <string name="there_is_no">Wszystko OK!</string>
     <string name="toast_garbage_list_empty">Wszystko OK</string>
