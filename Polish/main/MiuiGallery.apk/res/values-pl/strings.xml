@@ -148,6 +148,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="global_my">"Moje urządzenie
 %1$s"</string>
     <string name="google_banner_backup_title">Skopiuj swoje elementy do Zdjęć Google</string>
+    <string name="grant_permission_text">Zezwól Galerii na dostęp do wszystkich zdjęć i filmów na Twoim urządzeniu. Możesz to zrobić w Ustawieniach.</string>
     <string name="group_name">Grupa</string>
     <string name="hdr_show_hint">Dostosuj wyświetlanie, aby pokazać więcej szczegółów w cieniach i podświetleniach w elementach o wysokim zakresie dynamicznym</string>
     <string name="hdr_switch_show_title">Wyświetlanie Pro HDR</string>
