@@ -38,6 +38,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="miui_clock_city_name_local">Lokalnie</string>
     <string name="miui_clock_oversize_date">d.MM</string>
     <string name="miui_keyboard_shortcut_group_system_dock">Pokaż dock z aplikacjami</string>
+    <string name="miui_keyboard_shortcut_show_all_apps">Pokaż wszystkie aplikacje</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Przełączanie między ostatnio otwartymi aplikacjami</string>
     <string name="miui_lock_eastern_art_date_time_12">d.MM h:mm aa</string>
     <string name="miui_lock_eastern_art_date_time_24">d.MM H:mm</string>

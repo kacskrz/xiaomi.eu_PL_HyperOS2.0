@@ -17,6 +17,8 @@
     <string name="dual_4g_switch_summary">Zezwól na łączność LTE na obu kartach SIM</string>
     <string name="dual_4g_switch_title">Podwójne LTE</string>
     <string name="enable_2g_dialog_warn_message">"Jeśli wyłączysz sieć 2G i znajdziesz się tam, gdzie 2G jest jedyną dostępną siecią, nie będzie można wykonać żadnego połączenia (nawet alarmowego). Wyłączyć mimo to?"</string>
+    <string name="enable_2g_summary_eu">Używaj połączeń w sieci 2G. Ta sieć jest zawsze włączona dla połączeń alarmowych.</string>
+    <string name="enable_2g_title_eu">Zezwalaj na 2G</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE wymaga łączności LTE dla dwóch slotów SIM. Przełączyć na podwójne LTE?</string>
     <string name="enable_proximity_title">Wygaś przy twarzy</string>
     <string name="enter_esim_service_support_summary">Wyświetl listę wspieranych operatorów</string>
