@@ -57,6 +57,7 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
     <string name="dialog_request_permission_message_provision_link">Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki %1$s oraz %2$s.</string>
     <string name="dialog_wechat_data_transfer_fail_message">"Nie udało się przenieść danych aplikacji oraz historii czatu WeChat ze względu na ograniczenia aplikacji. Spróbuj użyć wbudowanej w aplikację funkcji kopii zapasowej.
 Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate chats."</string>
+    <string name="err_data_protection">Na starym urządzeniu włączona jest Zaawansowana ochrona danych. Wymagana weryfikacja.</string>
     <string name="err_not_allow">Brak wsparcia</string>
     <string name="guest_wainting_title">Kontynuuj na nowym urządzeniu</string>
     <string name="host_boot_installation_bottom_tips">"Nie możesz odnaleźć Przenoszenia danych? Dotknij, aby pobrać."</string>
