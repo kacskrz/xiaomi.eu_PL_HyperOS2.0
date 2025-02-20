@@ -99,6 +99,7 @@
     <string name="launch_notification_center">Panel powiadomień</string>
     <string name="launch_recents">Ostatnie aplikacje</string>
     <string name="launch_voice_assistant">Uruchom asystenta głosowego</string>
+    <string name="linked_wallpaper">Zestawy tapet</string>
     <string name="long_press_back_key">Długo Wstecz</string>
     <string name="long_press_buttom_key">Długo Ekran główny na ekranie blokady</string>
     <string name="long_press_home_key">Długo Ekran główny</string>
@@ -156,6 +157,8 @@
     <string name="sunlight_notification_title">Włącz tryb Światło słoneczne</string>
     <string name="super_wallpaper_list_label">Supertapety</string>
     <string name="swoosh">Pod wodą</string>
+    <string name="theme_titile_classis">Klasyczny</string>
+    <string name="theme_titile_classis_scenery">Sceneria</string>
     <string name="three_gesture_down">3 palce w dół</string>
     <string name="three_gesture_horizontal">Przesuń poziomo %d palcami</string>
     <string name="three_gesture_long_press">Dotknij i przytrzymaj %d palcami</string>
