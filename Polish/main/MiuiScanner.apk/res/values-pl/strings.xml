@@ -21,6 +21,9 @@
     <string name="all_text">Pełen tekst</string>
     <string name="already_ocr_result">Automatycznie wybrano elementy</string>
     <string name="always">Zawsze</string>
+    <string name="aon_no_network_tip">Włącz Wi-Fi lub dane mobilne i spróbuj ponownie</string>
+    <string name="aon_pay_setting_default_des">Domyślna metoda płatności</string>
+    <string name="aon_recognize_code_des">Rozpoznany kod QR</string>
     <string name="app_description_content">Masz zamiar usunąć tę aplikację. Upewnij się, że nie będziesz już potrzebował jej funkcjonalności.</string>
     <string name="app_description_title">O aplikacji</string>
     <string name="app_details">Informacje</string>
@@ -29,6 +32,7 @@
     <string name="barcode_into_rectangle">Umieść kod wewnątrz ramki</string>
     <string name="birthday">Urodziny:</string>
     <string name="black_and_white">Czarno-białe</string>
+    <string name="bluetooth_auracast_fg_title">Transmisja audio</string>
     <string name="business_card">Wizytówka</string>
     <string name="business_card_title">Umieść wizytówkę wewnątrz ramki</string>
     <string name="business_card_with_qr_code">Umieść wizytówkę bądź kod QR code wewnątrz ramki</string>
@@ -428,6 +432,7 @@
     <string name="plant_reg_fail_2">Nie udało się rozpoznać tego obiektu. Skaner jest w stanie rozpoznać jedynie rośliny.</string>
     <string name="plant_support">" (Pomoc techniczna) "</string>
     <string name="plant_title">Zrób zdjęcie roślinie, którą chcesz rozpoznać</string>
+    <string name="please_enable_bluetooth_retry">Włącz Bluetooth i spróbuj ponownie</string>
     <string name="please_select_an_item">Wybierz elementy</string>
     <string name="please_try_again_later">Poczekaj minutę lub dwie i spróbuj ponownie</string>
     <string name="ppt_dialog_content">Eksportuj notatki i slajdy do pliku PDF</string>

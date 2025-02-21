@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="continue_use_notify">
+        <item quantity="other">"Korzystano z urządzenia przez %d min."</item>
+        <item quantity="one">"Korzystano z urządzenia przez %d min."</item>
+    </plurals>
+    <plurals name="forced_rest_notify">
+        <item quantity="other">Możesz użyć go ponownie za %d min.</item>
+        <item quantity="one">Możesz użyć go ponownie za %d min.</item>
+    </plurals>
     <plurals name="last_30_day_remind_eyes_statistics">
         <item quantity="other">W ciągu ost. %1$d dni wysłano %2$s przypomnienia</item>
         <item quantity="one">W ciągu ost. %1$d dni wysłano %2$s przypomnienie</item>
@@ -23,6 +31,10 @@
         <item quantity="one">W ciągu ost. %1$d dni odblokowano %2$s raz</item>
         <item quantity="few">W ciągu ost. %1$d dni odblokowano %2$s razy</item>
         <item quantity="many">W ciągu ost. %1$d dni odblokowano %2$s raza</item>
+    </plurals>
+    <plurals name="limit_app_prolong_minute">
+        <item quantity="other">Przedłuż o %d min</item>
+        <item quantity="one">Przedłuż o %d min</item>
     </plurals>
     <plurals name="pcl_add_account_ignore_with_seconds">
         <item quantity="other">Nie teraz (%d s)</item>

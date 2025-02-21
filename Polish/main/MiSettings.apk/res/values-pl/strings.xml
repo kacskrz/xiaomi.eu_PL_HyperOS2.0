@@ -78,6 +78,8 @@
     <string name="click_to_save">Dotknij przycisku \"Gotowe\", aby ustawić ogólny dzwonek.</string>
     <string name="common_brushtail">Kitanka lisia</string>
     <string name="common_ostrich">Struś</string>
+    <string name="continue_use_category_title">Limit ciągłego korzystania</string>
+    <string name="continue_use_switch_title">Limit ciągłego korzystania z urządzenia</string>
     <string name="control_center_title">Czas przed ekranem dzisiaj</string>
     <string name="control_center_title_new">Używano dzisiaj</string>
     <string name="created_successfully">Pomyślnie utworzono skrót</string>
@@ -154,6 +156,7 @@ nie są tworzone w Drugiej przestrzeni"</string>
     <string name="large_ground_finch">Darwinka wielkodzioba</string>
     <string name="laughing_kookaburra">Kukabura</string>
     <string name="laughing_kookaburra_info">Kukabury są znane z unikalnych dźwięków. Są dobre w polowaniu na węże i inne gady.</string>
+    <string name="limit_know">OK</string>
     <string name="lion">Lew</string>
     <string name="lion_info">Lwy to groźne i potężne drapieżniki. Żyją w grupach i mają silne poczucie terytorium.</string>
     <string name="long_tai1ed_iaeger">Wydrzyk długosterny</string>
@@ -234,6 +237,7 @@ nie są tworzone w Drugiej przestrzeni"</string>
     <string name="nature_mix_summary">Utwórz własny zestaw</string>
     <string name="nazca_booby">Głuptak galapagoski</string>
     <string name="nine_banded_armadillo">Pancerniki</string>
+    <string name="no_limit_category_title">Wyjątki</string>
     <string name="no_sound_summary">Brak</string>
     <string name="normal_mode_new_data">Przyciemnianie PWM (wysoka częstotliwość)</string>
     <string name="normal_mode_summary_new">Zezwalaj na migotanie w słabych warunkach oświetleniowych</string>
@@ -276,9 +280,12 @@ Wycofać zgodę?"</string>
     <string name="screen_fps_unit_smooth">%d Hz (lepsza płynność)</string>
     <string name="screen_time_lock">Blokada Czasu przed ekranem</string>
     <string name="sea_otter">Kałan morski</string>
+    <string name="search_app_empty">Nie znaleziono powiązanych aplikacji</string>
+    <string name="search_category_empty">Nie znaleziono powiązanych kategorii</string>
     <string name="seal_info">Foki to ssaki morskie, które mogą szybko poruszać się w głębokich wodach, żerując na rybach i krewetkach.</string>
     <string name="short_eared_owl">Uszatka błotna</string>
     <string name="silver_pheasant">Kiściec srebrzysty</string>
+    <string name="skip_forced_rest">Pomiń</string>
     <string name="skywalker_hoolock_gibbon">Hulok skywalker</string>
     <string name="small_ground_finch">Darwinka mała</string>
     <string name="sms_received_sound_title">Nowa wiadomość</string>
@@ -393,6 +400,10 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="walrus">Mors</string>
     <string name="walrus_info">Morsy są doskonałymi nurkami. Preferują płytkie regiony szelfowe i żerują głównie na dnie morza.</string>
     <string name="weddell_seal">Weddelka arktyczna</string>
+    <string name="weekday_limit_category_title">Limit w dni robocze</string>
+    <string name="weekday_limit_switch_title">Limit korzystania w dni robocze</string>
+    <string name="weekend_limit_category_title">Limit w weekendy</string>
+    <string name="weekend_limit_switch_title">Limit korzystania w weekendy</string>
     <string name="whipbird_eastern_whipbird">Trzaskacz czarnoczuby</string>
     <string name="whipbird_info">Te ptaki żyją na wschodnim wybrzeżu Australii.</string>
     <string name="white_bellied_sea_eagle">Bielik</string>
