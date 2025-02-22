@@ -38,8 +38,8 @@
     <string name="hide_apps_title">Ukryj ikony aplikacji</string>
     <string name="home_gesture_global_search">Wyszukiwarka</string>
     <string name="home_gesture_notification_and_control_center">Panel powiadomień i Centrum funkcji</string>
-    <string name="home_pull_down_content">Przesuń w dół na Ekranie głównym, aby szukać elementów na tym urządzeniu oraz online.</string>
-    <string name="home_pull_down_content_tips">Możesz zmienić swoje preferencje w Ustawieniach > Ekran główny > Przesunięcie w dół na Ekranie głównym. Ustawienia dotyczące gestu przesunięcia w górę nie zmienią się.</string>
+    <string name="home_pull_down_content">Przesuń w dół na Ekranie głównym, aby szukać elementów na tym urządzeniu i odnajdywać treści wysokiej jakości z sieci.</string>
+    <string name="home_pull_down_content_tips">Możesz wrócić do wyświetlania Centrum funkcji i panelu powiadomień w Ustawieniach > Ekran główny > Przesunięcie w dół na Ekranie głównym.</string>
     <string name="home_pull_down_know">OK</string>
     <string name="home_slide_up_action">Przesunięcie w górę na Ekranie głównym</string>
     <string name="home_switch_personal_assistant">Tryb asystenta</string>
