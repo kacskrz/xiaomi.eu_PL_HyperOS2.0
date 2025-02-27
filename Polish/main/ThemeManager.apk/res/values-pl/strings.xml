@@ -1097,6 +1097,7 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
     <string name="video_edit_export_fail_toast">Nie udało się wyeksportować</string>
     <string name="video_wallpaper_apply_warning">Ta tapeta zostanie ustawiona zarówno na Ekranie głównym, jak i na Ekranie blokady. Zrobić to?</string>
     <string name="video_wallpaper_import">Kliknij, aby dodać elementy</string>
+    <string name="vip_level_dialog_positive">OK</string>
     <string name="voice_input">Wprowadzanie głosowe</string>
     <string name="wallpaper_apply_full">Zastosuj na obu ekranach</string>
     <string name="wallpaper_apply_inner">Ustaw na wewnętrznym ekranie</string>
