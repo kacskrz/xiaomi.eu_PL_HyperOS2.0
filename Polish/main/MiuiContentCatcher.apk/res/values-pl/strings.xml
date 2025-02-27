@@ -51,6 +51,7 @@
     <string name="open">Włącz</string>
     <string name="password_manager">Menedżer haseł</string>
     <string name="password_manager_summary">Synchronizuj hasła z Chmurą Xiaomi</string>
+    <string name="privacy_password_confirm_SecondSpace_Password">Potwierdź hasło Drugiej przestrzeni</string>
     <string name="save_content_tip">"Zostaną zapisane następujące elementy: "</string>
     <string name="search">Szukaj</string>
     <string name="setting">Dodaj</string>

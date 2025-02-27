@@ -17,6 +17,7 @@ Ta funkcja jest obsługiwana przez OPPO, vivo, realme i innych producentów smar
     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Nie udało się połączyć z komputerem. Upewnij się, że na obu urządzeniach włączono Wi-Fi oraz Bluetooth, a na komputerze działa Xiaomi PC Manager."</string>
     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Nie udało się połączyć z komputerem. Upewnij się, że na obu urządzeniach włączono Wi-Fi oraz Bluetooth, a na komputerze działa Xiaomi PC Manager."</string>
     <string name="sub_title_mishare_switch_mine">Możesz odbierać pliki z urządzeń zalogowanych na Twoje konto Xiaomi</string>
+    <string name="switch_mode_all">Od kogokolwiek (przez %d min)</string>
     <string name="switch_mode_close">Wyłączone</string>
     <string name="switch_mode_sameaccount">Z mojego konta Xiaomi</string>
     <string name="tips_p2p_support_use5g_china">Dla lepszych rezultatów wykorzystaj sieć Wi-Fi 5 GHz.</string>

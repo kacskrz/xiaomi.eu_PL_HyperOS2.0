@@ -116,6 +116,7 @@
     <string name="permgroupdesc_location">Zezwolić %1$s na dostęp do lokalizacji?</string>
     <string name="phone_in_talk">Rozmowa już trwa</string>
     <string name="remove_black_list_title">Usuń z listy blokowanych</string>
+    <string name="request_open_bluetooth_title">Zezwolić Komunikacji między urządzeniami na włączenie Bluetooth?</string>
     <string name="start_failed_confirm">OK</string>
     <string name="start_failed_content">Aby skorzystać z Komunikacji między urządzeniami, włóż kartę SIM i zaloguj się na konto Xiaomi.</string>
     <string name="start_failed_title">Nie udało się włączyć</string>
@@ -125,4 +126,5 @@
         Aby potwierdzić zapoznanie się i akceptację tego oświadczenia, dotknij opcji \"Zgadzam się\"."</string>
     <string name="user_agreement_title">Stanowisko dot. prywatności Komunikacji między urządzenaimi</string>
     <string name="virtual_moresttings">Więcej ustawień</string>
+    <string name="xpan_bt_toast">Przełączono na bezstratny dźwięk Wi-Fi %s Mb/s</string>
 </resources>
