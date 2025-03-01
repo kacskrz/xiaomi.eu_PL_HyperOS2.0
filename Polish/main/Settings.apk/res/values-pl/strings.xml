@@ -352,6 +352,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="miui_sos_call_fire">Straż pożarna</string>
     <string name="miui_sos_calling_summary">Urządzenie automatycznie zadzwoni do kontaktów alarmowych i odtworzy nagraną wiadomość głosową SOS. Połączenie zostanie zakończone po zakończeniu odtwarzania wiadomości. Ta funkcja zakończy swoje działanie po pierwszej pomyślnej próbie.</string>
     <string name="miui_sos_emergency_title">Alarmowy sygnał SOS</string>
+    <string name="miui_sos_enable_switch_summary_new"><Data>Gdy będziesz potrzebować pomocy, naciśnij przycisk zasilania &lt;font color=#3482FF>&lt;xliff:g id=number refersto=5>%d&lt;/xliff:g> razy&lt;/font> z rzędu, aby wysłać wiadomość z Twoją lokalizacją do kontaktów alarmowych</Data></string>
     <string name="miui_sos_enable_switch_title">Alarmowy sygnał SOS</string>
     <string name="miui_sos_exit_dialog_message">Aktywowałeś alarmowy sygnał SOS. Informacje o Twojej lokalizacji zostały już wysłane do kontaktów alarmowych. Wyłączyć mimo to?</string>
     <string name="miui_sos_launching_summary">Aktywacja alarmowego sygnału SOS za %d s</string>
@@ -518,6 +519,10 @@ Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządz
     <string name="smartcover_sensitive_summary">Blokuj lub odblokuj urządzenie z aktywnym pokrowcem</string>
     <string name="sms_delivered_sound_dialog_title">Wybierz dźwięk dostarczenia SMS</string>
     <string name="sms_received_sound_dialog_title">Wybierz dźwięk otrzymania SMS</string>
+    <string name="sos_delete_emergency_contacts_dialog_message">Usunąć ten kontakt alarmowy?</string>
+    <string name="sos_delete_emergency_contacts_dialog_title">Usuń kontakt alarmowy</string>
+    <string name="sos_delete_last_emergency_contacts_dialog_message">Alarmowy SOS wymaga co najmniej jednego kontaktu alarmowego do działania. Jeśli usuniesz swój ostatni kontakt alarmowy, funkcja zostanie wyłączona.</string>
+    <string name="sos_emergency_contacts_empty_text">Nic tu nie ma</string>
     <string name="sos_privacy_dialog_message">"Przed użyciem tej funkcji przeczytaj i zatwierdź %s. 
 Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowych i dostępu do kontaktów. Czy zgadzasz się na to?"</string>
     <string name="sos_privacy_dialog_message_new_version">"Alarmowy SOS pozwala ci udostępniać twoją lokalizację w czasie rzeczywistym oraz wysyłać wiadomości tekstowe do kontaktów alarmowych.
