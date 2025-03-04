@@ -35,4 +35,7 @@ Możesz teraz zalogować się na konto Xiaomi, korzystając z %s."</string>
     <string name="sim_changed_notification_msg">Naciśnij, aby zaktualizować dane konta</string>
     <string name="sim_changed_notification_title">Zmieniłeś nr telefonu?</string>
     <string name="system_ad_summary">Xiaomi pokazuje reklamy w swoich aplikacjach (ponoć w celu dalszego rozwijania swoich produktów...). Na xiaomi.eu reklamy te są wyłączone, opcja ta nie ma więc żadnego zastosowania.</string>
+    <string name="wear_account_auth_failed_message">"Aby zalogować się ponownie:
+%1$d. Połącz telefon z urządzeniem do noszenia.
+%2$d. Otwórz Mi Fitness i zaloguj się."</string>
 </resources>

@@ -17,7 +17,6 @@
 d.MM"</string>
     <string name="aod_lock_screen_date_smartcover_b">EE d.MM</string>
     <string name="aod_mode_time_summary">Zaplanuj czas włączenia trybu Ekran zawsze włączony</string>
-    <string name="aod_multi_window_not_support">Ta akcja nie jest wspierana w Podziale ekranu</string>
     <string name="aod_notification_use_app_icon">Użyj ikon z aplikacji</string>
     <string name="aod_show_style_title">Wyświetlanie</string>
     <string name="component_lunar">Chiński kalendarz</string>
