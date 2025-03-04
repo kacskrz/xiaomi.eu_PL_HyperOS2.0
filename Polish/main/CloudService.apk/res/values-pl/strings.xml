@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="calendar_sync_item_permission">kalendarz</string>
-    <string name="call_log_sync_item_permission">historia połączeń</string>
     <string name="cloud_storage_almost_full_upgrade_text">Brakuje miejsca. Synchronizacja zdjęć może nie działać.</string>
     <string name="cloud_storage_default_title">Przestrzeń Chmury</string>
     <string name="cloud_storage_full_international_upgrade_default_text">Za mało miejsca. Wstrzymano synchronizację z chmurą.</string>
@@ -11,7 +9,6 @@
     <string name="cloud_storage_upgrade_text">Ulepsz</string>
     <string name="cloud_storage_upgrade_text_now">Ulepsz</string>
     <string name="cloud_storage_zero_upgrade_button_text_now">Ulepsz za darmo</string>
-    <string name="contacts_sync_item_permission">kontakty</string>
     <string name="cta_notification_content_title">"Nie można przywrócić elementów: %s"</string>
     <string name="customize_notification_btn_text">Ulepsz</string>
     <string name="device_activation_card_cannot_get_yet">"Nie udało się uzyskać informacji. Spróbuj ponownie za 3-5 dni."</string>
@@ -30,16 +27,11 @@
     <string name="e2ee_device_exit_tip">Wylogowano z %s</string>
     <string name="e2ee_device_verification_result_subtitle">Urządzenia wylogowane ze Twojego konta Xiaomi nie będą mogły korzystać ze Chmury Xiaomi i innych powiązanych z nią usług, dopóki nie zalogujesz się na nich ponownie.</string>
     <string name="e2ee_device_verification_result_title">Wylogowano wszystkie urządzenia</string>
-    <string name="e2ee_device_verification_tip">Dotknij tutaj, aby usunąć to urządzenie</string>
-    <string name="e2ee_need_bind_phone_button_sure">OK</string>
     <string name="e2ee_need_bind_phone_subtitle">Nie dodałeś numeru telefonu. Jeśli zapomnisz hasła do konta, nie będziesz w stanie się na nie zalogować. Dodaj numer telefonu, aby móc przypomnieć sobie hasło.</string>
-    <string name="e2ee_need_bind_phone_title">Dodaj numer telefonu</string>
     <string name="find_device_gdpr_prompt">Włączając Lokalizację urządzenia, zgadzasz się na warunki <u><a href="app://com.miui.cloudservice.gdpr.license">Polityki prywatności</a></u> Xiaomi.</string>
-    <string name="find_device_permissions_header_without_offline_find">Dzięki funkcji Znajdź urządzenie możesz odnaleźć, śledzić i zablokować swoje urządzenie, gdy je zgubisz. Do poprawnego działania aplikacji potrzeba następujących uprawnień:</string>
     <string name="find_device_status_summary_without_offline_find">Włącz, aby zlokalizować i śledzić swoje urządzenie lub wyczyścić jego dane</string>
     <string name="find_permission_phone_title">Dostęp do informacji o urządzeniu</string>
     <string name="find_permission_sms_title">Wysyłanie SMS-ów</string>
-    <string name="gallery_auto_sync_fail_international_noti_content">Za mało miejsca. Nie można dokończyć synchronizacji zdjęć.</string>
     <string name="gallery_service_termination_announcement">Uwaga: Elementy z Galerii nie mogą już być synchronizowane z Chmurą Xiaomi</string>
     <string name="jump_market_dialog_btn_cancel">Anuluj</string>
     <string name="jump_market_dialog_btn_open">Otwórz</string>
@@ -51,7 +43,6 @@
     <string name="lockscreen_access_pattern_cleared">Pomyślnie wyczyszczono wzór</string>
     <string name="lockscreen_access_pattern_detected">Ukończono rysowanie wzoru</string>
     <string name="lockscreen_access_pattern_start">Rozpocznij rysowanie wzoru</string>
-    <string name="manual_activation">Reaktywuj</string>
     <string name="micloud_dspt_provision_china">Wykorzystaj Chmurę Xiaomi do synchronizacji danych i lokalizacji urządzenia.</string>
     <string name="micloud_manaul_sync_success_button_text">Szczegóły</string>
     <string name="micloud_manaul_sync_success_title">Gotowe</string>
@@ -81,9 +72,8 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone_without_offline_find">Możesz użyć funkcji Znajdź urządzenie do zlokalizowania, zablokowania lub wymazania danych z urządzenia, gdy je zgubisz.</string>
     <string name="privacy_doc_finddevice_phone">"Witaj w usłudze Znajdź urządzenie! Możesz jej użyć do lokalizacji urządzenia, jego zablokowania bądź wymazania z niego danych w razie jego zagubienia. Możesz wejść na stronę &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>, aby dokonać tych czynności z poziomu przeglądarki.&lt;br />&lt;br />Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i politykami prywatności.&lt;br />Usługa Znajdź urządzenie, w celu poprawnego działania, wymaga połączenia z Internetem oraz odpowiednich uprawnień w celu gromadzenia Twoich danych:&lt;br />• Lokalizacja:&lt;br />w celu lokalizacji urządzenia i przełączania go w tryb zgubienia&lt;br />Jeśli nie zgodzisz się na nadanie tych uprawnień, nie będziesz mógł używać tych usług. Możesz włączyć bądź wyłączyć tę usługę w dowolnym momencie w Ustawieniach.&lt;br />Przeczytaj i zaakceptuj &lt;a href=%1$s>&lt;u>Umowę użytkownika&lt;/u>&lt;/a> oraz &lt;a href=%2$s>&lt;u>Politykę prywatności&lt;/u>&lt;/a> przed użyciem funkcji Znajdź urządzenie.&lt;br />"</string>
     <string name="privacy_policy">Polityka prywatności</string>
-    <string name="privacy_policy_revoked_btn_msg">OK</string>
-    <string name="privacy_policy_revoked_msg_contains_manual_activation">Wycofałeś swoją zgodę na warunki Polityki prywatności Chmury Xiaomi, w związku z czym wszystkie Twoje dane przechowywane w chmurze zostały usunięte. Jeśli chcesz ponownie skorzystać z tej usługi, wyraź zgodę na warunki Polityki prywatności na stronie i.mi.com. Ze względów bezpieczeństwa możesz aktywować konto tylko raz dziennie.</string>
     <string name="privacy_policy_revoked_msg">Wycofałeś swoją zgodę na warunki Polityki prywatności Chmury Xiaomi, w związku z czym wszystkie Twoje dane przechowywane w chmurze zostały usunięte. Aby użyć tej usługi, przełącz się na inne konto.</string>
+    <string name="privacy_policy_revoked_msg_contains_manual_activation">Wycofałeś swoją zgodę na warunki Polityki prywatności Chmury Xiaomi, w związku z czym wszystkie Twoje dane przechowywane w chmurze zostały usunięte. Jeśli chcesz ponownie skorzystać z tej usługi, wyraź zgodę na warunki Polityki prywatności na stronie i.mi.com. Ze względów bezpieczeństwa możesz aktywować konto tylko raz dziennie.</string>
     <string name="privacy_policy_update_title">Zaktualizowano Politykę prywatności</string>
     <string name="privacy_runtime_perm_get_installed_apps_desc">W celu synchronizacji danych aplikacji</string>
     <string name="privacy_runtime_perm_get_installed_apps_title">Dostęp do danych aplikacji</string>
@@ -98,13 +88,6 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="recommend_service_cloudservice_description">Synchronizuj dane aplikacji systemowych i wykonuj kopię ustawień, pulpitu i innych rzeczy</string>
     <string name="recommend_service_sharelocation_description">Lokalizuj urządzenia, blokuj je i wymaż z nich dane</string>
     <string name="recommend_service_title">Polecane usługi</string>
-    <string name="request_manual_notification_permission_labels">Aby mieć pewność, że otrzymasz ważne powiadomienia, zezwól tej aplikacji na wysyłanie powiadomień w Ustawieniach.</string>
-    <string name="request_manual_various_permissions_labels_exclude_notification_permission">Aby mieć pewność, że ważne dane (%1$s) mogą być synchronizowane z chmurą, przyznaj tej aplikacji w Ustawieniach następujące uprawnienia: %2$s.</string>
-    <string name="request_manual_various_permissions_labels_include_notification_permission">Aby mieć pewność, że otrzymasz ważne powiadomienia, a ważne dane (%1$s) mogą być synchronizowane z chmurą, zezwól tej aplikacji na wysyłanie powiadomień i przyznaj jej w Ustawieniach następujące uprawnienia: %2$s.</string>
-    <string name="request_permissions_dialog_negative_button_mes">Nie teraz</string>
-    <string name="request_permissions_dialog_positive_button_mes">OK</string>
-    <string name="request_permissions_labels">Wygląda na to, że Chmura Xiaomi nie może uzyskać dostępu do następujących danych: %1$s. Aby mieć pewność, że wszystkie elementy mogą być normalnie synchronizowane z chmurą, przyznaj jej następujące uprawnienia: %2$s."</string>
-    <string name="sms_sync_item_permission">wiadomości</string>
     <string name="soundrecorder_sync_only_in_wifi_china">Synchronizuj tylko przez Wi-Fi</string>
     <string name="soundrecorder_sync_only_in_wifi_summary_china">Synchronizuj nagrania tylko w sieci Wi-Fi</string>
     <string name="storage_upgrade_card_title">Ulepsz</string>
