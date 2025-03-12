@@ -5,6 +5,7 @@
     <string name="app_all_purpose_pad">Witaj w aplikacji Pliki! Możesz jej użyć do zarządzania plikami znajdującymi się na urządzeniu.</string>
     <string name="app_name">Pliki</string>
     <string name="app_name_miuiringtone">Dzwonki</string>
+    <string name="app_name_screenshot">Zrzuty i nagrania ekranu</string>
     <string name="cdd_message">"Ze względu na ograniczenia Androida 11 nie jest możliwe wyświetlenie niektórych wygenerowanych w aplikacjach firm trzecich plików w aplikacji Pliki."</string>
     <string name="cloud_drive_not_login_summary">Niezalogowany</string>
     <string name="cloud_space_full">Brak miejsca w Chmurze. Ulepsz swój plan Chmury, aby móc wysłać więcej elementów.</string>
