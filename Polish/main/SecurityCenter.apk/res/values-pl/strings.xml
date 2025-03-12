@@ -36,7 +36,7 @@
     <string name="added_game_start_game">Graj</string>
     <string name="ai_guard_post_brief_summary">Rozpoznaje i ostrzega przed niechcianymi połączeniami</string>
     <string name="ai_guard_post_preference_summary">Wyślij ostrzeżenie w przypadku wykrycia podejrzenia oszustwa lub fałszerstwa tożsamości podczas rozmów telefonicznych i połączeń wideo WeChat lub QQ</string>
-    <string name="ai_guard_post_preference_title">Zapbieganie kradzieży z SI</string>
+    <string name="ai_guard_post_preference_title">Zapobieganie kradzieży z SI</string>
     <string name="all_address_choose_hint">Wszystkie lokalizacje</string>
     <string name="allow_all">Zezwól wszystkim</string>
     <string name="antispam_mms_text">Ustaw aplikację SMS jako swoją domyślną aplikację do SMS-ów, aby móc zobaczyć zablokowane wiadomości</string>
