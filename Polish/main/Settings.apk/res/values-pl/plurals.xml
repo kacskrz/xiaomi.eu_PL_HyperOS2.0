@@ -9,14 +9,6 @@
         <item quantity="other">Około %d razy dziennie</item>
         <item quantity="one">Około %d raz dziennie</item>
     </plurals>
-    <plurals name="screen_timeout_summary_minute">
-        <item quantity="other">Po %d minutach nieaktywności</item>
-        <item quantity="one">Po %d minucie nieaktywności</item>
-    </plurals>
-    <plurals name="screen_timeout_summary_second">
-        <item quantity="other">Po %d sekundach nieaktywności</item>
-        <item quantity="one">Po %d sekundzie nieaktywności</item>
-    </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Od dostępu do informacji dzieli Cię już tylko kroków: %1$d.</item>
         <item quantity="one">Od dostępu do informacji dzieli Cię już tylko %1$d krok.</item>

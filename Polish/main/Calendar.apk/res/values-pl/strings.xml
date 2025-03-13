@@ -4,7 +4,6 @@
     <string name="app_name">Kalendarz</string>
     <string name="apply_auto_insert_ai_event_button">Włącz</string>
     <string name="auto_insert_ai_event_toast">Włączono asystenta wydarzeń SI</string>
-    <string name="bottom_navigator_days">%1$d dni</string>
     <string name="calendar_data_sharing_instruction">Oświadczenie o udostępnianiu danych firmom zewnętrznym</string>
     <string name="calendar_desc_withdraw_consent">Cofnij zgodę na Politykę prywatności Kalendarza</string>
     <string name="calendar_privacy_policy">Polityka prywatności</string>
