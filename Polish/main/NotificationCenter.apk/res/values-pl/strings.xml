@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_sliding_button_state_description_on">włączony</string>
     <string name="aon_message">Aby określić, czy na ekran patrzy wiele osób, funkcja uzyska dostęp do przedniego aparatu podczas wyświetlania pływającego powiadomienia. Zgromadzone zdjęcia są wykorzystywane tylko do lokalnej analizy liczby osób patrzących na ekran. Gdy zostanie wykryta więcej niż jedna osoba, treść powiadomienia zostanie ukryta.</string>
     <string name="aon_on_cancel">Anuluj</string>
     <string name="aon_on_confirm_time_out">OK</string>
@@ -20,6 +21,7 @@
     <string name="hint_search_in_enabled_apps">Wyszukaj aplikacje z wł. powiadomieniami</string>
     <string name="lock_screen_display_rules">Styl</string>
     <string name="lock_screen_tip_toast">Najpierw włącz powiadomienia w \"Powiadomieniach aplikacji\"</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="notch_and_status_bar_setting">Centrum funkcji i pasek statusu</string>
     <string name="notification_aon_summary">Ukryj treść powiadomienia, gdy na ekran patrzy wiele osób</string>
     <string name="notification_aon_title">Inteligentne pokazywanie pływających powiadomień</string>

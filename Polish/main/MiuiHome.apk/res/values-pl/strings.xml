@@ -10,6 +10,8 @@
     <string name="all_app_category_finance_business">Finanse</string>
     <string name="all_app_category_knowledge_education">Wiedza i edukacja</string>
     <string name="all_apps_setting_title">Układ Ekranu głównego</string>
+    <string name="announce_for_checked_after">zaznaczone, %1$s</string>
+    <string name="announce_for_unchecked_after">odznaczone, %1$s</string>
     <string name="announce_for_drag_enter_workspace_thumbnail">Przeniesiono elementy na pulpit: %1$d</string>
     <string name="announce_for_drop">Przesunięto: %1$s</string>
     <string name="application_name">Systemowy launcher</string>

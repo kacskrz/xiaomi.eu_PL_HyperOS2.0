@@ -2,6 +2,7 @@
 <resources>
     <string name="about_app_name">O Motywach</string>
     <string name="about_version_update">"Co nowego?"</string>
+    <string name="accessibility_sliding_button_state_description_on">włączony</string>
     <string name="accessibiliy_description_content_comment">Komentarz</string>
     <string name="ad_begin_to_download_tip">Rozpoczynanie pobierania…</string>
     <string name="ad_begin_to_install_tip">Instalacja…</string>
@@ -91,6 +92,7 @@
     <string name="ai_wallpaper_tips_content_violation">Ta treść może naruszać wytyczne Xiaomi. Nie można kontynuować generowania tapety.</string>
     <string name="ai_wallpaper_tips_people">Portret</string>
     <string name="ai_wallpaper_tips_title_content_violation">Nieodpowiednia zawartość</string>
+    <string name="all_selected_talkback">Zaznaczono wszystko</string>
     <string name="allow">Przyznano</string>
     <string name="already_latest_version">Aktualna</string>
     <string name="already_newest_version">Wersja jest aktualna</string>
@@ -114,6 +116,7 @@
     <string name="app_enable_transparent_wallpaper">Z przezroczystą tapetą</string>
     <string name="app_name_pad">Personalizacja</string>
     <string name="application_list_permission_desc">W celu pokazywania aplikacji komatybilnych z przezroczystymi tapetami</string>
+    <string name="apply_at_the_same_time">Ustaw na obu</string>
     <string name="apply_choosen_type_resource">Zastosuj wybrane elementy</string>
     <string name="apply_failed">"Nie udało się zastosować"</string>
     <string name="apply_font_tip">Motyw zawiera nową czcionkę. Aby go zastosować, konieczny będzie restart systemu. Wybierz Pomiń, aby zastosować motyw bez czcionki.</string>
@@ -150,7 +153,10 @@
     <string name="can_not_apply_error">"Ten format wideo nie jest wspierany"</string>
     <string name="can_not_apply_pc_video">"Tryb PC nie wspiera żywych tapet"</string>
     <string name="can_not_apply_size_invalid">Te wideo jest za duże</string>
+    <string name="cancel_all_selected_talkback">Odznaczono wszystko</string>
+    <string name="cancel_collected_talkback">Usunięto z ulubionych</string>
     <string name="cancel_download">Anulowano pobieranie</string>
+    <string name="cancel_like_talkback">Wycofano polubienie</string>
     <string name="carousel_no_set_wallpaper_effects">Nie można ustawić efektów, gdy włączone są Tapety Blokady</string>
     <string name="check_has_new_version">Dostępna jest aktualizacja</string>
     <string name="choose_from_photo">Wybierz z Galerii</string>
@@ -159,6 +165,7 @@
     <string name="clock">Zainstaluj Zegar</string>
     <string name="close_custom_permission_warning_text">"Bez uprawnień do pamięci aplikacja nie będzie mogła pobierać elementów i personalizować Twojego urządzenia. Wyłączyć mimo to?"</string>
     <string name="close_custom_permission_warning_text_above_eleven">"Aplikacja nie będzie mogła personalizować Twojego urządzenia bez uprawnień dostępu do pamięci. Wyłączyć mimo to?"</string>
+    <string name="collected_talkback">Dodano do ulubionych</string>
     <string name="common_applying">Stosowanie…</string>
     <string name="common_downloading">Pobieranie…</string>
     <string name="common_format_date_no_year">d.MM</string>
@@ -229,7 +236,9 @@
     <string name="de_try">Wypróbuj</string>
     <string name="deep_sea">Morskie głębiny</string>
     <string name="deep_sea_resource_comment">Początek życia na Ziemi</string>
+    <string name="depth_effect_talkback">Efekt głębi</string>
     <string name="desc_more_online_wallpaper">Więcej tapet online</string>
+    <string name="description_certified_designer">Certyfikowany twórca</string>
     <string name="desk_loop_will_change">Uwaga</string>
     <string name="desktop_effects">Efekty Ekranu głównego</string>
     <string name="detail_author_fans">"Obserwujący: "</string>
@@ -264,6 +273,7 @@
     <string name="display">Wyświetlaj</string>
     <string name="do_not_allow">Ograniczono</string>
     <string name="download_limit">Obecnie nie można pobrać więcej elementów. Spróbuj ponownie później.</string>
+    <string name="download_super_wallpaper">Zainstalować tę supertapetę?</string>
     <string name="dynamic_large_icon_not_support_current_type">"%s nie jest wspierana dla tej dynamicznej ikony"</string>
     <string name="dynamic_video_wallpaper">Tapeta zależna od pory dnia</string>
     <string name="editor_cancel">Anuluj</string>
@@ -430,6 +440,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
     <string name="large_icon_warning_not_install">Instalacja %s</string>
     <string name="large_icon_warning_not_install_msg">Aby móc użyć Superikony, zainstaluj %s. Zrobić to teraz?</string>
     <string name="like_list">Moje polubienia</string>
+    <string name="liked_talkback">Polubiono</string>
     <string name="live_wallpaper">Dynamiczne</string>
     <string name="load_from_local_photos">Galeria</string>
     <string name="loading_picture">Ładowanie obrazu…</string>
@@ -509,6 +520,7 @@ d.MM."</string>
     <string name="miuishare_title_share">Wyślij</string>
     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_compat_dialog_content">"Obecna wersja aplikacji \"%s\" jest niekompatybilna z tym motywem."</string>
     <string name="miuix_compat_dialog_title">Zastosowano domyślny motyw: \"%s\"</string>
     <string name="miuix_compat_dialog_update_title">Wymagana jest aktualizacja</string>
@@ -863,6 +875,7 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="ringtone_set_success">Pomyślnie ustawiono</string>
     <string name="scrollable_wallpaper_close">Wyłączono przewijanie</string>
     <string name="scrollable_wallpaper_open">Włączono przewijanie</string>
+    <string name="search_bar_talkback">Pasek wyszukiwania</string>
     <string name="search_filter_name">Filtr</string>
     <string name="search_non_filter_result">"Nie znaleziono rezultatów"</string>
     <string name="search_price_charge">Płatne</string>
@@ -1001,6 +1014,8 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="title_my_wallpaper">Moje tapety</string>
     <string name="title_system_audio_resource">Dzwonki systemowe</string>
     <string name="title_system_wallpaper_resource">Tapety systemowe</string>
+    <string name="to_lock_screen">Ustaw na Ekranie blokady</string>
+    <string name="to_the_desktop">Ustaw na Ekranie głównym</string>
     <string name="toast_both_all_apply_failured">"Nie udało się zastosować na Ekranie głównym lub Ekranie blokady"</string>
     <string name="toast_both_all_apply_success">Pomyślnie zastosowano na Ekranie głównym i Ekranie blokady</string>
     <string name="toast_home_apply_failured">"Nie udało się zastosować na Ekranie głównym"</string>
@@ -1059,6 +1074,8 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
     <string name="video_edit_export_fail_toast">Nie udało się wyeksportować</string>
     <string name="video_wallpaper_apply_warning">Ta tapeta zostanie ustawiona zarówno na Ekranie głównym, jak i na Ekranie blokady. Zrobić to?</string>
     <string name="video_wallpaper_import">Kliknij, aby dodać elementy</string>
+    <string name="view_not_selected_talkback">Nie wybrano</string>
+    <string name="view_selected_talkback">Wybrano</string>
     <string name="vip_level_dialog_positive">OK</string>
     <string name="voice_input">Wprowadzanie głosowe</string>
     <string name="wallpaper_apply_full">Zastosuj na obu ekranach</string>

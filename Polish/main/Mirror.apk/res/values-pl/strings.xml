@@ -234,6 +234,8 @@ wykonaj tę akcję na telefonie."</string>
     <string name="switch_wlan_tips_desc">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>
     <string name="switch_wlan_tips_desc_china">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>
     <string name="switch_wlan_tips_desc_pad_china">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>
+    <string name="tips_check_in_phone_please">Wyświetl i kontynuuj na swoim telefonie</string>
+    <string name="tips_set_with_phone_please">Kontynuuj na telefonie</string>
     <string name="toast_calling_warning">Zakończ trwające połączenie i spróbuj ponownie</string>
     <string name="upgrade_car_not_tip">"Nie pokazuj ponownie"</string>
     <string name="upgrade_car_ok">OK</string>

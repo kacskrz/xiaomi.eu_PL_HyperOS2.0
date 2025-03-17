@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_sliding_button_state_description_on">włączony</string>
     <string name="add_sound">Dodaj własny efekt</string>
     <string name="dolby_dax_geq_select_title">Efekty</string>
     <string name="ear_canal_scan_function_name">Zoptymalizuj dźwięk na podstawie kształtu ucha</string>
@@ -12,6 +13,7 @@
     <string name="headset_use_loud_volume">Głośność słuchawek była wysoka przez długi czas. Aby chronić Twój słuch, została ona zmniejszona do zalecanego poziomu.</string>
     <string name="hearing_assist_tips_message_one">%d. Przełącznik Monitora dousznego jest dostępny w Centrum funkcji. Możesz go tam dodać.</string>
     <string name="keep_sound">Zapisz efekt</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="music_add_my_sound">Dodaj własny efekt</string>
     <string name="music_audio_visual_wake_lock">Nie usypiaj ekranu</string>
     <string name="music_delete_sound_title">Usuwanie efektów</string>

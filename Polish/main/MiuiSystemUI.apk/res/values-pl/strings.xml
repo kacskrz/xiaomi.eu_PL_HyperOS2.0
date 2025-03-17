@@ -56,6 +56,7 @@ d.MM"</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, d MMMM</string>
     <string name="miui_magazine_clock_date">d.MM</string>
     <string name="miui_notification_menu_msg_unfocus">"Zamierzasz wyłączyć Skupienie powiadomień dla %1$s. Te powiadomienia będą wyświetlane normalnie. Wyłączyć?"</string>
+    <string name="miui_screen_rotation_freeze_portrait_message">Zablokowano ekran w pozycji pionowej</string>
     <string name="miui_smart_frame_clock_date">d.MM</string>
     <string name="miui_snooze_user_set_fail">Aby zobaczyć więcej opcji, przejdź do Ustawień</string>
     <string name="miui_snooze_user_set_success">Pomyślnie zastosowano. Aby zobaczyć więcej opcji, przejdź do Ustawień.</string>
