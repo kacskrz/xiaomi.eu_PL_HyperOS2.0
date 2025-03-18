@@ -80,6 +80,7 @@ Kopie zapasowe są gromadzone w Chmurze Xiaomi i można do nich uzyskać dostęp
     <string name="backup_set_new_pw_title">Wpisz nowe hasło kopii</string>
     <string name="backup_set_pw_confirm_title">Potwierdź nowe hasło kopii</string>
     <string name="battery_saver_off_scheduled_summary">Będzie włączone o %1$s</string>
+    <string name="block_no_connected_devices">Brak połączonych urządzeń</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" chce włączyć Bluetooth i ustawić telefon jako wykrywalny dla innych urządzeń przez %1$d s."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">chce włączyć Bluetooth i ustawić Twój telefon jako wykrywalny dla innych urządzeń. Później możesz to zmienić w ustawieniach Bluetooth.</string>
     <string name="bluetooth_display_settings">Wyświetlane elementy</string>

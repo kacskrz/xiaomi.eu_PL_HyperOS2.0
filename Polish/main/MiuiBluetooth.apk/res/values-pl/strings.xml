@@ -26,6 +26,7 @@
     <string name="fast_connect_reset_common_redmikeyboard">Przytrzymaj klawisze Ctrl+F+R przez %d sekund, aby rozpocząć parowanie</string>
     <string name="fast_connect_same_account_content">Urządzenia Bluetooth mogą być synchronizowane z Twoim kontem Xiaomi i za jego pomocą mogą łączyć się z innymi urządzeniami bez konieczności ich ponownego parowania.</string>
     <string name="fast_connect_wbs_reset">Przytrzymaj górny przycisk przez %1$s s, gdy urządzenie jest wyłączone</string>
+    <string name="glasses_download_title">Zainstaluj aplikację \"Xiaomi Smart Glasses\"</string>
     <string name="headset_incall_answer">Odbierz</string>
     <string name="headset_incall_reject">Anuluj</string>
     <string name="headset_incall_summary">Odebrać połączenie na %1$s za pomocą słuchawek? Pozostaną one połączone z tym urządzeniem po zakończeniu rozmowy.</string>

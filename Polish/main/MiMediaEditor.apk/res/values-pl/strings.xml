@@ -2,6 +2,7 @@
 <resources>
     <string name="adjust_tab_de_noise">Usuwanie szumu</string>
     <string name="ai_action_toast_function_magic_sky_processing">Przetwarzanie nieba…</string>
+    <string name="ai_action_toast_function_photo_restoration_processing">Ulepszanie obrazu…</string>
     <string name="art_still_download_sdk_without_wifi_msg">Wygląda na to, że urządzenie nie jest połączone z siecią Wi-Fi. Pobrać wtyczkę przy użyciu danych mobilnych?</string>
     <string name="art_still_download_sdk_without_wifi_msg_china">Wygląda na to, że urządzenie nie jest połączone z siecią Wi-Fi. Pobrać wtyczkę przy użyciu danych mobilnych?</string>
     <string name="bokeh_talkback_item_effect_mickey">Bokeh Myszki Miki</string>
@@ -34,6 +35,7 @@
     <string name="mosaic_item_talkback_effect3">Rozmycie Gaussa</string>
     <string name="movie_save_stop_tips">Dotknij ponownie, aby anulować zapis filmu</string>
     <string name="movie_template_new_year">Nowy Rok</string>
+    <string name="photo_editor_aigc_quality_improve_progress">Ulepszanie obrazu…</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">Wygląda na to, że urządzenie nie jest połączone z siecią Wi-Fi. Pobrać wtyczkę (%1$d MB) przy użyciu danych mobilnych?</string>
     <string name="photo_editor_gallery_frame_site_left">Po lewej</string>
     <string name="photo_editor_gallery_frame_site_right">Po prawej</string>

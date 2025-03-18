@@ -49,8 +49,11 @@
     <string name="fiveg_switch_title">Sieć 5G</string>
     <string name="fiveg_vonr_switch_summary">Użyj VoNR w sieci 5G, aby poprawić jakość połączeń. Funkcja przeznaczona tylko do testów.</string>
     <string name="fiveg_vonr_switch_title">Ustawienia VoNR</string>
+    <string name="fivega_4cc_switch_summary">Zaawansowana łączność 5G 4CC do testów (dostępna, gdy dostarcza ją Twój operator)</string>
     <string name="fivega_dialog_cancel">Anuluj</string>
     <string name="fivega_dialog_summary">Włączenie tej funkcji może spowodować problemy z kompatybilnością sieci. Włączyć mimo to?</string>
+    <string name="fivega_enhanced_network_gl_summary">Zaawansowana łączność 5G (do testów)</string>
+    <string name="fivega_enhanced_network_gl_title">Opcje sieci 5G+</string>
     <string name="fivega_feature_dialog_ok">Włącz</string>
     <string name="fivega_protocol_dialog_ok">Przełącz</string>
     <string name="force_edit_apn_summary">Gdy ta funkcja jest włączona, będzie można zobaczyć i zmienić ukryte punkty dostępu (APN). Funkcja jest przeznaczona tylko do testów.</string>
@@ -121,6 +124,7 @@
     <string name="smart_switch_dual_sim_title">Przełączanie pomiędzy kartami SIM do transmisji danych</string>
     <string name="turn_off_dual_4g_failed">Nie udało się wyłączyć Podwójnego LTE.</string>
     <string name="turn_on_dual_4g_failed">Nie udało się włączyć Podwójnego LTE.</string>
+    <string name="ulca_switch_summary">Włącz, aby poprawić jakość uplinku. Efekt zależy od sieci Twojego operatora.</string>
     <string name="uplmn_list_setting_add_plmn">Nowy PLMN</string>
     <string name="uplmn_list_setting_title">Preferowane sieci</string>
     <string name="vice_slot_volte_data_dialog_message"><Data>Wygląda na to, że obecne połączenie z siecią jest niestabilne. Możesz spróbować automatycznie przełączyć się między kartami SIM do danych mobilnych. &lt;font color=#ff0000>&lt;b>Używanie tej funkcji może wygenerować dodatkowe opłaty od operatora&lt;/b>&lt;/font>.</Data></string>

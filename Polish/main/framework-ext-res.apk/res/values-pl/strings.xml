@@ -167,8 +167,12 @@
     <string name="tip_for_phone_and_camera">Złóż urządzenie, aby skorzystać z głośnika lub przedniego aparatu</string>
     <string name="tip_use_front_camera">"Złóż urządzenie, aby skorzystać
 z przedniego aparatu"</string>
+    <string name="toast_camera_satellite_mutually_exclusive_beidou">Nie można korzystać z Aparatu podczas używania satelity BeiDou</string>
     <string name="toyrobot">Robot zabawka</string>
     <string name="turn_on_torch">Włącz latarkę</string>
+    <string name="typec_acc_not_support_cancel">OK</string>
+    <string name="typec_acc_not_support_message">Port USB-C tego urządzenia obsługuje tylko urządzenia z dźwiękiem cyfrowym.</string>
+    <string name="typec_acc_not_support_tile">Urządzenie nie jest wspierane</string>
     <string name="under_keyguard">Przy wył. ekranie</string>
     <string name="wallpaper_Fragrant_title">Kwiaty</string>
     <string name="wallpaper_Geometrically_irregular_title">Abstrakcja w geometrii</string>

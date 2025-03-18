@@ -31,6 +31,7 @@ Spróbuj ponownie."</string>
     <string name="already_updated">Aktualne</string>
     <string name="attach_video_call">Rozmowa wideo</string>
     <string name="auto_identify_btn_text_only_smart_messaging">Włącz Inteligentne wiadomości</string>
+    <string name="beidou_support_cta_tips">Ta aplikacja może również czytać, edytować, wysyłać i otrzymywać wiadomości z satelity BeiDou.</string>
     <string name="bookmark_confirm_delete_message">Wiadomość zostanie usunięta z ulubionych.</string>
     <string name="button_emoji_creature">Zwierzęta</string>
     <string name="button_emoji_lifestyle">Życie</string>
@@ -46,6 +47,8 @@ Spróbuj ponownie."</string>
     <string name="cm_privacy_dialog_spannable_tips">Politykę prywatności</string>
     <string name="cm_privacy_dialog_tips">"Usługi inteligentnych wiadomości są dostarczane przez Twojego operatora. Aplikacja SMS wymaga połączenia z Internetem i dostępu do lokalizacji, aby dostarczać te usługi. Musisz zgodzić się na %1s swojego operatora przed używaniem tych usług. Czy zgadzasz się na to?"</string>
     <string name="cn_privacy_dialog_title">Uwaga</string>
+    <string name="confirm_invalid_recipient">OK</string>
+    <string name="contain_invalid_recipient">Wygląda na to, że wprowadzono nieprawidłową nazwę odbiorcy.</string>
     <string name="context_menu_access_link">Otwórz adres URL</string>
     <string name="context_menu_call_phone">Zadzwoń</string>
     <string name="context_menu_copy_link">Kopiuj adres URL</string>
@@ -311,6 +314,7 @@ Włącz dane mobilne i otwórz tę stronę ponownie."</string>
     <string name="sp_category_all">Wszystkie wiadomości</string>
     <string name="sp_category_bank">Wiadomości z banków</string>
     <string name="sp_mark_as_read_menu_title">Przeczytane</string>
+    <string name="sp_mark_as_unread_menu_title">Nieprzeczytane</string>
     <string name="stay_open">Zostaw włączone</string>
     <string name="still_close">Wyłącz</string>
     <string name="storage_unavailable">Brak miejsca</string>

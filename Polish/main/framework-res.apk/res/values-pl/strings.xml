@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="satellite_notification_manual_summary">Wysyłaj i odbieraj wiadomości bez sieci mobilnej i Wi-Fi</string>
-    <string name="satellite_notification_manual_title">Użyć wiadomości satelitarnych?</string>
+    <string name="satellite_messaging_available_notification_summary">Możesz wysyłać wiadomości przez satelitę, jeśli nie masz dostępu do sieci komórkowej lub Wi-Fi. Wiadomości Google muszą być domyślną aplikacją do SMS-ów.</string>
+    <string name="satellite_messaging_available_notification_title">Przesyłanie wiadomości przez satelitę jest dostępne</string>
+    <string name="satellite_messaging_location_disabled_notification_summary">Aby sprawdzić, czy przesyłanie wiadomości przez satelitę jest dostępne w tym kraju lub regionie, włącz ustawienia lokalizacji</string>
+    <string name="satellite_messaging_location_disabled_notification_title">Przesyłanie wiadomości przez satelitę jest niedostępne</string>
+    <string name="satellite_messaging_not_in_allowed_region_notification_summary">Przesyłanie wiadomości przez satelitę nie jest dostępne w tym kraju lub regionie</string>
+    <string name="satellite_messaging_not_in_allowed_region_notification_title">Przesyłanie wiadomości przez satelitę jest niedostępne</string>
+    <string name="satellite_messaging_not_provisioned_notification_summary">Upewnij się, że masz połączenie z internetem, i spróbuj ponownie</string>
+    <string name="satellite_messaging_not_provisioned_notification_title">Nie skonfigurowano przesyłania wiadomości przez satelitę</string>
+    <string name="satellite_messaging_not_supported_notification_summary">To urządzenie nie obsługuje przesyłania wiadomości przez satelitę</string>
+    <string name="satellite_messaging_not_supported_notification_title">Przesyłanie wiadomości przez satelitę nie jest obsługiwane</string>
+    <string name="satellite_messaging_unsupported_default_sms_app_notification_summary">Aby wysyłać wiadomości przez satelitę, ustaw Wiadomości Google jako domyślną aplikację do obsługi SMS-ów</string>
+    <string name="satellite_messaging_unsupported_default_sms_app_notification_title">Nie skonfigurowano przesyłania wiadomości przez satelitę</string>
+    <string name="satellite_notification_manual_summary">Wysyłaj i odbieraj wiadomości bez sieci komórkowej czy Wi-Fi</string>
+    <string name="satellite_notification_manual_title">Przesyłać wiadomości przez satelitę?</string>
+    <string name="satellite_sos_available_notification_summary">Możesz wysłać wiadomość do służb ratunkowych, jeśli masz problem z połączeniem się z siecią komórkową lub Wi-Fi. Wiadomości Google muszą być domyślną aplikacją do SMS-ów.</string>
+    <string name="satellite_sos_available_notification_title">Satelitarne połączenie alarmowe jest już dostępne</string>
+    <string name="satellite_sos_location_disabled_notification_summary">Aby sprawdzić, czy satelitarne połączenie alarmowe jest dostępne w tym kraju lub regionie, włącz ustawienia lokalizacji</string>
+    <string name="satellite_sos_location_disabled_notification_title">Satelitarne połączenie alarmowe nie jest dostępne</string>
+    <string name="satellite_sos_not_in_allowed_region_notification_summary">Satelitarne połączenie alarmowe nie jest dostępne w tym kraju lub regionie</string>
+    <string name="satellite_sos_not_in_allowed_region_notification_title">Satelitarne połączenie alarmowe nie jest dostępne</string>
+    <string name="satellite_sos_not_provisioned_notification_summary">Upewnij się, że masz połączenie z internetem, i spróbuj ponownie</string>
+    <string name="satellite_sos_not_provisioned_notification_title">Satelitarne połączenie alarmowe nie jest skonfigurowane</string>
+    <string name="satellite_sos_not_supported_notification_summary">To urządzenie nie obsługuje satelitarnego połączenia alarmowego</string>
+    <string name="satellite_sos_not_supported_notification_title">Satelitarne połączenie alarmowe nie jest obsługiwane</string>
+    <string name="satellite_sos_unsupported_default_sms_app_notification_summary">Aby wysyłać wiadomości przez satelitę, ustaw Wiadomości Google jako domyślną aplikację do obsługi SMS-ów</string>
+    <string name="satellite_sos_unsupported_default_sms_app_notification_title">Satelitarne połączenie alarmowe nie zostało skonfigurowane</string>
 </resources>
