@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_sliding_button_state_description_off">Wyłączono</string>
+    <string name="accessibility_sliding_button_state_description_on">Włączono</string>
+    <string name="accessibility_tab_state_description_unselect">Nie wybrano</string>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="action_get_otp">Kopiuj kod</string>
     <string name="add_to_block_by_number">"Dodano %s
 do Listy blokowanych"</string>
@@ -20,9 +24,12 @@ Spróbuj ponownie."</string>
     <string name="ai_summary_description">SI podsumuje długie wiadomości, aby przekazać Ci z nich kluczowe informacje. Funkcja nieznacznie zwiększy zużycie energii.</string>
     <string name="ai_summary_dialog_content"><Data>"Podsumowanie wiadomości za pomocą SI przekazuje kluczowe informacje z długich wiadomości. Xiaomi musi uzyskać dostęp do treści wiadomości, aby dostarczać tę funkcję, lecz nie będzie przechowywać tej treści.&lt;br />&lt;br />Przed użyciem tej usługi przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika Podsumowania wiadomości SI&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności Podsumowania wiadomości SI&lt;/a>."</Data></string>
     <string name="ai_summary_dialog_title">Wymagane uprawnienia</string>
+    <string name="ai_summary_model_info">Nazwa modelu: Tekst na urządzeniu Xiaomi</string>
     <string name="ai_summary_privacy_content">Gdy używasz podsumowania wiadomości SI, treść podsumowania (w tym prywatne dane) będzie przetwarzana przez Xiaomi, lecz Xiaomi nie będzie przechowywać tych danych.</string>
     <string name="ai_summary_privacy_tip"><Data>Aby zrozumieć, jak Xiaomi zarządza Twoimi danymi, przeczytaj &lt;a href=\"%1$s\">Politykę prywatności Podsumowania wiadomości SI&lt;/a>. Aby dowiedzieć się więcej, przeczytaj również &lt;a href=\"%2$s\">Umowę użytkownika Podsumowania wiadomości SI&lt;/a>.</Data></string>
     <string name="ai_summary_privacy_title">Stanowisko dot. prywatności</string>
+    <string name="ai_summary_public_info">Informacje dot. rejestracji</string>
+    <string name="ai_summary_record"><Data>Numer rejestracji: &lt;a href=\"%1$s\">Beijing-XiaoMiDuanCeWenBen-202412100047&lt;/a></Data></string>
     <string name="aim_show_card">Pokaż kartę</string>
     <string name="aim_show_original">Pokaż wiadomość</string>
     <string name="alert_ai_sum_close_content">Jeśli wyłączysz Inteligentne wiadomości, nie będzie można korzystać z podsumowania wiadomości SI.</string>
@@ -109,9 +116,19 @@ Spróbuj ponownie."</string>
     <string name="message_saved_as_draft">Wiadomość została zapisana jako wersja robocza.</string>
     <string name="message_send_read_report">Wysłany zostanie raport o odczytaniu wiadomości.</string>
     <string name="mi_message_title">Wiadomości Mi</string>
+    <string name="miuix_accessibility_title">Tytuł</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
+    <string name="miuix_appcompat_accessibility_new_message">Nowe powiadomienie</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja z chmurą jest wyłączona</string>
     <string name="miuix_appcompat_cloud_state_finished">Pomyślnie zsynchronizowano z chmurą</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronizowanie z chmurą…</string>
+    <string name="miuix_appcompat_show_dialog_description">Okno pop-up</string>
+    <string name="miuix_progressbar_loading">Chwileczkę…</string>
+    <string name="miuix_show_password">Pokaż hasło</string>
+    <string name="miuix_stretchablewidget_collapsed">Zwinięte</string>
+    <string name="miuix_stretchablewidget_expanded">Rozwinięte</string>
     <string name="mms_5g_mms_privacy_policy">Polityka prywatności Wiadomości 5G</string>
     <string name="mms_5g_mms_privacy_policy_revoke">Wycofaj zgodę na warunki Polityki prywatności Wiadomości 5G</string>
     <string name="mms_block_alert_message">Wszystkie MMS-y z wyjątkiem tych otrzymanych od autoryzowanych nadawców (takich jak operatorzy komórkowi, kolej itd.) zostaną zablokowane.</string>
@@ -377,6 +394,7 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
     <string name="unable_use_microphone">"Jeteś incognito. Nie można używać teraz mikrofonu."</string>
     <string name="updating">Aktualizowanie…</string>
     <string name="user_agreement">Umowę użytkownika</string>
+    <string name="view_more_button">Zobacz szczegóły</string>
     <string name="vital_signs_cta_body">"Dane dotyczące funkcji życiowych (w tym tętna, SpO₂ i informacji medycznych) są pobierane z Mi Fitness. Zaznaczenie poniższych opcji oznacza wyrażenie przez Ciebie zgody na dostęp do tych danych i ich wykorzystywanie.
 Aby kontrolować długość wiadomości, pobrane zostanie tylko pierwsze 50 znaków każdej informacji w karcie medycznej."</string>
     <string name="vital_signs_cta_title">Funkcje życiowe</string>

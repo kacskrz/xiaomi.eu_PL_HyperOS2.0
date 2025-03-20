@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_sliding_button_state_description_off">wyłączone</string>
     <string name="cloud_storage_almost_full_upgrade_text">Brakuje miejsca. Synchronizacja zdjęć może nie działać.</string>
     <string name="cloud_storage_default_title">Przestrzeń Chmury</string>
     <string name="cloud_storage_full_international_upgrade_default_text">Za mało miejsca. Wstrzymano synchronizację z chmurą.</string>
@@ -56,6 +57,7 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="micloud_sync_result_wifi_only_china">Ten element jest za duży. Zsynchronizuj go, gdy będziesz połączony z siecią Wi-Fi.</string>
     <string name="micloud_upgrade_storage">Ulepsz plan Chmury</string>
     <string name="micloud_wipe_data_confirm_title">Elementy z niektórych aplikacji są zsynchronizowane z Chmurą Xiaomi. Możesz usunąć je z tego urządzenia, jeśli chcesz - pozostaną one w Chmurze.</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="other_lockscreen_title">Wprowadź blokadę ekranu %s</string>

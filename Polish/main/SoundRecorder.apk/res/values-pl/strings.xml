@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_sliding_button_state_description_off">wyłączone</string>
     <string name="airecorder_month_day_hour_minute_format">d.MM H:mm</string>
     <string name="clear_data_dialog_content">Elementy w pamięci podręcznej, dane aplikacji oraz jej ustawienia zostaną usunięte, lecz nagrania pozostaną na swoim miejscu.</string>
     <string name="cloud_status_full_dialog_msg">"Nie ma już miejsca w Chmurze. Nie można zsynchronizować więcej nagrań. Ulepsz swój plan, aby uzyskać więcej przestrzeni."</string>
@@ -9,6 +10,7 @@
     <string name="korea_permission_storage_desc">Do zapisywania nagrań</string>
     <string name="low_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
     <string name="middle_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="month_format">MMMM</string>
     <string name="path_soundrecorder_setting">Systemowe/Dyktafon</string>
     <string name="play_speed">Prędkość %1$.1fX</string>

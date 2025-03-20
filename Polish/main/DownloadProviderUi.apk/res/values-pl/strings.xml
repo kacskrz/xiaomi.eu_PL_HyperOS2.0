@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_sliding_button_state_description_off">wyłączone</string>
     <string name="action_back">Wstecz</string>
     <string name="ad_download">Instaluj</string>
     <string name="bt_download">Pobierz</string>
@@ -49,6 +50,7 @@
     <string name="invalid_address">Wprowadzona ścieżka jest niepoprawna</string>
     <string name="loading">Chwileczkę…</string>
     <string name="menu_title_fileexplore">Pliki</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_navigator_category_group_collapse">Zwiń</string>
     <string name="miuix_navigator_category_group_expand">Rozwiń</string>
     <string name="network_error">Nie można połączyć się z siecią</string>

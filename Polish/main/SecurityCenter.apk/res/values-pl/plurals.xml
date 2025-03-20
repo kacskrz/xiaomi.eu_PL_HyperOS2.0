@@ -42,6 +42,16 @@
         <item quantity="other">Twoje członkostwo Game Turbo wygaśnie za %d dni.</item>
         <item quantity="one">Twoje członkostwo Game Turbo wygaśnie za %d dzień.</item>
     </plurals>
+    <plurals name="gamebox_time_elapsed_time_minute_talkback">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="few">%1$d minuty</item>
+        <item quantity="one">%1$d minuta</item>
+    </plurals>
+    <plurals name="gamebox_time_elapsed_time_second_talkback">
+        <item quantity="other">%1$d sekund</item>
+        <item quantity="few">%1$d sekundy</item>
+        <item quantity="one">%1$d sekunda</item>
+    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d s</item>
         <item quantity="one">%d s</item>
@@ -57,6 +67,11 @@
         <item quantity="other">"%d aplikacji nie może uruchamiać się w tle"</item>
         <item quantity="one">"%d aplikacja nie może uruchamiać się w tle"</item>
         <item quantity="few">"%d aplikacje nie mogą uruchamiać się w tle"</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d aplikacji może uruchamiać się w tle</item>
+        <item quantity="few">%d aplikacje mogą uruchamiać się w tle</item>
+        <item quantity="one">%d aplikacja może uruchamiać się w tle</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">"%d zagrożeń, "</item>
@@ -98,6 +113,11 @@
         <item quantity="other">Dostępnych aktualizacji: %d</item>
         <item quantity="one">Dostępnych aktualizacji: %d</item>
     </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+        <item quantity="one">Wybrano %1$d element</item>
+    </plurals>
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Usuń %d plików APK</item>
         <item quantity="one">Usuń %d plik APK</item>
@@ -132,6 +152,16 @@
         <item quantity="other">%2$d aplikacji (w tym %1$s) może być złośliwych</item>
         <item quantity="few">%2$d aplikacje (w tym %1$s) mogą być złośliwe</item>
         <item quantity="one">%2$d aplikacja (%1$s) może być złośliwa</item>
+    </plurals>
+    <plurals name="pc_battery_history_accessibility_hour">
+        <item quantity="other">%d godzin</item>
+        <item quantity="few">%d godziny</item>
+        <item quantity="one">%d godzina</item>
+    </plurals>
+    <plurals name="pc_battery_history_accessibility_minute">
+        <item quantity="other">%d minut</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="one">%d minuta</item>
     </plurals>
     <plurals name="pc_extreme_mode_count_down_title_new">
         <item quantity="other">Słaba bateria. Urządzenie przejdzie w Tryb hibernacji za %1$d sekund. Wydajność i siła sygnału mogą być nieco słabsze.</item>

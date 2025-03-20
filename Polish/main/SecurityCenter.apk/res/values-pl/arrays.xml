@@ -52,6 +52,10 @@
         <item>"Zeszły miesiąc: "</item>
         <item>"Ten miesiąc: "</item>
     </string-array>
+    <string-array name="mition_sickness_remind_time_items_text">
+        <item>Podczas jazdy</item>
+        <item>Cały czas</item>
+    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Pokaż ostrzeżenie</item>
         <item>Wyłącz przesył danych</item>

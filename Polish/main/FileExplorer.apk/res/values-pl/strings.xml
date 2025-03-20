@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_sliding_button_state_description_off">wyłączone</string>
     <string name="app_all_purpose">Witaj w aplikacji Pliki! Możesz użyć tej aplikacji do zarządzania plikami znajdującymi się na urządzeniu.</string>
     <string name="app_all_purpose_global">Witaj w aplikacji Pliki! Możesz jej użyć do podglądu plików z tego urządzenia i zarządzania nimi.</string>
     <string name="app_all_purpose_pad">Witaj w aplikacji Pliki! Możesz jej użyć do zarządzania plikami znajdującymi się na urządzeniu.</string>
@@ -26,6 +27,7 @@
     <string name="menu_item_cleanup">Sprzątacz</string>
     <string name="message_request_manage_external_storage_perm">Aby móc zarządzać plikami znajdującymi się na urządzeniu, aplikacja Pliki wymaga uprawnień dostępu do plików. Możesz je nadać w Ustawieniach.</string>
     <string name="midrive_hide_recent_cloud_files">"Nie wyświetlaj plików z Mi Drive'a w menu Ostatnio używane"</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="need_open_content">Aby użyć tej funkcji, zezwól aplikacji Pliki na dostęp do swoich zdjęć i plików.</string>

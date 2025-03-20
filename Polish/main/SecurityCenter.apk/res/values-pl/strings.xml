@@ -13,6 +13,10 @@
     <string name="access_control_need_password">"Pomyślnie dodano blokadę: %s
   "</string>
     <string name="accessibility_gameboosterservice_description">"Wycisza połączenia przychodzące z WeChata podczas gry"</string>
+    <string name="accessibility_sliding_button_state_description_off">Wyłączono</string>
+    <string name="accessibility_sliding_button_state_description_on">Włączono</string>
+    <string name="accessibility_tab_state_description_unselect">Nie wybrano</string>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="action_source_sms_title">Blokowane SMS-y</string>
     <string name="activity_edit_task_name">Edytuj zadanie</string>
     <string name="activity_mine_task">Moje zadania</string>
@@ -262,11 +266,13 @@
     <string name="auto_task_setting_show_task_shortcut_in_desktop">Skrót na Ekranie głównym</string>
     <string name="auto_task_show_notification_before_exclude">Powiadomienia przed wykonaniem</string>
     <string name="auto_task_show_notification_before_exit">Powiadomienia przed ukończeniem</string>
+    <string name="auto_task_switch">Przełącz</string>
     <string name="auto_task_temp_no_exit">Anuluj</string>
     <string name="auto_task_temp_no_need">Anuluj</string>
     <string name="auto_task_voice_dialog_alarm_title">Alarmy</string>
     <string name="auto_task_voice_dialog_call_title">Połączenia, powiadomienia, przypomnienia</string>
     <string name="auto_task_voice_dialog_media_title">Muzyka, gry, multimedia</string>
+    <string name="back_sound_no_support_oversea">SIM %1$d nie wspiera tego planu</string>
     <string name="back_sound_support_china">Wyłącz Wi-Fi</string>
     <string name="battery_and_property_ordinary_notify">Regularne powiadomienia o baterii</string>
     <string name="battery_desc_ambient_display">Użycie baterii przez tryb Ekran zawsze włączony</string>
@@ -277,6 +283,8 @@
     <string name="battery_status_level_normal">Normalna</string>
     <string name="battery_status_level_poor">Słaba</string>
     <string name="battery_status_overheat">Przegrzana</string>
+    <string name="beauty_fun_portrait_center_check">Tryb Ultra HD nie wspiera FocusFrame"</string>
+    <string name="beauty_fun_ultra_clear_check">FocusFrame nie wspiera trybu Ultra HD</string>
     <string name="bill_traffic_reminder_instruction_text">Metody rozliczeń i standardy obliczania danych u różnych operatorów mogą się różnić. Mogą wystąpić opóźnienia w rozliczeniach. Statystyki użytkowania podane tutaj mają charakter wyłącznie poglądowy.</string>
     <string name="blur_cross_device_permissions">Uprawnienia łączności między urządzeniami</string>
     <string name="blur_key_words_permission_records">Rekordy zachowań aplikacji</string>
@@ -289,6 +297,11 @@
     <string name="btn_text_quick_save_power">Wykonaj</string>
     <string name="byteShort">" B"</string>
     <string name="camera">Aparat</string>
+    <string name="car_sickness_relief_comment_text">Po wykryciu ruchu pojazdu, po obu stronach ekranu wyświetlane są kropki wskazujące, czy pojazd się porusza, co może pomóc opóźnić wystąpienie choroby lokomocyjnej.</string>
+    <string name="car_sickness_relief_example_text_1">Gdy pojazd przyspiesza lub zwalnia</string>
+    <string name="car_sickness_relief_example_text_2">Gdy pojazd skręca lub zmienia pas ruchu</string>
+    <string name="car_sickness_remind_time_title">Wskaźniki ruchu</string>
+    <string name="car_sickness_title">Pomoc w chorobie lokomocyjnej</string>
     <string name="card_main_apkclean_title">Usuń pliki APK</string>
     <string name="card_main_facebookclean_title">Czyszczenie Facebooka</string>
     <string name="card_main_netcheck_summary">Sprawdź, czy sieć działa poprawnie</string>
@@ -398,6 +411,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="dlg_clear_all_call">Usunąć wszystkie blokowane numery?</string>
     <string name="dlg_sec_network_unavailable">"Panel sterowania nie może się zaktualizować, ponieważ ograniczyłeś połączenia z siecią dla tej aplikacji. Zezwolić aplikacji na dostęp do sieci?"</string>
     <string name="dlg_update_data_content">"Brak połączenia z Wi-Fi. Użyć danych mobilnych?"</string>
+    <string name="download_tvm_limit_toast">Pobieranie przerwane. Limit: %1$d MB. Zobacz szczegóły w Panelu powiadomień.</string>
     <string name="doze_optimization_summary">Zwiększ czułość i dokładność dotyku</string>
     <string name="dynamic_performance_optimization_summary">Dynamicznie zmieniaj rozdzielczość podczas grania</string>
     <string name="edit_new_task_name">Wprowadź nazwę zadania</string>
@@ -522,6 +536,7 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="gamebox_macro">Kombosy</string>
     <string name="gamebox_net_optimize_description">Zmniejsz opóźnienia sieci Wi-Fi oraz ich zmienność. Aby cieszyć się specjalnymi trybami zwiększania prędkości, użyj routera Xiaomi lub Redmi.</string>
     <string name="gamebox_recent_task_expand_fail">Aplikacje, które działają ze skrótami, nie są zainstalowane</string>
+    <string name="gamebox_time_ready_to_start_talkback">Nie rozpoczęto</string>
     <string name="gb_adv_touch_custom2">Czułość dotyku</string>
     <string name="gb_advance_settings_edge_gear1">Żaden</string>
     <string name="gb_advance_settings_edge_gear2">Mały</string>
@@ -537,6 +552,16 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="gb_all_hight_display_sub_title">120 Hz w każdym przypadku</string>
     <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Nie można przełączyć się na Tryb zbalansowany w Game Turbo, gdy włączony jest systemowy Tryb Ultra. Możesz zmienić ustawienia baterii w Panelu sterowania. &lt;br>&lt;a href=\"#\">Otwórz Panel sterowania&lt;/a>"</Data></string>
     <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Nie można przełączyć się na Tryb zbalansowany w Game Turbo, gdy włączony jest systemowy Tryb Ultra. Możesz zmienić ustawienia baterii w Panelu sterowania. &lt;br>&lt;a href=\"#\">Otwórz Panel sterowania&lt;/a>"</Data></string>
+    <string name="gb_barrage_chat_text_color_black_talkback">Czarny</string>
+    <string name="gb_barrage_chat_text_color_blue_talkback">Niebieski</string>
+    <string name="gb_barrage_chat_text_color_red_talkback">Czerwony</string>
+    <string name="gb_barrage_chat_text_color_white_talkback">Biały</string>
+    <string name="gb_barrage_chat_text_color_yellow_talkback">Żółty</string>
+    <string name="gb_barrage_chat_text_size_largest_talkback">Największy</string>
+    <string name="gb_barrage_chat_text_size_medium_talkback">Średni</string>
+    <string name="gb_barrage_chat_text_size_slightly_large_talkback">Większy</string>
+    <string name="gb_barrage_chat_text_size_slightly_small_talkback">Mniejszy</string>
+    <string name="gb_barrage_chat_text_size_smallest_talkback">Najmniejszy</string>
     <string name="gb_beauty_cold_light">Zimne</string>
     <string name="gb_beauty_nature_light">Naturalne</string>
     <string name="gb_dialog_record_way_setting_tip_one">Zwiększone użycie energii i lagowanie</string>
@@ -567,7 +592,11 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gb_voice_changer_permission_dlg_msg">Funkcja \"Modulator głosu\" wymaga uprawnień do nagrywania dźwięku, aby poprawnie działać.</string>
     <string name="gb_voice_changer_setting_rights">Warunki usługi i Polityka prywatności</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Twoje subskrypcje wygasły. Odnów je teraz, aby uzyskać benefity!</string>
+    <string name="gb_voice_changer_user_vip_loading">Chwileczkę…</string>
     <string name="gd_app_edit_title_new">Dodaj aplikacje</string>
+    <string name="gd_beauty_manage_summary">Aby użyć tej funkcji, otwórz ją z panelu bocznego podczas rozmowy wideo</string>
+    <string name="gd_beauty_manage_title">Upiększanie w rozmowach wideo</string>
+    <string name="gd_setting_group_custom_beauty_new">Zarządzaj Upiększaniem w rozmowach wideo</string>
     <string name="gd_setting_conversation_desc">Różne funkcje, których można użyć w połączeniach audio i wideo</string>
     <string name="gd_setting_dock_activity_title">Przybornik</string>
     <string name="gd_setting_dock_call_summary">Funkcje dla rozmów i wideokonferencji (np. wypełnianie światłem)</string>
@@ -666,6 +695,16 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="mic">Mikrofon</string>
     <string name="mic_noise_reduction_mode_standard">Standardowy</string>
     <string name="mic_noise_reduction_mode_ultimate">Wybrany</string>
+    <string name="miuix_accessibility_title">Tytuł</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
+    <string name="miuix_appcompat_accessibility_new_message">Nowe powiadomienie</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
+    <string name="miuix_appcompat_show_dialog_description">Okno pop-up</string>
+    <string name="miuix_progressbar_loading">Chwileczkę…</string>
+    <string name="miuix_show_password">Pokaż hasło</string>
+    <string name="miuix_stretchablewidget_collapsed">Zwinięte</string>
+    <string name="miuix_stretchablewidget_expanded">Rozwinięte</string>
     <string name="monday_shortest">P</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
@@ -750,6 +789,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="open_extreme_power_save_mode_title">Włącz Ultraoszczędzanie baterii</string>
     <string name="optimize_manage_title">Zarządzanie pamięcią</string>
     <string name="optimize_result_button_onekey_restore">Przywróć</string>
+    <string name="optmizingbar_item_img_description">Gotowe</string>
     <string name="optmizingbar_title_system">Zabezpieczenia systemu</string>
     <string name="overlay_permission_dialog_message_security_service">Panel sterowania wymaga pewnych uprawnień do poprawnego działania.</string>
     <string name="password_or_finger_unlock">Odblokuj hasłem lub odciskiem palca</string>
@@ -757,6 +797,9 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_18W_high_power_reverse_charging_title">Ładowanie zwrotne</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">Zapobiega przejściu systemu w tryb uśpienia</string>
     <string name="pc_always_charge_protect_summary">Aby zachować żywotność baterii, zezwól na ładowanie tylko do %1$s</string>
+    <string name="pc_battery_history_accessibility_item_chart_binary">Czas od ostatniego ładowania: %1$s %2$s</string>
+    <string name="pc_battery_history_accessibility_item_chart_single">Czas od ostatniego ładowania: %1$s</string>
+    <string name="pc_battery_history_accessibility_item_consueme_list">%1$s, zużycie baterii: %2$s</string>
     <string name="pc_battery_history_battery_software_menu_item">System</string>
     <string name="pc_battery_history_rank_mha_menu_item">W mAh</string>
     <string name="pc_battery_history_total_consumption_title">Łączne użycie energii</string>
@@ -778,13 +821,17 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_fast_charge_notifi_switch_summary">Powiadamiaj o zwiększeniu prędkości ładowania, gdy podłączona jest dołączona ładowarka o mocy %dW, a poziom baterii znajduje się poniżej ustawionego poziomu</string>
     <string name="pc_fast_charge_notifi_title">Ładowanie %dW</string>
     <string name="pc_fast_charge_switch_toast_message">Zmiany zostaną zastosowane przy następnym ładowaniu</string>
+    <string name="pc_health_charge_default">Ładuj do pełna</string>
     <string name="pc_health_charge_protect_noti_summary_title">Urządzenie przestanie się ładować, gdy osiągnie %1$s baterii</string>
+    <string name="pc_health_charge_protect_summary_new">Aby przedłużyć żywotność baterii, urządzenie przestanie się ładować, gdy jej poziom wyniesie %1$s, i naładuje się do pełna tylko, gdy to zaplanujesz</string>
     <string name="pc_hidemode_normal">Zbalansowany</string>
     <string name="pc_hidemode_normal_title">Tryb zbalansowany</string>
     <string name="pc_hidemode_power_save">Bateria</string>
     <string name="pc_high_temp_discharge_reminder">Naładuj urządzenie. Gdy poziom baterii jest niski, a urządzenie się przegrzeje, bateria może ulec uszkodzeniu.</string>
     <string name="pc_hight_refresh_rate_reminder_summary">Korzystasz z wyższego odświeżania. Może to zwiększyć zużycie energii i temperaturę urządzenia.</string>
     <string name="pc_hight_refresh_rate_reminder_title">Oglądasz film w wyższej częstotliwości odświeżania</string>
+    <string name="pc_is_exiting_low_temperature">"Wyłączanie
+Trybu odporności na zimno"</string>
     <string name="pc_is_exiting_super_power">"Wyłączanie
 Ultraoszczędzania baterii"</string>
     <string name="pc_keywords_low_power_consumption_save">Oszczędzanie baterii</string>
@@ -793,7 +840,7 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_keywords_summary_battery_protect">Aby ograniczyć starzenie się baterii, system uczy się Twoich nawyków, aby ograniczać niepotrzebne ciągłe ładowanie</string>
     <string name="pc_keywords_summary_navigation">Gdy używasz aplikacji do nawigacji, ładowanie automatycznie się zatrzyma na ustalonym poziomie</string>
     <string name="pc_keywords_summary_night_save">Automatycznie wyłącz niektóre funkcje, aby zaoszczędzić baterię, gdy telefon wykryje, że śpisz</string>
-    <string name="pc_low_temperature_extreme_endurance_summary">Ogranicz wydajność urządzenia, aby przedłużyć żywotność baterii, gdy temperatura otoczenia jest bardzo niska</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Ogranicz wydajność urządzenia, aby przedłużyć żywotność baterii wtedy, gdy jest zimno</string>
     <string name="pc_main_battery_text_day">Wydłużono o %1$s min, pozostało ok. %2$s dni</string>
     <string name="pc_main_battery_text_day_hour">Wydłużono o %1$s min, pozostało ok. %2$s dni %3$s godz.</string>
     <string name="pc_main_battery_text_hour">Wydłużono o %1$s min, pozostało ok. %2$s godz.</string>
@@ -1442,6 +1489,9 @@ Wycofać zgodę?"</string>
     <string name="system_permission_declare_privacy_policy"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
     <string name="system_permission_declare_use_network_no_permission">Połącz się z siecią</string>
     <string name="system_permission_declare_user_agreement"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> Xiaomi.</Data></string>
+    <string name="talkback_virus_scan_omitted">Nie skanowano</string>
+    <string name="talkback_virus_scan_risky">Zagrożenie</string>
+    <string name="talkback_virus_scan_safe">Bezpieczne</string>
     <string name="task_summary_close_airplane">Wyłącz Tryb samolotowy</string>
     <string name="task_summary_close_auto_brightness">Wyłącz autom. jasność</string>
     <string name="task_summary_close_bluetooth">Wyłącz Bluetooth</string>

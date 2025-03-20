@@ -2,6 +2,7 @@
 <resources>
     <string name="about_title">O Mi Drive</string>
     <string name="about_version">"Wersja: "</string>
+    <string name="accessibility_sliding_button_state_description_off">wyłączone</string>
     <string name="account_change_message">"Przełączasz się na konto %1$s. Będziesz widzieć dane Mi Drive powiązane z tym kontem."</string>
     <string name="account_change_title">Zmiana konta</string>
     <string name="account_info_desc">Zarządzaj informacjami o koncie</string>
@@ -185,6 +186,7 @@
     <string name="micloud_space_soundrecorder_detail">"Otwórz aplikację Dyktafon na swoim urządzeniu mobilnym i wybierz folder z elementami przechowywanymi w Chmurze.
 Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w systemie."</string>
     <string name="micloud_space_soundrecorder_title">Nagrania audio</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">K</string>

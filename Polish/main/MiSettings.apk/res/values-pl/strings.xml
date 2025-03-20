@@ -105,6 +105,7 @@ nie są tworzone w Drugiej przestrzeni"</string>
     <string name="elk_info">Jelenie kanadyjskie żyją w klimacie subarktycznym. Są roślinożerne - mogą spożywać wiele rodzajów roślin lub owoców.</string>
     <string name="emperor_penguin">Pingwin cesarski</string>
     <string name="ermine">Gronostaj</string>
+    <string name="focus_records_image_description">Udostępnij</string>
     <string name="footer_global_fps">"
 %1$d. Gdy włączysz Tryb wydajności, zostanie ustawiona najwyższa możliwa częstotliwość odświeżania (%2$d Hz). Ustawienia korzystania przez aplikacje z wysokiej częstotliwości odświeżania będą tymczasowo niedostępne."</string>
     <string name="fps_save_battery_tips">Włączono Oszczędzanie baterii. Częstotliwość odświeżania wynosi obecnie %d Hz.</string>

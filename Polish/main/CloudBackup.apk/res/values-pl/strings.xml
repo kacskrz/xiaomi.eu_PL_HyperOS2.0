@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_sliding_button_state_description_off">wyłączone</string>
     <string name="backup_action_international_no_space_with_wechat_off_content">Brak miejsca. Nie można wykonać kopii tego urządzenia.</string>
     <string name="backup_action_no_space_with_wechat_off_content">Brakuje miejsca w Chmurze, aby wykonać kopię elementów z tego urządzenia. Dotknij, aby zobaczyć dostępne plany Chmury.</string>
     <string name="backup_action_no_space_with_wechat_on_content">Brakuje miejsca w Chmurze, aby wykonać kopię danych WeChata. Ulepsz swój plan chmury, aby móc wykonać kopię.</string>
@@ -26,6 +27,7 @@ Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
     <string name="dialog_cloud_space_not_enough">Ta kopia zapasowa wymaga %1$s miejsca w Chmurze. Ulepsz swój plan, aby móc ją wykonać.</string>
     <string name="home_hint_other_launcher">Inny launcher</string>
     <string name="manual_request_notification_permission_dialog_negative_button">Zamknij</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="not_backup_reason_battery_exception">Mniej niż %s baterii</string>

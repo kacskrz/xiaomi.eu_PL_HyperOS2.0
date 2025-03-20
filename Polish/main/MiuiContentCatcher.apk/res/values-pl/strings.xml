@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_sliding_button_state_description_off">Wyłączono</string>
+    <string name="accessibility_sliding_button_state_description_on">Włączono</string>
+    <string name="accessibility_tab_state_description_unselect">Nie wybrano</string>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="android.credentials.TYPE_PASSWORD_CREDENTIAL">Hasło</string>
     <string name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">Klucz</string>
     <string name="app_name">Hasła</string>
@@ -48,6 +52,16 @@
     <string name="invalid_package_signature">Nieprawidłowa sygnatura aplikacji</string>
     <string name="login_mi_account_alert">Uwaga</string>
     <string name="login_mi_account_summary">Menedżer haseł synchronizuje Twoje hasła z kontem Xiaomi. Czy chcesz się na nie zalogować?</string>
+    <string name="miuix_accessibility_title">Tytuł</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
+    <string name="miuix_appcompat_accessibility_new_message">Nowe powiadomienie</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
+    <string name="miuix_appcompat_show_dialog_description">Okno pop-up</string>
+    <string name="miuix_progressbar_loading">Chwileczkę…</string>
+    <string name="miuix_show_password">Pokaż hasło</string>
+    <string name="miuix_stretchablewidget_collapsed">Zwinięte</string>
+    <string name="miuix_stretchablewidget_expanded">Rozwinięte</string>
     <string name="open">Włącz</string>
     <string name="password_manager">Menedżer haseł</string>
     <string name="password_manager_summary">Synchronizuj hasła z Chmurą Xiaomi</string>

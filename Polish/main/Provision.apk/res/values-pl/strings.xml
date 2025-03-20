@@ -135,6 +135,8 @@
     <string name="other_settings_enhanced_lockscreen">Tapety Blokady</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Polityka prywatności</string>
     <string name="other_settings_enhanced_lockscreen_summary">Codziennie na ekranie blokady będą się pojawiać nowe tapety online</string>
+    <string name="other_settings_minor_mode">Tryb dziecięcy</string>
+    <string name="other_settings_minor_mode_summary"><Data>Tryb dziecięcy pomaga dzieciom wykształcić zdrowe nawyki związane z korzystaniem z urządzenia. Gdy jest on włączony, w Ustawieniach i na Ekranie głównym pojawi się odpowiedni skrót. Włączając tę funkcję, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności Trybu dziecięcego&lt;/a >.</Data></string>
     <string name="other_settings_quality_service">Uprawnienia systemowego daemona</string>
     <string name="other_settings_quality_service_summary">Systemowy daemon jest wykorzystywany do poprawy stabilności i wydajności systemu. Aby móc działać normalnie, usługa wymaga uprawnień dostępu do pamięci urządzenia oraz zapisu elementów w niej.</string>
     <string name="other_settings_user_experience_summary">"Pomóż ulepszać produkty Xiaomi przez przesyłanie anonimowych danych."</string>

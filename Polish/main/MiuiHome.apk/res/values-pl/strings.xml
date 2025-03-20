@@ -4,6 +4,7 @@
     <string name="accessibility_recent_task_exit">Zamknięto Ostatnie aplikacje</string>
     <string name="accessibility_recent_task_memory_info">Łącznie RAM-u: %2$s | Dostępnego RAM-u: %1$s. Dotknij dwukrotnie, aby wyczyścić.</string>
     <string name="accessibility_recents_item_dismissed">Usunięto %1$s z Ostatnich aplikacji</string>
+    <string name="accessibility_sliding_button_state_description_off">wyłączone</string>
     <string name="activity_not_unlocked">Poczekaj, dopóki urządzenie nie jest w pełni uruchomione, przed otwarciem aplikacji</string>
     <string name="add_to_workspace">Dodaj na Ekran główny</string>
     <string name="alexa_notification_content">Dodać skrót Alexy do Centrum funkcji?</string>
@@ -47,6 +48,7 @@
     <string name="home_switch_personal_assistant">Tryb asystenta</string>
     <string name="how_to_switch_recents">Otwórz Ostatnie aplikacje</string>
     <string name="how_to_use_app_quick_summary">Przeciągnij w lewo lub w prawo od paska na dole ekranu lub od dołu ekranu</string>
+    <string name="icon_size_adjust">Przesuwaj w lewo i w prawo, aby zmienić rozmiar ikony</string>
     <string name="international_home_pull_down_sub_content">Przejdź do Ustawień > Ekran główny > Przesunięcie w dół na Ekranie głównym, aby sprawić, by ten gest otwierał Centrum funkcji.</string>
     <string name="jeejen_description">"Większy interfejs.
 Szybsze połączenia.
@@ -72,6 +74,7 @@ Zwiększone bezpieczeństwo."</string>
     <string name="menu_lock">Blokada pozycji ikon</string>
     <string name="minus_one_screen">Asystent HyperOS</string>
     <string name="miui_widget_toast_for_not_support_by_pa">"Asystent HyperOS nie wspiera widżetów o takim rozmiarze"</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">K</string>
@@ -118,6 +121,11 @@ Zwiększone bezpieczeństwo."</string>
     <string name="navigation_guide_recent_title">Pokaż ostatnie aplikacje</string>
     <string name="navigation_guide_settings">Jak korzystać z gestów?</string>
     <string name="navigation_set_miui_home_as_default_dialog_message">"Nie można korzystać z gestów w launcherach innych niż systemowy. Czy chcesz przełączyć się na systemowy launcher i włączyć gesty?"</string>
+    <string name="navigation_shortcut_back_key_long_press_title">Przytrzymaj przycisk Wstecz</string>
+    <string name="navigation_shortcut_gesture_line_double_click_title">Dwukrotnie dotknij paska na dole ekranu</string>
+    <string name="navigation_shortcut_home_key_long_press_title">Przytrzymaj przycisk Ekran główny</string>
+    <string name="navigation_shortcut_key_gesture_line_long_press_title">Przytrzymaj pasek na dole ekranu</string>
+    <string name="navigation_shortcut_task_key_long_press_title">Przytrzymaj przycisk Menu</string>
     <string name="new_default_folder_title_tools">Systemowe</string>
     <string name="new_feature_title">Co nowego?</string>
     <string name="new_open_personal_assistant_settings_simplified">Asystent HyperOS</string>

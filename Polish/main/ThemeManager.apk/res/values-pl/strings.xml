@@ -185,6 +185,7 @@
     <string name="component_title_widget_suit">Widżety</string>
     <string name="concentration_old_period">Więcej</string>
     <string name="configure_success_not_enable_aod">Pomyślnie zastosowano. Włącz funkcję Ekran zawsze włączony dla tego motywu, aby zastosować wszystkie efekty.</string>
+    <string name="continue_download_talkback">Wznów pobieranie</string>
     <string name="count_down_tip">Pozostało %d s</string>
     <string name="create_home_icon">Skrót na Ekranie głównym</string>
     <string name="current_device_not_support_superwallpaper_dialog_content">Supertapety nie są wspierane na tym urządzeniu</string>
@@ -274,6 +275,7 @@
     <string name="do_not_allow">Ograniczono</string>
     <string name="download_limit">Obecnie nie można pobrać więcej elementów. Spróbuj ponownie później.</string>
     <string name="download_super_wallpaper">Zainstalować tę supertapetę?</string>
+    <string name="download_talkback">Pobierz</string>
     <string name="dynamic_large_icon_not_support_current_type">"%s nie jest wspierana dla tej dynamicznej ikony"</string>
     <string name="dynamic_video_wallpaper">Tapeta zależna od pory dnia</string>
     <string name="editor_cancel">Anuluj</string>
@@ -291,6 +293,7 @@
     <string name="find_more_theme">Więcej</string>
     <string name="find_more_wallpapers">Więcej</string>
     <string name="first_page_recommend">Polecane</string>
+    <string name="first_total_talkback">Tapeta %1$d, razem tapet: %2$d</string>
     <string name="fold_close_failed">"Nie udało się wyłączyć"</string>
     <string name="fold_close_incall_dialog_content">"Wideo profilowe nie są już wspierane. Po przejściu dalej nie będzie można już włączyć tej funkcji. Wyłączyć mimo to?"</string>
     <string name="fold_close_incall_dialog_title">Wyłącz wideo profilowe</string>
@@ -520,11 +523,15 @@ d.MM."</string>
     <string name="miuishare_title_share">Wyślij</string>
     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_compat_dialog_content">"Obecna wersja aplikacji \"%s\" jest niekompatybilna z tym motywem."</string>
     <string name="miuix_compat_dialog_title">Zastosowano domyślny motyw: \"%s\"</string>
     <string name="miuix_compat_dialog_update_title">Wymagana jest aktualizacja</string>
     <string name="miuix_compat_mms">SMS</string>
+    <string name="miuix_stretchablewidget_collapsed">Zamknięto</string>
+    <string name="miuix_stretchablewidget_expanded">Rozwinięto</string>
     <string name="mix_global_option">Całość</string>
     <string name="mix_global_option_des">Pasek powiadomień, dialer, SMS i inne elementy systemu. Odznacz to pole, aby użyć domyślnych ustawień.</string>
     <string name="mix_home_option_des">Tapeta i zegar. Odznacz to pole, aby użyć domyślnych ustawień.</string>
@@ -600,6 +607,7 @@ Wyświetlanie i korzystanie z zakupionych bądź dodanych do ulubionych element�
     <string name="pad_fold_log_in_wallpaper">Zaloguj się do Tapet i personalizacji</string>
     <string name="pad_fold_no_permission">Wymagane uprawnienia do pamięci</string>
     <string name="pad_fold_no_permission_detail">Aby móc zmieniać preferencje dot. personalizacji i zapisywać pobrane elementy, najpierw udziel tej funkcji dostępu do pamięci.</string>
+    <string name="pause_download_talkback">Zatrzymaj pobieranie</string>
     <string name="paying">Zamawianie…</string>
     <string name="personalize">Personalizacja</string>
     <string name="personalize_alarm_ringtone_title">Alarmy</string>
@@ -642,6 +650,7 @@ Wyświetlanie i korzystanie z zakupionych bądź dodanych do ulubionych element�
     <string name="present_local_themes">Pobrane</string>
     <string name="present_local_themes_subtitle">Zmień wygląd swojego systemu</string>
     <string name="present_official_themes">Oficjalne motywy</string>
+    <string name="preview_image_talkback">Podgląd</string>
     <string name="privacy_action_failed_net_content">Wystąpił błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="privacy_action_failed_server_content">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="privacy_action_failed_title">Błąd</string>

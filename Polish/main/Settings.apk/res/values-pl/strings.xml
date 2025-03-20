@@ -255,6 +255,10 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="gesture_wakeup_summary">Funkcja działa tylko, gdy ustawione są wbudowane motywy</string>
     <string name="google_assistant_guide_tip">*Aby otworzyć menu wyłączania urządzenia, przytrzymaj przycisk Zasilania przez %s sekund.</string>
     <string name="gxzw_add_fingerprint_message">Upewnij się, że palce i powierzchnia ekranu są czyste</string>
+    <string name="gxzw_anim_category_mini">Zwykłe</string>
+    <string name="gxzw_anim_download_fail">Nie udało się pobrać</string>
+    <string name="gxzw_anim_download_network_error">Wystąpił problem z siecią</string>
+    <string name="gxzw_anim_switch">Włącz animację odcisku palca</string>
     <string name="gxzw_anim_title">Animacja odcisku palca</string>
     <string name="gxzw_quick_open_fast_title">Szybko przesuń (zaawansowane)</string>
     <string name="gxzw_quick_open_select_summary">· Po pojawieniu się skrótów przesuń, aby użyć jednego z nich.</string>
@@ -276,6 +280,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="home_title">Ekran główny</string>
     <string name="hover_mode_guide_text">Gdy na wewnętrznym ekranie trwa rozmowa lub oglądasz filmy, możesz użyć Trybu kieszonkowego w dolnej części wyświetlacza.</string>
     <string name="hover_mode_name">Tryb kieszonkowy</string>
+    <string name="icon_display_customization_action">Ikony paska statusu</string>
     <string name="imei_primary">Numer IMEI (główny)</string>
     <string name="imitate_real_keyboard_summary">Wygodna, gdy urządzenie leży na płaskiej przestrzeni</string>
     <string name="impunity_declaration_content">Skaner musi korzystać z Twojego aparatu i przetwarzać wykonane przez Ciebie zdjęcia podczas korzystania z tej aplikacji. Nie używaj Skanera do wykonywania zdjęć obiektów zawierających Twoje prywatne dane. Dotykając opcji \"Zgadzam się\", wyrażasz zgodę na warunki &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Polityki prywatności&lt;/a>&lt;/font> Xiaomi i zezwalasz Skanerowi na łączenie się z Internetem."</string>
@@ -346,6 +351,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="miheadset_double_click_right">Dotknij dwukrotnie prawej słuchawki</string>
     <string name="miheadset_hd_audio_summary">Odtwarzaj dźwięk w wysokiej jakości (%1$d-bit/%2$d kHz)</string>
     <string name="miheadset_multi_connect_mode">Łączność z kilkoma urządzeniami na raz</string>
+    <string name="minors_control_title">Tryb dziecięcy</string>
     <string name="miui_bubbles_notification">Dymki</string>
     <string name="miui_lab_features">Testowe funkcje</string>
     <string name="miui_nfc_dialog_message">"Po wyłączeniu NFC nie będzie można korzystać z funkcji wymagających tej technologii. Wyłączyć mimo to?"</string>
@@ -391,6 +397,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="mtp_solution_button_ok">Rozwiąż problem</string>
     <string name="my_device">O telefonie</string>
     <string name="my_device_camera_params">Aparat</string>
+    <string name="natural_scroll_summary">Treść przewija się wraz z Twoim palcem</string>
     <string name="navigation_guide_app_quick_switch_summary">Przeciągnij pasek w lewo lub prawo lub pociągnij w górę od dołu ekranu</string>
     <string name="navigation_guide_app_title">"Wykonaj akcje aplikacji"</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Po ukryciu paska do przełączania się pomiędzy aplikacjami zostanie użyty nowy gest. Czy chcesz się go teraz nauczyć?</string>
@@ -499,6 +506,15 @@ Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządz
     <string name="select_gpo_version_title">Wybierz wersję GPO</string>
     <string name="sensors_hal_log_summary">Użyj logów dla warstwy abstrakcji sensorów (Sensors HAL)</string>
     <string name="sensors_hal_log_title">Logi HAL sensorów</string>
+    <string name="setting_location_title">Lokalizacja</string>
+    <string name="setting_network_speed_title">Prędkość połączenia</string>
+    <string name="setting_pc_title">Komputer</string>
+    <string name="setting_phone_title">Telefon</string>
+    <string name="setting_privacy_title">Wskaźnik prywatności</string>
+    <string name="setting_sound_box_title">Głośnik</string>
+    <string name="setting_volume_title">Tryb cichy</string>
+    <string name="setting_wireless_headset_title">Słuchawki</string>
+    <string name="setting_zen_title">Nie przeszkadzać</string>
     <string name="show_carrier_under_keyguard_title">Pokaż nazwę operatora, gdy urządzenie jest zablokowane</string>
     <string name="show_owner_info_on_lockscreen_label">Pokaż tę informację na ekranie blokady</string>
     <string name="sidebar_setting">Ustawienia Paska bocznego</string>
@@ -562,7 +578,11 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="speed_mode_noti_summary">Twoje urządzenie będzie się przegrzewać i zużywać więcej energii</string>
     <string name="speed_mode_noti_title">Włączono Tryb prędkości</string>
     <string name="status_bar_icons_title">Ikony paska statusu</string>
+    <string name="status_bar_setting_camera_title">Aparat</string>
+    <string name="status_bar_setting_car_title">Samochód</string>
+    <string name="status_bar_setting_glasses_title">Okulary</string>
     <string name="status_bar_settings">Powiadomienia i pasek statusu</string>
+    <string name="status_bar_settings_connected_devices">Połączone urządzenia</string>
     <string name="status_bar_settings_notification_use_app_icon">Użyj ikon z aplikacji</string>
     <string name="status_bar_settings_qs_layout">Układ przełączników</string>
     <string name="status_bar_settings_show_lte_for_4g">Użyj ikonki LTE zamiast 4G</string>
@@ -619,6 +639,7 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
 lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="usb_reverse_charge">Ładowanie zwrotne</string>
     <string name="usb_summary_power_only">Zasilanie innego urządzenia</string>
+    <string name="usb_switch_reverse_charge_failed">Niedostępne</string>
     <string name="usb_tethering_active_subtext">Powiązano</string>
     <string name="use_control_panel">Użyj nowego Centrum funkcji</string>
     <string name="use_otg_charge_only">Ładowanie zwrotne</string>

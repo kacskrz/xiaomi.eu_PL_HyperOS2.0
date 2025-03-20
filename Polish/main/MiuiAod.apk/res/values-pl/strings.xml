@@ -43,6 +43,8 @@ d.MM"</string>
     <string name="kg_template_description_rhombus">Czas jest ważny. Wykorzystaj go.</string>
     <string name="miui_clock_city_name_local">Lokalnie</string>
     <string name="miui_clock_oversize_date">d.MM</string>
+    <string name="miui_lock_eastern_art_date_curisive_12">d MMM h:mm</string>
+    <string name="miui_lock_eastern_art_date_curisive_24">d MMM H:mm</string>
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_two_lines">"d MMMM
