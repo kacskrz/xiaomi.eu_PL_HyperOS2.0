@@ -272,7 +272,6 @@
     <string name="auto_task_voice_dialog_alarm_title">Alarmy</string>
     <string name="auto_task_voice_dialog_call_title">Połączenia, powiadomienia, przypomnienia</string>
     <string name="auto_task_voice_dialog_media_title">Muzyka, gry, multimedia</string>
-    <string name="back_sound_no_support_oversea">SIM %1$d nie wspiera tego planu</string>
     <string name="back_sound_support_china">Wyłącz Wi-Fi</string>
     <string name="battery_and_property_ordinary_notify">Regularne powiadomienia o baterii</string>
     <string name="battery_desc_ambient_display">Użycie baterii przez tryb Ekran zawsze włączony</string>
@@ -297,11 +296,6 @@
     <string name="btn_text_quick_save_power">Wykonaj</string>
     <string name="byteShort">" B"</string>
     <string name="camera">Aparat</string>
-    <string name="car_sickness_relief_comment_text">Po wykryciu ruchu pojazdu, po obu stronach ekranu wyświetlane są kropki wskazujące, czy pojazd się porusza, co może pomóc opóźnić wystąpienie choroby lokomocyjnej.</string>
-    <string name="car_sickness_relief_example_text_1">Gdy pojazd przyspiesza lub zwalnia</string>
-    <string name="car_sickness_relief_example_text_2">Gdy pojazd skręca lub zmienia pas ruchu</string>
-    <string name="car_sickness_remind_time_title">Wskaźniki ruchu</string>
-    <string name="car_sickness_title">Pomoc w chorobie lokomocyjnej</string>
     <string name="card_main_apkclean_title">Usuń pliki APK</string>
     <string name="card_main_facebookclean_title">Czyszczenie Facebooka</string>
     <string name="card_main_netcheck_summary">Sprawdź, czy sieć działa poprawnie</string>
@@ -702,7 +696,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_appcompat_show_dialog_description">Okno pop-up</string>
     <string name="miuix_progressbar_loading">Chwileczkę…</string>
-    <string name="miuix_show_password">Pokaż hasło</string>
     <string name="miuix_stretchablewidget_collapsed">Zwinięte</string>
     <string name="miuix_stretchablewidget_expanded">Rozwinięte</string>
     <string name="monday_shortest">P</string>
@@ -789,7 +782,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="open_extreme_power_save_mode_title">Włącz Ultraoszczędzanie baterii</string>
     <string name="optimize_manage_title">Zarządzanie pamięcią</string>
     <string name="optimize_result_button_onekey_restore">Przywróć</string>
-    <string name="optmizingbar_item_img_description">Gotowe</string>
     <string name="optmizingbar_title_system">Zabezpieczenia systemu</string>
     <string name="overlay_permission_dialog_message_security_service">Panel sterowania wymaga pewnych uprawnień do poprawnego działania.</string>
     <string name="password_or_finger_unlock">Odblokuj hasłem lub odciskiem palca</string>
@@ -821,9 +813,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_fast_charge_notifi_switch_summary">Powiadamiaj o zwiększeniu prędkości ładowania, gdy podłączona jest dołączona ładowarka o mocy %dW, a poziom baterii znajduje się poniżej ustawionego poziomu</string>
     <string name="pc_fast_charge_notifi_title">Ładowanie %dW</string>
     <string name="pc_fast_charge_switch_toast_message">Zmiany zostaną zastosowane przy następnym ładowaniu</string>
-    <string name="pc_health_charge_default">Ładuj do pełna</string>
     <string name="pc_health_charge_protect_noti_summary_title">Urządzenie przestanie się ładować, gdy osiągnie %1$s baterii</string>
-    <string name="pc_health_charge_protect_summary_new">Aby przedłużyć żywotność baterii, urządzenie przestanie się ładować, gdy jej poziom wyniesie %1$s, i naładuje się do pełna tylko, gdy to zaplanujesz</string>
     <string name="pc_hidemode_normal">Zbalansowany</string>
     <string name="pc_hidemode_normal_title">Tryb zbalansowany</string>
     <string name="pc_hidemode_power_save">Bateria</string>

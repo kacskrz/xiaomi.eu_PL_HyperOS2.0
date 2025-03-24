@@ -9,6 +9,8 @@
     <string name="excerpted_to_note">Zapisano fragment w Notatkach</string>
     <string name="foregound_content">Widżet tekstu Mi SI pracuje…</string>
     <string name="foregound_tile">Tekst SI</string>
+    <string name="handwrite_description_window">Okno pisma odręcznego</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">K</string>
@@ -45,6 +47,7 @@
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
+    <string name="multi_page_max_limit_text_toast">Nie można dodać więcej pól tekstowych</string>
     <string name="note_gesture_guide_step1">Przytrzymaj ikonę plusa, aby utworzyć notatkę głosową</string>
     <string name="note_gesture_guide_step2">Przytrzymaj, a następnie przeciągnij notatkę nad inną notatkę, aby utworzyć folder</string>
     <string name="note_gesture_guide_step3">Przytrzymaj, a następnie przeciągnij notatkę nad folderem, aby przenieść ją do tego folderu</string>
@@ -55,6 +58,7 @@
     <string name="permission_read_contact_desc">Do powiązywania notatek tworzonych w trakcie rozmów z kontaktami</string>
     <string name="refuse_to_share_as_pic_because_of_content">Ta notatka jest zbyt duża, aby ją udostępnić.</string>
     <string name="setting_privacy">Polityka prywatności</string>
+    <string name="shortcut_key_description">Przycisk znajdujący się najbliżej końcówki rysika to przycisk pisania. Naciśnij go, aby przełączyć pędzle. Wciśnij go przez 1 sekundę, aby przełączyć na gumkę. Naciśnij i przytrzymaj go, aby wymazać. Środkowy przycisk to przycisk zrzutu ekranu. Naciśnięcie go spowoduje przełączenie na ostatnio używany kolor.</string>
     <string name="sync_desc_state_complete_china">Wszystkie %1$s zostały zsynchronizowane</string>
     <string name="toolbar_share_description">Udostępnij</string>
     <string name="widget_size_item_big">Duży</string>

@@ -21,6 +21,7 @@
     <string name="device_activation_card_title">Pierwsza aktywacja</string>
     <string name="device_activation_page_title">Aktywacja urządzenia</string>
     <string name="dialog_storage_low_content">Aby kontynuować synchronizację, ulepsz swój plan Chmury.</string>
+    <string name="e2ee_button_exit_all_devices">Wyloguj się na wszystkich urządzeniach</string>
     <string name="e2ee_data_protection_label_wifi">Ustawienia Wi-Fi</string>
     <string name="e2ee_data_protection_tip">"Chmura Xiaomi oferuje Zaawansowaną ochronę danych. Ta funkcja używa szyfrowania end-to-end po to, aby Twoje dane były dostępne tylko na zaufanych urządzeniach. Nikt inny, w tym Xiaomi, nie może uzyskać dostępu do tych zaszyfrowanych danych. "</string>
     <string name="e2ee_device_delete_tip">Gdy usuniesz to urządzenie ze swojego konta Xiaomi, zostanie ono wylogowane. Nie będziesz w stanie korzystać z usług Chmury Xiaomi, wyszukiwania i innych funkcji powiązanych z tym kontem, dopóki nie zalogujesz się na nie ponownie.</string>

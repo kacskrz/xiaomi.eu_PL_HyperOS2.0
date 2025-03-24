@@ -14,6 +14,11 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementów</item>
     </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+        <item quantity="one">Wybrano %1$d element</item>
+    </plurals>
     <plurals name="save_item_saved_summary">
         <item quantity="other">Zaimportowano i przywrócono %d elementów</item>
         <item quantity="one">Zaimportowano i przywrócono %d element</item>

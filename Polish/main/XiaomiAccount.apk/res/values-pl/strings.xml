@@ -13,6 +13,7 @@
 Możesz teraz zalogować się na konto Xiaomi, korzystając z %s."</string>
     <string name="cloud_member_status_non_vip">Ulepsz</string>
     <string name="kr_license_desc">Aby korzystać z konta oraz chmury Xiaomi, musisz przeczytać i zaakceptować Umowę użytkownika i Politykę prywatności.</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="notify_bind_security_phone">Dodaj zapasowy numer telefonu</string>
     <string name="passport_click_email_to_valid">"W celu aktywacji konta przejdź pod link podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="passport_get_innetdate_msg">&lt;font color=Red>Prawdopodobnie&lt;/font> numer %s został przypisany do kogoś innego przez operatora. Sprawdzić, kiedy był ostatnio online?</string>

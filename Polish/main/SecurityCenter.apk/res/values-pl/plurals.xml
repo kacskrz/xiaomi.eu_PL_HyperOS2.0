@@ -63,11 +63,6 @@
         <item quantity="other">"Nie udało się otrzymać darmowej, %d-dniowej wersji próbnej"</item>
         <item quantity="one">"Nie udało się otrzymać darmowej, %d-dniowej wersji próbnej"</item>
     </plurals>
-    <plurals name="hints_auto_start_disable_title_global">
-        <item quantity="other">"%d aplikacji nie może uruchamiać się w tle"</item>
-        <item quantity="one">"%d aplikacja nie może uruchamiać się w tle"</item>
-        <item quantity="few">"%d aplikacje nie mogą uruchamiać się w tle"</item>
-    </plurals>
     <plurals name="hints_auto_start_enable_title_global">
         <item quantity="other">%d aplikacji może uruchamiać się w tle</item>
         <item quantity="few">%d aplikacje mogą uruchamiać się w tle</item>
