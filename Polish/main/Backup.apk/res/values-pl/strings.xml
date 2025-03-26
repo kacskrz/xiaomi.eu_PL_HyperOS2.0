@@ -124,7 +124,7 @@
     <string name="new_local_tab_backup">Skopiuj</string>
     <string name="new_local_tab_backup_pad">Skopiuj</string>
     <string name="new_pc_backup_content2">%d. Poczekaj, aż wszystko zostanie skopiowane.</string>
-    <string name="new_pc_backup_content3">%d. Znajdź kopię w katalogu MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_backup_content3">%d. Otwórz katalog MIUI-Backup-AllBackup i zlokalizuj folder lub plik *.zip z kopią poprzez datę znajdującą się w nazwie.</string>
     <string name="new_pc_backup_summary1">Wybierz elementy i kliknij \"Kopia zapasowa\".</string>
     <string name="new_pc_backup_summary2">Podłącz telefon do komputera, używając kabla USB.</string>
     <string name="new_pc_backup_summary2_pad">Podłącz urządzenie do komputera za pomocą kabla USB.</string>
