@@ -24,6 +24,8 @@
     <string name="broken_screen_rescue_service_tips_6">"%1$d. Jeśli nie możesz wykonać kopii zapasowej na komputerze, możesz się dowiedzieć, jak rozwiązać ten problem z centrum pomocy Xiaomi."</string>
     <string name="button_select">Wybierz</string>
     <string name="cancel_moving_dialog_message">Zatrzymać importowanie?</string>
+    <string name="cannot_use_backup_summary">Wygląda na to, że trwa właśnie wykonywanie kopii zapasowej elementów. Zatrzymaj ją lub uruchom ponownie urządzenie, aby umożliwić Przenoszeniu danych rozpoczęcie transferu.</string>
+     <string name="cannot_use_backup_title">Nie można wykonać kopii</string>
     <string name="category_message_contacts">SMS-y i Kontakty</string>
     <string name="check_privacy_policy">Wyświetl Politykę prywatności</string>
     <string name="click_soft_ap_to_link">Wybierz hotspot, aby połączyć</string>

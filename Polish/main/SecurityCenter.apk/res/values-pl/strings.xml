@@ -282,8 +282,6 @@
     <string name="battery_status_level_normal">Normalna</string>
     <string name="battery_status_level_poor">Słaba</string>
     <string name="battery_status_overheat">Przegrzana</string>
-    <string name="beauty_fun_portrait_center_check">Tryb Ultra HD nie wspiera FocusFrame"</string>
-    <string name="beauty_fun_ultra_clear_check">FocusFrame nie wspiera trybu Ultra HD</string>
     <string name="bill_traffic_reminder_instruction_text">Metody rozliczeń i standardy obliczania danych u różnych operatorów mogą się różnić. Mogą wystąpić opóźnienia w rozliczeniach. Statystyki użytkowania podane tutaj mają charakter wyłącznie poglądowy.</string>
     <string name="blur_cross_device_permissions">Uprawnienia łączności między urządzeniami</string>
     <string name="blur_key_words_permission_records">Rekordy zachowań aplikacji</string>
@@ -689,7 +687,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="mic">Mikrofon</string>
     <string name="mic_noise_reduction_mode_standard">Standardowy</string>
     <string name="mic_noise_reduction_mode_ultimate">Wybrany</string>
-    <string name="miuix_accessibility_title">Tytuł</string>
     <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
     <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
     <string name="miuix_appcompat_accessibility_new_message">Nowe powiadomienie</string>

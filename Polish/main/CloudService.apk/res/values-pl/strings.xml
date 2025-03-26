@@ -101,7 +101,9 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="verify_dialog_open_lockscreen">Na innym urządzeniu włączono Zaawansowaną ochronę danych. Ustaw blokadę ekranu na tym urządzeniu, aby uzyskać dostęp do danych przechowywanych w Chmurze Xiaomi.</string>
     <string name="verify_notification_title">Włączono szyfrowanie end-to-end na innym urządzeniu</string>
     <string name="verify_notification_title_find_device_push">Inne urządzenie włączyło \"Lokalizację offline\"</string>
+    <string name="verify_scan_Second_title">Wprowadź %d-znakowy klucz dostępu</string>
     <string name="verify_scan_point_notice_view">Dotknij środka, aby wyostrzyć</string>
+    <string name="verify_scan_point_text_view">Wprowadź %d-znakowy klucz dostępu w okienku poniżej</string>
     <string name="verify_warning_dialog_message_find_device">Włączono \"Lokalizację offline\" dla %s. Gdy ta funkcja jest włączona, będzie można sprawdzić położenie urządzenia, gdy jest ono offline.</string>
     <string name="verify_warning_dialog_title_find_device">\"Lokalizacja offline\" włączona dla innego urządzenia</string>
     <string name="verify_warning_verify_dialog_message">Wprowadź kod weryfikacyjny na %s</string>
