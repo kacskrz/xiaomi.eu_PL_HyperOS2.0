@@ -6,6 +6,7 @@
     <string name="about_checking_update">Sprawdzanie aktualizacji…</string>
     <string name="about_go_to_update">Zaktualizuj</string>
     <string name="about_lasted_version">Wersja jest aktualna</string>
+    <string name="accessibility_sliding_button_state_description_off">wyłączone</string>
     <string name="account_add_other_sub_des">Inne konta</string>
     <string name="account_add_title">Wybierz usługę poczty</string>
     <string name="account_change">Przełączaj konta</string>
@@ -343,8 +344,8 @@ IMAP"</string>
     <string name="download_before_sharing2">Niektóre z wybranych elementów nie są pobrane. Pobierz je najpierw.</string>
     <string name="download_cancel_confirm_message">Pobieranie zostanie zatrzymane</string>
     <string name="download_cancel_confirm_title">Pobrać ten załącznik?</string>
-    <string name="download_confirm_message">Pobrać załączniki (%1$s)?</string>
-    <string name="download_confirm_title">Pobierz załącznik</string>
+    <string name="download_confirm_message">Załącznik zużyje %1$s miejsca w pamięci. Pobrać go?</string>
+    <string name="download_confirm_title">Pobrać załącznik?</string>
     <string name="download_message_failed_for_too_large">Wiadomość jest za duża by rozpocząć pobieranie.</string>
     <string name="drawer_contacts">Kontakty</string>
     <string name="drive_card_button_tips">Skopiuj kod dostępu</string>
@@ -601,6 +602,15 @@ Tymczasowe:
     <string name="message_invite_tentative">Może</string>
     <string name="message_view_attachment_background_load">Załączniki w przekazywanej wiadomości zostaną pobrane przed wysłaniem.</string>
     <string name="mi_slide_menu">Pasek boczny</string>
+    <string name="microsoft_imap_outlook_download_recommend_content_link">Klient Outlook</string>
+    <string name="microsoft_imap_outlook_download_recommend_tip">Aby uzyskać dostęp do większej liczby funkcji związanych z e-mailami, możesz również użyć klienta Outlook.</string>
+    <string name="microsoft_imap_setting_tip">Nie można zsynchronizować e-maili. Dotknij, aby rozwiązać problem.</string>
+    <string name="microsoft_imap_tips_dialog_confirm">OK</string>
+    <string name="microsoft_imap_tips_dialog_content_step_desc">Przejdź do Ustawień > Poczta > Przekazywanie dalej i protokół IMAP, a następnie włącz IMAP i POP.</string>
+    <string name="microsoft_imap_tips_dialog_content_step_title">Kroki</string>
+    <string name="microsoft_imap_tips_dialog_tips">Aby zsynchronizować e-maile, wejdź na stronę outlook.com na swoim komputerze i włącz IMAP.</string>
+    <string name="microsoft_imap_tips_dialog_title">Włącz IMAP</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="move_to_selection_dialog_title">Przenieś do innego folderu</string>
     <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
     <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>

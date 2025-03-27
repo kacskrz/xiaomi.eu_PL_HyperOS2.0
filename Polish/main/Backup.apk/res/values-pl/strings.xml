@@ -24,8 +24,8 @@
     <string name="broken_screen_rescue_service_tips_6">"%1$d. Jeśli nie możesz wykonać kopii zapasowej na komputerze, możesz się dowiedzieć, jak rozwiązać ten problem z centrum pomocy Xiaomi."</string>
     <string name="button_select">Wybierz</string>
     <string name="cancel_moving_dialog_message">Zatrzymać importowanie?</string>
-    <string name="cannot_use_backup_summary">Wygląda na to, że trwa właśnie wykonywanie kopii zapasowej elementów. Zatrzymaj ją lub uruchom ponownie urządzenie, aby umożliwić Przenoszeniu danych rozpoczęcie transferu.</string>
-     <string name="cannot_use_backup_title">Nie można wykonać kopii</string>
+    <string name="cannot_use_backup_summary">Trwa właśnie transfer elementów przez Przenoszenie danych. Poczekaj, aż się on zakończy, i rozpocznij ponownie wykonywanie kopii zapasowej.</string>
+    <string name="cannot_use_backup_title">Nie można wykonać kopii</string>
     <string name="category_message_contacts">SMS-y i Kontakty</string>
     <string name="check_privacy_policy">Wyświetl Politykę prywatności</string>
     <string name="click_soft_ap_to_link">Wybierz hotspot, aby połączyć</string>
@@ -116,11 +116,11 @@
     <string name="new_confirm_enable_encrypt_title">Zaszyfruj</string>
     <string name="new_local_detail_description">"Uwaga:
 %1$d. Skopiuj kopie zapasowe na komputer, aby zapobiec utracie danych. %2$s.
-%3$d. Kopie zapasowe zostaną zapisane w katalogu MIUI-Backup-AllBackup."</string>
+%3$d. Kopie zapasowe zostaną zapisane w katalogu MIUI > Backup > AllBackup."</string>
     <string name="new_local_detail_description_global">"Uwagi:
 %1$d. Skopiuj wykonane kopie zapasowe na swój komputer, aby uniknąć utraty danych. %2$s.
-%3$d. Kopie zapasowe są zapisywane w katalogu MIUI-Backup-AllBackup.
-%4$d. Niektóre aplikacje mogą nie wspierać tworzenia ich kopii zapasowych."</string>
+%3$d. Kopie zapasowe są zapisywane w katalogu MIUI > Backup > AllBackup.
+%4$d. Wykonanie kopii zapasowej lub jej przywrócenie w przypadku niektórych aplikacji może być niemożliwe."</string>
     <string name="new_local_tab_backup">Skopiuj</string>
     <string name="new_local_tab_backup_pad">Skopiuj</string>
     <string name="new_pc_backup_content2">%d. Poczekaj, aż wszystko zostanie skopiowane.</string>

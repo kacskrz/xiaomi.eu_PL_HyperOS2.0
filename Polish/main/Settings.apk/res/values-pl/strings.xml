@@ -451,6 +451,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="photography_handle_charge_state_choice_emergency">Wyjątkowo</string>
     <string name="photography_handle_charge_state_summary_new">Zacznij ładowanie tego urządzenia z uchwytu aparatu po jego podłączeniu</string>
     <string name="photography_handle_emergency_charge_title">Poziom alarmowego ładowania</string>
+    <string name="photography_handle_low_battery_notify_title">Aktualizacja oprogramowania uchwytu aparatu</string>
     <string name="picture_in_picture_app_detail_switch">Pozwól na tryb obraz w obrazie</string>
     <string name="picture_in_picture_app_detail_title">Obraz w obrazie</string>
     <string name="picture_in_picture_empty_text">Żadna zainstalowana aplikacja nie obsługuje trybu obrazu w obrazie</string>

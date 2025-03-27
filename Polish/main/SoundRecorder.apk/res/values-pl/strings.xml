@@ -7,6 +7,7 @@
     <string name="day_in_week_hour_minute_format">EE H.mm</string>
     <string name="dialog_content_storage_full">Nagrywanie zostało zatrzymane z powodu braku miejsca w pamięci.</string>
     <string name="high_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
+    <string name="keyguard_shotcuts">Nowe nagranie</string>
     <string name="korea_permission_storage_desc">Do zapisywania nagrań</string>
     <string name="low_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
     <string name="middle_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
