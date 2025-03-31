@@ -21,6 +21,7 @@
     <string name="circulate_audio_group_title">Odtwarzanie…</string>
     <string name="circulate_card_mirror_pad_subtitle">"Przeciągnij \"Ekran tabletu\" na telewizor,
 aby udostępnić ekran"</string>
+    <string name="circulate_card_sticker_control_contentDescription">Panel sterowania</string>
     <string name="circulate_card_tv_device_sync">Interakcja urządzeń Xiaomi</string>
     <string name="circulate_controlphone_button_hint">Pokaż ekran</string>
     <string name="circulate_controlphone_title">Zarządzaj urządzeniem</string>

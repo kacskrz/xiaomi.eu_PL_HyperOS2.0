@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_close_mirror">Zamknięto Ekran główny+</string>
+    <string name="accessibility_open_mirror">Rozwiń Ekran główny+</string>
+    <string name="accessibility_side_close_mirror">Zwiń Ekran główny+ do paska bocznego</string>
     <string name="call_error_notify_button">Wróć</string>
     <string name="call_error_notify_content">Możesz wrócić z powrotem na ekran telefonu, aby kontynuować rozmowę</string>
     <string name="call_error_notify_title">Niestabilne połączenie z siecią</string>
@@ -23,6 +26,7 @@
     <string name="circulate_cta_premission_wlan_title_china">Włączanie i wyłączanie Wi-Fi</string>
     <string name="circulate_cta_user_agreement">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;txt href=\"%1$s\">Umowy użytkownika&lt;/txt> oraz &lt;txt href=\"%2$s\">Polityki prywatności&lt;/txt> Xiaomi.</string>
     <string name="connecting_pc">Łączenie z komputerem…</string>
+    <string name="content_des_mirror_has_connect">Wyświetlanie Ekranu głównego+</string>
     <string name="copy_fail">"Nie udało się skopiować"</string>
     <string name="default_boss_terminal_name">Laptop Xiaomi</string>
     <string name="device_screen_fold_switch_tip">Wykonaj tę akcję na wewnętrznym ekranie</string>
