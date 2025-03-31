@@ -1039,4 +1039,26 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="unarchive_error_offline_title_miui">Brak połączenia z siecią</string>
     <string name="unarchive_error_storage_body_miui">Aby przywrócić tę aplikację, zwolnij co najmniej %1$s pamięci.</string>
     <string name="unarchive_error_storage_title_miui">Brak miejsca</string>
+    <string name="accessibility_sliding_button_state_description_off">Wyłączono</string>
+    <string name="accessibility_sliding_button_state_description_on">Włączono</string>
+    <string name="accessibility_tab_state_description_unselect">Nie wybrano</string>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
+    <string name="app_info_version_replace_talkback">Zaktualizuj z wersji %1$s do wersji %2$s</string>
+    <string name="input_pattern_hint_text">Narysuj wzór odblokowania</string>
+    <string name="lockscreen_access_pattern_area">Obszar wzoru odblokowania</string>
+    <string name="lockscreen_access_pattern_cell_added_verbose">Dodano kropkę %1$s</string>
+    <string name="lockscreen_access_pattern_detected">Zakończono rysowanie wzoru</string>
+    <string name="miuix_accessibility_title">Tytuł</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
+    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Wyjdź z trybu edycji</string>
+    <string name="miuix_appcompat_accessibility_new_message">Nowe powiadomieni</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
+    <string name="miuix_appcompat_show_dialog_description">Okno pop-up</string>
+    <string name="miuix_progressbar_loading">Chwileczkę…</string>
+    <string name="miuix_show_password">Pokaż hasło</string>
+    <string name="miuix_stretchablewidget_collapsed">Zamknięto</string>
+    <string name="miuix_stretchablewidget_expanded">Rozwinięto</string>
+    <string name="negative_number_talkback">Minus %1$d</string>
+    <string name="safe_mode_tip_arrow_talkback">Dotknij, aby otworzyć ustawienia Mi Protect</string>
 </resources>

@@ -166,4 +166,19 @@
         <item quantity="other">Tryb bezpieczny jest włączony od %d dni</item>
         <item quantity="one">Tryb bezpieczny jest włączony od %d dnia</item>
     </plurals>
+    <plurals name="input_text_count_limit_talkback_one">
+        <item quantity="other">Wprowadzono %1$d znaków.</item>
+        <item quantity="few">Wprowadzono %1$d znaki.</item>
+        <item quantity="one">Wprowadzono %1$d znak.</item>
+    </plurals>
+    <plurals name="input_text_count_limit_talkback_two">
+        <item quantity="other">Wprowadź maksymalnie %1$d znaków.</item>
+        <item quantity="few">Wprowadź maksymalnie %1$d znaki.</item>
+        <item quantity="one">Wprowadź maksymalnie %1$d znak.</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+        <item quantity="one">Wybrano %1$d element</item>
+    </plurals>
 </resources>
