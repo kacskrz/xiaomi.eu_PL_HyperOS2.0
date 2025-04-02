@@ -31,11 +31,6 @@
         <item quantity="other">"Nie można pobrać %1$d plików. Sprawdź połączenie z siecią i spróbuj ponownie."</item>
         <item quantity="one">"Nie można pobrać %1$d pliku. Sprawdź połączenie z siecią i spróbuj ponownie."</item>
     </plurals>
-    <plurals name="drop_contain_several_same_name_file">
-        <item quantity="other">"Nie można zapisać. Istnieje już %d plików o tej nazwie."</item>
-        <item quantity="few">"Nie można zapisać. Istnieją już %d pliki o tej nazwie."</item>
-        <item quantity="one">"Nie można zapisać. Istnieje już %d plik o tej nazwie."</item>
-    </plurals>
     <plurals name="global_cloud_storage_warn_title_link">
         <item quantity="other">"Nie skopiowano %d elementów z powodu braku miejsca w chmurze"</item>
         <item quantity="one">"Nie skopiowano %d elementu z powodu braku miejsca w chmurze"</item>
@@ -43,11 +38,6 @@
     <plurals name="global_syncing_gprs_title_link">
         <item quantity="other">Kopiowanie %d elementów za pomocą danych mobilnych…</item>
         <item quantity="one">Kopiowanie %d elementu za pomocą danych mobilnych…</item>
-    </plurals>
-    <plurals name="other_group_name">
-        <item quantity="other">%1$s i %2$d innych osób</item>
-        <item quantity="few">%1$s i %2$d inne osoby</item>
-        <item quantity="one">%1$s i %2$d inna osoba</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">%1$d elementów</item>
@@ -68,24 +58,9 @@
         <item quantity="few">Wybrano %1$d elementy</item>
         <item quantity="one">Wybrano %1$d element</item>
     </plurals>
-    <plurals name="picker_title_format_allow_image_and_video">
-        <item quantity="other">Wybierz %1$d–%2$d elementów</item>
-        <item quantity="few">Wybierz %1$d–%2$d elementy</item>
-        <item quantity="one">Wybierz %1$d–%2$d element</item>
-    </plurals>
-    <plurals name="picker_title_specify_format_allow_image_and_video">
-        <item quantity="other">Wybierz %d elementów</item>
-        <item quantity="few">Wybierz %d elementy</item>
-        <item quantity="one">Wybierz %d element</item>
-    </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
         <item quantity="other">"Nie można usunąć %2$d elementów z prywatnego albumu. %1$s."</item>
         <item quantity="one">"Nie można usunąć %2$d elementu z prywatnego albumu. %1$s."</item>
-    </plurals>
-    <plurals name="search_title_new_ai">
-        <item quantity="other">Znaleziono %d elementów</item>
-        <item quantity="few">Znaleziono %d elementy</item>
-        <item quantity="one">Znaleziono %d element</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d plików APK (%3$s) od %1$s</item>
@@ -141,10 +116,5 @@
     <plurals name="syncing_gprs_title_link">
         <item quantity="other">Synchronizacja %d elementów (dane mobilne)</item>
         <item quantity="one">Synchronizacja %d elementu (dane mobilne)</item>
-    </plurals>
-    <plurals name="universal_pick_bottom_bar_selected_content_format">
-        <item quantity="other">Pokaż %d wybranych elementów</item>
-        <item quantity="few">Pokaż %d wybrane elementy</item>
-        <item quantity="one">Pokaż %d wybrany element</item>
     </plurals>
 </resources>
