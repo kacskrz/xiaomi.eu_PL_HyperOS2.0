@@ -266,7 +266,6 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
     <string name="thanksgiving_day">Święto Dziękczynienia</string>
     <string name="thumbnail_build_error">Nie udało się pobrać miniatury</string>
     <string name="thumbnail_error_log_cleared">Pomyślnie wyczyszczono</string>
-    <string name="tip_file_path">Ścieżka:</string>
     <string name="tip_not_download">Plik będzie pobierany podczas odtwarzania</string>
     <string name="toast_download_with_metered_network_msg">"Wygląda na to, że urządzenie nie jest połączone z siecią Wi-Fi. Pobrać elementy za pomocą danych komórkowych?"</string>
     <string name="toast_orientation_locked">Pomyślnie zablokowano orientację</string>

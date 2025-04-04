@@ -52,11 +52,8 @@
     <string name="back_double_tap">Dwukrotne dotknięcie z tyłu</string>
     <string name="back_strap_app_notification_title">Powiadomienia aplikacji</string>
     <string name="back_strap_call_reminder_title">Przychodzące połączenia</string>    
-    <string name="back_strap_image_new_text">Włącz tę funkcję, aby wyświetlać informacje o powiadomieniach i spersonalizowane efekty świetlne</string>
     <string name="back_strap_image_simplified_text">Gdy urządzenie jest zwrócone ekranem do dołu i jest on wyłączony, lampa błyskowa będzie informować o nowych powiadomieniach</string>
     <string name="back_strap_image_text">Gdy urządzenie leży ekranem do dołu i jest on wyłączony, dioda będzie wyświetlać przypomnienia o powiadomieniach i efekty oświetleniowe w różnych sytuacjach</string>
-    <string name="back_strap_off">Wył.</string>
-    <string name="back_strap_on">Wł.</string>
     <string name="back_strap_on_back_light_display">Gdy telefon jest zwrócony ekranem do dołu</string>
     <string name="back_strap_other_seetings">Dodatkowe ustawienia</string>
     <string name="back_strap_title">Efekty tylnej diody</string>
@@ -401,7 +398,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="mtp_solution_button_ok">Rozwiąż problem</string>
     <string name="my_device">O telefonie</string>
     <string name="my_device_camera_params">Aparat</string>
-    <string name="natural_scroll_summary">Treść przewija się wraz z Twoim palcem</string>
     <string name="navigation_guide_app_quick_switch_summary">Przeciągnij pasek w lewo lub prawo lub pociągnij w górę od dołu ekranu</string>
     <string name="navigation_guide_app_title">"Wykonaj akcje aplikacji"</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Po ukryciu paska do przełączania się pomiędzy aplikacjami zostanie użyty nowy gest. Czy chcesz się go teraz nauczyć?</string>
@@ -610,7 +606,6 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="title_device_control">Kontrolki urządzeń smart home</string>
     <string name="title_layout_current2_weight">Rozmiar i grubość czcionki</string>
     <string name="touch_sensitive_turn_off_summary">Wyłączyć także funkcję przypadkowego użycia telefonu w kieszeni?</string>
-    <string name="twenty_four_select_time_format">Format 24-godzinny</string>
     <string name="unchecked_app_title">Wyłączone efekty świetlne</string>
     <string name="under_keyguard">Przy wył. ekranie</string>
     <string name="uninstall_xspace_app_dlg_msg">Odinstalowanie sklonowanej aplikacji usunie też jej dane.</string>
