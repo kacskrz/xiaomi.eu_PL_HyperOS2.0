@@ -6,10 +6,17 @@
     </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s katalogów</item>
+        <item quantity="few">%1$s katalogi</item>
         <item quantity="one">%1$s katalog</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+        <item quantity="one">Wybrano %1$d element</item>
     </plurals>
     <plurals name="note_terms">
         <item quantity="other">%1$s notatek</item>
+        <item quantity="few">%1$s notatki</item>
         <item quantity="one">%1$s notatkę</item>
     </plurals>
     <plurals name="todo_N_days_after">

@@ -12,6 +12,7 @@
     <string name="mi_share_turbo_mode">Tryb turbo</string>
     <string name="mishare_settings_summary_international">"Xiaomi Share umożliwia bezprzewodowe wysyłanie elementów do innych pobliskich urządzeń.
 Ta funkcja jest obsługiwana przez OPPO, vivo, realme i innych producentów smartfonów. Możesz sprawdzić listę obsługiwanych urządzeń na oficjalnych stronach wybranych marek."</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="nfc_check_the_touch_device">Aby połączyć urządzenia, na innym urządzeniu również powinny być włączone Wi-Fi i Bluetooth. Sprawdź, czy udzielono zezwolenia na połączenie z innego urządzenia w Ustawieniach > Więcej ustawień sieci > Połączone urządzenia i spróbuj ponownie.</string>
     <string name="nfc_check_the_touch_device_china">Aby połączyć urządzenia, na innym urządzeniu również powinny być włączone Wi-Fi i Bluetooth. Sprawdź, czy udzielono zezwolenia na połączenie z innego urządzenia w Ustawieniach > Więcej ustawień sieci > Połączone urządzenia i spróbuj ponownie.</string>
     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Nie udało się połączyć z komputerem. Upewnij się, że na obu urządzeniach włączono Wi-Fi oraz Bluetooth, a na komputerze działa Xiaomi PC Manager."</string>
@@ -19,7 +20,6 @@ Ta funkcja jest obsługiwana przez OPPO, vivo, realme i innych producentów smar
     <string name="seize_content">Zatrzymaj udostępnianie swojego ekranu, aby przesłać elementy. Zatrzymać teraz?</string>
     <string name="seize_title">Zatrzymaj udostępnianie ekranu</string>
     <string name="sub_title_mishare_switch_mine">Możesz odbierać pliki z urządzeń zalogowanych na Twoje konto Xiaomi</string>
-    <string name="switch_mode_all">Od kogokolwiek (przez %d min)</string>
     <string name="switch_mode_close">Wyłączone</string>
     <string name="switch_mode_sameaccount">Z mojego konta Xiaomi</string>
     <string name="tips_p2p_support_use5g_china">Dla lepszych rezultatów wykorzystaj sieć Wi-Fi 5 GHz.</string>

@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="accessibility_descriptions_signal_strength">
+        <item quantity="other">Siła sygnału: %1$d na %2$d kresek</item>
+        <item quantity="few">Siła sygnału: %1$d na %2$d kreski</item>
+        <item quantity="one">Siła sygnału: %1$d na %2$d kreskę</item>
+    </plurals>
     <plurals name="atmospheric_pressure_desc">
         <item quantity="other">Ciśnienie: %s hektopaskali</item>
         <item quantity="few">Ciśnienie: %s hektopaskale</item>

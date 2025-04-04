@@ -4,7 +4,7 @@
     <string name="accessibility_recent_task_exit">Zamknięto Ostatnie aplikacje</string>
     <string name="accessibility_recent_task_memory_info">Łącznie RAM-u: %2$s | Dostępnego RAM-u: %1$s. Dotknij dwukrotnie, aby wyczyścić.</string>
     <string name="accessibility_recents_item_dismissed">Usunięto %1$s z Ostatnich aplikacji</string>
-    <string name="accessibility_sliding_button_state_description_off">wyłączone</string>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="activity_not_unlocked">Poczekaj, dopóki urządzenie nie jest w pełni uruchomione, przed otwarciem aplikacji</string>
     <string name="add_to_workspace">Dodaj na Ekran główny</string>
     <string name="alexa_notification_content">Dodać skrót Alexy do Centrum funkcji?</string>

@@ -28,6 +28,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="fullaod_apply_third_theme_toast">Ustawiono niestandardowy motyw Ekranu zawsze włączonego ze względu na motywy stron trzecich</string>
     <string name="fullaod_apply_third_wallpaper_toast">Ustawiono niestandardowy motyw Ekranu zawsze włączonego ze względu na tapety stron trzecich</string>
     <string name="fullaod_apply_video_depth_toast">Ustawiono niestandardowy motyw Ekranu zawsze włączonego</string>
+    <string name="gxzw_icon_access_tips">Ikona odcisku palca</string>
     <string name="gxzw_quick_open_add_note">Dodaj notatkę</string>
     <string name="gxzw_quick_open_add_note_sub">Notatki</string>
     <string name="gxzw_quick_open_dialer">Dialer</string>

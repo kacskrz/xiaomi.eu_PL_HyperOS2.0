@@ -113,6 +113,8 @@ Spróbuj ponownie."</string>
     <string name="menu_locus_map">Mapa podróży</string>
     <string name="menu_report">Opinia</string>
     <string name="menu_traffic_destination">Cel</string>
+    <string name="message_cannot_send_air_mode">Wyłącz Tryb samolotowy, aby wysyłać wiadomości</string>
+    <string name="message_cannot_send_sim_unavailable">Włóż kartę SIM, aby wysyłać wiadomości</string>
     <string name="message_saved_as_draft">Wiadomość została zapisana jako wersja robocza.</string>
     <string name="message_send_read_report">Wysłany zostanie raport o odczytaniu wiadomości.</string>
     <string name="mi_message_title">Wiadomości Mi</string>

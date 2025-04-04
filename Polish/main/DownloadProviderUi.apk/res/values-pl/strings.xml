@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_sliding_button_state_description_off">wyłączone</string>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="action_back">Wstecz</string>
+    <string name="action_description_retry_downloading">Ponowna próba udana</string>
+    <string name="action_description_retry_failed">Nie udało się pobrać</string>
+    <string name="action_description_retry_pending">Ponowna próba udana. Pobieranie…</string>
     <string name="ad_download">Instaluj</string>
     <string name="bt_download">Pobierz</string>
+    <string name="cancel_description">Anulowano</string>
     <string name="category">Kategoria</string>
     <string name="creat_task_success">Dodano do kolejki pobierania</string>
     <string name="create_task">Dodaj zadanie</string>
@@ -51,8 +55,13 @@
     <string name="loading">Chwileczkę…</string>
     <string name="menu_title_fileexplore">Pliki</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
+    <string name="miuix_item_view_accessibility_unselected">Nie wybrano</string>
     <string name="miuix_navigator_category_group_collapse">Zwiń</string>
+    <string name="miuix_navigator_category_group_collapsed">Zamknięto</string>
     <string name="miuix_navigator_category_group_expand">Rozwiń</string>
+    <string name="miuix_navigator_category_group_expanded">Rozwinięto</string>
+    <string name="miuix_navigator_toolbar_screen_bottom">Pasek narzędzi na dole ekranu</string>
+    <string name="miuix_progressbar_loading">Chwileczkę…</string>
     <string name="network_error">Nie można połączyć się z siecią</string>
     <string name="new_add">Nowe pobieranie</string>
     <string name="new_add_bt2">Dodaj zadanie torrenta</string>

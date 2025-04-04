@@ -507,6 +507,11 @@
         <item quantity="other">Nie ukryto ikon %d aplikacji</item>
         <item quantity="one">Nie ukryto ikony %d aplikacji</item>
     </plurals>
+    <plurals name="privacy_revoke_dialog_positive_text_numbers_description">
+        <item quantity="other">Możesz wycofać zgodę za %d sekund</item>
+        <item quantity="few">Możesz wycofać zgodę za %d sekundy</item>
+        <item quantity="one">Możesz wycofać zgodę za %d sekundę</item>
+    </plurals>
     <plurals name="privacy_risk_dangerous_permissions_tip">
         <item quantity="other">Przyznano %d ryzykownych uprawnień</item>
         <item quantity="one">Przyznano %d ryzykowne uprawnienie</item>

@@ -43,6 +43,7 @@
     <string name="lyra_auto_connect_summary">"Automatycznie włącz hotspot i łącz z nim urządzenia w pobliżu, które są zalogowane na Twoje konto Xiaomi, gdy nie mają one połączenia z siecią"</string>
     <string name="lyra_auto_connect_title">Automatycznie włącz hotspot</string>
     <string name="mi_home_device_find">Znaleziono \"%1$s\"</string>
+    <string name="mijia_glasses_download_title">Najpierw zainstaluj Mijia Glasses</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">K</string>

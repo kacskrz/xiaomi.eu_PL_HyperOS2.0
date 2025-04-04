@@ -100,6 +100,8 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
     <string name="bootloader_summary">Zainstaluj oprogramowanie przez USB</string>
     <string name="breathing_light_color_summary">Kolor diody, gdy otrzymano nowe powiadomienie</string>
     <string name="bt_always_show_icon">Zawsze wyświetlaj ikonę Bluetooth na pasku statusu</string>
+    <string name="bt_button_state_close">Wyłączono</string>
+    <string name="bt_button_state_open">Włączono</string>
     <string name="bt_ldac_declaration">Jeśli Bluetooth wspiera standard LDAC, to zostanie on domyślnie włączony. Przetwornik LDAC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
     <string name="bt_le_audio_broadcast_dialog_different_output">Zmień wyjście</string>
     <string name="bt_le_audio_broadcast_dialog_sub_title">Jeśli zaczniesz transmisję %1$s lub zmienisz wyjście, Twoja obecna transmisja się zatrzyma.</string>
@@ -312,6 +314,8 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="lock_screen_after_fold_screen_title">Złóż, aby zablokować</string>
     <string name="lock_screen_notifications_summary_hide">Pokazuj powiadomienia i ukryj treść</string>
     <string name="lock_screen_notifications_summary_show">Pokazuj powiadomienia i treść</string>
+    <string name="lock_screen_shortcuts_subtitle">Działa tylko przy korzystaniu z motywu \"Klasyczny\" lub \"Bez ograniczeń\"</string>
+    <string name="lock_screen_shortcuts_title">Dostosuj skróty</string>
     <string name="lock_screen_signature_summary">Ta informacja będzie wyświetlana na ekranie blokady</string>
     <string name="lock_screen_signature_title">Podpis</string>
     <string name="lock_sound_effect_enable_title">Odtwarzaj dźwięk podczas blokowania i odblokowywania urządzenia</string>

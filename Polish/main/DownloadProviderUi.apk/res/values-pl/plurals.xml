@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="action_description_all_paused">
+        <item quantity="other">Wstrzymano %s pobrań</item>
+        <item quantity="few">Wstrzymano %s pobrania</item>
+        <item quantity="one">Wstrzymano %s pobranie</item>
+    </plurals>
+    <plurals name="action_description_all_start">
+        <item quantity="other">Rozpoczęto %s pobrań</item>
+        <item quantity="few">Rozpoczęto %s pobrania</item>
+        <item quantity="one">Rozpoczęto %s pobranie</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+        <item quantity="one">Wybrano %1$d element</item>
+    </plurals>
+</resources>

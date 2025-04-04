@@ -10,6 +10,7 @@
     <string name="camera_associate_success">Połączono z aparatem</string>
     <string name="camera_connecting_device">Łączenie z %s</string>
     <string name="camera_disconnecting_device">Rozłączanie z %s</string>
+    <string name="camera_new_title">Aparat na różnych urządzeniach</string>
     <string name="camera_permission_dialog_message">Zezwól tej aplikacji na korzystanie z aparatu tego urządzenia. Możesz przyznać to uprawnienie w Ustawieniach.</string>
     <string name="camera_permission_dialog_negative">Anuluj</string>
     <string name="camera_permission_dialog_positive">Ustawienia</string>
@@ -19,9 +20,11 @@
     <string name="cancel">Anuluj</string>
     <string name="car_card_air_temperature_minus">Obniż temperaturę klimatyzacji</string>
     <string name="circulate_audio_group_title">Odtwarzanie…</string>
+    <string name="circulate_camera_glasses_back_to_box_desc_err_310">"%1$d. Naciśnij przycisk zasilania na pilocie telewizora, aby rozłączyć głośniki.
+%2$d. Spróbuj ponownie podłączyć okulary, gdy ekran się zaświeci."</string>
+    <string name="circulate_camera_glasses_back_to_box_title_err_310">Najpierw rozłącz głośniki telewizora</string>
     <string name="circulate_card_mirror_pad_subtitle">"Przeciągnij \"Ekran tabletu\" na telewizor,
 aby udostępnić ekran"</string>
-    <string name="circulate_card_sticker_control_contentDescription">Panel sterowania</string>
     <string name="circulate_card_tv_device_sync">Interakcja urządzeń Xiaomi</string>
     <string name="circulate_controlphone_button_hint">Pokaż ekran</string>
     <string name="circulate_controlphone_title">Zarządzaj urządzeniem</string>
@@ -114,6 +117,7 @@ Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą sie
     <string name="miplay_device_full_name">%2$s z %1$s</string>
     <string name="mirror_phone_content_remote">Możesz włączyć Ekran główny+ w Ustawieniach > Interakcja urządzeń Xiaomi.</string>
     <string name="mirror_remote_pad_content">Możesz włączyć Ekran główny+ w Ustawieniach > Interakcja urządzeń Xiaomi.</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="onehop_mirror_guide_message_text_1">Udostępnij ekran telefonu na komputerze jednym dotknięciem.</string>

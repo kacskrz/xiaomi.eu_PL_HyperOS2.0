@@ -269,6 +269,8 @@
     <string name="auto_task_switch">Przełącz</string>
     <string name="auto_task_temp_no_exit">Anuluj</string>
     <string name="auto_task_temp_no_need">Anuluj</string>
+    <string name="auto_task_typeface_font_size">rozmiar czcionki</string>
+    <string name="auto_task_typeface_font_weight">grubość czcionki</string>
     <string name="auto_task_voice_dialog_alarm_title">Alarmy</string>
     <string name="auto_task_voice_dialog_call_title">Połączenia, powiadomienia, przypomnienia</string>
     <string name="auto_task_voice_dialog_media_title">Muzyka, gry, multimedia</string>
@@ -504,6 +506,7 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="game_toolbox_fps_realtime">Obecnie %d kl./s</string>
     <string name="game_toolbox_fps_shake">Opóźnienie %d kl./s</string>
     <string name="game_toolbox_immersion_sound_desc">Dokładnie odtwarzaj efekty dźwiękowe, takie jak kroki i głosy, zwiększając immersję w grze, gdy używasz słuchawek</string>
+    <string name="game_toolbox_item_joystick_key_mapping">Przycisk kontrolera</string>
     <string name="game_toolbox_margin_restrain_description">Ustaw obszar niewrażliwy na dotyk, aby ograniczyć przypadkowe dotknięcia</string>
     <string name="game_toolbox_mem_clean_desc">Wyczyść RAM i zwiększ prędkość</string>
     <string name="game_toolbox_performance_config_custom_notice_new">Możesz dostosować Superrozdzielczość i Inteligentny klatkaż, aby zarządzać klatkażem i jakością obrazu. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
@@ -687,8 +690,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="mic">Mikrofon</string>
     <string name="mic_noise_reduction_mode_standard">Standardowy</string>
     <string name="mic_noise_reduction_mode_ultimate">Wybrany</string>
-    <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
-    <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
     <string name="miuix_appcompat_accessibility_new_message">Nowe powiadomienie</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_appcompat_show_dialog_description">Okno pop-up</string>
