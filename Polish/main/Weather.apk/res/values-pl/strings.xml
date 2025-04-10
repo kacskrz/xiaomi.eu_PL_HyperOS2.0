@@ -101,6 +101,7 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji %2$s."</st
     <string name="life_index_title">Indeks pogody</string>
     <string name="locate_fail_detail_err">"Nie można zlokalizować urządzenia. 
 Dotknij ekranu, aby dodać miasto ręcznie."</string>
+    <string name="logo_accu_content">Otwórz stronę AccuWeather</string>
     <string name="main_activity_hourly_forecast_card_more_title">Więcej</string>
     <string name="manager_city_option_add_city_back_search">Szukaj dalej</string>
     <string name="manager_city_option_add_city_content">Pomyślnie dodano miasto.</string>
