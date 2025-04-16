@@ -26,6 +26,9 @@
     <string name="apps_cannot_be_transfered_next_button">Dalej</string>
     <string name="apps_cannot_be_transfered_summary">"Te 64-bitowe aplikacje nie mogą zostać przeniesione na 32-bitowe urządzenie. Możesz je pobrać ze sklepu z aplikacjami po zakończeniu przenoszenia."</string>
     <string name="apps_cannot_be_transfered_title">"Nie można przenieść tych aplikacji"</string>
+    <string name="ble_manual_authorization_content">Aby przenieść elementy w Przenoszeniu danych, przyznaj wymagane uprawnienia. Możesz to zrobić w Ustawieniach.</string>
+    <string name="ble_manual_authorization_positive_btn">Ustawienia</string>
+    <string name="ble_manual_authorization_title">Wymagane uprawnienia</string>
     <string name="cancel_btn">Anuluj</string>
     <string name="cancel_description">Anuluj</string>
     <string name="cannot_use_mi_huanji_bacause_of_downloader">Aplikacja \"%s\" już dostarcza usługi systemowej kopii zapasowej. Odinstaluj ją i uruchom ponownie urządzenie, aby móc używać Przenoszenia danych.</string>

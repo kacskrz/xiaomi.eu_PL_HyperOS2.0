@@ -15,6 +15,7 @@
     <string name="announce_for_unchecked_after">odznaczone, %1$s</string>
     <string name="announce_for_drag_enter_workspace_thumbnail">Przeniesiono elementy na pulpit: %1$d</string>
     <string name="announce_for_drop">Przesunięto: %1$s</string>
+    <string name="announce_for_open_folder">Otwarto folder %1$s</string>
     <string name="application_name">Systemowy launcher</string>
     <string name="auto_delete_category_dialog_content">Obecnie znajdujące się w tej kategorii aplikacje zostaną z niej usunięte. Usunąć ją teraz?</string>
     <string name="auto_disable_screenbuttons_summary">Automatycznie wyłączaj przyciski nawigacyjne, gdy Pasek statusu nie jest wyświetlany. Dotknij dwukrotnie dowolnego przycisku nawigacji, aby włączyć je ponownie.</string>

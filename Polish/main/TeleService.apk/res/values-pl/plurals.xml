@@ -9,6 +9,11 @@
         <item quantity="few">Zostaną usunięte %d numery.</item>
         <item quantity="one">Zostanie usunięty %d numer.</item>
     </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+        <item quantity="one">Wybrano %1$d element</item>
+    </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
 Pozostało prób: %d."</item>

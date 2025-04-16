@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+        <item quantity="one">Wybrano %1$d element</item>
+    </plurals>
     <plurals name="musical_rhythm_app_summary">
         <item quantity="other">%2$d aplikacji, w tym %1$s</item>
         <item quantity="few">%2$d aplikacje, w tym %1$s</item>

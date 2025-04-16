@@ -35,6 +35,7 @@
     <string name="flashlight_not_available">Nie można używać latarki podczas korzystania z aparatu</string>
     <string name="miui_dnd_count_down_time">"Licznik Nie przeszkadzać
 %s"</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">Kw</string>

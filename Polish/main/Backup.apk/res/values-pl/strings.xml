@@ -116,23 +116,23 @@
     <string name="new_confirm_enable_encrypt_title">Zaszyfruj</string>
     <string name="new_local_detail_description">"Uwaga:
 %1$d. Skopiuj kopie zapasowe na komputer, aby zapobiec utracie danych. %2$s.
-%3$d. Kopie zapasowe zostaną zapisane w katalogu MIUI > Backup > AllBackup."</string>
+%3$d. Kopie zapasowe zostaną zapisane w katalogu MIUI > backup > AllBackup."</string>
     <string name="new_local_detail_description_global">"Uwagi:
 %1$d. Skopiuj wykonane kopie zapasowe na swój komputer, aby uniknąć utraty danych. %2$s.
-%3$d. Kopie zapasowe są zapisywane w katalogu MIUI > Backup > AllBackup.
+%3$d. Kopie zapasowe są zapisywane w katalogu MIUI > backup > AllBackup.
 %4$d. Wykonanie kopii zapasowej lub jej przywrócenie w przypadku niektórych aplikacji może być niemożliwe."</string>
     <string name="new_local_tab_backup">Skopiuj</string>
     <string name="new_local_tab_backup_pad">Skopiuj</string>
     <string name="new_pc_backup_content2">%d. Poczekaj, aż wszystko zostanie skopiowane.</string>
-    <string name="new_pc_backup_content3">%d. Otwórz katalog MIUI-Backup-AllBackup i zlokalizuj folder lub plik *.zip z kopią poprzez datę znajdującą się w nazwie.</string>
+    <string name="new_pc_backup_content3">%d. Otwórz katalog MIUI-backup-AllBackup i zlokalizuj folder lub plik *.zip z kopią poprzez datę znajdującą się w nazwie.</string>
     <string name="new_pc_backup_summary1">Wybierz elementy i kliknij \"Kopia zapasowa\".</string>
     <string name="new_pc_backup_summary2">Podłącz telefon do komputera, używając kabla USB.</string>
     <string name="new_pc_backup_summary2_pad">Podłącz urządzenie do komputera za pomocą kabla USB.</string>
     <string name="new_pc_backup_summary4">Wskazówka: Możesz również skopiować zdjęcia i filmy z katalogu DCIM.</string>
     <string name="new_pc_restore_content1">%d. Podłącz telefon do komputera, używając kabla USB.</string>
     <string name="new_pc_restore_content1_pad">%d. Podłącz urządzenie do komputera za pomocą kabla USB.</string>
-    <string name="new_pc_restore_content2">%d. Skopiuj kopię zapasową z komputera do katalogu MIUI-Backup-AllBackup.</string>
-    <string name="new_pc_restore_content2_pad">%d. Skopiuj swoją kopię z komputera do katalogu MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content2">%d. Skopiuj kopię zapasową z komputera do katalogu MIUI-backup-AllBackup.</string>
+    <string name="new_pc_restore_content2_pad">%d. Skopiuj swoją kopię z komputera do katalogu MIUI-backup-AllBackup.</string>
     <string name="new_select_system">Inne dane aplikacji systemowych</string>
     <string name="new_tab_pc_backup">Skopiuj</string>
     <string name="new_usb_tab_backup">Skopiuj</string>

@@ -5,6 +5,10 @@
     <string name="access_control_need_password">"Aplikacja %s jest chroniona
 "</string>
     <string name="accessibility_global_gesture_preference_title">Skrót klawisza głośności</string>
+    <string name="accessibility_sliding_button_state_description_off">Wyłączono</string>
+    <string name="accessibility_sliding_button_state_description_on">Włączono</string>
+    <string name="accessibility_tab_state_description_unselect">Nie wybrano</string>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="accessibility_wifi_security_type_none">Otwarta sieć</string>
     <string name="accessibility_wifi_security_type_secured">Zabezpieczona sieć</string>
     <string name="account_settings_menu_auto_sync_personal">Autom. synchronizacja: osobiste</string>
@@ -369,6 +373,17 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="miui_tof_screen_on_close_tip_dialog_msg">Funkcja \"%1$s\" jest włączona. Aby uniknąć natychmiastowego wyświetlania pulpitu lub zawartości aplikacji, gdy rozpozna ona Twoją twarz, zalecamy pozostawienie włączonej również funkcji \"%2$s\".</string>
     <string name="miui_tof_screen_on_msg">Gdy urządzenie wykryje osobę w pobliżu, ekran się włączy, nastąpi próba rozpoznania twarzy, a następnie odblokowanie ekranu (jeśli twarz zostanie rozpoznana)</string>
     <string name="miui_tof_screen_on_open_dialog_msg">Włącz funkcję \"%s\", aby uniknąć natychmiastowego wyświetlania pulpitu lub zawartości aplikacji, gdy rozpozna ona Twoją twarz.</string>
+    <string name="miuix_accessibility_title">Tytuł</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
+    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Wyjdź z trybu edycji</string>
+    <string name="miuix_appcompat_accessibility_new_message">Nowe powiadomienie</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
+    <string name="miuix_appcompat_show_dialog_description">Wyskakujące okno</string>
+    <string name="miuix_progressbar_loading">Chwileczkę…</string>
+    <string name="miuix_show_password">Pokaż hasło</string>
+    <string name="miuix_stretchablewidget_collapsed">Zwinięto</string>
+    <string name="miuix_stretchablewidget_expanded">Rozwinięto</string>
     <string name="modern_control_center_desc">Przeciągnij pasek stanu po lewej stronie, aby wyświetlić powiadomienia, bądź po prawej stronie w celu wyświetlenia Centrum funkcji</string>
     <string name="monday_shortest">P</string>
     <string name="month_april_short">kwi</string>

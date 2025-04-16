@@ -29,6 +29,7 @@
     <string name="gb_pannel_control_mode_picture">Priorytet jakości obrazu</string>
     <string name="gdpr_msg">&lt;Data>Aby móc korzystać z podstawowych funkcji Panelu sterowania, należy wyrazić zgodę na gromadzenie, przetwarzanie i wykorzystywanie przez Xiaomi danych osobowych użytkownika, w tym informacji o sposobach korzystania z funkcji Panelu sterowania (np. statystyki korzystania z danych mobilnych, informacje o złośliwym oprogramowaniu, jak również podstawowe informacje na temat urządzenia) oraz innych informacji określonych w &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Polityce prywatności&lt;/a>.&lt;/Data></string>
     <string name="install_success">Pomyślnie zainstalowano %s</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="pc_extreme_mode_find_charger">Naładuj urządzenie jak najszybciej.</string>
     <string name="pc_extreme_mode_runtime">Tryb hibernacji jest włączony od %1$s %2$s.</string>
     <string name="pc_going_to_exit_extreme_mode">Wyjście z Trybu hibernacji</string>

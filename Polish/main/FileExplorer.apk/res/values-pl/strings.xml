@@ -30,7 +30,7 @@
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
-    <string name="need_open_content">Aby użyć tej funkcji, zezwól aplikacji Pliki na dostęp do swoich zdjęć i plików.</string>
+    <string name="need_open_content">Aplikacja Pliki wymaga pozwolenia na dostęp do Twoich zdjęć i plików, aby je wyświetlać i edytować. Możesz je przyznać w Ustawieniach.</string>
     <string name="need_read_storage_permission">"Aby działać normalnie, aplikacja Pliki wymaga uprawnienia dostępu do pamięci urządzenia."</string>
     <string name="notification_title_syncing_with_count">Synchronizowanie elementów. Pozostało %1$s plików.</string>
     <string name="open_or_close_wlan">Wyłączanie i włączanie Wi-Fi</string>

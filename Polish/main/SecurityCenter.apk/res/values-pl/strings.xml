@@ -814,6 +814,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_health_charge_protect_noti_summary_title">Urządzenie przestanie się ładować, gdy osiągnie %1$s baterii</string>
     <string name="pc_hidemode_normal">Zbalansowany</string>
     <string name="pc_hidemode_normal_title">Tryb zbalansowany</string>
+    <string name="pc_hidemode_performance_chip_title">Wydajność (overclocking)</string>
     <string name="pc_hidemode_power_save">Bateria</string>
     <string name="pc_high_temp_discharge_reminder">Naładuj urządzenie. Gdy poziom baterii jest niski, a urządzenie się przegrzeje, bateria może ulec uszkodzeniu.</string>
     <string name="pc_hight_refresh_rate_reminder_summary">Korzystasz z wyższego odświeżania. Może to zwiększyć zużycie energii i temperaturę urządzenia.</string>
@@ -838,6 +839,7 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s godz. %2$s min</string>
     <string name="pc_power_mode_has_berserk">Włączono Tryb wydajności</string>
     <string name="pc_power_mode_has_performance">Włączono Tryb wydajności</string>
+    <string name="pc_power_mode_has_performance_chip">Ulepszona wydajność (overclocking)</string>
     <string name="pc_reminder_always_protect_summary">Włącz ograniczone ładowanie, aby zredukować starzenie się baterii</string>
     <string name="pc_satellite_auto_enter_super_power">Włączono Ultraoszczędzanie baterii, aby zapewnić działanie komunikacji satelitarnej</string>
     <string name="pc_save_power">Oszczędzanie baterii</string>
@@ -1694,5 +1696,7 @@ Funkcja nie będzie działać, gdy włączone jest Oszczędzanie baterii lub Ult
     <string name="wifi_exception_title">Sprawdź Wi-Fi</string>
     <string name="wifi_network_blocked_notification_title">Brak połączenia z siecią</string>
     <string name="wifi_optizition_tip">Włącz przyspieszenia prędkości Wi-Fi, aby zwiększyć stabilność połączenia Wi-Fi. Zostanie wykorzystana niewielka ilość danych mobilnych.</string>
+    <string name="wireless_charging_no_reverser_charge_message">Nie można używać ładowania zwrotnego, gdy podłączona jest ładowarka.</string>
+    <string name="wireless_charging_no_reverser_charge_title">Odłącz ładowarkę</string>
     <string name="xiaomi_privacy_protection_measures">Środki ochrony prywatności</string>
 </resources>

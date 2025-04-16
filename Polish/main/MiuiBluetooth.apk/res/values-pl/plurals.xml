@@ -5,6 +5,11 @@
         <item quantity="few">Naciśnij i przytrzymaj przycisk przez %1$s sekundy, gdy urządzenie jest wyłączone</item>
         <item quantity="one">Naciśnij i przytrzymaj przycisk przez %1$s sekundę, gdy urządzenie jest wyłączone</item>
     </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+        <item quantity="one">Wybrano %1$d element</item>
+    </plurals>
     <plurals name="offline_call_map_distance_meters">
         <item quantity="other">Odległość: %d metrów</item>
         <item quantity="few">Odległość: %d metry</item>
