@@ -13,9 +13,6 @@
     <string name="access_control_need_password">"Pomyślnie dodano blokadę: %s
   "</string>
     <string name="accessibility_gameboosterservice_description">"Wycisza połączenia przychodzące z WeChata podczas gry"</string>
-    <string name="accessibility_sliding_button_state_description_off">Wyłączono</string>
-    <string name="accessibility_sliding_button_state_description_on">Włączono</string>
-    <string name="accessibility_tab_state_description_unselect">Nie wybrano</string>
     <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="action_source_sms_title">Blokowane SMS-y</string>
     <string name="activity_edit_task_name">Edytuj zadanie</string>
@@ -316,7 +313,6 @@
     <string name="comprehensive_protection_measures">Wszechstronna ochrona</string>
     <string name="config_restrict_running_warning">Jeśli przejdziesz dalej, cała aktywność aplikacji w tle zostanie zatrzymana, co może mieć wpływ na jej funkcje. Kontynuować mimo to?</string>
     <string name="confirm_ai_allow_all_permission">Zmienić stan uprawnienia na \"Zdecyduj za mnie\" dla wszystkich aplikacji?</string>
-    <string name="confirm_allow_all_permission">Zezwolić wszystkim aplikacjom na korzystanie z tego uprawnienia?</string>
     <string name="confirm_open_shut_down_password_content">Ustaw blokadę ekranu przed włączeniem funkcji potwierdzenia wyłączenia urządzenia.</string>
     <string name="confirm_open_shut_down_password_title">Ustaw blokadę ekranu</string>
     <string name="connect_internet_by_mobiledata">Internet przez sieć mobilną</string>
@@ -531,7 +527,6 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="gamebox_macro">Kombosy</string>
     <string name="gamebox_net_optimize_description">Zmniejsz opóźnienia sieci Wi-Fi oraz ich zmienność. Aby cieszyć się specjalnymi trybami zwiększania prędkości, użyj routera Xiaomi lub Redmi.</string>
     <string name="gamebox_recent_task_expand_fail">Aplikacje, które działają ze skrótami, nie są zainstalowane</string>
-    <string name="gamebox_time_ready_to_start_talkback">Nie rozpoczęto</string>
     <string name="gb_adv_touch_custom2">Czułość dotyku</string>
     <string name="gb_advance_settings_edge_gear1">Żaden</string>
     <string name="gb_advance_settings_edge_gear2">Mały</string>
@@ -547,16 +542,6 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="gb_all_hight_display_sub_title">120 Hz w każdym przypadku</string>
     <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Nie można przełączyć się na Tryb zbalansowany w Game Turbo, gdy włączony jest systemowy Tryb Ultra. Możesz zmienić ustawienia baterii w Panelu sterowania. &lt;br>&lt;a href=\"#\">Otwórz Panel sterowania&lt;/a>"</Data></string>
     <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Nie można przełączyć się na Tryb zbalansowany w Game Turbo, gdy włączony jest systemowy Tryb Ultra. Możesz zmienić ustawienia baterii w Panelu sterowania. &lt;br>&lt;a href=\"#\">Otwórz Panel sterowania&lt;/a>"</Data></string>
-    <string name="gb_barrage_chat_text_color_black_talkback">Czarny</string>
-    <string name="gb_barrage_chat_text_color_blue_talkback">Niebieski</string>
-    <string name="gb_barrage_chat_text_color_red_talkback">Czerwony</string>
-    <string name="gb_barrage_chat_text_color_white_talkback">Biały</string>
-    <string name="gb_barrage_chat_text_color_yellow_talkback">Żółty</string>
-    <string name="gb_barrage_chat_text_size_largest_talkback">Największy</string>
-    <string name="gb_barrage_chat_text_size_medium_talkback">Średni</string>
-    <string name="gb_barrage_chat_text_size_slightly_large_talkback">Większy</string>
-    <string name="gb_barrage_chat_text_size_slightly_small_talkback">Mniejszy</string>
-    <string name="gb_barrage_chat_text_size_smallest_talkback">Najmniejszy</string>
     <string name="gb_beauty_cold_light">Zimne</string>
     <string name="gb_beauty_nature_light">Naturalne</string>
     <string name="gb_dialog_record_way_setting_tip_one">Zwiększone użycie energii i lagowanie</string>
@@ -587,7 +572,6 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gb_voice_changer_permission_dlg_msg">Funkcja \"Modulator głosu\" wymaga uprawnień do nagrywania dźwięku, aby poprawnie działać.</string>
     <string name="gb_voice_changer_setting_rights">Warunki usługi i Polityka prywatności</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Twoje subskrypcje wygasły. Odnów je teraz, aby uzyskać benefity!</string>
-    <string name="gb_voice_changer_user_vip_loading">Chwileczkę…</string>
     <string name="gd_app_edit_title_new">Dodaj aplikacje</string>
     <string name="gd_beauty_manage_summary">Aby użyć tej funkcji, otwórz ją z panelu bocznego podczas rozmowy wideo</string>
     <string name="gd_beauty_manage_title">Upiększanie w rozmowach wideo</string>
@@ -617,7 +601,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="global_wa_setting_alert_dialog_title">Czyszczenie WhatsAppa</string>
     <string name="gmscore_support_remind">Włącz tę funkcję, jeśli doświadczasz problemów z Gmail, Mapami Google i innymi aplikacjami Google. Zmniejszy to trochę czas pracy telefonu na baterii.</string>
     <string name="group_connect_device">Interakcja urządzeń Xiaomi</string>
-    <string name="gtb_dialog_privacy_voice_message">"Niedługo skorzystasz z funkcji Xunyou Game Voice Changer. Usługa będzie gromadzić ID Twojego konta Xiaomi, aby rejestrować czas trwania Twojego członkostwa."</string>
     <string name="gtb_exit_game_to_gtb">Otwórz przybornik</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed_new">Zwiększ prędkość połączenia o %1$s-%2$s, gdy jesteś połączony z routerami Mi/Redmi</string>
     <string name="guide_second_text">Po ustawieniu operatora, system będzie monitorować użycie danych mobilnych poprzez wysyłanie darmowego SMS-a operatora. Jeśli wykryje on, że przekroczono limit danych, wyłączy dane mobilne i powiadomi Cię o tym.</string>
@@ -690,12 +673,8 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="mic">Mikrofon</string>
     <string name="mic_noise_reduction_mode_standard">Standardowy</string>
     <string name="mic_noise_reduction_mode_ultimate">Wybrany</string>
-    <string name="miuix_appcompat_accessibility_new_message">Nowe powiadomienie</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
-    <string name="miuix_appcompat_show_dialog_description">Okno pop-up</string>
     <string name="miuix_progressbar_loading">Chwileczkę…</string>
-    <string name="miuix_stretchablewidget_collapsed">Zwinięte</string>
-    <string name="miuix_stretchablewidget_expanded">Rozwinięte</string>
     <string name="monday_shortest">P</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
@@ -789,7 +768,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_always_charge_protect_summary">Aby zachować żywotność baterii, zezwól na ładowanie tylko do %1$s</string>
     <string name="pc_battery_history_accessibility_item_chart_binary">Czas od ostatniego ładowania: %1$s %2$s</string>
     <string name="pc_battery_history_accessibility_item_chart_single">Czas od ostatniego ładowania: %1$s</string>
-    <string name="pc_battery_history_accessibility_item_consueme_list">%1$s, zużycie baterii: %2$s</string>
     <string name="pc_battery_history_battery_software_menu_item">System</string>
     <string name="pc_battery_history_rank_mha_menu_item">W mAh</string>
     <string name="pc_battery_history_total_consumption_title">Łączne użycie energii</string>
@@ -871,46 +849,25 @@ Ultraoszczędzania baterii"</string>
     <string name="permission_close_permission_control_dialog_msg">Kiedy \"Zarządzanie uprawnieniami\" jest wyłączone, aplikacje nie będą prosić o pozwolenie na czytanie kontaktów, wyświetlanie historii połączeń, zmianę ustawień systemowych, dostęp do aparatu czy innych zasobów systemowych.</string>
     <string name="permission_exception_title">Ograniczenia łączności dla aplikacji</string>
     <string name="permission_instruction_access_notification">To uprawnienie zezwala aplikacjom na odczyt, wyszukanie i wyczyszczenie wszystkich powiadomień. Pamiętaj, że te uprawnienia mogą zawierać prywatne dane (takie jak hasła czy numery kart z banku).</string>
-    <string name="permission_instruction_activity_recognition">To uprawnienie zezwala aplikacjom na dostęp do informacji gromadzonych przez wbudowane sensory wykrywające Twoją aktywność fizyczną (np. kroki czy ćwiczenia).</string>
-    <string name="permission_instruction_add_voicemail">To uprawnienie zezwala aplikacjom na dodanie poczty głosowej do systemu.</string>
-    <string name="permission_instruction_answer_phone_call">To uprawnienie zezwala aplikacjom na odbieranie bądź kończenie połączeń bez Twojej wiedzy i zgody.</string>
     <string name="permission_instruction_auto_start">To uprawnienie zezwala aplikacjom na autostart bez Twojego potwierdzenia. Nadanie tego uprawnienia wielu aplikacjom może spowolnić pracę urządzenia. Szkodliwe aplikacje korzystają z tego uprawnienia w celu gromadzenia Twoich danych bez Twojej wiedzy.</string>
     <string name="permission_instruction_background_start">To uprawnienie zezwala aplikacjom na wyświetlanie okien pop-up bez Twojego potwierdzenia. Mogą one zasłaniać cały ekran i wpłynąć w ten sposób na normalne korzystanie z urządzenia.</string>
-    <string name="permission_instruction_bluetooth_admin">To uprawnienie zezwala aplikacjom na włączenie bądź wyłączenie Bluetooth bez Twojego potwierdzenia.</string>
-    <string name="permission_instruction_call_phone">"To uprawnienie zezwala aplikacjom na wykonywanie połączeń bez Twojego potwierdzenia, co może generować dodatkowe opłaty u operatora. Uprawnienie nie pozwala aplikacjom na dzwonienie na telefony alarmowe. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu wykonania płatnych połączeń bez Twojej zgody."</string>
-    <string name="permission_instruction_camera">To uprawnienie zezwala aplikacjom na skorzystanie z aparatu w celu wykonania zdjęć bądź nagrania filmu.</string>
-    <string name="permission_instruction_change_wifi_state">To uprawnienie zezwala aplikacjom na włączenie lub wyłączenie Wi-Fi bez Twojego potwierdzenia.</string>
     <string name="permission_instruction_device_admin">To uprawnienie zezwala aplikacjom na kontrolowanie Twojego urządzenia, przez co rozumie się takie operacje, jak np. czyszczenie danych, odblokowywanie urządzenia czy zmiana haseł. Jest to uprawnienie wysokiego ryzyka - nadawaj je ze szczególną rozwagą.</string>
-    <string name="permission_instruction_dont_disturb">To uprawnienie zezwala aplikacjom na włączenie lub wyłączenie trybu Nie przeszkadzać.</string>
-    <string name="permission_instruction_draw_overlay">To uprawnienie zezwala aplikacjom na wyświetlanie pływających okienek nad jakimkolwiek innym interfejsem na urządzeniu, co może wpłynąć na normalne użytkowanie innych aplikacji. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu odczytu lub gromadzenia prywatnych danych (np. haseł) przez przezroczyste pływające okna.</string>
     <string name="permission_instruction_external_storage">To uprawnienie zezwala aplikacjom na dostęp do zdjęć, multimediów i plików na Twoim urządzeniu. Aby uniknąć wycieku Twoich osobistych danych, nadawaj to uprawnienie ze szczególną rozwagą.</string>
     <string name="permission_instruction_get_accounts">To uprawnienie zezwala aplikacjom na dostęp do listy kont znajdujących się na urządeniu. Może ona zawierać wszystkie konta utworzone przez zainstalowane na urządzeniu aplikacje, jak również konta z serwisów społecznościowych oraz komunikatorów.</string>
-    <string name="permission_instruction_install_shortcuts">To uprawnienie zezwala aplikacjom na tworzenie skrótów na pulpicie.</string>
     <string name="permission_instruction_install_unknown_source">To uprawnienie zezwala aplikacjom na instalację innych aplikacji na urządzeniu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu instalacji aplikacji bez Twojego potwierdzenia.</string>
-    <string name="permission_instruction_modify_audio_settings">To uprawnienie zezwala aplikacjom na zmianę ustawień dźwięku (np. zmianę głośności bez Twojego potwierdzenia). W niektórych aplikacjach możesz nie być w stanie zmienić głośności, dopóki nie nadasz im tego uprawnienia.</string>
-    <string name="permission_instruction_nfc">To uprawnienie zezwala aplikacjom na komunikację z kartami i urządzeniami z technologią NFC.</string>
-    <string name="permission_instruction_notification_adjustment">To uprawnienie zezwala aplikacjom na dostarczanie bardziej spersonalizowanych i różnorodnych adaptacyjnych powiadomień.</string>
-    <string name="permission_instruction_ongoing_notification">To uprawnienie zezwala aplikacjom na tworzenie permanentnych skrótów w Panelu powiadomień, co może spowodować, że nie będziesz widzieć normalnych powiadomień.</string>
     <string name="permission_instruction_package_usage_stat">To uprawnienie zezwala aplikacjom na śledzenie zachowania innych aplikacji na urządzeniu i uzyskiwanie informacji takich jak nazwa Twojego operatora i ustawienia języka. Jest to uprawnienie wysokiego ryzyka - nadawaj je ze szczególną rozwagą, albowiem Twoje urządzenie oraz bezpieczeństwo Twoich danych mogą być w ten sposób zagrożone.</string>
     <string name="permission_instruction_picture_in_picture">To uprawnienie zezwala aplikacjom na wyświetlanie elementów na Twoim pulpicie lub nad innymi aplikacjami w ramach funkcji Obraz w obrazie.</string>
-    <string name="permission_instruction_popup_window">To uprawnienie zezwala aplikacjom na wyświetlanie pływających okienek nad jakimkolwiek innym interfejsem na urządzeniu, co może wpłynąć na normalne użytkowanie innych aplikacji. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu odczytu lub gromadzenia prywatnych danych (np. haseł) przez przezroczyste pływające okna.</string>
-    <string name="permission_instruction_read_appplication_list">To uprawnienie zezwala aplikacjom na dostęp do informacji o wszystkich aplikacjach zainstalowanych na urządzeniu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu analizy Twoich preferencji.</string>
     <string name="permission_instruction_read_clipboard">To uprawnienie zezwala aplikacjom na odczyt całej kopiowanej przez Ciebie zawartości - może ona obejmować prywatne dane (np. szczegóły dot. konta, numery kart, hasła).</string>
-    <string name="permission_instruction_read_notify_sms">To uprawnienie zezwala aplikacjom na odczyt powiadomienia o SMS-ie znajdującego się na urządzeniu bądź karcie SIM.</string>
     <string name="permission_instruction_receive_mms">To uprawnienie zezwala aplikacjom na odczyt wszystkich MMS-ów znajdujących się na urządzeniu bądź karcie SIM. Mogą one zawierać m.in. hasła, kody jednorazowe, dane dot. konta w banku czy inne osobiste dane.</string>
     <string name="permission_instruction_receive_sms">Otrzymywanie SMS-ów i MMS-ów</string>
-    <string name="permission_instruction_record_audio">"To uprawnienie zezwala aplikacjom na korzystanie z mikrofonu w celu nagrania dźwięku. Pamiętaj jednak, że to uprawnienie zezwala aplikacjom na nagranie wszystkiego, co dzieje się w Twoim otoczeniu, włącznie z Twoimi rozmowami z innymi osobami. Najlepszą opcją jest zezwolenie aplikacjom na korzystanie z tego uprawnienia wyłącznie wtedy, gdy ich rzeczywiście używasz."</string>
-    <string name="permission_instruction_running_background">To uprawnienie zezwala aplikacjom na działanie w tle. Aplikacje mogą wtedy gromadzić dane i dostarczać swoje usługi. Zwiększa to użycie energii.</string>
     <string name="permission_instruction_running_exceed_data">To uprawnienie zezwala aplikacjom na zignorowanie limitów dot. użycia danych mobilnych.</string>
     <string name="permission_instruction_send_mms">To uprawnienie zezwala aplikacjom na wysyłanie MMS-ów, co może generować dodatkowe opłaty od operatora. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu wysłania płatnych wiadomości bez Twojej zgody.</string>
     <string name="permission_instruction_send_payment_sms">To uprawnienie zezwala aplikacjom na wysyłanie płatnych SMS-ów.</string>
     <string name="permission_instruction_send_sms">To uprawnienie zezwala aplikacjom na wysyłanie SMS-ów, co może generować dodatkowe opłaty od operatora. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu wysłania płatnych wiadomości bez Twojej zgody.</string>
     <string name="permission_instruction_touch_pay">To uprawnienie zezwala aplikacjom na wykonywanie płatności bezdotykowych.</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Przenoszenie danych na inne urządzenia</string>
-    <string name="permission_instruction_use_sip">To uprawnienie zezwala aplikacjom na korzystanie z usług wideo w technologii SIP.</string>
     <string name="permission_instruction_vr_assistant">To uprawnienie zezwala aplikacjom na korzystanie z usług asystentów VR.</string>
     <string name="permission_instruction_write_calllog">To uprawnienie zezwala aplikacjom na dodawanie lub usuwanie wpisów historii połączeń.</string>
-    <string name="permission_instruction_write_clipboard">To uprawnienie zezwala aplikacjom na zapisywanie elementów w schowku.</string>
     <string name="permission_instruction_write_settings">To uprawnienie zezwala aplikacjom na modyfikowanie ustawień systemu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu zmiany ustawień Twojego urządzenia i wpływania na jego poprawną pracę.</string>
     <string name="permission_usage_allow_activity_recognization_once">%1$s | Aplikacja uzyskiwała dane o Twoich ćwiczeniach</string>
     <string name="permission_usage_allow_autostart_once">%1$s | Aplikacja używała autostartu</string>

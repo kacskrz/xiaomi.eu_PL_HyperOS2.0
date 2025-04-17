@@ -42,16 +42,6 @@
         <item quantity="other">Twoje członkostwo Game Turbo wygaśnie za %d dni.</item>
         <item quantity="one">Twoje członkostwo Game Turbo wygaśnie za %d dzień.</item>
     </plurals>
-    <plurals name="gamebox_time_elapsed_time_minute_talkback">
-        <item quantity="other">%1$d minut</item>
-        <item quantity="few">%1$d minuty</item>
-        <item quantity="one">%1$d minuta</item>
-    </plurals>
-    <plurals name="gamebox_time_elapsed_time_second_talkback">
-        <item quantity="other">%1$d sekund</item>
-        <item quantity="few">%1$d sekundy</item>
-        <item quantity="one">%1$d sekunda</item>
-    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d s</item>
         <item quantity="one">%d s</item>
@@ -147,16 +137,6 @@
         <item quantity="other">%2$d aplikacji (w tym %1$s) może być złośliwych</item>
         <item quantity="few">%2$d aplikacje (w tym %1$s) mogą być złośliwe</item>
         <item quantity="one">%2$d aplikacja (%1$s) może być złośliwa</item>
-    </plurals>
-    <plurals name="pc_battery_history_accessibility_hour">
-        <item quantity="other">%d godzin</item>
-        <item quantity="few">%d godziny</item>
-        <item quantity="one">%d godzina</item>
-    </plurals>
-    <plurals name="pc_battery_history_accessibility_minute">
-        <item quantity="other">%d minut</item>
-        <item quantity="few">%d minuty</item>
-        <item quantity="one">%d minuta</item>
     </plurals>
     <plurals name="pc_extreme_mode_count_down_title_new">
         <item quantity="other">Słaba bateria. Urządzenie przejdzie w Tryb hibernacji za %1$d sekund. Wydajność i siła sygnału mogą być nieco słabsze.</item>
@@ -506,11 +486,6 @@
     <plurals name="privacy_apps_enable_header_title">
         <item quantity="other">Nie ukryto ikon %d aplikacji</item>
         <item quantity="one">Nie ukryto ikony %d aplikacji</item>
-    </plurals>
-    <plurals name="privacy_revoke_dialog_positive_text_numbers_description">
-        <item quantity="other">Możesz wycofać zgodę za %d sekund</item>
-        <item quantity="few">Możesz wycofać zgodę za %d sekundy</item>
-        <item quantity="one">Możesz wycofać zgodę za %d sekundę</item>
     </plurals>
     <plurals name="privacy_risk_dangerous_permissions_tip">
         <item quantity="other">Przyznano %d ryzykownych uprawnień</item>
