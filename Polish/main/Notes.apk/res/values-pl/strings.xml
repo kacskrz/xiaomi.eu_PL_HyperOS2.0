@@ -21,10 +21,12 @@
     <string name="doodle_color_pick_unknown_talkback">Nieznany kolor</string>
     <string name="doodle_color_pick_yellow_green_talkback">Żółto-zielony</string>
     <string name="doodle_color_pick_yellow_talkback">Żółty</string>
+    <string name="doodle_color_picker_bar">Pasek wyboru koloru. Dotknij dwa razy i przytrzymaj, a następnie przesuń, aby wybrać kolory.</string>
     <string name="exceed_todo_text_limitation">Opis zadania jest za długi.</string>
     <string name="excerpted_to_note">Zapisano fragment w Notatkach</string>
     <string name="foregound_content">Widżet tekstu Mi SI pracuje…</string>
     <string name="foregound_tile">Tekst SI</string>
+    <string name="llm_register_preference_title">Numer rejestracyjny usługi modelu</string>
     <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
     <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
@@ -77,6 +79,7 @@
     <string name="permission_intro_contact">Do oznaczania notatek wykonanych podczas połączeń</string>
     <string name="permission_intro_microphone">Do zapisywania notatek głosowych</string>
     <string name="permission_read_contact_desc">Do powiązywania notatek tworzonych w trakcie rozmów z kontaktami</string>
+    <string name="privacy_preference_title">Numer rejestracyjny ICP</string>
     <string name="refuse_to_share_as_pic_because_of_content">Ta notatka jest zbyt duża, aby ją udostępnić.</string>
     <string name="setting_privacy">Polityka prywatności</string>
     <string name="sync_desc_state_complete_china">Wszystkie %1$s zostały zsynchronizowane</string>

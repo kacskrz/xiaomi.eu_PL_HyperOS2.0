@@ -258,7 +258,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="gesture_wakeup_summary">Funkcja działa tylko, gdy ustawione są wbudowane motywy</string>
     <string name="google_assistant_guide_tip">*Aby otworzyć menu wyłączania urządzenia, przytrzymaj przycisk Zasilania przez %s sekund.</string>
     <string name="gxzw_add_fingerprint_message">Upewnij się, że palce i powierzchnia ekranu są czyste</string>
-    <string name="gxzw_anim_category_mini">Zwykłe</string>
+    <string name="gxzw_anim_category_mini">Minimalizm</string>
     <string name="gxzw_anim_download_fail">Nie udało się pobrać</string>
     <string name="gxzw_anim_download_network_error">Wystąpił problem z siecią</string>
     <string name="gxzw_anim_switch">Włącz animację odcisku palca</string>
@@ -499,6 +499,8 @@ Przestrzeni prywatnej nie można przywrócić na innym urządzeniu. Jeśli chces
 Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządzeniu szkodliwe aplikacje, będzie mógł uzyskać dostęp do Twojej przestrzeni prywatnej."</string>
     <string name="recent_apps_label">Ostatnie aplikacje</string>
     <string name="requires_modern_control_center">Działa wyłącznie z nowym wyglądem Centrum funkcji</string>
+    <string name="ringer_mode_setting_summary_default">Wycisz przychodzące połączenia i powiadomienia</string>
+    <string name="ringer_mode_setting_summary_tablet">Wycisz powiadomienia</string>
     <string name="satellite_management_title">Sieć satelitarna</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Część aplikacji w ramach Ciemnego motywu może być niepoprawnie wyświetlana. Możesz ograniczyć tutaj korzystanie z Ciemnego motywu dla poszczególnych aplikacji.</string>
     <string name="screen_dark_mode_smart_dark_title">Globalny ciemny motyw</string>
@@ -689,4 +691,6 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="zen_mode_action_change_icon">Zmień ikonę</string>
     <string name="zen_mode_action_change_name">Zmień nazwę</string>
     <string name="zen_mode_apps_subtext">{count,plural,offset:2 =0{Żadna aplikacja nie może ignorować trybu Nie przeszkadzać}=1{Aplikacja {app_1} może ignorować tryb Nie przeszkadzać}=2{Aplikacje {app_1} i {app_2} mogą ignorować tryb Nie przeszkadzać}=3{Aplikacje {app_1}, {app_2} i {app_3} mogą ignorować tryb Nie przeszkadzać}few{Aplikacje {app_1}, {app_2} i jeszcze # inne mogą ignorować tryb Nie przeszkadzać}many{Aplikacje {app_1}, {app_2} i jeszcze # innych mogą ignorować tryb Nie przeszkadzać}other{Aplikacje {app_1}, {app_2} i jeszcze inne (#) mogą ignorować tryb Nie przeszkadzać}}</string>
+    <string name="zen_mode_summary2_default">Nie będzie przypomnień dot. przychodzących połączeń i powiadomień</string>
+    <string name="zen_mode_summary2_tablet">Nie będzie przypomnień dot. powiadomień</string>
 </resources>

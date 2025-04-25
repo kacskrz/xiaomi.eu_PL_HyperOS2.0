@@ -101,7 +101,6 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji %2$s."</st
     <string name="life_index_title">Indeks pogody</string>
     <string name="locate_fail_detail_err">"Nie można zlokalizować urządzenia. 
 Dotknij ekranu, aby dodać miasto ręcznie."</string>
-    <string name="logo_accu_content">Otwórz stronę AccuWeather</string>
     <string name="main_activity_hourly_forecast_card_more_title">Więcej</string>
     <string name="manager_city_option_add_city_back_search">Szukaj dalej</string>
     <string name="manager_city_option_add_city_content">Pomyślnie dodano miasto.</string>
@@ -196,7 +195,11 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
     <string name="user_agreement">Umowa użytkownika</string>
     <string name="user_notice">Uwaga</string>
     <string name="video_dialog_subtitle">"Korzystasz z danych mobilnych. Odtworzyć wideo mimo to?"</string>
+    <string name="view_drag_end_talkback">%1$s, przeniesiono do rzędu: %2$s</string>
+    <string name="view_drag_move_talkback">Przenieś do rzędu: %s</string>
     <string name="view_indexes_item_day_after_tommorrow">Za 2 dni</string>
+    <string name="view_not_select_talkback">Nie wybrano: %s</string>
+    <string name="view_select_talkback">Wybrano: %s</string>
     <string name="warning_weather_day_and_night_settings_summary">Otrzymuj codzienne podsumowania wraz z informacją o pogodzie (o 7:00 i 19:00)</string>
     <string name="weather_introduce">Zawsze z tobą, w każdych warunkach.</string>
     <string name="weather_main_minute_hour">Opady w ciągu 2 godzin</string>

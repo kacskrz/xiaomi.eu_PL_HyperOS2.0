@@ -128,6 +128,7 @@ Spróbuj ponownie."</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronizowanie z chmurą…</string>
     <string name="miuix_appcompat_show_dialog_description">Okno pop-up</string>
     <string name="miuix_progressbar_loading">Chwileczkę…</string>
+    <string name="miuix_navigator_toolbar_screen_bottom">Pasek narzędzi na dole ekranu</string>
     <string name="miuix_show_password">Pokaż hasło</string>
     <string name="miuix_stretchablewidget_collapsed">Zwinięte</string>
     <string name="miuix_stretchablewidget_expanded">Rozwinięte</string>
@@ -207,6 +208,7 @@ W celu aktywacji Wiadomości Mi wymagane jest wysłanie wiadomości SMS. Twój o
     <string name="notification_group_name">Wiadomości</string>
     <string name="notification_seen">Przeczytane</string>
     <string name="number_recognition_partner">Dostawcy usługi rozpoznawania ID nadawcy</string>
+    <string name="ok">OK</string>
     <string name="open_audio_record_panel">Otwórz nagrywanie</string>
     <string name="open_edit_sms_panel">Otwórz panel edycji</string>
     <string name="open_now">Ustawienia</string>

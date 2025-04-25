@@ -5,6 +5,7 @@
     <string name="base_rate_second_house">Stopa procentowa drugiej nieruchomości (%1$s)</string>
     <string name="cta_desc">Witamy w Kalkulatorze! Ta aplikacja łączy w sobie cechy zwykłego kalkulatora z wieloma przelicznikami i funkcjami dot. życia codziennego. Aplikacja do poprawnego działania potrzebuje połączenia z Internetem.</string>
     <string name="dialog_privacy_disagree_msg">Wyłączając tę opcję, wycofujesz swoją zgodę na warunki Polityki prywatności aplikacji Kalkulator. Xiaomi zaprzestanie gromadzenia Twoich danych. Te dane, które już zostały zgromadzone i przetworzone, zostaną usunięte w czasie określonym przepisami prawa. Aby dostarczać Ci podstawowe usługi, Kalkulator musi gromadzić niezbędne dane. Cofnięcie zgody na warunki jego Polityki prywatności zostanie potraktowane jako odrzucenie dotyczące także tych usług.</string>
+    <string name="full_window">Maksymalizuj</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>

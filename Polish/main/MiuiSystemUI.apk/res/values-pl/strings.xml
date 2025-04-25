@@ -22,6 +22,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="format_month_day_style1">d MMM</string>
     <string name="format_month_day_style2">d.MM</string>
     <string name="format_month_day_week">EEEE, d MMMM</string>
+    <string name="free_form_recommend_tip">Pływające okno</string>
     <string name="fs_gesture_final_see_more">Zobacz więcej demonstracji w Ustawieniach > Ekran główny > Nawigacja systemowa</string>
     <string name="fullaod_apply_doodle_keyguard_toast">Ustawiono niestandardowy motyw Ekranu zawsze włączonego ze względu na szkice</string>
     <string name="fullaod_apply_super_wallpaper_toast">Ustawiono niestandardowy motyw Ekranu zawsze włączonego ze względu na supertapety</string>
@@ -33,6 +34,15 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="gxzw_quick_open_add_note_sub">Notatki</string>
     <string name="gxzw_quick_open_dialer">Dialer</string>
     <string name="gxzw_quick_open_dialer_sub">Telefon</string>
+    <string name="info_focus_download_end">Pobrano</string>
+    <string name="info_focus_download_start">Otwórz pływające okno i poczekaj na zakończenie pobierania</string>
+    <string name="info_focus_download_update">Postęp pobierania</string>
+    <string name="info_focus_match_end">Pomyślnie dopasowano</string>
+    <string name="info_focus_match_start">Otwórz pływające okno i poczekaj na dopasowanie</string>
+    <string name="info_focus_match_update">Dopasowywanie…</string>
+    <string name="info_focus_rebirth_end">Odrodzono</string>
+    <string name="info_focus_rebirth_start">Otwórz pływające okno i poczekaj na odrodzenie</string>
+    <string name="info_focus_rebirth_update">Oczekiwanie na odrodzenie</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Nie można przełączać profili, gdy włączone jest Ultraoszczędzanie baterii"</string>
     <string name="keyguard_editor_super_save_mode_toast">"Nie można edytować ekranu blokady, gdy włączone jest Ultraoszczędzanie baterii"</string>
     <string name="keyguard_left_view_lock_wallpaper">Tapety Blokady</string>
@@ -107,6 +117,7 @@ d.MM"</string>
     <string name="screenrecord_stop_dialog_message">Zatrzymasz nagrywanie swojego ekranu</string>
     <string name="screenrecord_stop_dialog_title">Zatrzymać nagrywanie ekranu?</string>
     <string name="shut_down_password_forget_password_suggesstion_two_content">&lt;Data>Wybierz opcję &lt;font color=#e6e6e6>[Wipe]&lt;/font>, a następnie przesuń suwak znajdujący się na dole ekranu. Po wykonaniu tej operacji naciśnij przycisk &lt;font color=#e6e6e6>[Reboot System]&lt;/font>.&lt;/Data></string>
+    <string name="split_screen_recommend_tip">Dzielenie ekranu</string>
     <string name="status_bar_next_alarm">Alarm: %1$s</string>
     <string name="using_glasses">Używanie okularów</string>
     <string name="using_house_play">Używanie odtwarzania w całym domu</string>

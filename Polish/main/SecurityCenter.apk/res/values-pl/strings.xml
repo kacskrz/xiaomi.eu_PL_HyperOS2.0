@@ -510,6 +510,16 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="game_toolbox_performance_config_frc_notice_new">Priorytet klatkażu poprawia liczbę klatek poprzez Inteligentny klatkaż. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
     <string name="game_toolbox_performance_config_resolution_notice">Gdy włączony jest Priorytet grafiki, to aktualny klatkaż wynosi tyle, ile pokazano w panelu wydajności</string>
     <string name="game_toolbox_performance_config_resolution_notice_new">Priorytet obrazu poprawia jakość obrazu dzięki Superrozdzielczości i zarządza klatkażem poprzez Inteligentny klatkaż. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
+    <string name="game_toolbox_slow_charge_desc">Włącz tę funkcję, aby poprawić wrażenia z grania podczas ładowania poprzez zmniejszenie prędkości ładowania. Może to zapobiec przegrzewaniu się urządzenia. Włączyć tę funkcję?</string>
+    <string name="game_toolbox_slow_charge_dialog_btn">OK</string>
+    <string name="game_toolbox_slow_charge_negative_btn">Anuluj</string>
+    <string name="game_toolbox_slow_charge_notification_msg">Ta funkcja poprawia wrażenia z grania podczas ładowania, zmniejszając prędkość ładowania. Może to zapobiec przegrzewaniu się urządzenia.</string>
+    <string name="game_toolbox_slow_charge_notification_title">Trwa wolne ładowanie</string>
+    <string name="game_toolbox_slow_charge_positive_btn">Włącz</string>
+    <string name="game_toolbox_slow_charge_title">Wolne ładowanie</string>
+    <string name="game_toolbox_slow_charge_toast">Włączono wolne ładowanie</string>
+    <string name="game_toolbox_smotion_vibrate_desc">Dodaj reakcję haptyczną zgodną z ruchami w grze. Wspierane są tylko niektóre gry.</string>
+    <string name="game_toolbox_smotion_vibrate_title">Reakcje haptyczne</string>
     <string name="game_toolbox_super_follow_up_msg">Lepsza reakcja na dotyk i śledzenie przez cały potok sprzętowo-programowy</string>
     <string name="game_toolbox_super_shake_msg">Redukuj drgania przy dotknięciu i przesunięciu, poprawiając stabilność sterowania</string>
     <string name="game_toolbox_title_wild">Tryb Ultra</string>
@@ -784,6 +794,10 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_continuity_has_open_save_mode_notifi_title">Włączono Oszczędzanie baterii na %s</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">Poziom baterii %1$s wynosi mniej niż %2$s. Włącz Oszczędzanie baterii, aby wydłużyć działanie o %3$s %4$s.</string>
     <string name="pc_current_power_mode">Obecny tryb</string>
+    <string name="pc_dialog_dual_type_c_port_reminder_btn">OK</string>
+    <string name="pc_dialog_dual_type_c_port_reminder_checkbox">Nie pokazuj ponownie</string>
+    <string name="pc_dialog_dual_type_c_port_reminder_message">Port typu C na krótszej krawędzi urządzenia nie wspiera przesyłania danych. Połącz się z komputerem za pomocą innego portu.</string>
+    <string name="pc_dialog_dual_type_c_port_reminder_title">Informacja dot. ładowania</string>
     <string name="pc_extreme_category">Bardzo niski stan baterii</string>
     <string name="pc_extreme_mode_runtime">Tryb hibernacji jest włączony od %1$s %2$s.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Powiadamiaj o zwiększeniu prędkości ładowania, gdy podłączona jest dołączona ładowarka o mocy %dW, a poziom baterii znajduje się poniżej ustawionego poziomu</string>
@@ -1654,6 +1668,5 @@ Funkcja nie będzie działać, gdy włączone jest Oszczędzanie baterii lub Ult
     <string name="wifi_network_blocked_notification_title">Brak połączenia z siecią</string>
     <string name="wifi_optizition_tip">Włącz przyspieszenia prędkości Wi-Fi, aby zwiększyć stabilność połączenia Wi-Fi. Zostanie wykorzystana niewielka ilość danych mobilnych.</string>
     <string name="wireless_charging_no_reverser_charge_message">Nie można używać ładowania zwrotnego, gdy podłączona jest ładowarka.</string>
-    <string name="wireless_charging_no_reverser_charge_title">Odłącz ładowarkę</string>
     <string name="xiaomi_privacy_protection_measures">Środki ochrony prywatności</string>
 </resources>
