@@ -496,6 +496,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="game_toolbox_ai_service_desc">Ulepszone granie z SI</string>
     <string name="game_toolbox_ai_upgrade_dialog_desc">Dostępna jest aktualizacja usług grania SI. Zanim użyjesz powiązanych z nimi funkcji, zaktualizuj je.</string>
     <string name="game_toolbox_ai_upgrade_dialog_title">Aktualizacja</string>
+    <string name="game_toolbox_auto_brightness_talkback">Automatyczna jasność</string>
+    <string name="game_toolbox_btn_back_talkback">Wstecz</string>
     <string name="game_toolbox_cellular_network">Przyspieszenie prędkości danych mobilnych</string>
     <string name="game_toolbox_display_enhance_view_frc_notice">"Uwaga:
 Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w grze oraz zewnętrzne) mogą niedokładnie odczytywać liczbę klatek. Aby uzyskać aktualną liczbę klatek, przejdź do panelu wydajności."</string>
@@ -511,6 +513,8 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="game_toolbox_performance_config_frc_notice_new">Priorytet klatkażu poprawia liczbę klatek poprzez Inteligentny klatkaż. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
     <string name="game_toolbox_performance_config_resolution_notice">Gdy włączony jest Priorytet grafiki, to aktualny klatkaż wynosi tyle, ile pokazano w panelu wydajności</string>
     <string name="game_toolbox_performance_config_resolution_notice_new">Priorytet obrazu poprawia jakość obrazu dzięki Superrozdzielczości i zarządza klatkażem poprzez Inteligentny klatkaż. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
+    <string name="game_toolbox_screen_brightness_talkback">Jasność ekranu</string>
+    <string name="game_toolbox_settings_talkback">Ustawienia</string>
     <string name="game_toolbox_slow_charge_desc">Włącz tę funkcję, aby poprawić wrażenia z grania podczas ładowania poprzez zmniejszenie prędkości ładowania. Może to zapobiec przegrzewaniu się urządzenia. Włączyć tę funkcję?</string>
     <string name="game_toolbox_slow_charge_dialog_btn">OK</string>
     <string name="game_toolbox_slow_charge_negative_btn">Anuluj</string>
@@ -1025,6 +1029,7 @@ Ultraoszczędzania baterii"</string>
     <string name="power_center_surface_temp_lower">Chłodna</string>
     <string name="power_center_surface_temp_normal">OK</string>
     <string name="power_center_unoffical_battery_tip">"Informacje o kondycji baterii nie są dostępne dla tej nieautoryzowanej baterii. Dotknij, aby dowiedzieć się więcej o zagrożeniach dla bezpieczeństwa."</string>
+    <string name="power_consume_rank_title">Szczegóły zużycia baterii</string>
     <string name="power_dailog_night_charge_protection_summary">Wygląda na to, że w większości przypadków ładujesz swoją baterię do pełna, co może przyspieszyć jej starzenie. Aby uniknąć tego problemu, włączono optymalizację ładowania.</string>
     <string name="power_dialog_performance_mode_checkbox">Przełącz na odświeżanie %d Hz</string>
     <string name="power_dialog_super_save_msg">"Ultraoszczędzanie baterii ogranicza większość energochłonnych funkcji systemu i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?"</string>
@@ -1602,6 +1607,11 @@ Wycofać zgodę?"</string>
     <string name="untrust_app_perm_warn">Ta aplikacja pochodzi z nieznanego źródła i może stanowić zagrożenie dla bezpieczeństwa urządzenia. Może ona wykorzystywać wymienione poniżej uprawnienia w celu naruszania Twojej prywatności. Przyznawaj je rozważnie.</string>
     <string name="unused_apps_switch">Wstrzymaj aktywność aplikacji, gdy ich nie używasz</string>
     <string name="usage_access_title">Dostęp do statystyk użytkowania</string>
+    <string name="usage_type_background_desk_power_consumption_time">Zużycie w tle</string>
+    <string name="usage_type_front_desk_power_consumption_time">Zużycie na pierwszym planie</string>
+    <string name="usage_type_power_consumption_ratio">Zużycie baterii</string>
+    <string name="usage_type_power_consumption_ratio_hint_binary">Energia zużyta przez %3$s jako procent energii zużytej przez wszystkie aplikacje w ostatnich %1$s %2$s</string>
+    <string name="usage_type_power_consumption_ratio_hint_single">Energia zużyta przez %3$s jako procent energii zużytej przez wszystkie aplikacje w ostatnich %1$s</string>
     <string name="vb_dult_effect">3D LUT</string>
     <string name="vb_fps_settings">Autom. częstotliwość odświeżania</string>
     <string name="vb_movie_power_hint">Tryb kinowy zapewnia wciągające wrażenia wizualne. Twoje urządzenie może się nagrzewać i zużywać więcej energii.</string>

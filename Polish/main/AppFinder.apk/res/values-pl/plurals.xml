@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_answers_result_reference_title">
+        <item quantity="other">%d strony internetowej</item>
+        <item quantity="one">%d strona internetowa</item>
+        <item quantity="few">%d strony internetowe</item>
+        <item quantity="many">%d stron internetowych</item>
+    </plurals>
+    <plurals name="ai_answers_result_reference_web">
+        <item quantity="other">Sprawdzono %d strony internetowej</item>
+        <item quantity="one">Sprawdzono %d stronę internetową</item>
+        <item quantity="few">Sprawdzono %d strony internetowe</item>
+        <item quantity="many">Sprawdzono %d stron internetowych</item>
+    </plurals>
+    <plurals name="ai_answers_toast_file_max_size">
+        <item quantity="other">Rozmiar pliku nie może przekraczać %d MB</item>
+        <item quantity="one">Rozmiar pliku nie może przekraczać %d MB</item>
+        <item quantity="few">Rozmiar pliku nie może przekraczać %d MB</item>
+        <item quantity="many">Rozmiar pliku nie może przekraczać %d MB</item>
+    </plurals>
+    <plurals name="ai_answers_toast_img_max_size">
+        <item quantity="other">Rozmiar obrazu nie może przekraczać %d MB</item>
+        <item quantity="one">Rozmiar obrazu nie może przekraczać %d MB</item>
+        <item quantity="few">Rozmiar obrazu nie może przekraczać %d MB</item>
+        <item quantity="many">Rozmiar obrazu nie może przekraczać %d MB</item>
+    </plurals>
+    <plurals name="ai_answers_toast_max_add_img">
+        <item quantity="other">Dodaj maksymalnie %d elementu</item>
+        <item quantity="one">Dodaj maksymalnie %d element</item>
+        <item quantity="few">Dodaj maksymalnie %d elementy</item>
+        <item quantity="many">Dodaj maksymalnie %d elementów</item>
+    </plurals>
+    <plurals name="ai_search_toast_input_too_long">
+        <item quantity="other">Wprowadź maks. %d znaku</item>
+        <item quantity="one">Wprowadź maks. %d znak</item>
+        <item quantity="few">Wprowadź maks. %d znaki</item>
+        <item quantity="many">Wprowadź maks. %d znaków</item>
+    </plurals>
+</resources>

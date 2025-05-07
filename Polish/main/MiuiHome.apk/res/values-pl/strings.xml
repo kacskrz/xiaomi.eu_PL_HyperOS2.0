@@ -15,13 +15,7 @@
     <string name="announce_for_unchecked_after">odznaczone, %1$s</string>
     <string name="announce_for_drag_enter_workspace_thumbnail">Przeniesiono elementy na pulpit: %1$d</string>
     <string name="announce_for_drop">Przesunięto: %1$s</string>
-    <string name="announce_for_open_folder">Otwórz \"%1$s\"</string>
-    <string name="announce_to_drop_folder_grid_view">Upuszczono na pozycję %1$d w folderze</string>
-    <string name="announce_to_drop_folder_icon">Upuszczono w \"%1$s\"</string>
     <string name="announce_to_drop_hotseat">Dodano do docka</string>
-    <string name="announce_to_drop_shortcut_icon">Upuszczono w %1$s i w folderze stworzonym przez %2$s</string>
-    <string name="announce_to_drop_trash">Upuszczono w koszu</string>
-    <string name="announce_to_drop_workspace">Upuszczono na stronie %1$d, w rzędzie %2$d, w kolumnie %3$d</string>
     <string name="application_name">Systemowy launcher</string>
     <string name="auto_delete_category_dialog_content">Obecnie znajdujące się w tej kategorii aplikacje zostaną z niej usunięte. Usunąć ją teraz?</string>
     <string name="auto_disable_screenbuttons_summary">Automatycznie wyłączaj przyciski nawigacyjne, gdy Pasek statusu nie jest wyświetlany. Dotknij dwukrotnie dowolnego przycisku nawigacji, aby włączyć je ponownie.</string>
@@ -154,9 +148,6 @@ Zwiększone bezpieczeństwo."</string>
     <string name="recents_title_security_scan">Antywirus</string>
     <string name="screen_cells_config_title">Rozmiar siatki</string>
     <string name="screen_locked_toast">Edycja pulpitu jest zablokowana</string>
-    <string name="service_delivery_carousel_desc_talkback">Przesuń w górę lub w dół, aby wybrać inny widżet w grupie</string>
-    <string name="service_delivery_carousel_page_down_talkback">Przesuń w dół, aby przełączyć. Aktualny widżet: %1$s</string>
-    <string name="service_delivery_carousel_page_up_talkback">Przesuń w górę, aby przełączyć. Aktualny widżet: %1$s</string>
     <string name="setting_close">Wyłączone</string>
     <string name="setting_only_widget_no_word">Pod widżetami</string>
     <string name="start_activity_failed">Nie można uruchomić launchera</string>

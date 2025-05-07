@@ -577,6 +577,14 @@
         <item quantity="other">Zablokuj ekran po %d min</item>
         <item quantity="one">Zablokuj ekran po %d min</item>
     </plurals>
+    <plurals name="usage_type_power_consumption_ratio_hint_hour">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="usage_type_power_consumption_ratio_hint_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
     <plurals name="virus_clear_dialog_content">
         <item quantity="other">Usunąć %d aplikacji?</item>
         <item quantity="one">Usunąć %d aplikację?</item>
