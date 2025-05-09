@@ -212,6 +212,7 @@ W celu aktywacji Wiadomości Mi wymagane jest wysłanie wiadomości SMS. Twój o
     <string name="open_audio_record_panel">Otwórz nagrywanie</string>
     <string name="open_edit_sms_panel">Otwórz panel edycji</string>
     <string name="open_now">Ustawienia</string>
+    <string name="page_indicator">Wskaźnik strony</string>
     <string name="perm_purpose_mms_account">Aby uzyskać informacje o koncie</string>
     <string name="perm_purpose_mms_storage">Do zapisywania załączników MMS</string>
     <string name="perm_purpose_rcs_account">Do wyświetlania samouczka dla początkujących</string>

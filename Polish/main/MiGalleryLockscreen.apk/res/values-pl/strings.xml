@@ -7,6 +7,7 @@
     <string name="about_newest">Tapety Blokady są aktualne.</string>
     <string name="about_permission">Uprawnienia</string>
     <string name="about_update">Aktualizacja</string>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="action_more_dlg_add_to_loop">Dodaj do pokazu slajdów</string>
     <string name="action_more_dlg_apply">Ustaw jako tapetę Ekranu blokady</string>
     <string name="action_more_dlg_dislike">"Nie lubię tego"</string>
@@ -357,6 +358,7 @@ d MMMM"</string>
 dd.M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 dd.M"</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="mode_auto_desc">Włącz Tapety Blokady, aby otrzymywać automatycznie nowe obrazy</string>
     <string name="mode_auto_desc_open">Otrzymuj nowe obrazy automatycznie z sieci</string>
     <string name="mode_auto_desc_selected">Otrzymuj nowe obrazy automatycznie z sieci</string>
