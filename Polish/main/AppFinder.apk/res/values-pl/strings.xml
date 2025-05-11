@@ -36,7 +36,6 @@
     <string name="ai_search_menu_camera">Aparat</string>
     <string name="ai_search_menu_gallery">Galeria</string>
     <string name="ai_search_picture_edit">Wybierz obszar</string>
-    <string name="ai_search_related_links">Related links</string>
     <string name="ai_search_related_links">Powiązane linki</string>
     <string name="ai_search_result_identify_failed_desc">Wybierz roślinę, zwierzę lub produkt i spróbuj ponownie</string>
     <string name="ai_search_result_tip">Treść jest generowana przez Gemini i służy tylko do celów informacyjnych</string>
