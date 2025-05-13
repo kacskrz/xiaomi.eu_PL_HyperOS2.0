@@ -3,11 +3,9 @@
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1">Włącz Wi-Fi i Bluetooth</string>
     <string name="appcirculate_toast_high_temperature">Poczekaj, aż urządzenie ostygnie</string>
     <string name="appcirculate_toast_loading">Przełączanie na inne urządzenie…</string>
-    <string name="appcirculate_toast_not_support_device_phone">"Nie można otworzyć tej aplikacji na telefonie"</string>
     <string name="audio_record_des">W celu przesyłania dźwięku z urządzenia do zewnętrznych monitorów</string>
     <string name="camera_associate_connecting">Łączenie z aparatem</string>
     <string name="camera_associate_disconnecting">Rozłączanie z aparatem telefonu</string>
-    <string name="camera_associate_success">Połączono z aparatem</string>
     <string name="camera_connecting_device">Łączenie z %s</string>
     <string name="camera_disconnecting_device">Rozłączanie z %s</string>
     <string name="camera_new_title">Aparat na różnych urządzeniach</string>
@@ -16,32 +14,19 @@
     <string name="camera_permission_dialog_positive">Ustawienia</string>
     <string name="camera_permission_dialog_title">Wymagane uprawnienia</string>
     <string name="camera_permission_timeout_toast">Przekroczono czas żądania. Spróbuj ponownie.</string>
-    <string name="camera_title">Wyszukiwanie dostępnych urządzeń…</string>
-    <string name="cancel">Anuluj</string>
     <string name="car_card_air_temperature_minus">Obniż temperaturę klimatyzacji</string>
     <string name="circulate_audio_group_title">Odtwarzanie…</string>
     <string name="circulate_camera_glasses_back_to_box_desc_err_310">"%1$d. Naciśnij przycisk zasilania na pilocie telewizora, aby rozłączyć głośniki.
 %2$d. Spróbuj ponownie podłączyć okulary, gdy ekran się zaświeci."</string>
     <string name="circulate_camera_glasses_back_to_box_title_err_310">Najpierw rozłącz głośniki telewizora</string>
-    <string name="circulate_card_mirror_pad_subtitle">"Przeciągnij \"Ekran tabletu\" na telewizor,
-aby udostępnić ekran"</string>
     <string name="circulate_card_tv_device_sync">Interakcja urządzeń Xiaomi</string>
-    <string name="circulate_controlphone_button_hint">Pokaż ekran</string>
-    <string name="circulate_controlphone_title">Zarządzaj urządzeniem</string>
     <string name="circulate_cta_app_name">Interakcja urządzeń Xiaomi</string>
     <string name="circulate_cta_desc_lite_phone">Usługi łączności między urządzeniami Xiaomi pozwalają Twoim urządzeniom na bezprzewodową interakcję ze sobą. Aby móc działać normalnie, muszą one łączyć się z Internetem i wymagają następujących uprawnień:</string>
     <string name="circulate_cta_desc_pad">Witamy w Mi Smart Hub! Aplikacja zezwala na korzystanie z projekcji i Mi Smart Play, a także na przesyłanie odtwarzanych multimediów pomiędzy urządzeniami. Aplikacja wymaga połączenia z Internetem i następujących uprawnień, aby działać poprawnie:</string>
     <string name="circulate_cta_desc_phone">Usługi łączności między urządzeniami Xiaomi pozwalają Twoim urządzeniom na bezprzewodową interakcję ze sobą, Aby móc działać normalnie, muszą one łączyć się z Internetem i wymagają następujących uprawnień:</string>
     <string name="circulate_cta_desc_phone_global">Usługi łączności między urządzeniami Xiaomi umożliwiają bezprzewodową interakcję między Twoimi urządzeniami.</string>
-    <string name="circulate_cta_premission_bluetooth_subtitle">W celu łączenia urządzeń i przesyłania danych między nimi</string>
-    <string name="circulate_cta_premission_get_installed_apps_subtitle">W celu uzyskiwania listy aplikacji zainstalowanych na urządzeniu mobilnym i klonowania ekranu na komputerach</string>
-    <string name="circulate_cta_premission_mac_address_subtitle">W celu odnajdywania urządzeń w pobliżu</string>
-    <string name="circulate_cta_premission_obtain_information_subtitle">W trakcie nagrywania lub projekcji usługa dostarczająca tę funkcję może rejestrować wszystkie dane wyświetlane na Twoim ekranie lub odtwarzane z Twojego urządzenia, w tym dane wrażliwe takie jak dźwięki, hasła, informacje dot. płatności, zdjęcia czy wiadomości</string>
-    <string name="circulate_cta_premission_read_call_log_subtitle">W celu przekazywania połączeń między urządzeniami w trakcie klonowania ekranu</string>
-    <string name="circulate_cta_premission_sound_subtitle">W celu nagrywania lokalnego dźwięku w trakcie projekcji i klonowania ekranu</string>
+    <string name="circulate_cta_premission_mac_address_subtitle">Do odnajdywania urządzeń w pobliżu</string>
     <string name="circulate_cta_premission_sound_title">Nagrywanie dźwięku</string>
-    <string name="circulate_cta_premission_storage_subtitle">W celu projekcji i przesyłania treści z tego urządzenia</string>
-    <string name="circulate_cta_premission_transferring_data_subtitle">W celu przesyłania danych między połączonymi urządzeniami</string>
     <string name="circulate_cta_premission_wlan_subtitle">Do przesyłania elementów i łączenia urządzeń przez Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">W celu przesyłania elementów i łączenia urządzeń przez Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_subtitle_global">Do wyszukiwania urządzeń w pobliżu i przesyłania zadań przez Wi-Fi</string>
@@ -52,8 +37,6 @@ aby udostępnić ekran"</string>
     <string name="circulate_cta_user_agreement">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;txt href=\"%1$s\">Umowy użytkownika&lt;/txt> oraz &lt;txt href=\"%2$s\">Polityki prywatności&lt;/txt> Xiaomi.</string>
     <string name="circulate_headset_control_battery_right">P</string>
     <string name="circulate_headset_error_account_not_match">"Upewnij się, że na obu urządzeniach używasz tego samego konta Xiaomi"</string>
-    <string name="circulate_headset_error_self_upgrade">"Nie udało się ukończyć tej akcji. Zaktualizuj aplikację."</string>
-    <string name="circulate_headset_error_upgrade">Zaktualizuj aplikację na urządzeniu docelowym</string>
     <string name="circulate_pad_app_continuity">"Używanie %1$s z telefonu"</string>
     <string name="circulate_pad_card_being_used_cellular_wifi_china">Udostępniasz sygnał Wi-Fi tabletowi</string>
     <string name="circulate_phone_card_using_cellular_wifi_china">"Używa sygnału Wi-Fi telefonu"</string>
@@ -63,7 +46,6 @@ aby udostępnić ekran"</string>
     <string name="circulate_tv_power_alter_title">Wyłączanie telewizora</string>
     <string name="close_auxiliary_wifi_hint_china">Wyłącz funkcję \"Zwiększenie prędkości sieci (dwupasmowe Wi-Fi)\", aby móc włączyć projekcję</string>
     <string name="connect_settings_base">Interakcja urządzeń Xiaomi</string>
-    <string name="connect_settings_communication_sharing">Bezprzewodowy tethering</string>
     <string name="connect_settings_connect_permission">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connect_settings_connection_service">Interakcja urządzeń Xiaomi</string>
     <string name="connect_settings_corp_network">Asystent sieci</string>
@@ -105,15 +87,8 @@ Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą sie
 %2$d. Jeśli przesyłasz ekran z urządzenia Xiaomi pierwszy raz, musisz przejść weryfikację.
 %3$d. Jeśli używasz innego urządzenia niż Xiaomi i nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
 Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego urządzenia. Jeśli to nie pomoże, zainstaluj aplikację HappyCast na swoim telewizorze i postępuj zgodnie z instrukcjami."</string>
-    <string name="help_page_text_17_content">Możesz wyświetlać elementy z telefonu Xiaomi na większości modeli telewizorów Xiaomi z funkcją Bluetooth bez konieczności ręcznego włączania funkcji Miracast. Jeśli musisz ją włączyć, naciśnij przycisk [MENU] i rozpocznij projekcję, używając opcji przeznaczonej dla innych telefonów z Androidem.</string>
-    <string name="help_page_text_37">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. W niektórych modelach możesz nacisnąć przycisk [SOURCE] na pilocie i wybrać \"Screen Mirroring\". Na niektórych modelach można włączyć tą funkcję poprzez zakładkę Sieć > Wi-Fi Direct; Na części modeli ta funkcja jest włączona domyślnie.</string>
-    <string name="i_see">OK</string>
-    <string name="image_transfer_failed">"Nie udało się przesłać obrazu"</string>
-    <string name="install">Zainstaluj</string>
     <string name="keyguard_security_setting_privacy_policy">Polityka prywatności</string>
     <string name="message_connection_interrupted">Upewnij się, że komputer i tablet znajdują się w zasięgu połączenia i mają włączone Wi-Fi oraz Bluetooth. Aby kontynuować, rozpocznij ponownie zadanie na komputerze.</string>
-    <string name="message_install">Aby móc szkicować na różnych urządzeniach, zainstaluj Mi Canvas.</string>
-    <string name="message_update">Aby móc szkicować na różnych urządzeniach, zaktualizuj Mi Canvas.</string>
     <string name="miplay_device_full_name">%2$s z %1$s</string>
     <string name="mirror_phone_content_remote">Możesz włączyć Ekran główny+ w Ustawieniach > Interakcja urządzeń Xiaomi.</string>
     <string name="mirror_remote_pad_content">Możesz włączyć Ekran główny+ w Ustawieniach > Interakcja urządzeń Xiaomi.</string>
@@ -150,10 +125,6 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="screen_projection_example_document_summary">Wyświetlaj prezentacje na zewnętrznym monitorze - możesz przełączać się pomiędzy slajdami i wyświetlać notatki za pomocą telefonu. Aby wypróbować tę funkcję, przejdź do aplikacji Pliki > Dokumenty.</string>
     <string name="screen_projection_example_gallery_hint_new"><Data>*Aby użyć tej funkcji, przejdź do Galerii, wybierz zdjęcie, dotknij opcji \"Wyślij\" na dolnym pasku, a następnie ikony &lt;img src=../drawable/ic_cast_icon_photo.png/>.</Data></string>
     <string name="synergy_text">Interakcja urządzeń Xiaomi</string>
-    <string name="title_install">Zainstaluj Mi Canvas</string>
-    <string name="title_update">Zaktualizuj Mi Canvas</string>
     <string name="tv_remote_auth_cancel">Anuluj</string>
     <string name="tv_remote_auth_title">Wprowadź kod weryfikacyjny telewizora</string>
-    <string name="update">Zaktualizuj</string>
-    <string name="upgrade_phone_device_tip">*Aktualizacje dostarczane przez telefon Xiaomi</string>
 </resources>

@@ -207,6 +207,15 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="option_third_party_shared_info_instruction">Udostępnianie danych firmom trzecim</string>
     <string name="option_user_agreement">Umowa użytkownika</string>
     <string name="option_user_device_info">Informacje o urządzeniu</string>
+    <string name="optional_per_access_camera">wykonywanie zdjęć i filmów</string>
+    <string name="optional_per_access_location">dostęp do lokalizacji</string>
+    <string name="optional_per_access_media">dostęp do zdjęć, filmów i dźwięków</string>
+    <string name="optional_per_get_installed_packages">dostęp do listy zainstalowanych aplikacji</string>
+    <string name="optional_per_read_call_log">dostęp do historii połączeń</string>
+    <string name="optional_per_read_contacts">dostęp do kontaktów</string>
+    <string name="optional_per_read_sms">dostęp do wiadomości</string>
+    <string name="optional_per_write_call_log">edycja historii połączeń</string>
+    <string name="optional_per_write_contacts">edycja kontaktów</string>
     <string name="other_system_data">Dane aplikacji systemowych</string>
     <string name="perm_manage_external_storage">Dostęp do wszystkich plików</string>
     <string name="perm_package_stats">Dostęp do statystyk użytkowania aplikacji</string>
