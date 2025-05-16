@@ -559,12 +559,6 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Nie można przełączyć się na Tryb zbalansowany w Game Turbo, gdy włączony jest systemowy Tryb Ultra. Możesz zmienić ustawienia baterii w Panelu sterowania. &lt;br>&lt;a href=\"#\">Otwórz Panel sterowania&lt;/a>"</Data></string>
     <string name="gb_beauty_cold_light">Zimne</string>
     <string name="gb_beauty_nature_light">Naturalne</string>
-    <string name="gb_collimator_color_blue_talkback">Niebieski</string>
-    <string name="gb_collimator_color_purple_talkback">Purpurowy</string>
-    <string name="gb_collimator_color_red_talkback">Czerwony</string>
-    <string name="gb_collimator_color_white_talkback">Biały</string>
-    <string name="gb_collimator_color_yellow_talkback">Żółty</string>
-    <string name="gb_collimator_style_talkback">Styl %1$d</string>
     <string name="gb_dialog_record_way_setting_tip_one">Zwiększone użycie energii i lagowanie</string>
     <string name="gb_dnd_barrage_conflict_toast">"Nie będzie można używać komentarzy ekranowych, gdy włączony jest tryb Nie przeszkadzać"</string>
     <string name="gb_first_window_start">Zacznij grać</string>
@@ -660,7 +654,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="long_click_dialog_summary">Przytrzymaj długo palcem na wyniku, aby dodać go do wyjątków</string>
     <string name="main_alert_message_open_traffic_ctrl">Ogranicz użycie danych</string>
     <string name="main_bill_remained">Środki</string>
-    <string name="main_declaration_dialog_msg">Stan konta wyświetlany w tej funkcji nie może być używany jako dowód podczas rozmów z operatorem. Pierwszeństwo mają tatystyki wykorzystania danych mobilnych i połączeń głosowych dostarczane przez operatora.</string>
     <string name="main_normal_data_usage">Użycie danych mobilnych</string>
     <string name="megabyteShort">" MB"</string>
     <string name="megabyte_per_second">" MB/s"</string>
@@ -770,7 +763,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="notify_daily_limit_title_for_slotnum">Dziś wykorzystano %2$s danych (na %1$s)</string>
     <string name="notify_month_traffic_title_for_slotnum">W tym miesiącu wykorzystano %2$s danych (na %1$s)</string>
     <string name="notify_weekly_traffic_title_for_slotnum">W tym tygodniu wykorzystano %2$s danych (na %1$s)</string>
-    <string name="now_inquiry">Szczegóły</string>
     <string name="offline_voice_input">Wprowadzanie głosowe offline</string>
     <string name="offline_voice_input_detail">"Aby korzystać z wprowadzania głosowego, nie będziesz potrzebować dostępu do Internetu."</string>
     <string name="om_lock_app_unlocked_app">Bez blokady</string>
@@ -807,10 +799,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_continuity_has_open_save_mode_notifi_title">Włączono Oszczędzanie baterii na %s</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">Poziom baterii %1$s wynosi mniej niż %2$s. Włącz Oszczędzanie baterii, aby wydłużyć działanie o %3$s %4$s.</string>
     <string name="pc_current_power_mode">Obecny tryb</string>
-    <string name="pc_dialog_dual_type_c_port_reminder_btn">OK</string>
-    <string name="pc_dialog_dual_type_c_port_reminder_checkbox">Nie pokazuj ponownie</string>
-    <string name="pc_dialog_dual_type_c_port_reminder_message">Port typu C na krótszej krawędzi urządzenia nie wspiera przesyłania danych. Połącz się z komputerem za pomocą innego portu.</string>
-    <string name="pc_dialog_dual_type_c_port_reminder_title">Informacja dot. ładowania</string>
     <string name="pc_extreme_category">Bardzo niski stan baterii</string>
     <string name="pc_extreme_mode_runtime">Tryb hibernacji jest włączony od %1$s %2$s.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Powiadamiaj o zwiększeniu prędkości ładowania, gdy podłączona jest dołączona ładowarka o mocy %dW, a poziom baterii znajduje się poniżej ustawionego poziomu</string>
@@ -1226,7 +1214,6 @@ Wycofać zgodę?"</string>
     <string name="reject_usb_install">Odrzucono instalacje przez USB</string>
     <string name="release_meminfo">Zwolniono %d MB</string>
     <string name="reminder_click_to_close_tips">Możesz włączać i wyłączać ostrzeżenia dot. użycia danych w Panelu sterowania > Zużycie danych > Ustawienia.</string>
-    <string name="repeat_prompts">Spokojnie! Nie wysyłaj kilku żądań z rzędu.</string>
     <string name="reset_data_dialog_message">"Urządzenie nie jest powiązane z kontem Xiaomi. Nie można przywrócić lub zmienić hasła. Skopiuj wszystkie ważne dane i wykonaj reset do ustawień fabrycznych. Proces ten usunie wszystkie dane z urządzenia - w tym także z nośnika USB."</string>
     <string name="reset_data_dialog_ok">Ustawienia fabryczne</string>
     <string name="reset_data_title">"Nie można przywrócić hasła"</string>
@@ -1555,7 +1542,6 @@ Wycofać zgodę?"</string>
     <string name="title_condition_start_activity">Otwórz aplikację</string>
     <string name="title_condition_to_somewhere">Przybycie do lokalizacji</string>
     <string name="title_device_not_root">"Dostęp do roota nie został udzielony"</string>
-    <string name="title_flow_base_reminder">Przypomnienia dot. zużycia danych</string>
     <string name="title_flow_notification">Powiadomienia o użyciu danych</string>
     <string name="title_network_switch">Połączenie z siecią</string>
     <string name="title_permission_root">Dostęp do roota</string>
@@ -1643,7 +1629,6 @@ Wypróbuj skalowanie rozdzielczości!"</string>
     <string name="videobox_double_core_visual_description2">"Zwiększ szczegółowość, płynność i ogólny poziom wyświetlanych treści. 
 Funkcja zużywa więcej energii.
 Funkcja nie będzie działać, gdy włączone jest Oszczędzanie baterii lub Ultraoszczędzanie baterii."</string>
-    <string name="view_package_info">Wyświetl szczegóły planu</string>
     <string name="view_traffic_details">Wyświetl statystyki użycia danych</string>
     <string name="vtb_func_frc_desc2">Gdy rozdzielczość jest wyższa niż 1080p</string>
     <string name="vtb_func_frc_desc3">Gdy częstotliwość odświeżania jest wyższa niż 30 kl./s</string>

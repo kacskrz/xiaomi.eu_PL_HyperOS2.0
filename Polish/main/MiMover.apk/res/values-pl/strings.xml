@@ -11,10 +11,6 @@
     <string name="PRD_title_tablet_1">%1$d. Dane tych aplikacji już istnieją na nowym urządzeniu:</string>
     <string name="PRD_title_tablet_4">%1$d. Postępuj ostrożnie z urządzeniem</string>
     <string name="PRD_title_tablet_5">%1$d. Urządzenie się nagrzeje w trakcie procesu</string>
-    <string name="accessibility_sliding_button_state_description_off">Wyłączono</string>
-    <string name="accessibility_sliding_button_state_description_on">Włączono</string>
-    <string name="accessibility_tab_state_description_unselect">Nie wybrano</string>
-    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="android_id_usage">W celu rozpoznawania wersji aplikacji oraz kompatybilności między starym i nowym urządzeniem</string>
     <string name="app_update_64_dialog_cancel">Nie teraz</string>
     <string name="app_update_64_dialog_confirm">Aktualizuj</string>
@@ -67,12 +63,6 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="err_data_protection">Na starym urządzeniu włączona jest Zaawansowana ochrona danych. Wymagana weryfikacja.</string>
     <string name="err_not_allow">Brak wsparcia</string>
     <string name="err_receiver_no_space">Nie udało się przesłać. Za mało miejsca na nowym urządzeniu.</string>
-    <string name="force_update_button_neutral_guest">OK</string>
-    <string name="force_update_button_scan_host">Zainstaluj</string>
-    <string name="force_update_content_guest">Aby przenieść elementy, zaktualizuj Przenoszenie danych na nowym urządzeniu.</string>
-    <string name="force_update_content_host">Aby przenieść elementy, zaktualizuj Przenoszenie danych na starym urządzeniu.</string>
-    <string name="force_update_title_guest">Zaktualizuj aplikację na nowym urządzeniu</string>
-    <string name="force_update_title_host">Zaktualizuj aplikację na starym urządzeniu</string>
     <string name="guest_wainting_title">Kontynuuj na nowym urządzeniu</string>
     <string name="host_boot_installation_bottom_tips">"Nie możesz odnaleźć Przenoszenia danych? Dotknij, aby pobrać."</string>
     <string name="host_boot_installation_content">"1. Przejdź do Ustawień na starym urządzeniu.
@@ -128,15 +118,10 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="main_sender_summary">Wyślij elementy</string>
     <string name="message_request_manage_external_storage_perm">Przenoszenie danych wymaga dostępu do wszystkich plików na urządzeniu, aby móc przenieść je ze starego urządzenia na nowe.</string>
     <string name="message_request_package_stats_perm">Aplikacja Przenoszenie danych wymaga tego uprawnienia, aby uzyskać informacje na temat zainstalowanych aplikacji na urządzeniu oraz przenieść je na inne urządzenie.</string>
-    <string name="miuix_accessibility_title">Tytuł</string>
     <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
     <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
-    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Wyjdź z trybu edycji</string>
-    <string name="miuix_appcompat_accessibility_new_message">Nowe powiadomienie</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_appcompat_show_dialog_description">Okno pop-up</string>
-    <string name="miuix_progressbar_loading">Chwileczkę…</string>
-    <string name="miuix_show_password">Pokaż hasło</string>
     <string name="miuix_stretchablewidget_collapsed">Zwinięte</string>
     <string name="miuix_stretchablewidget_expanded">Rozwinięte</string>
     <string name="month_april">kwietnia</string>
@@ -184,14 +169,11 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="new_trans_intro_desc_new">"%1$d. Upewnij się, że Przenoszenie danych na nowym urządzeniu jest aktualne. Możesz pobrać jego najnowszą wersję za pomocą tego linka: %2$s.
 %3$d. Jeśli hotspot wciąż nie pojawia się w Przenoszeniu danych, otwórz ustawienia Wi-Fi i sprawdź, czy znajdzie się on tutaj. Jeśli tak, to wróć do Przenoszenia danych i dotknij jego nazwę."</string>
     <string name="new_trans_intro_question_7">"%d. Jeśli wyjdę z Przenoszenia danych w trakcie przenoszenia, będę musiał je zacząć od nowa?"</string>
-    <string name="new_version_transfer_downloading">Aktualizowanie Przenoszenia danych</string>
-    <string name="new_version_transfer_upgrading">Aktualizowanie…</string>
     <string name="new_wait_link_first">"1. Otwórz Przenoszenie danych na starym urządzeniu.
 2. Dotknij przycisku \"Jestem nadawcą\" i chwilę poczekaj.
 3. Wybierz odpowiedni hotspot na starym urządzeniu."</string>
     <string name="new_wait_link_title_2">1. Dotknij opcji \"Jestem nadawcą\" i odczekaj chwilę.</string>
     <string name="new_wait_link_title_3">2. Wybierz odpowiedni hotspot Wi-Fi na starym urządzeniu.</string>
-    <string name="not_selectable">Nie można wybrać</string>
     <string name="not_support">Niewspierane</string>
     <string name="not_support_data_link">"Elementy, które nie mogą zostać przeniesione"</string>
     <string name="not_support_data_summary1">"Motywy i tapety mogą być przeniesione tylko na niektórych modelach."</string>
@@ -200,7 +182,6 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="not_support_data_title">"Elementy, które nie mogą zostać przeniesione"</string>
     <string name="oaid_usage">W celu zapewnienia bezpieczeństwa przesyłanych elementów</string>
     <string name="opposite_new_version_transfer_content">Poczekaj na zakończenie aktualizacji Przenoszenia danych na innym urządzeniu, a następnie dotknij, aby połączyć ponownie.</string>
-    <string name="opposite_new_version_transfer_title">Trwa aktualizacja na innym urządzeniu</string>
     <string name="option_personal_info_list">Gromadzenie danych osobistych</string>
     <string name="option_privacy_policy">Polityka prywatności</string>
     <string name="option_privacy_settings">Prywatność</string>
@@ -268,12 +249,7 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="scanner_quit_alert_message">"Jeśli wyjdziesz teraz z Przenoszenia danych, będziesz musiał ponownie ustanowić połączenie między urządzeniami. Wyjść mimo to?"</string>
     <string name="scanner_subtitle_prd">Przeczytaj te informacje przed zaznaczeniem każdego elementu i rozpoczęciem przenoszenia.</string>
     <string name="secret_password_confirm_summary">Aby przenieść prywatne pliki na nowe urządzenie, zweryfikuj swoją tożsamość poprzez wpisanie hasła Ochrony prywatności.</string>
-    <string name="security_connect_button_negative">Anuluj</string>
-    <string name="security_connect_button_positive">Połącz</string>
     <string name="security_connect_content">Upewnij się, że kod połączenia na obu urządzeniach się zgadza, a następnie dotknij \"Połącz\", aby przenieść elementy.</string>
-    <string name="security_connect_hint">Kod połączenia</string>
-    <string name="security_connect_title_guest">Połączyć z nowym urządzeniem?</string>
-    <string name="security_connect_title_host">Połączyć ze starym urządzeniem?</string>
     <string name="sender">Wysyłaj</string>
     <string name="sender_scanning_code">Umieść obrazek w ramce</string>
     <string name="sender_scanning_connecting">Łączenie z nowym urządzeniem…</string>
@@ -309,9 +285,6 @@ Pobierz i zainstaluj Przenoszenie danych."</string>
     <string name="transfer_bottom_tip">"Nie będziesz w stanie używać Wi-Fi lub Bluetooth w trakcie przenoszenia. Nie opuszczaj tej strony."</string>
     <string name="transfer_finish_bottom_tip">"Jeśli nie zamierzasz już używać starego urządzenia, możesz wymazać wszystkie dane na nim po potwierdzeniu, że wszystkie najważniejsze elementy zostały pomyślnie przeniesione."</string>
     <string name="transfer_long_pause_in_progress">Przesyłanie…</string>
-    <string name="transfer_no_memory_dialog_btn">OK</string>
-    <string name="transfer_no_memory_dialog_summary">Nowe urządzenie ma za mało miejsca, aby dokończyć przenoszenie. Zwolnij je, aby ukończyć przesyłanie elementów.</string>
-    <string name="transfer_no_memory_dialog_title">Brak miejsca</string>
     <string name="transfer_snap_new_waiting_receive">Oczekiwanie na otrzymanie…</string>
     <string name="uncollected">Nie zgromadzono</string>
     <string name="use_purpose">Cel korzystania</string>

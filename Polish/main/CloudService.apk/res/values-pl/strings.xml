@@ -21,7 +21,6 @@
     <string name="device_activation_card_title">Pierwsza aktywacja</string>
     <string name="device_activation_page_title">Aktywacja urządzenia</string>
     <string name="dialog_storage_low_content">Aby kontynuować synchronizację, ulepsz swój plan Chmury.</string>
-    <string name="e2ee_button_exit_all_devices">Wyloguj się na wszystkich urządzeniach</string>
     <string name="e2ee_data_protection_label_wifi">Ustawienia Wi-Fi</string>
     <string name="e2ee_data_protection_tip">"Chmura Xiaomi oferuje Zaawansowaną ochronę danych. Ta funkcja używa szyfrowania end-to-end po to, aby Twoje dane były dostępne tylko na zaufanych urządzeniach. Nikt inny, w tym Xiaomi, nie może uzyskać dostępu do tych zaszyfrowanych danych. "</string>
     <string name="e2ee_device_delete_tip">Gdy usuniesz to urządzenie ze swojego konta Xiaomi, zostanie ono wylogowane. Nie będziesz w stanie korzystać z usług Chmury Xiaomi, wyszukiwania i innych funkcji powiązanych z tym kontem, dopóki nie zalogujesz się na nie ponownie.</string>
@@ -42,9 +41,6 @@
     <string name="lockscreen_access_pattern_area">Obszar wzoru odblokowania</string>
     <string name="lockscreen_access_pattern_cell_added">Dodano kropkę</string>
     <string name="lockscreen_access_pattern_cell_added_verbose">Dodano kropkę %1$s</string>
-    <string name="lockscreen_access_pattern_cleared">Pomyślnie wyczyszczono wzór</string>
-    <string name="lockscreen_access_pattern_detected">Ukończono rysowanie wzoru</string>
-    <string name="lockscreen_access_pattern_start">Rozpocznij rysowanie wzoru</string>
     <string name="micloud_dspt_provision_china">Wykorzystaj Chmurę Xiaomi do synchronizacji danych i lokalizacji urządzenia.</string>
     <string name="micloud_manaul_sync_success_button_text">Szczegóły</string>
     <string name="micloud_manaul_sync_success_title">Gotowe</string>
@@ -78,8 +74,6 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="privacy_policy_revoked_msg">Wycofałeś swoją zgodę na warunki Polityki prywatności Chmury Xiaomi, w związku z czym wszystkie Twoje dane przechowywane w chmurze zostały usunięte. Aby użyć tej usługi, przełącz się na inne konto.</string>
     <string name="privacy_policy_revoked_msg_contains_manual_activation">Wycofałeś swoją zgodę na warunki Polityki prywatności Chmury Xiaomi, w związku z czym wszystkie Twoje dane przechowywane w chmurze zostały usunięte. Jeśli chcesz ponownie skorzystać z tej usługi, wyraź zgodę na warunki Polityki prywatności na stronie i.mi.com. Ze względów bezpieczeństwa możesz aktywować konto tylko raz dziennie.</string>
     <string name="privacy_policy_update_title">Zaktualizowano Politykę prywatności</string>
-    <string name="privacy_runtime_perm_get_installed_apps_desc">W celu synchronizacji danych aplikacji</string>
-    <string name="privacy_runtime_perm_get_installed_apps_title">Dostęp do danych aplikacji</string>
     <string name="progress_notification_downloaded">Ukończono pobieranie</string>
     <string name="progress_notification_downloading">Postęp: %d%%</string>
     <string name="progress_notification_name">Pobieranie wtyczki</string>

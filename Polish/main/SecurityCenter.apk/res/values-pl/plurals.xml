@@ -90,10 +90,6 @@
         <item quantity="other">%s min</item>
         <item quantity="one">%s min</item>
     </plurals>
-    <plurals name="main_minutes">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-    </plurals>
     <plurals name="menu_text_antispam_ex">
         <item quantity="other">Zablokowano %d wiadomości/rozmowy</item>
         <item quantity="one">Zablokowano %d wiadomość/rozmowę</item>

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_sliding_button_state_description_off">Wyłączono</string>
-    <string name="accessibility_sliding_button_state_description_on">Włączono</string>
-    <string name="accessibility_tab_state_description_unselect">Nie wybrano</string>
     <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="action_get_otp">Kopiuj kod</string>
     <string name="add_to_block_by_number">"Dodano %s
@@ -113,25 +110,13 @@ Spróbuj ponownie."</string>
     <string name="menu_locus_map">Mapa podróży</string>
     <string name="menu_report">Opinia</string>
     <string name="menu_traffic_destination">Cel</string>
-    <string name="message_cannot_send_air_mode">Wyłącz Tryb samolotowy, aby wysyłać wiadomości</string>
-    <string name="message_cannot_send_sim_unavailable">Włóż kartę SIM, aby wysyłać wiadomości</string>
     <string name="message_saved_as_draft">Wiadomość została zapisana jako wersja robocza.</string>
     <string name="message_send_read_report">Wysłany zostanie raport o odczytaniu wiadomości.</string>
     <string name="mi_message_title">Wiadomości Mi</string>
-    <string name="miuix_accessibility_title">Tytuł</string>
-    <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
-    <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
-    <string name="miuix_appcompat_accessibility_new_message">Nowe powiadomienie</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja z chmurą jest wyłączona</string>
     <string name="miuix_appcompat_cloud_state_finished">Pomyślnie zsynchronizowano z chmurą</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronizowanie z chmurą…</string>
-    <string name="miuix_appcompat_show_dialog_description">Okno pop-up</string>
-    <string name="miuix_progressbar_loading">Chwileczkę…</string>
-    <string name="miuix_navigator_toolbar_screen_bottom">Pasek narzędzi na dole ekranu</string>
-    <string name="miuix_show_password">Pokaż hasło</string>
-    <string name="miuix_stretchablewidget_collapsed">Zwinięte</string>
-    <string name="miuix_stretchablewidget_expanded">Rozwinięte</string>
     <string name="mms_5g_mms_privacy_policy">Polityka prywatności Wiadomości 5G</string>
     <string name="mms_5g_mms_privacy_policy_revoke">Wycofaj zgodę na warunki Polityki prywatności Wiadomości 5G</string>
     <string name="mms_block_alert_message">Wszystkie MMS-y z wyjątkiem tych otrzymanych od autoryzowanych nadawców (takich jak operatorzy komórkowi, kolej itd.) zostaną zablokowane.</string>
@@ -212,7 +197,6 @@ W celu aktywacji Wiadomości Mi wymagane jest wysłanie wiadomości SMS. Twój o
     <string name="open_audio_record_panel">Otwórz nagrywanie</string>
     <string name="open_edit_sms_panel">Otwórz panel edycji</string>
     <string name="open_now">Ustawienia</string>
-    <string name="page_indicator">Wskaźnik strony</string>
     <string name="perm_purpose_mms_account">Aby uzyskać informacje o koncie</string>
     <string name="perm_purpose_mms_storage">Do zapisywania załączników MMS</string>
     <string name="perm_purpose_rcs_account">Do wyświetlania samouczka dla początkujących</string>
@@ -332,7 +316,6 @@ Włącz dane mobilne i otwórz tę stronę ponownie."</string>
     <string name="snippet_audio">[Dźwięk]</string>
     <string name="snippet_picture">[Obraz]</string>
     <string name="snippet_timed">[Zaplanowano]</string>
-    <string name="soundrecorder_not_found">Najpierw zainstaluj Dyktafon</string>
     <string name="sp_category_all">Wszystkie wiadomości</string>
     <string name="sp_category_bank">Wiadomości z banków</string>
     <string name="sp_mark_as_read_menu_title">Przeczytane</string>

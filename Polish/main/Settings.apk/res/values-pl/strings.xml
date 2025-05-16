@@ -54,12 +54,9 @@
     <string name="auto_disable_screenbuttons_rotation_title">Zablokuj w poziomie</string>
     <string name="auto_silent_info">Jeśli włączysz tryb Nie przeszkadzać ręcznie, ta funkcja przestanie działać</string>
     <string name="back_double_tap">Dwukrotne dotknięcie z tyłu</string>
-    <string name="back_strap_app_notification_title">Powiadomienia aplikacji</string>
-    <string name="back_strap_call_reminder_title">Przychodzące połączenia</string>    
     <string name="back_strap_image_simplified_text">Gdy urządzenie jest zwrócone ekranem do dołu i jest on wyłączony, lampa błyskowa będzie informować o nowych powiadomieniach</string>
     <string name="back_strap_image_text">Gdy urządzenie leży ekranem do dołu i jest on wyłączony, dioda będzie wyświetlać przypomnienia o powiadomieniach i efekty oświetleniowe w różnych sytuacjach</string>
     <string name="back_strap_on_back_light_display">Gdy telefon jest zwrócony ekranem do dołu</string>
-    <string name="back_strap_other_seetings">Dodatkowe ustawienia</string>
     <string name="back_strap_title">Efekty tylnej diody</string>
     <string name="back_tap">Dotknięcie z tyłu</string>
     <string name="back_triple_tap">Trzykrotne dotknięcie z tyłu</string>
@@ -267,9 +264,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="gxzw_quick_open_fast_title">Szybko przesuń (zaawansowane)</string>
     <string name="gxzw_quick_open_select_summary">· Po pojawieniu się skrótów przesuń, aby użyć jednego z nich.</string>
     <string name="gxzw_recognizing_anim_a">Plusk</string>
-    <string name="gxzw_recognizing_anim_b">Spirala</string>
-    <string name="gxzw_recognizing_anim_d">Fala</string>
-    <string name="gxzw_recognizing_anim_e">Otwór</string>
     <string name="gxzw_recognizing_anim_f">Dyfuzja</string>
     <string name="handle_ota_connect_first">Podłącz uchwyt</string>
     <string name="handy_mode">Jedna dłoń</string>
@@ -298,8 +292,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="keyboard_skin_follow_system_enable">Włącz Ciemny motyw razem z systemem</string>
     <string name="keyguard_security_setting_privacy_policy">Polityka prywatności</string>
     <string name="knock_guide_sub_title">Możesz wywołać Mi SI lub wykonywać zrzuty ekranu, dotykając ekranu knykciem</string>
-    <string name="lamp_effect_brightness">Jasność</string>
-    <string name="lamp_effect_color">Kolor</string>
     <string name="lattice_smartcover_title">Siatkowy</string>
     <string name="launch_control_center">Centrum funkcji</string>
     <string name="launch_recents">Ostatnie aplikacje</string>
@@ -431,6 +423,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="navigation_guide_recent_title">Pokaż ostatnie aplikacje</string>
     <string name="navigation_type_radio_text_full_screen">Gesty</string>
     <string name="near_loclscreen_title">Wybudź ekran, gdy się zbliżasz</string>
+    <string name="nearby_wifi_refresh_running">Odświeżanie</string>
     <string name="nearby_wifi_title">Dostępne urządzenia</string>
     <string name="network_dashboard_title">Sieć i Internet</string>
     <string name="network_settings_title">Karty SIM i sieci mobilne</string>
@@ -476,7 +469,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="photography_handle_charge_state_choice_emergency">Wyjątkowo</string>
     <string name="photography_handle_charge_state_summary_new">Zacznij ładowanie tego urządzenia z uchwytu aparatu po jego podłączeniu</string>
     <string name="photography_handle_emergency_charge_title">Poziom alarmowego ładowania</string>
-    <string name="photography_handle_low_battery_notify_title">Aktualizacja oprogramowania uchwytu aparatu</string>
     <string name="picture_in_picture_app_detail_switch">Pozwól na tryb obraz w obrazie</string>
     <string name="picture_in_picture_app_detail_title">Obraz w obrazie</string>
     <string name="picture_in_picture_empty_text">Żadna zainstalowana aplikacja nie obsługuje trybu obrazu w obrazie</string>
@@ -666,7 +658,6 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
 lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="usb_reverse_charge">Ładowanie zwrotne</string>
     <string name="usb_summary_power_only">Zasilanie innego urządzenia</string>
-    <string name="usb_switch_reverse_charge_failed">Niedostępne</string>
     <string name="usb_tethering_active_subtext">Powiązano</string>
     <string name="use_control_panel">Użyj nowego Centrum funkcji</string>
     <string name="use_otg_charge_only">Ładowanie zwrotne</string>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_sliding_button_state_description_off">Wyłączono</string>
-    <string name="accessibility_sliding_button_state_description_on">Włączono</string>
-    <string name="accessibility_tab_state_description_unselect">Nie wybrano</string>
-    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="activity_title_fakecell">Ochrona przed fałszywymi stacjami bazowymi</string>
     <string name="always_enable_mms_summary">Zawsze odbieraj MMS, również wtedy, gdy dane mobilne są wyłączone</string>
     <string name="auto_redial_pref_title">Ponowne wybieranie</string>
@@ -39,15 +35,10 @@
     <string name="forbidden_fakecell_summary">Zapobiegaj łączeniu się urządzenia z fałszywymi stacjami bazowymi</string>
     <string name="handon_ringer_summary">Zmniejsz głośność dzwonka dla połączeń przychodzących po podniesieniu telefonu</string>
     <string name="missed_call_notify_times_summary">Przypomnienia są oddzielone %d-minutowymi przerwami</string>
-    <string name="miuix_accessibility_title">Tytuł</string>
     <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
     <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
-    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Wyjdź z trybu edycji</string>
-    <string name="miuix_appcompat_accessibility_new_message">Nowe powiadomienie</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_appcompat_show_dialog_description">Wyskakujące okno</string>
-    <string name="miuix_progressbar_loading">Chwileczkę…</string>
-    <string name="miuix_show_password">Pokaż hasło</string>
     <string name="miuix_stretchablewidget_collapsed">Zwinięto</string>
     <string name="miuix_stretchablewidget_expanded">Rozwinięto</string>
     <string name="month_april">kwietnia</string>
