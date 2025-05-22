@@ -146,6 +146,7 @@ Zwiększone bezpieczeństwo."</string>
     <string name="recents_title_app_manager">Aplikacje</string>
     <string name="recents_title_garbage_deepclean">Śmieci</string>
     <string name="recents_title_security_scan">Antywirus</string>
+    <string name="remove_sys_app_content">Będziesz mógł ponownie dodać skrót do Ekranu głównego w Ustawienia > Aplikacje > Zarządzaj skrótami na ekranie głównym. Usunąć teraz?</string>
     <string name="screen_cells_config_title">Rozmiar siatki</string>
     <string name="screen_locked_toast">Edycja pulpitu jest zablokowana</string>
     <string name="setting_close">Wyłączone</string>

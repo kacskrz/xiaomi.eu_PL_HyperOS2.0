@@ -39,6 +39,11 @@
         <item quantity="other">Kopiowanie %d elementów za pomocą danych mobilnych…</item>
         <item quantity="one">Kopiowanie %d elementu za pomocą danych mobilnych…</item>
     </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+        <item quantity="one">Wybrano %1$d element</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">%1$d elementów</item>
         <item quantity="one">%1$d element</item>

@@ -141,6 +141,9 @@
     <string name="screen_on_proximity_sensor_title">Aktywny Tryb kieszonkowy</string>
     <string name="screen_shot">Wykonaj zrzut ekranu</string>
     <string name="set_password_message">Ustaw hasło, aby korzystać z tej funkcji</string>
+    <string name="share_device_near_share">Udostępnij urządzeniom w pobliżu</string>
+    <string name="share_device_near_share_hide">Ukryj</string>
+    <string name="share_device_near_share_image_describe">Zbliż do siebie obszary NFC dwóch różnych urządzeń, aby rozpocząć udostępnianie</string>
     <string name="show_menu">Pokaż menu</string>
     <string name="sim_added_reboot_confirm">Restartuj</string>
     <string name="sla_btn_concel">"Nie przypominaj"</string>

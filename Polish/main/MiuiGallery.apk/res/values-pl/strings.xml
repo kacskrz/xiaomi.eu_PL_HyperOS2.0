@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="add_automatically_alert_msg">Dodać automatycznie zdjęcia  \"%1$s\" do tego albumu?</string>
     <string name="add_to_album_bulk_result">Błąd (%d)</string>
     <string name="add_to_album_exist">Zdjęcie już istnieje w docelowym albumie</string>
@@ -77,7 +78,6 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="clear_dup_tip">Usuwanie duplikatów</string>
     <string name="cloud_action_upgrade_free">Ulepsz za darmo</string>
     <string name="cloud_full_space_tip_message">Ulepsz swój plan Chmury, aby móc zsynchronizować z nią wszystkie zdjęcia i filmy.</string>
-    <string name="confirm_merge_face_albums">"  Scalić ten album z %s?  "</string>
     <string name="cta_agreement_declare">Aby w pełni zrozumieć Twoje prawa jako użytkownika, a także metody, w ramach których Xiaomi używa Twoich danych, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> przed skorzystaniem z tej aplikacji.</string>
     <string name="cta_network_declare">Aby synchronizować zdjęcia i filmy z Chmurą Xiaomi, aplikacja wymaga połączenia z Internetem.</string>
     <string name="cta_screenthrow_declare">"Aby móc przesyłać ekran tego urządzenia na zewnętrzne monitory, aplikacja musi się połączyć z Internetem."</string>
@@ -85,6 +85,8 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="delete_in_home_page">Wybrane elementy zostaną usunięte z Chmury Xiaomi i wszystkich połączonych z nią urządzeń, a także przeniesione do kosza w Chmurze na okres %d dni, jeśli posiadasz darmowy plan Chmury. Usunąć mimo to?</string>
     <string name="delete_owner_and_other_shared_images_format">Usuniętych: %1$d. Pozostało: %2$d.</string>
     <string name="delete_risk_alert_message">"Chcesz usunąć dużą liczbę elementów. Jeśli przejdziesz dalej, zostaną one przeniesione do \"Ostatnio usuniętych elementów\". Usunąć te elementy?"</string>
+    <string name="desc_gallery_widget_editor_font_color_light_blue">Jasnoniebieski</string>
+    <string name="desc_gallery_widget_editor_font_color_light_green">Jasnozielony</string>
     <string name="double_tap_for_hr_preview_108m">Dotknij dwa razy, aby pokazać podgląd w 108 Mpx</string>
     <string name="double_tap_for_hr_preview_200m">Dotknij ponownie dwa razy, aby włączyć podgląd 200 Mpx</string>
     <string name="download_library_dialog_message">Galeria wymaga szablonów, aby móc tworzyć wspomnienia na tym urządzeniu. Do ich pobrania zalecane jest połączenie z siecią Wi-Fi.</string>
@@ -146,6 +148,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="media_type_fast_motion_video">Poklatkowe</string>
     <string name="migrate_gp_msg">"Twoje zdjęcia i filmy nie będą już synchronizowane z Chmurą Xiaomi. Możesz przenieść swoje elementy do Zdjęć Google lub pobrać je ze strony i.mi.com do %1$s. Potem elementy, które są nadal przechowywane w Chmurze Xiaomi, zostaną trwale usunięte.
 %2$s"</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">K</string>

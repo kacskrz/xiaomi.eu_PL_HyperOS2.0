@@ -17,6 +17,7 @@
     <string name="display_mode">Wyświetlaj</string>
     <string name="encrypt_success_first_five">Ten element jest obecnie prywatny. Przeciągnij w dół w głównym menu Plików, aby go zobaczyć.</string>
     <string name="enter">Otwórz Pliki</string>
+    <string name="file_cloud_parsing">Przetwarzanie w chmurze w toku…</string>
     <string name="ftp_account_req_notice">"Nazwa użytkownika i hasło powinny mieć od %1$d do %2$d znaków (rozróżniane są duże i małe litery) i nie powinny zawierać znaków specjalnych."</string>
     <string name="ftp_username_and_passworld">Dane logowania</string>
     <string name="guide_two_summary">Domyślnie zdjęcia z Galerii oraz zrzuty ekranu są ukryte.</string>
