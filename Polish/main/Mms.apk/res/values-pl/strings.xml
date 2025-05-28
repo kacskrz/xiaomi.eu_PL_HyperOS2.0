@@ -34,6 +34,7 @@ Spróbuj ponownie."</string>
     <string name="allow_network_hint">Włącz opcję \"Dostęp do sieci\" lub sprawdź połączenie sieciowe</string>
     <string name="already_updated">Aktualne</string>
     <string name="attach_video_call">Rozmowa wideo</string>
+    <string name="attachment_panel_show_part_new">Strona %1$d z %2$d</string>
     <string name="auto_identify_btn_text_only_smart_messaging">Włącz Inteligentne wiadomości</string>
     <string name="beidou_support_cta_tips">Ta aplikacja może również czytać, edytować, wysyłać i otrzymywać wiadomości z satelity BeiDou.</string>
     <string name="bookmark_confirm_delete_message">Wiadomość zostanie usunięta z ulubionych.</string>
@@ -46,6 +47,7 @@ Spróbuj ponownie."</string>
     <string name="cannot_send_mms">"MMS-y nie są wspierane w komunikacji satelitarnej"</string>
     <string name="carry_current_location">Załącz obecną lokalizację</string>
     <string name="carry_vital_signs">Uwzględnij funkcje życiowe</string>
+    <string name="clear_recipient">Wyczyść</string>
     <string name="cloud_space_not_enough">Brak miejsca w Chmurze. Ulepsz swój plan, aby zsychronizować ostatnie elementy.</string>
     <string name="cloud_state_disabled">Włącz synchronizację z chmurą, aby synchronizować wiadomości</string>
     <string name="cm_privacy_dialog_spannable_tips">Politykę prywatności</string>
@@ -295,6 +297,7 @@ Włącz dane mobilne i otwórz tę stronę ponownie."</string>
     <string name="save_to_sim">Zapisz na SIM</string>
     <string name="search_empty">Brak wyników</string>
     <string name="search_path_mms">Ustawienia/Systemowe/SMS</string>
+    <string name="search_sms_in_action_mode">Wyszukiwanie, wyszukiwanie SMS-ów, pole edycji, wyłączone</string>
     <string name="select_copy_text">Zaznacz i skopiuj tekst</string>
     <string name="send_after_compress">Kompresuj</string>
     <string name="send_orignal_picture">Oryginalny</string>

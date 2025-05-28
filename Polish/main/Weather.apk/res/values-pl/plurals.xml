@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="button_confirm_to_second">
+        <item quantity="other">%1$s sekund</item>
+        <item quantity="few">%1$s sekundy</item>
+        <item quantity="one">%1$s sekunda</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
        <item quantity="other">Prognoza %1$s-dniowa</item>
        <item quantity="one">Prognoza %1$s-dniowa</item>

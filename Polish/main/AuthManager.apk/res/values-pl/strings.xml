@@ -51,6 +51,7 @@
     <string name="HIPS_Perm_write_clipboard">Zapisywanie do schowka</string>
     <string name="HIPS_SecurityPrompt_Reject_Never">"Odmów i nie pytaj ponownie (%d)"</string>
     <string name="Su_Package_Forbidden2">" nie ma dostępu do root."</string>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="blur_location_is_on_tip">Aplikacja %1$s używa przybliżonej lokalizacji. Czy ma być ona nadal włączona?</string>
     <string name="blur_location_now_tip">Przybliżona lokalizacja włączona</string>
     <string name="cetus_invisible_mode_notice_audio">"Jesteś incognito. Nie można użyć mikrofonu."</string>
@@ -86,6 +87,7 @@
     <string name="group_sport_healthy">Zdrowie i aktywność</string>
     <string name="group_write_clipboard">Dodawanie elementów do schowka</string>
     <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_appcompat_deselect_all">Odznacz</string>
     <string name="overlay_read_clip_toast">Aplikacja \"%1$s\" uzyskała dostęp do schowka</string>
     <string name="perm_action_deny">Nigdy nie zezwalaj</string>

@@ -3,6 +3,7 @@
     <string name="accessibility_enter_lock_setting">Dotknij, aby otworzyć ustawienia Tapet blokady</string>
     <string name="accessibility_enter_lock_wallpaper">Pokaż Tapety blokady</string>
     <string name="accessibility_left_lock_screen_magazine_button">Tapety blokady</string>
+    <string name="accessibility_recent_button">Przycisk Menu</string>
     <string name="app_label">Interfejs</string>
     <string name="biometric_dialog_tap_confirm_with_face_sfps">Odblokowano skanem twarzy. Kliknij, aby przejść dalej.</string>
     <string name="cast_to_other_device_stop_dialog_message">Zatrzymasz przesyłanie swojego ekranu</string>

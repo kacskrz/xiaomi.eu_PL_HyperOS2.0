@@ -2,6 +2,8 @@
 <resources>
     <string name="dialog_body_no_network">Włącz Wi-Fi lub dane komórkowe.</string>
     <string name="dialog_body_no_network_china">Połącz się z siecią Wi-Fi lub włącz dane mobilne.</string>
+    <string name="mode_normal_switched">Przełączono na normalny widok</string>
+    <string name="mode_realwolrd_switched">Przełączono na widok live</string>
     <string name="preference_privacy_policy">Wyświetl Politykę prywatności</string>
     <string name="preference_privacy_title">Polityka prywatności</string>
     <string name="shake_enter_tip">Potrząśnij, aby skalibrować</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="alternative_ui_content">Ta funkcja umożliwia wykonywanie i przywracanie kopii zapasowych z telefonu bądź komputera. Do poprawnego działania wymaga ona połączenia z Internetem oraz następujących niezbędnych uprawnień:</string>
     <string name="auto_backup_choose_title">Wybierz elementy kopii</string>
     <string name="auto_backup_open">Zaplanuj wykonywanie kopii</string>
@@ -8,6 +9,8 @@
     <string name="backup_error">Kopia nieudana</string>
     <string name="backup_failed">Kopia nieudana</string>
     <string name="backup_file_error">Wystąpił problem z kopią</string>
+    <string name="backup_item_collapsed">Zwinięto</string>
+    <string name="backup_item_expanded">Rozwinięto</string>
     <string name="backup_notice_content">"Twoje kopie zapasowe nie będą szyfrowane, co oznacza, iż mogą do nich uzyskiwać dostęp aplikacje firm trzecich. Mogą również wystąpić inne zagrożenia bezpieczeństwa urządzenia. Upewnij się, że przechowywasz skopiowane elementy w dobrze chronionym środowisku."</string>
     <string name="backup_notification_title">\"Kopia zapasowa\" pracuje…</string>
     <string name="backup_security_tips_message">Niektóre aplikacje mogą nie zostać skopiowane lub poprawnie przywrócone.</string>
@@ -74,6 +77,7 @@
     <string name="local_main_backup_time">Ostatnia kopia: %1$s</string>
     <string name="local_restore_select_activity">Zarządzaj kopiami</string>
     <string name="local_select_audio">Muzyka</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="month_april">kwietnia</string>
@@ -124,7 +128,6 @@
     <string name="new_local_tab_backup">Skopiuj</string>
     <string name="new_local_tab_backup_pad">Skopiuj</string>
     <string name="new_pc_backup_content2">%d. Poczekaj, aż wszystko zostanie skopiowane.</string>
-    <string name="new_pc_backup_content3">%d. Otwórz katalog MIUI-backup-AllBackup i zlokalizuj folder lub plik *.zip z kopią poprzez datę znajdującą się w nazwie.</string>
     <string name="new_pc_backup_summary1">Wybierz elementy i kliknij \"Kopia zapasowa\".</string>
     <string name="new_pc_backup_summary2">Podłącz telefon do komputera, używając kabla USB.</string>
     <string name="new_pc_backup_summary2_pad">Podłącz urządzenie do komputera za pomocą kabla USB.</string>

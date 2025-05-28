@@ -158,6 +158,9 @@
     <string name="cancel_download">Anulowano pobieranie</string>
     <string name="cancel_like_talkback">Wycofano polubienie</string>
     <string name="carousel_no_set_wallpaper_effects">Nie można ustawić efektów, gdy włączone są Tapety Blokady</string>
+    <string name="carousel_wallpaper">Zmieniaj kolejność tapet</string>
+    <string name="carousel_wallpaper_dlg_apply_home_btn">Tylko na Ekranie głównym</string>
+    <string name="carousel_wallpaper_dlg_apply_lock_btn">Zastosować ten zestaw tapet także na Ekranie blokady?</string>
     <string name="check_has_new_version">Dostępna jest aktualizacja</string>
     <string name="choose_from_photo">Wybierz z Galerii</string>
     <string name="choose_video_dialog_invalid_direction_title">Poziome wideo nie jest wspierane.</string>
