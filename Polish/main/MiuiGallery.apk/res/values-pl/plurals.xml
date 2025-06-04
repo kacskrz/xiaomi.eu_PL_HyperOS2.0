@@ -13,6 +13,12 @@
         <item quantity="few">Dodano %1$d zdjęcia do prywatnego albumu</item>
         <item quantity="one">Dodano 1 zdjęcie do prywatnego albumu</item>
     </plurals>
+    <plurals name="ai_image_over_limit_msg">
+        <item quantity="other">Jedna osoba może utworzyć maks. %d obrazu SI.</item>
+        <item quantity="one">Jedna osoba może utworzyć maks. %d obraz SI.</item>
+        <item quantity="few">Jedna osoba może utworzyć maks. %d obrazy SI.</item>
+        <item quantity="many">Jedna osoba może utworzyć maks. %d obrazów SI.</item>
+    </plurals>
     <plurals name="album_permission_subtitle_multiple">
         <item quantity="other">%2$d albumów, włącznie z %1$s</item>
         <item quantity="few">%2$d albumy, włącznie z %1$s</item>
