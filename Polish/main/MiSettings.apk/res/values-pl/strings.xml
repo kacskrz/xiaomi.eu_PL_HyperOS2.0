@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="advanced_mode">Zaawansowane ustawienia</string>
-    <string name="advanced_paper_mode_title">Komfort oczu</string>
     <string name="africa_introduction">"Dzika przyroda kwitnie w Afryce - to dom dla wielu najsłynniejszych zwierząt na świecie."</string>
     <string name="african_bush_elephant">Afrykański słoń buszu</string>
     <string name="africans_white_backed_vulture">Sęp afrykański</string>
@@ -78,7 +78,6 @@
     <string name="click_to_save">Dotknij przycisku \"Gotowe\", aby ustawić ogólny dzwonek.</string>
     <string name="common_brushtail">Kitanka lisia</string>
     <string name="common_ostrich">Struś</string>
-    <string name="continue_use_category_title">Limit ciągłego korzystania</string>
     <string name="continue_use_switch_title">Limit ciągłego korzystania z urządzenia</string>
     <string name="control_center_title">Czas przed ekranem dzisiaj</string>
     <string name="control_center_title_new">Używano dzisiaj</string>
@@ -157,7 +156,6 @@ nie są tworzone w Drugiej przestrzeni"</string>
     <string name="large_ground_finch">Darwinka wielkodzioba</string>
     <string name="laughing_kookaburra">Kukabura</string>
     <string name="laughing_kookaburra_info">Kukabury są znane z unikalnych dźwięków. Są dobre w polowaniu na węże i inne gady.</string>
-    <string name="limit_know">OK</string>
     <string name="lion">Lew</string>
     <string name="lion_info">Lwy to groźne i potężne drapieżniki. Żyją w grupach i mają silne poczucie terytorium.</string>
     <string name="long_tai1ed_iaeger">Wydrzyk długosterny</string>
@@ -245,13 +243,13 @@ nie są tworzone w Drugiej przestrzeni"</string>
     <string name="normal_mode_summary_new_data">Aby zmniejszyć zmęczenie oczu, ustaw niską jasność ekranu</string>
     <string name="north_white_rhinoceros">Nosorożec biały</string>
     <string name="norway_lemmings">Lemingi norweskie</string>
-    <string name="not_allowed_for_child">Ta funkcja nie jest dostępna dla nieletnich</string>
     <string name="olive_baboon">Pawian oliwkowy</string>
     <string name="orange_winged_amazon">Amazonka modrobrewa</string>
     <string name="orca">Orka oceaniczna</string>
     <string name="pallas_s_cat">Manul stepowy</string>
     <string name="parasitic_jaeger">Wydrzyk ostrosterny</string>
     <string name="pcl_app_control_start_summary">Zadbaj o to, aby Twoje dzieci bezpiecznie i odpowiedzialnie korzystały ze swoich urządzeń</string>
+    <string name="pcl_input_invalid_char">Wprowadź tylko prawidłowe znaki</string>
     <string name="pcl_privacy_policy">Polityka prywatności</string>
     <string name="pcl_privacy_policy_revoke_message">"Wycofanie zgody na Politykę prywatności %1$s jest równoznaczne z odmową korzystania z usług %2$s.
 Wycofać zgodę?"</string>
@@ -281,12 +279,9 @@ Wycofać zgodę?"</string>
     <string name="screen_fps_unit_smooth">%d Hz (lepsza płynność)</string>
     <string name="screen_time_lock">Blokada Czasu przed ekranem</string>
     <string name="sea_otter">Kałan morski</string>
-    <string name="search_app_empty">Nie znaleziono powiązanych aplikacji</string>
-    <string name="search_category_empty">Nie znaleziono powiązanych kategorii</string>
     <string name="seal_info">Foki to ssaki morskie, które mogą szybko poruszać się w głębokich wodach, żerując na rybach i krewetkach.</string>
     <string name="short_eared_owl">Uszatka błotna</string>
     <string name="silver_pheasant">Kiściec srebrzysty</string>
-    <string name="skip_forced_rest">Pomiń</string>
     <string name="skywalker_hoolock_gibbon">Hulok skywalker</string>
     <string name="small_ground_finch">Darwinka mała</string>
     <string name="sms_received_sound_title">Nowa wiadomość</string>
