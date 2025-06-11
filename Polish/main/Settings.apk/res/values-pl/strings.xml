@@ -501,8 +501,6 @@ Przestrzeni prywatnej nie można przywrócić na innym urządzeniu. Jeśli chces
 Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządzeniu szkodliwe aplikacje, będzie mógł uzyskać dostęp do Twojej przestrzeni prywatnej."</string>
     <string name="recent_apps_label">Ostatnie aplikacje</string>
     <string name="requires_modern_control_center">Działa wyłącznie z nowym wyglądem Centrum funkcji</string>
-    <string name="ringer_mode_setting_summary_default">Wycisz przychodzące połączenia i powiadomienia</string>
-    <string name="ringer_mode_setting_summary_tablet">Wycisz powiadomienia</string>
     <string name="satellite_management_title">Sieć satelitarna</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Część aplikacji w ramach Ciemnego motywu może być niepoprawnie wyświetlana. Możesz ograniczyć tutaj korzystanie z Ciemnego motywu dla poszczególnych aplikacji.</string>
     <string name="screen_dark_mode_smart_dark_title">Globalny ciemny motyw</string>

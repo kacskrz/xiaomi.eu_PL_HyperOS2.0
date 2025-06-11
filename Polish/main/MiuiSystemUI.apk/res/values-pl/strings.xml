@@ -3,6 +3,7 @@
     <string name="accessibility_enter_lock_setting">Dotknij, aby otworzyć ustawienia Tapet blokady</string>
     <string name="accessibility_enter_lock_wallpaper">Pokaż Tapety blokady</string>
     <string name="accessibility_left_lock_screen_magazine_button">Tapety blokady</string>
+    <string name="accessibility_quick_settings_bluetooth_restricted">Połączenie ograniczone</string>
     <string name="accessibility_recent_button">Przycisk Menu</string>
     <string name="app_label">Interfejs</string>
     <string name="biometric_dialog_tap_confirm_with_face_sfps">Odblokowano skanem twarzy. Kliknij, aby przejść dalej.</string>
@@ -104,11 +105,14 @@ d.MM"</string>
     <string name="notification_safemode_title_safemode">Informacja dot. rozwiązywania problemu zamknięć interfejsu systemu</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">Wyłącz urządzenie i przejdź do trybu Recovery</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">Wykonaj reset do ustawień fabrycznych</string>
+    <string name="qs_control_big_tile_state_disconnected">Nie połączono</string>
     <string name="qs_open_night_mode_alert_summary">"Niektóre ustawienia wyświetlania nie są kompatybilne z Ciemnym motywem. Zostaną one przywrócone po jego wyłączeniu."</string>
+    <string name="quick_settings_connected">Połączono</string>
     <string name="quick_settings_nfc_label">NFC</string>
     <string name="quick_settings_night_state_change_message_off">Ciemny motyw jest wyłączony</string>
     <string name="quick_settings_night_state_change_message_on">Ciemny motyw jest włączony</string>
     <string name="quick_settings_nightmode_label">Ciemny motyw</string>
+    <string name="quick_settings_state_saved">Zapisano</string>
     <string name="quick_settings_state_saved_wlan_devices_china">Zapisane Wi-Fi</string>
     <string name="reboot_to_bootloader_title">Fastboot</string>
     <string name="reboot_to_recovery_title">Recovery</string>

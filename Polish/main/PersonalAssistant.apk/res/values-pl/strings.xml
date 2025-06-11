@@ -154,6 +154,10 @@ Dotknij dwa razy, aby wyświetlić szczegóły."</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Dodaj ten element na Ekran główny.</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Dodaj ten element do Asystenta HyperOS.</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Edytuj</string>
+    <string name="pa_accessibility_picker_widget_detail_select_image_multi_selected">%s, wybrano, dotknij dwa razy, aby usunąć ten element z widżetu</string>
+    <string name="pa_accessibility_picker_widget_detail_select_image_multi_selected_only_one">%s, wybrano, wybierz co najmniej jeden element, obecnie wybrano tylko ten element</string>
+    <string name="pa_accessibility_picker_widget_detail_select_image_multi_unselect">%s, nie wybrano, dotknij dwa razy, aby dodać ten element do widżetu</string>
+    <string name="pa_accessibility_picker_widget_detail_select_image_single">%s, dotknij dwa razy, aby użyć tego elementu w widżecie</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Wybrano widżet. Przeciągnij, aby dodać ten element na Ekran główny.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Wybrano widżet. Przeciągnij, aby dodać ten element do Asystenta HyperOS.</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Sklep z widżetami. Wybierz, aby wyświetlić wszystkie widżety dla %s. Dotknij dwa razy, aby wyświetlić wszystkie widżety dla %s.</string>
@@ -333,6 +337,10 @@ Zajrzyj tu wkrótce!"</string>
     <string name="pa_picker_order_theme_app_cta_pre">Aby móc używać tej funkcji, zezwól tej aplikacji na łączenie się z Internetem.</string>
     <string name="pa_picker_permission_denied">"Asystent HyperOS musi mieć dostęp do stanu instalacji,
 aby wyświetlać widżety."</string>
+    <string name="pa_picker_purchase_fail_too_many_device_dialog_cancel">Anuluj</string>
+    <string name="pa_picker_purchase_fail_too_many_device_dialog_confirm">Zmień konto</string>
+    <string name="pa_picker_purchase_fail_too_many_device_dialog_desc">Każde konto Xiaomi może używać widżetów na maksymalnie %d urządzeniach rocznie. To konto osiągnęło ten limit. Aby dodać kolejne urządzenie, użyj innego konta Xiaomi.</string>
+    <string name="pa_picker_purchase_fail_too_many_device_dialog_title">Nie można dodać więcej urządzeń</string>
     <string name="pa_picker_purchase_order">Zakupione</string>
     <string name="pa_picker_recommend_add_limit_toast">"Nie można dodać więcej widżetów"</string>
     <string name="pa_picker_recommend_bottom_button_add">Dodaj widżet</string>
@@ -396,6 +404,9 @@ Dodaj widżety, aby rozpocząć."</string>
     <string name="pa_search_hint">Szukaj</string>
     <string name="pa_search_summary">Wyświetlaj pasek wyszukiwania</string>
     <string name="pa_search_title">Wyszukiwanie</string>
+    <string name="pa_service_delivery_carousel_desc_talkback">Przesuwaj w górę lub w dół, aby wybrać inny widżet w grupie</string>
+    <string name="pa_service_delivery_carousel_page_down_talkback">Przesuń w dół, aby przełączyć. Aktualny widżet: %1$s</string>
+    <string name="pa_service_delivery_carousel_page_up_talkback">Przesuń w górę, aby przełączyć. Aktualny widżet: %1$s</string>
     <string name="pa_setting">Ustawienia</string>
     <string name="pa_setting_app_usage_auth_close_auth">Wyłącz</string>
     <string name="pa_setting_app_usage_auth_dialog_message">"Nie będzie można korzystać z widżetu \"Sugestie aplikacji\" po wyłączeniu tej funkcji. Wyłączyć ją mimo to?"</string>
