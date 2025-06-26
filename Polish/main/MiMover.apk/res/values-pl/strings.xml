@@ -11,6 +11,8 @@
     <string name="PRD_title_tablet_1">%1$d. Dane tych aplikacji już istnieją na nowym urządzeniu:</string>
     <string name="PRD_title_tablet_4">%1$d. Postępuj ostrożnie z urządzeniem</string>
     <string name="PRD_title_tablet_5">%1$d. Urządzenie się nagrzeje w trakcie procesu</string>
+    <string name="accessbility_item_collapsed">Zwinięto</string>
+    <string name="accessbility_item_expanded">Rozwinięto</string>
     <string name="android_id_usage">W celu rozpoznawania wersji aplikacji oraz kompatybilności między starym i nowym urządzeniem</string>
     <string name="app_update_64_dialog_cancel">Nie teraz</string>
     <string name="app_update_64_dialog_confirm">Aktualizuj</string>
@@ -23,8 +25,6 @@
     <string name="apps_cannot_be_transfered_summary">"Te 64-bitowe aplikacje nie mogą zostać przeniesione na 32-bitowe urządzenie. Możesz je pobrać ze sklepu z aplikacjami po zakończeniu przenoszenia."</string>
     <string name="apps_cannot_be_transfered_title">"Nie można przenieść tych aplikacji"</string>
     <string name="ble_manual_authorization_content">Aby przenieść elementy w Przenoszeniu danych, przyznaj wymagane uprawnienia. Możesz to zrobić w Ustawieniach.</string>
-    <string name="ble_manual_authorization_positive_btn">Ustawienia</string>
-    <string name="ble_manual_authorization_title">Wymagane uprawnienia</string>
     <string name="cancel_btn">Anuluj</string>
     <string name="cancel_description">Anuluj</string>
     <string name="cannot_use_mi_huanji_bacause_of_downloader">Aplikacja \"%s\" już dostarcza usługi systemowej kopii zapasowej. Odinstaluj ją i uruchom ponownie urządzenie, aby móc używać Przenoszenia danych.</string>
@@ -118,12 +118,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="main_sender_summary">Wyślij elementy</string>
     <string name="message_request_manage_external_storage_perm">Przenoszenie danych wymaga dostępu do wszystkich plików na urządzeniu, aby móc przenieść je ze starego urządzenia na nowe.</string>
     <string name="message_request_package_stats_perm">Aplikacja Przenoszenie danych wymaga tego uprawnienia, aby uzyskać informacje na temat zainstalowanych aplikacji na urządzeniu oraz przenieść je na inne urządzenie.</string>
-    <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
-    <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
-    <string name="miuix_appcompat_show_dialog_description">Okno pop-up</string>
-    <string name="miuix_stretchablewidget_collapsed">Zwinięte</string>
-    <string name="miuix_stretchablewidget_expanded">Rozwinięte</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">K</string>
@@ -278,9 +273,7 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="trans_apple_hint_china">Nie opuszczaj tej strony i nie korzystaj z Wi-Fi, dopóki transfer się nie zakończy.</string>
     <string name="trans_install_guide_new_content_first">"Zeskanuj ten kod QR na nowym urządzeniu. 
 Pobierz i zainstaluj Przenoszenie danych."</string>
-    <string name="trans_install_guide_old_content_first">"1. Zeskanuj ten kod QR na starym urządzeniu.
-2. Pobierz i zainstaluj Przenoszenie danych.
-3. Dotknij przycisk poniżej, gdy instalacja się zakończy."</string>
+    <string name="trans_install_guide_old_content_first">Zeskanuj ten kod QR starym urządzeniem, aby pobrać i zainstalować Przenoszenie danych.</string>
     <string name="trans_show_qr_code_label_for_pad">Otwórz Przenoszenie danych na starym urządzeniu</string>
     <string name="transfer_bottom_tip">"Nie będziesz w stanie używać Wi-Fi lub Bluetooth w trakcie przenoszenia. Nie opuszczaj tej strony."</string>
     <string name="transfer_finish_bottom_tip">"Jeśli nie zamierzasz już używać starego urządzenia, możesz wymazać wszystkie dane na nim po potwierdzeniu, że wszystkie najważniejsze elementy zostały pomyślnie przeniesione."</string>

@@ -3,7 +3,6 @@
     <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="action_back">Wstecz</string>
     <string name="action_description_retry_downloading">Ponowna próba udana</string>
-    <string name="action_description_retry_failed">Nie udało się pobrać</string>
     <string name="action_description_retry_pending">Ponowna próba udana. Pobieranie…</string>
     <string name="ad_download">Instaluj</string>
     <string name="bt_download">Pobierz</string>

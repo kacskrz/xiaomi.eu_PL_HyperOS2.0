@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="baby_care">Opieka nad niemowlętami</string>
     <string name="base_rate_first_house">Stopa procentowa pierwszej nieruchomości (%1$s)</string>
     <string name="base_rate_second_house">Stopa procentowa drugiej nieruchomości (%1$s)</string>
     <string name="cta_desc">Witamy w Kalkulatorze! Ta aplikacja łączy w sobie cechy zwykłego kalkulatora z wieloma przelicznikami i funkcjami dot. życia codziennego. Aplikacja do poprawnego działania potrzebuje połączenia z Internetem.</string>
@@ -43,12 +42,9 @@
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
-    <string name="mortgage_item_years_lending">Okres pożyczki funduszu emerytalnego</string>
     <string name="new_privacy_string"><Data>"Witaj w Kalkulatorze!&lt;br/>Aplikacja zawiera następujące funkcje:&lt;br/>• Podstawowy kalkulator&lt;br/>• Kalkulator naukowy&lt;br/>• Uniwersalny konwerter (np. kursów walut, jednostek miary czy danych)&lt;br/>• Kalkulatory dot. inwestycji, pożyczek i innych opcji&lt;br/>Możesz dowiedzieć się, jak Xiaomi przetwarza te dane w ramach &lt;a href= \"%1$s\">Polityki prywatności&lt;/a>. Przed skorzystaniem z Kalkulatora przeczytaj i zaakceptuj &lt;a href=\"%2$s\">Umowę użytkownika&lt;/a> oraz &lt;a href=\"%3$s\">Politykę prywatności&lt;/a>. Możesz cofnąć swoją zgodę na warunki Polityki prywatności w ustawieniach aplikacji w dowolnym momencie. Jeśli to zrobisz, niektóre funkcje aplikacji staną się niedostępne, niemniej dalej będzie można korzystać z jej podstawowych opcji."</Data></string>
     <string name="preference_privacy_title">Polityka prywatności</string>
     <string name="preference_view_privacy_title">Wyświetl Politykę prywatności</string>
-    <string name="rate_number_first_house">Współczynnik kosztu kredytu pierwszej nieruchomości %1$s (%2$s)</string>
-    <string name="rate_number_second_house">Współczynnik kosztu kredytu drugiej nieruchomości %1$s (%2$s)</string>
     <string name="release_to_refresh">Puść, aby zobaczyć historię</string>
     <string name="tax_city_located">Lokalizacja</string>
     <string name="tax_detail">Szczegóły dot. podatku</string>

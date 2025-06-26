@@ -111,6 +111,8 @@
     <string name="miui_landscape_compat_toast">"Ta aplikacja może nie działać poprawnie w orientacji poziomej. Zaleca się jej używanie pionowo."</string>
     <string name="miui_multiwindow_not_support_small_window">"%1$s nie wspiera pływających okien"</string>
     <string name="miui_screen_ratio_hint_message">Aplikacja ma zezwolenie na uruchomienie w trybie pełnoekranowym, co może spowodować nieprawidłowe wyświetlanie. Możesz to zmienić w Ustawienia > Dodatkowe ustawienia > Przyciski.</string>
+    <string name="miui_splitscreen_not_support_left_right_toast">%1$s nie wspiera poziomego Podziału ekranu</string>
+    <string name="miui_splitscreen_not_support_top_bottom_toast">%1$s nie wspiera pionowego Podziału ekranu</string>
     <string name="monet">Staw z liliami</string>
     <string name="mountainspring">Górska wiosna</string>
     <string name="mute">Tryb cichy</string>
@@ -172,6 +174,7 @@ z przedniego aparatu"</string>
     <string name="typec_acc_not_support_message">Port USB-C tego urządzenia obsługuje tylko urządzenia z dźwiękiem cyfrowym.</string>
     <string name="typec_acc_not_support_tile">Urządzenie nie jest wspierane</string>
     <string name="under_keyguard">Przy wył. ekranie</string>
+    <string name="user_switching_message">Przełączanie na %1$s…</string>
     <string name="wallpaper_Fragrant_title">Kwiaty</string>
     <string name="wallpaper_Geometrically_irregular_title">Abstrakcja w geometrii</string>
     <string name="wallpaper_floral_arrangement_title">Kwiaty</string>

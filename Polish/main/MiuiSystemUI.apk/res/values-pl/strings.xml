@@ -4,22 +4,15 @@
     <string name="accessibility_enter_lock_wallpaper">Pokaż Tapety blokady</string>
     <string name="accessibility_left_lock_screen_magazine_button">Tapety blokady</string>
     <string name="accessibility_quick_settings_bluetooth_restricted">Połączenie ograniczone</string>
-    <string name="accessibility_recent_button">Przycisk Menu</string>
     <string name="app_label">Interfejs</string>
     <string name="biometric_dialog_tap_confirm_with_face_sfps">Odblokowano skanem twarzy. Kliknij, aby przejść dalej.</string>
     <string name="cast_to_other_device_stop_dialog_message">Zatrzymasz przesyłanie swojego ekranu</string>
     <string name="cast_to_other_device_stop_dialog_title">Zatrzymać przesyłanie ekranu?</string>
-    <string name="connected_with_car">Połączono z pojazdem</string>
-    <string name="connected_with_mijia_camera">Korzystanie z kamery Xiaomi Home</string>
-    <string name="connected_with_pad">Połączono z tabletem</string>
-    <string name="connected_with_pc">Połączono z komputerem</string>
-    <string name="connected_with_phone">Połączono z telefonem</string>
-    <string name="connected_with_tv">Połączono z telewizorem</string>
     <string name="custom_lockscreen">Dostosuj Ekran blokady</string>
     <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację systemu i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
 Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje systemu w Ustawieniach > Opcje programisty > Optymalizacje systemu."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
-    <string name="dist_compute_title">Wsparcie obliczeniowe</string>
+    <string name="enrol_fingerprint_process_talkback">Dodawanie odcisku palca</string>
     <string name="finger_error_single_mode">"Nie można użyć czytnika linii papilarnych w trybie Jedna dłoń. Wyjdź z tego trybu i spróbuj ponownie."</string>
     <string name="format_month_day_style1">d MMM</string>
     <string name="format_month_day_style2">d.MM</string>
@@ -31,7 +24,6 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="fullaod_apply_third_theme_toast">Ustawiono niestandardowy motyw Ekranu zawsze włączonego ze względu na motywy stron trzecich</string>
     <string name="fullaod_apply_third_wallpaper_toast">Ustawiono niestandardowy motyw Ekranu zawsze włączonego ze względu na tapety stron trzecich</string>
     <string name="fullaod_apply_video_depth_toast">Ustawiono niestandardowy motyw Ekranu zawsze włączonego</string>
-    <string name="gxzw_icon_access_tips">Ikona odcisku palca</string>
     <string name="gxzw_quick_open_add_note">Dodaj notatkę</string>
     <string name="gxzw_quick_open_add_note_sub">Notatki</string>
     <string name="gxzw_quick_open_dialer">Dialer</string>
@@ -48,11 +40,9 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Nie można przełączać profili, gdy włączone jest Ultraoszczędzanie baterii"</string>
     <string name="keyguard_editor_super_save_mode_toast">"Nie można edytować ekranu blokady, gdy włączone jest Ultraoszczędzanie baterii"</string>
     <string name="keyguard_left_view_lock_wallpaper">Tapety Blokady</string>
-    <string name="miplay_accessibility_cast">Wybierz urządzenie</string>
     <string name="miui_clock_city_name_local">Lokalnie</string>
     <string name="miui_clock_oversize_date">d.MM</string>
     <string name="miui_keyboard_shortcut_group_system_dock">Pokaż dock z aplikacjami</string>
-    <string name="miui_keyboard_shortcut_show_all_apps">Pokaż wszystkie aplikacje</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Przełączanie między ostatnio otwartymi aplikacjami</string>
     <string name="miui_lock_eastern_art_date_curisive_12">d MMM h:mm</string>
     <string name="miui_lock_eastern_art_date_curisive_24">d MMM H:mm</string>
@@ -71,8 +61,6 @@ d.MM"</string>
     <string name="miui_magazine_c_clock_style2_date">EEEE d.MM</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, d MMMM</string>
     <string name="miui_magazine_clock_date">d.MM</string>
-    <string name="miui_notification_menu_custom_fold">Grupuj w \"Więcej powiadomień\"</string>
-    <string name="miui_notification_menu_custom_unfold">Nie grupuj</string>
     <string name="miui_notification_menu_msg_custom_fold">Grupować niestandardowe powiadomienia z \"%1$s\" w \"Więcej powiadomień\"?</string>
     <string name="miui_notification_menu_msg_custom_unfold">Pokazywać niestandardowe powiadomienia z \"%1$s\" w Panelu powiadomień?</string>
     <string name="miui_notification_menu_msg_unfocus">"Zamierzasz wyłączyć Skupienie powiadomień dla %1$s. Te powiadomienia będą wyświetlane normalnie. Wyłączyć?"</string>
@@ -105,30 +93,21 @@ d.MM"</string>
     <string name="notification_safemode_title_safemode">Informacja dot. rozwiązywania problemu zamknięć interfejsu systemu</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">Wyłącz urządzenie i przejdź do trybu Recovery</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">Wykonaj reset do ustawień fabrycznych</string>
-    <string name="qs_control_big_tile_state_disconnected">Nie połączono</string>
+    <string name="qs_control_big_tile_state_opened">Włączono</string>
     <string name="qs_open_night_mode_alert_summary">"Niektóre ustawienia wyświetlania nie są kompatybilne z Ciemnym motywem. Zostaną one przywrócone po jego wyłączeniu."</string>
-    <string name="quick_settings_connected">Połączono</string>
     <string name="quick_settings_nfc_label">NFC</string>
     <string name="quick_settings_night_state_change_message_off">Ciemny motyw jest wyłączony</string>
     <string name="quick_settings_night_state_change_message_on">Ciemny motyw jest włączony</string>
     <string name="quick_settings_nightmode_label">Ciemny motyw</string>
-    <string name="quick_settings_state_saved">Zapisano</string>
     <string name="quick_settings_state_saved_wlan_devices_china">Zapisane Wi-Fi</string>
     <string name="reboot_to_bootloader_title">Fastboot</string>
     <string name="reboot_to_recovery_title">Recovery</string>
     <string name="screen_pinning_title_gesture_mode">Ta aplikacja jest przypięta</string>
     <string name="screen_pinning_title_navigation_mode">Ta aplikacja jest przypięta</string>
     <string name="screen_pinning_toast_cancel">Odpięto aplikację</string>
-    <string name="screen_pinning_toast_navigation_talkback_mode">Aby anulować przypięcie tej aplikacji, przytrzymaj przycisk Zadań</string>
     <string name="screenrecord_stop_dialog_message">Zatrzymasz nagrywanie swojego ekranu</string>
     <string name="screenrecord_stop_dialog_title">Zatrzymać nagrywanie ekranu?</string>
     <string name="shut_down_password_forget_password_suggesstion_two_content">&lt;Data>Wybierz opcję &lt;font color=#e6e6e6>[Wipe]&lt;/font>, a następnie przesuń suwak znajdujący się na dole ekranu. Po wykonaniu tej operacji naciśnij przycisk &lt;font color=#e6e6e6>[Reboot System]&lt;/font>.&lt;/Data></string>
     <string name="split_screen_recommend_tip">Dzielenie ekranu</string>
     <string name="status_bar_next_alarm">Alarm: %1$s</string>
-    <string name="using_glasses">Używanie okularów</string>
-    <string name="using_house_play">Używanie odtwarzania w całym domu</string>
-    <string name="using_sound_box">Używanie głośnika</string>
-    <string name="using_sound_box_screen">Używanie głośnika z ekranem</string>
-    <string name="using_stereo">Używanie stereo</string>
-    <string name="using_wireless_headset">Używanie słuchawek</string>
 </resources>

@@ -166,6 +166,14 @@
     <string name="applock_guide_tip1_without_finger">Dostępne są różne rodzaje weryfikacji. Odblokuj dostęp do aplikacji swoją twarzą bądź hasłem.</string>
     <string name="applock_guide_tip1_without_finger_face">Dostępne są różne rodzaje weryfikacji.</string>
     <string name="applock_header_text_less_than_half">Za mało miejsca dla aplikacji. Przesuń suwak dalej.</string>
+    <string name="applock_mixtype_hidepwd_icon">Ukryj hasło</string>
+    <string name="applock_mixtype_showpwd_icon">Pokaż hasło</string>
+    <string name="applock_password_set_luck_button">Ustawienia</string>
+    <string name="applock_password_set_luck_comment">Aby używać prywatnych funkcji na tym urządzeniu, musisz ustawić blokadę ekranu.</string>
+    <string name="applock_password_set_luck_message">"Aby bezpiecznie uzyskiwać dostęp do prywatnych funkcji na tym urządzeniu, Xiaomi HyperOS domyślnie używa Twojej blokady ekranu do weryfikacji tożsamości.
+
+Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobić."</string>
+    <string name="applock_password_set_luck_title">Najpierw ustaw blokadę ekranu</string>
     <string name="applock_set_complete">Użyj Blokowania aplikacji</string>
     <string name="applock_settings_unlock_all_toast">Odblokowano wszystkie aplikacje</string>
     <string name="apps_item_sms_title">Zmiana domyślnej aplikacji do SMS-ów</string>
@@ -286,6 +294,22 @@
     <string name="battery_status_level_poor">Słaba</string>
     <string name="battery_status_overheat">Przegrzana</string>
     <string name="bill_traffic_reminder_instruction_text">Metody rozliczeń i standardy obliczania danych u różnych operatorów mogą się różnić. Mogą wystąpić opóźnienia w rozliczeniach. Statystyki użytkowania podane tutaj mają charakter wyłącznie poglądowy.</string>
+    <string name="biometric_applock_password_lockout_title">Zbyt wiele nieudanych prób</string>
+    <string name="biometric_applock_pwd">Weryfikacja Blokadą aplikacji</string>
+    <string name="biometric_applock_pwd_or_finger">Weryfikuj odciskiem palca lub Blokadą aplikacji</string>
+    <string name="biometric_face_error">Nie udało się zweryfikować</string>
+    <string name="biometric_face_finger_change">Zmieniły się dane biometryczne. Aby się zweryfikować, wprowadź hasło.</string>
+    <string name="biometric_finger_verify">Weryfikacja odciskiem palca</string>
+    <string name="biometric_lockscreen_pwd">Weryfikacja blokadą ekranu</string>
+    <string name="biometric_lockscreen_pwd_or_finger">Weryfikuj odciskiem palca lub blokadą ekranu</string>
+    <string name="biometric_private_password">Weryfikacja hasłem Ochrony prywatności</string>
+    <string name="biometric_private_password_lockout_title">Zbyt wiele nieudanych prób</string>
+    <string name="biometric_private_pwd_or_finger">Weryfikuj odciskiem palca lub hasłem Ochrony prywatności</string>
+    <string name="biometric_reset_password_tips">Pomyślnie zresetowano hasło. Wprowadź nowe hasło, aby odblokować.</string>
+    <string name="biometric_screen_lock_password_lockout_title">Zbyt wiele nieudanych prób</string>
+    <string name="biometric_subtitle">Do otwierania %1$s</string>
+    <string name="biometric_subtitle_default">Zweryfikuj tożsamość</string>
+    <string name="biometric_verify_retry">Spróbuj ponownie</string>
     <string name="blur_cross_device_permissions">Uprawnienia łączności między urządzeniami</string>
     <string name="blur_key_words_permission_records">Rekordy zachowań aplikacji</string>
     <string name="boost_stop">Wyłącz przyspieszanie</string>
@@ -297,6 +321,8 @@
     <string name="btn_text_quick_save_power">Wykonaj</string>
     <string name="byteShort">" B"</string>
     <string name="camera">Aparat</string>
+    <string name="car_sickness_relief_exit_text">Łagodzenie choroby lokomocyjnej przestało działać</string>
+    <string name="car_sickness_relief_start_text">Łagodzenie choroby lokomocyjnej działa</string>
     <string name="card_main_apkclean_title">Usuń pliki APK</string>
     <string name="card_main_facebookclean_title">Czyszczenie Facebooka</string>
     <string name="card_main_netcheck_summary">Sprawdź, czy sieć działa poprawnie</string>
@@ -457,6 +483,10 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="eletric_status_protecting">Wł.</string>
     <string name="enable_extreme_power_save_mode">Ultraoszczędzanie baterii</string>
     <string name="enable_notification_title">Zezwolić aplikacji %1$s na korzystanie z powiadomień?</string>
+    <string name="ew_car_accident_call_self">Automatyczne połączenie</string>
+    <string name="ew_emergency_date_format">d.MM.yyyy</string>
+    <string name="ew_emergency_gender_text">Data porodu: %s</string>
+    <string name="ew_emergency_gender_title">W ciąży</string>
     <string name="examination_score_80_100">Zoptymalizuj kilka elementów</string>
     <string name="examination_score_80_60">Zoptymalizuj kilka elementów</string>
     <string name="exception_dialog_message">Dane statystyczne nie mogły zostać obliczone ze względu na błąd. Bez dokładnych danych Panel sterowania nie będzie w stanie monitorować zużycia danych. Uruchomić ponownie, aby przywrócić tę funkcjonalność?</string>
@@ -519,8 +549,13 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="game_toolbox_performance_config_resolution_notice_new">Priorytet obrazu poprawia jakość obrazu dzięki Superrozdzielczości i zarządza klatkażem poprzez Inteligentny klatkaż. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
     <string name="game_toolbox_screen_brightness_talkback">Jasność ekranu</string>
     <string name="game_toolbox_settings_talkback">Ustawienia</string>
+    <string name="game_toolbox_slow_charge_desc">Włączenie funkcji Ograniczenie ładowania Plus może poprawić wrażenia z grania podczas ładowania i zmniejszyć temperaturę urządzenia, ale spowolni też prędkość ładowania. Włączyć?</string>
     <string name="game_toolbox_slow_charge_dialog_btn">OK</string>
-    <string name="game_toolbox_slow_charge_notification_title">Trwa wolne ładowanie</string>
+    <string name="game_toolbox_slow_charge_notification_title">Ograniczenie ładowania Plus</string>
+    <string name="game_toolbox_slow_charge_title">Ograniczenie ładowania Plus</string>
+    <string name="game_toolbox_slow_charge_toast">Ograniczenie ładowania Plus jest włączone</string>
+    <string name="game_toolbox_smotion_vibrate_close_toast">Reakcja haptyczna nie działa z oryginalnymi układami. Wyłączono reakcję haptyczną.</string>
+    <string name="game_toolbox_smotion_vibrate_conflic_toast">Reakcja haptyczna nie działa z oryginalnymi układami</string>
     <string name="game_toolbox_smotion_vibrate_desc">Dodaj reakcję haptyczną zgodną z ruchami w grze. Wspierane są tylko niektóre gry.</string>
     <string name="game_toolbox_smotion_vibrate_title">Reakcje haptyczne</string>
     <string name="game_toolbox_super_follow_up_msg">Lepsza reakcja na dotyk i śledzenie przez cały potok sprzętowo-programowy</string>
@@ -651,8 +686,28 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="lock_screen_traffic_notify_body">Użyto %3$s po %2$s od blokady (%1$s)</string>
     <string name="long_click_dialog_summary">Przytrzymaj długo palcem na wyniku, aby dodać go do wyjątków</string>
     <string name="main_alert_message_open_traffic_ctrl">Ogranicz użycie danych</string>
+    <string name="main_bill_out_talkback">Stan na minusie %1$.2f</string>
     <string name="main_bill_remained">Środki</string>
     <string name="main_normal_data_usage">Użycie danych mobilnych</string>
+    <string name="medical_info_category_title_medical">Informacje medyczne</string>
+    <string name="medical_info_category_title_persion">Podstawowe dane</string>
+    <string name="medical_info_sp_title_height">Wzrost</string>
+    <string name="medical_info_sp_title_weight">Waga</string>
+    <string name="medical_info_unknow_contact">Nieznany kontakt</string>
+    <string name="medical_sp_blood_type_title">Grupa krwi</string>
+    <string name="medical_sp_category_title_address">Adres zamieszkania</string>
+    <string name="medical_sp_category_title_medicine">Leki</string>
+    <string name="medical_sp_edit_hint_address">Przekazanie adresu pomoże operatorowi ratunkowemu skontaktować się z Twoją rodziną i przyjaciółmi</string>
+    <string name="medical_sp_edit_hint_allergy">Wiedza o Twoich alergiach pomoże operatorowi ratunkowemu ustalić odpowiednie działania</string>
+    <string name="medical_sp_edit_hint_medical">Wiedza o Twoim zdrowiu pomoże operatorowi ratunkowemu ustalić odpowiednie działania</string>
+    <string name="medical_sp_edit_hint_medicine">Informacja o lekach pomoże operatorowi ratunkowemu ustalić odpowiednie działania</string>
+    <string name="medical_sp_expectedDate_title">Data porodu</string>
+    <string name="medical_sp_gender_title">Płeć</string>
+    <string name="medical_sp_height_title">Wzrost (cm)</string>
+    <string name="medical_sp_pregent_title">W ciąży</string>
+    <string name="medical_sp_text_not_add">Nie dodano</string>
+    <string name="medical_sp_text_not_setting">Nie ustawiono</string>
+    <string name="medical_sp_weight_title">Waga (kg)</string>
     <string name="megabyteShort">" MB"</string>
     <string name="megabyte_per_second">" MB/s"</string>
     <string name="menu_call">Połącz</string>
@@ -770,12 +825,15 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="om_settings_memory_clean_lock_screen">Wyczyść pamięć RAM, gdy urządzenie jest zablokowane</string>
     <string name="om_settings_speed_up_auto">Czyszczenie pamięci RAM</string>
     <string name="open_extreme_power_save_mode_title">Włącz Ultraoszczędzanie baterii</string>
+    <string name="open_physical_sim_self_detection_noti_centent">Wygląda na to, że jesteś za granicą i masz problemy z siecią. Rozpocznij sprawdzanie, aby rozwiązać ten problem.</string>
+    <string name="open_physical_sim_self_detection_noti_title">Włącz Sprawdzenie karty SIM</string>
     <string name="optimize_manage_title">Zarządzanie pamięcią</string>
     <string name="optimize_result_button_onekey_restore">Przywróć</string>
     <string name="optmizingbar_title_system">Zabezpieczenia systemu</string>
     <string name="overlay_permission_dialog_message_security_service">Panel sterowania wymaga pewnych uprawnień do poprawnego działania.</string>
     <string name="password_or_finger_unlock">Odblokuj hasłem lub odciskiem palca</string>
     <string name="pc_18W_high_power_reverse_charging_summary">Ładuj urządzenia szybciej dzięki ulepszonemu ładowaniu zwrotnemu. Połączenie USB będzie używane tylko do ładowania.</string>
+    <string name="pc_18W_high_power_reverse_charging_summary_new">Ładuj urządzenia szybciej ładowaniem zwrotnym o dużej mocy.</string>
     <string name="pc_18W_high_power_reverse_charging_title">Ładowanie zwrotne</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">Zapobiega przejściu systemu w tryb uśpienia</string>
     <string name="pc_always_charge_protect_summary">Aby zachować żywotność baterii, zezwól na ładowanie tylko do %1$s</string>
@@ -833,6 +891,9 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_power_mode_has_performance">Włączono Tryb wydajności</string>
     <string name="pc_power_mode_has_performance_chip">Ulepszona wydajność (overclocking)</string>
     <string name="pc_reminder_always_protect_summary">Włącz ograniczone ładowanie, aby zredukować starzenie się baterii</string>
+    <string name="pc_remove_shell_charging_notification_msg">Nie można ładować urządzenia bezprzewodowo, gdy używasz gamingowego etui. Usuń go i spróbuj ponownie albo użyj ładowania przewodowego.</string>
+    <string name="pc_remove_shell_charging_notification_title">Usuń etui, aby ładować bezprzewodowo</string>
+    <string name="pc_remove_shell_charging_toast">Usuń etui, aby użyć bezprzewodowego ładowania zwrotnego</string>
     <string name="pc_satellite_auto_enter_super_power">Włączono Ultraoszczędzanie baterii, aby zapewnić działanie komunikacji satelitarnej</string>
     <string name="pc_save_power">Oszczędzanie baterii</string>
     <string name="pc_smart_charge_button_summary">Aby przedłużyć żywotność baterii, system będzie się uczyć tego, jak ładujesz urządzenie, i zatrzyma ładowanie przy %1$s baterii</string>
@@ -1131,7 +1192,9 @@ Ultraoszczędzania baterii"</string>
     <string name="pref_auto_adjust_traffic">Automatycznie dostosuj statystyki zużycia danych</string>
     <string name="pref_daily_traffic">Limit transmisji danych</string>
     <string name="pref_data_usage_ignore_settings">Wyjątki</string>
+    <string name="pref_physical_sim_self_detection_cat_title">Przywrócenie sieci</string>
     <string name="pref_title_declaration">O Monitorze danych</string>
+    <string name="pref_title_physical_sim_self_detection">Sprawdzenie karty SIM</string>
     <string name="pref_traffic_package_type_summary">Miesięczny/Dzienny/Bez limitu</string>
     <string name="preferred_app_entries_dial">Dialer</string>
     <string name="preferred_app_entries_launcher">Launcher</string>
@@ -1143,6 +1206,8 @@ Ultraoszczędzania baterii"</string>
     <string name="privacy_apps_password_enable_summay">Chroń prywatne pliki Blokadą aplikacji</string>
     <string name="privacy_apps_tutorial_dlg_message_1">Rozłóż dwa palce na Ekranie głównym, aby wyświetlić ukryte aplikacje</string>
     <string name="privacy_apps_tutorial_dlg_message_2">Uwaga: Gdy ukryjesz aplikację, zostanie ukryty tylko jej skrót na Ekranie głównym.</string>
+    <string name="privacy_custom_password_long">Wprowadź maks. %d cyfr</string>
+    <string name="privacy_custom_password_too_short">Wprowadź min. %d cyfr</string>
     <string name="privacy_danger_permission_status_title">Poufne uprawnienia</string>
     <string name="privacy_dialog_content_part2"><Data>Aplikacja musi gromadzić niezbędne dane o Tobie, aby dostarczać Ci jej usługi i móc je ulepszać. Możesz dowiedzieć się, jak Xiaomi przetwarza gromadzone informacje, z &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Możesz cofnąć swoją zgodę na jej warunki w Ustawieniach w dowolnym momencie.</Data></string>
     <string name="privacy_dialog_content_part3"><Data>"Przeczytaj i zaakceptuj warunki &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> przed skorzystaniem z Panelu sterowania. Jeśli nie zgodzisz się na użycie wspomnianych usług, nie będzie można korzystać z niektórych funkcji aplikacji. Jej podstawowa funkcjonalność nadal będzie dostępna."</Data></string>
@@ -1156,12 +1221,35 @@ Ultraoszczędzania baterii"</string>
     <string name="privacy_flares_capsule_recent">%1s | Ostatnio</string>
     <string name="privacy_flares_current_detail_more">Ta aplikacja korzysta z wrażliwego uprawnienia</string>
     <string name="privacy_flares_recent_detail_more">Ta aplikacja korzystała z wrażliwego uprawnienia</string>
+    <string name="privacy_hybrid_password_long">Wprowadź maks. %d znaków</string>
+    <string name="privacy_hybrid_password_too_short">Wprowadź min. %d znaków</string>
     <string name="privacy_input_icon_layout_status_bg_content_enable">Chronione</string>
     <string name="privacy_input_mode_img_detail">Działa z klawiaturami zatwierdzonymi przez Xiaomi</string>
     <string name="privacy_input_mode_version_supported">Zaktualizuj klawiaturę, aby móc użyć tej funkcji</string>
     <string name="privacy_input_model_guide_choose">Pobierz wprowadzanie głosowe offline</string>
     <string name="privacy_input_model_guide_text">"Ta funkcja chroni Twoją prywatność w trakcie wprowadzania tekstu. Gdy jest ona włączona, część funkcjonalności oparta na korzystaniu z sieci (np. opcje personalizacji, emoji, przewidywania dot. pisania) nie będzie dostępna."</string>
     <string name="privacy_look_privacy">Polityka prywatności</string>
+    <string name="privacy_password_chanage_process">Zmień hasło Ochrony prywatności</string>
+    <string name="privacy_password_custom_password">Własny PIN</string>
+    <string name="privacy_password_digital_password">%d-cyfrowy PIN</string>
+    <string name="privacy_password_enter_custom_password">Wprowadź swój %1$d–%2$d-cyfrowy PIN</string>
+    <string name="privacy_password_enter_custom_password_again">Wprowadź PIN ponownie</string>
+    <string name="privacy_password_enter_custom_password_not_match">Kody PIN się nie zgadzają</string>
+    <string name="privacy_password_enter_digital_password">Wprowadź swój %d-cyfrowy PIN</string>
+    <string name="privacy_password_enter_digital_password_again">Wprowadź swój %d-cyfrowy PIN ponownie</string>
+    <string name="privacy_password_enter_graphic_password">Narysuj wzór odblokowania. Połącz co najmniej %d kropki.</string>
+    <string name="privacy_password_enter_hybrid_password">Wprowadź swoje %1$d–%2$d-znakowe hasło</string>
+    <string name="privacy_password_enter_hybrid_password_again">Wprowadź swoje hasło ponownie</string>
+    <string name="privacy_password_enter_hybrid_password_invalid">Hasło nie może zawierać nieprawidłowych znaków</string>
+    <string name="privacy_password_enter_hybrid_password_not_match">Hasła się nie zgadzają</string>
+    <string name="privacy_password_graphic_password">Wzór</string>
+    <string name="privacy_password_hybrid_password">Hasło</string>
+    <string name="privacy_password_other_password">Inne hasło</string>
+    <string name="privacy_password_setup_hint">Wprowadź swoje hasło</string>
+    <string name="privacy_password_setup_next">Dalej</string>
+    <string name="privacy_password_setup_not_match">Spróbuj ponownie</string>
+    <string name="privacy_password_setup_process">Wprowadź hasło Ochrony prywatności</string>
+    <string name="privacy_password_update_type">Wybierz typ hasła</string>
     <string name="privacy_permission_call">Dostęp lub edycja historii połączeń</string>
     <string name="privacy_permission_call_title">Ochrona połączeń</string>
     <string name="privacy_pop_call">Dzisiejszy dostęp do historii połączeń</string>
@@ -1186,6 +1274,8 @@ Wycofać zgodę?"</string>
     <string name="privacy_risk_sensitive_second_title">"Przyznano wrażliwe uprawnienia"</string>
     <string name="privacy_risk_sensitive_top_tip">"Aby chronić Twoją prywatność, nadawaj wrażliwe uprawnienia tylko wtedy, gdy to konieczne."</string>
     <string name="privacy_risk_space_uninstall_dialog_msg">Czy chcesz odinstalować wybrane aplikacje, w tym ich sklonowane wersje?</string>
+    <string name="privacy_screen_share_notification_land_protect_sub_title">Ochrona Twojej prywatności</string>
+    <string name="privacy_screen_share_notification_land_title">Udostępnianie ekranu</string>
     <string name="privacy_search_key_8">Ochrona przed śledzeniem</string>
     <string name="privacy_search_keyword_4">Ukryj skróty Ekranu głównego</string>
     <string name="privacy_thumbnail_blur_top_tip">Wybierz aplikacje, których podglądy w menu ostatnio otwartych aplikacji będą zamazane</string>
@@ -1193,6 +1283,10 @@ Wycofać zgodę?"</string>
     <string name="privacy_update_dialog_content_1">Zaktualizowano Politykę prywatności %s:</string>
     <string name="privacy_update_dialog_content_2"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>.</Data></string>
     <string name="privacy_update_dialog_title">Zaktualizowano Politykę prywatności</string>
+    <string name="private_file">Prywatne pliki</string>
+    <string name="private_note">Ukryte notatki</string>
+    <string name="private_photo">Prywatny album</string>
+    <string name="private_sms">Prywatne SMS-y</string>
     <string name="protect_data_security">Izolowane dane</string>
     <string name="protect_data_security_detail">Dane wygenerowane przez klawiaturę będą izolowane i staną się niedostępne dla innych aplikacji.</string>
     <string name="quick_optimize_no_fix_issue_title">Nie udało się zoptymalizować elementów z wysokim zużyciem energii</string>
@@ -1347,6 +1441,7 @@ Wycofać zgodę?"</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Publiczna sieć Wi-Fi</string>
     <string name="sp_background_risk_type_messaging">Aplikacja do SMS-ów nie jest fabryczna</string>
     <string name="sp_background_risk_type_root">System został zrootowany</string>
+    <string name="sp_emergency_contact_title">Kontakty alarmowe</string>
     <string name="sp_network_privacy_dialog_message">Panel sterowania nie może działać poprawnie, ponieważ ograniczono łączność z Internetem. Zezwolić tej aplikacji na łączenie się z Internetem?</string>
     <string name="sp_network_privacy_dialog_message_new">Panel sterowania (w tym komponenty bezpieczeństwa systemu) musi łączyć się z Internetem, aby dostarczać funkcje skanowania antywirusowego. Zezwolić?</string>
     <string name="sp_security_center_title">Panel sterowania</string>
@@ -1573,6 +1668,7 @@ Wycofać zgodę?"</string>
     <string name="toast_root_apply_reject">Wyłączono uprawnienia roota dla %s</string>
     <string name="traffic_advanced_settings">Zaawansowane ustawienia dot. danych</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Miesięczny plan taryfowy zmieniony na %s.</string>
+    <string name="traffic_select_dialog_title">Wybierz operatora</string>
     <string name="traffic_setting_fragment_month_summary">Dane są aktualizowane raz w miesiącu</string>
     <string name="traffic_to_limit_warning">"Wykorzystano %s limitu danych"</string>
     <string name="tuesday_shortest">W</string>
@@ -1628,6 +1724,29 @@ Funkcja nie będzie działać, gdy włączone jest Oszczędzanie baterii lub Ult
     <string name="vtb_function_video_translation">Tłumaczenie na żywo</string>
     <string name="wake_path_start_callee">Autostart aplikacji %1$s</string>
     <string name="wakepath_manager_checkbox_desc">Zezwól %1$s na uruchamianie innych aplikacji</string>
+    <string name="warning_car_accident_alert_call_text">Połączenie alarmowe</string>
+    <string name="warning_car_accident_alert_cancel_text">Anuluj</string>
+    <string name="warning_car_accident_alert_countdown_text">Urządzenie zadzwoni na 120 po zakończeniu odliczania</string>
+    <string name="warning_car_accident_alert_fine_text">Nic mi nie jest</string>
+    <string name="warning_car_accident_alert_option_item_call">Zadzwoniono na 120</string>
+    <string name="warning_car_accident_alert_option_item_contats">Powiadomiono kontakty alarmowe</string>
+    <string name="warning_car_accident_alert_option_item_time">Wykryto wypadek o %s</string>
+    <string name="warning_car_accident_alert_text_to_speak">Urządzenie wykryło, że mogłeś mieć wypadek. Jeśli nie odpowiesz przed zakończeniem odliczania, nastąpi połączenie ze służbami ratunkowymi.</string>
+    <string name="warning_car_accident_alert_top_text">Masz wypadek?</string>
+    <string name="warning_car_accident_alert_waiting_rescue">Oczekiwanie na pomoc…</string>
+    <string name="warning_car_accident_comment_text">"Jak to działa:
+Gdy urządzenie wykryje, że zdarzył się wypadek, zacznie wibrować i wydawać dźwięk z maksymalną głośnością, aby zapytać, czy potrzebujesz pomocy.
+Jeśli stwierdzisz, że potrzebujesz pomocy, lub nie odpowiesz na wezwanie, urządzenie zadzwoni pod numer alarmowy (domyślnie 120) i wyśle SMS do Twoich kontaktów alarmowych.
+Należy odnotować, że system nie może wykryć wszystkich wypadków."</string>
+    <string name="warning_car_accident_dialog_message">Jeśli wyłączysz tę funkcję, urządzenie nie zadzwoni pod numer alarmowy, gdy wykryje, że zdarzył się wypadek. Wyłączyć mimo to?</string>
+    <string name="warning_car_accident_dialog_negative_text">Wyłącz</string>
+    <string name="warning_car_accident_dialog_positive_text">Nie wyłączaj</string>
+    <string name="warning_car_accident_dialog_title">Wyłączyć Wykrywanie wypadków?</string>
+    <string name="warning_car_accident_open_dialog_text"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj &lt;a href=%s>Politykę prywatności Wykrywania wypadków&lt;/a>.</Data></string>
+    <string name="warning_car_accident_privay_revoke_dialog_message">Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Wykrywania wypadków. Już zgromadzone i przetworzone dane osobowe zostaną usunięte w czasie określonym w odpowiednich przepisach i regulacjach. Ponieważ Wykrywanie wypadków dostarcza usługi w oparciu o niezbędne dane osobowe, wycofanie zgody zostanie potraktowane jako odmowa akceptacji usług Wykrywania wypadków. Wycofać zgodę?</string>
+    <string name="warning_car_accident_privay_revoke_text">Wycofanie zgody</string>
+    <string name="warning_car_accident_title">Wykrywanie wypadków</string>
+    <string name="warning_view_demo_text">Zobacz demo</string>
     <string name="warningcenter_action_check">Wyświetl</string>
     <string name="warningcenter_alert_home">Lokalizacja</string>
     <string name="warningcenter_alert_room">Pokój</string>

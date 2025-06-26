@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_sliding_button_state_description_off">wyłączone</string>
     <string name="backup_action_international_no_space_with_wechat_off_content">Brak miejsca. Nie można wykonać kopii tego urządzenia.</string>
     <string name="backup_action_no_space_with_wechat_off_content">Brakuje miejsca w Chmurze, aby wykonać kopię elementów z tego urządzenia. Dotknij, aby zobaczyć dostępne plany Chmury.</string>
     <string name="backup_action_no_space_with_wechat_on_content">Brakuje miejsca w Chmurze, aby wykonać kopię danych WeChata. Ulepsz swój plan chmury, aby móc wykonać kopię.</string>

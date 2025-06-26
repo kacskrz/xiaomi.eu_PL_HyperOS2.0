@@ -123,6 +123,7 @@
     <string name="copy_text_faile">"Nie udało się skopiować. Zezwól aplikacji Skaner na dostęp do schowka."</string>
     <string name="copy_text_success">Skopiowano tekst</string>
     <string name="copy_tracknum">Skopiuj nr paczki</string>
+    <string name="copynull">Nie znaleziono treści do skopiowania</string>
     <string name="create">Wygeneruj kod QR</string>
     <string name="createFail">"Nie udało się wygenerować kodu QR. Wprowadzony tekst jest za długi."</string>
     <string name="createQRCode_hint">Wprowadź tekst</string>
@@ -327,6 +328,7 @@
     <string name="module_title_translation">Tłumaczenie</string>
     <string name="monitor_low_android">Wersja Androida jest za niska</string>
     <string name="monitor_low_miui">Wersja systemu jest za niska</string>
+    <string name="monitoringHistory_title">Historia</string>
     <string name="more_settings">Dodatkowe ustawienia</string>
     <string name="multipage_mode">Skanuj wiele stron</string>
     <string name="my_document">Moje dokumenty</string>

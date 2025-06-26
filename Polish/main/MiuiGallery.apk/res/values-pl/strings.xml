@@ -23,12 +23,9 @@ Spróbuj utworzyć obraz SI za pomocą innych zdjęć."</string>
     <string name="ai_create_image_photo_tip">Po utworzeniu obrazu SI zdjęcia zostaną usunięte z serwerów Xiaomi</string>
     <string name="ai_create_image_tip">Po utworzeniu obrazu SI zdjęcia zostaną usunięte z serwerów Xiaomi</string>
     <string name="ai_creating_image_title">Tworzenie obrazu SI…</string>
-    <string name="ai_cta_dialog_message">Zezwól Galerii na łączenie się z Internetem, aby móc tworzyć portrety SI.</string>
     <string name="ai_delete_image_success">Pomyślnie usunięto obraz SI</string>
-    <string name="ai_download_filter_photo_so_message">Aby móc użyć wszystkich funkcji portretu SI, pobierz wtyczkę.</string>
     <string name="ai_ensure_exit_select_message">"Przy następnym podejściu trzeba będzie ponownie wybrać zdjęcia."</string>
     <string name="ai_entrance_description">Utwórz obraz SI na podstawie zdjęć ludzi i wygeneruj ich portrety</string>
-    <string name="ai_film_title">Film SI</string>
     <string name="ai_free_creation_illegal_text_toast">Ten tekst narusza standardy społeczności Xiaomi. Zmień go na inny.</string>
     <string name="ai_free_creation_text_container_tips">"Generator obrazów SI Xiaomi jest stale ulepszany. Jeśli nie zadowalają Cię jego rezultaty, możesz spróbować później!"</string>
     <string name="ai_free_creation_text_illage">Ten opis narusza standardy społeczności</string>
@@ -48,7 +45,6 @@ Wybierz inne zdjęcia i spróbuj ponownie."</string>
     <string name="ai_new_name_title">Nazwij ten obraz SI</string>
     <string name="ai_no_access_message">"Wygląda na to, że nie jesteś betatesterem. Zgłoś się na Xiaomi Community, aby rozpocząć tworzenie portretów SI!"</string>
     <string name="ai_no_access_title">Wymagane uprawnienia betatestera</string>
-    <string name="ai_plugin_install_msg">Pobierz wtyczkę, aby móc tworzyć Portrety SI.</string>
     <string name="ai_privacy_tip_1">Zdjęcie do dowodu</string>
     <string name="ai_refuse_update_toast">Wybierz nowe zdjęcia, aby móc zaktualizować ten obraz SI</string>
     <string name="ai_select_people_title">Wybierz osobę, aby utworzyć jej obraz SI</string>
@@ -58,7 +54,6 @@ Wybierz inne zdjęcia i spróbuj ponownie."</string>
     <string name="ai_update_image">Zaktualizuj obraz SI</string>
     <string name="ai_update_image_confirm_title">Zaktualizować obraz SI?</string>
     <string name="ai_update_warn_message">Pamiętaj, że obraz SI można aktualizować tylko raz w miesiącu. Kontynuować mimo to?</string>
-    <string name="album_ai_creative">Portrety SI</string>
     <string name="album_scanner_china">Skaner</string>
     <string name="album_screenshot_and_screen_recorder_name">Zrzuty i nagrania ekranu</string>
     <string name="album_show_local_only_summary">Możliwość usunięcia tylko lokalnych albumów pojawi się wtedy, gdy włączona jest ta funkcja</string>
@@ -284,9 +279,6 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Ulepsz plan chmury, aby zsynchronizować więcej elementów</string>
     <string name="slim_upgrade_button">Ulepsz</string>
     <string name="special_type_night_beauty">Portret w nocy z SI</string>
-    <string name="special_type_night_mode">Tryb nocny z SI</string>
-    <string name="special_type_portrait">Portret malowany światłem z SI</string>
-    <string name="special_type_wide_angle">Ultraszeroki kąt z SI</string>
     <string name="stop_migration_msg">Nie będzie możliwe wznowienie przesyłania po jego zatrzymaniu. Jeśli zdecydujesz się zatrzymać przesyłanie, możesz nadal pobrać elementy przechowywane w Chmurze Xiaomi ze strony i.mi.com.</string>
     <string name="stop_use_secret_msg">"Twoje zdjęcia i filmy nie są już synchronizowane z Chmurą Xiaomi. Nie będzie można również korzystać z prywatnego albumu, gdyż opiera się on na szyfrowaniu w chmurze.
 Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze strony i.mi.com. Później elementy, które nadal znajdują się w Chmurze Xiaomi, zostaną permanentnie usunięte.

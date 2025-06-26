@@ -86,7 +86,6 @@
     <string name="group_sms">SMS-y</string>
     <string name="group_sport_healthy">Zdrowie i aktywność</string>
     <string name="group_write_clipboard">Dodawanie elementów do schowka</string>
-    <string name="miuix_access_state_desc">Wybrano</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_appcompat_deselect_all">Odznacz</string>
     <string name="overlay_read_clip_toast">Aplikacja \"%1$s\" uzyskała dostęp do schowka</string>

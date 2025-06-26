@@ -21,6 +21,10 @@
         <item quantity="few">Wybrano %1$d elementy</item>
         <item quantity="one">Wybrano %1$d element</item>
     </plurals>
+    <plurals name="content_description_document_sum">
+        <item quantity="other">Dokumenty, łącznie stron: %s</item>
+        <item quantity="one">Dokumenty, łącznie stron: %s</item>
+    </plurals>
     <plurals name="document_duplicate_data_tip">
         <item quantity="one">Pomyślnie zaimportowano (odfiltrowano %1$d duplikat)</item>
         <item quantity="other">Pomyślnie zaimportowano (odfiltrowano %1$d duplikatów)</item>
