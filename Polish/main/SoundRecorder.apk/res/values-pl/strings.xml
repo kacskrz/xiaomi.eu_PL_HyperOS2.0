@@ -26,6 +26,5 @@
     <string name="text_play_speed_2_0">Odtwarzanie 2x</string>
     <string name="toast_uninstall_fileexplorer">Brak menedżera plików (Pliki)!</string>
     <string name="view_privacy">Wyświetl Politykę prywatności</string>
-    <string name="year_month_day_hour_minute_format">dd-MM-yyyy HH.mm</string>
     <string name="year_month_format">MMMM yyyy</string>
 </resources>

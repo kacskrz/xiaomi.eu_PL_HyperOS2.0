@@ -269,6 +269,7 @@ patrząc na zewnętrzny ekran"</string>
     <string name="face_unlock_stay_away_screen">Zachowaj odległość 25 do 40 cm od ekranu</string>
     <string name="face_unlock_success_show_message_dialog_msg">Zezwól na wyświetlanie powiadomień na Ekranie blokady.</string>
     <string name="face_unlock_success_show_message_msg">Pokaż szczegóły powiadomień na zablokowanym ekranie po weryfikacji danych twarzy</string>
+    <string name="fast_connect_device_image">Obraz</string>
     <string name="fingerprint_double_tap">Dwukrotnie dotknij czytnika linii papilarnych</string>
     <string name="fingerprint_wakeup_summary">Wybudź ekran czytnikiem, gdy nie dodano żadnych odcisków palców</string>
     <string name="fingerprint_wakeup_title">Dotknij czytnika linii papilarnych, aby wybudzić</string>

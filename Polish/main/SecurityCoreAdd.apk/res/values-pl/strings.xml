@@ -2,7 +2,6 @@
 <resources>
     <string name="PrivacyContactDes1">"Kontakty staną się prywatne.
 Wiadomości pojawią się tylko w Drugiej przestrzeni."</string>
-    <string name="agree">Zgadzam się</string>
     <string name="aon_learn_draw_circle_phone_tip">Aby odebrać połączenie, narysuj okrąg zgodnie z ruchem wskazówek zegara dłonią skierowaną w stronę aparatu</string>
     <string name="aon_learn_draw_circle_tip">Aby odebrać połączenie przekazywane na tablet, narysuj okrąg zgodnie z ruchem wskazówek zegara dłonią skierowaną w stronę aparatu</string>
     <string name="app_name">Wtyczka funkcji systemu</string>
@@ -23,27 +22,14 @@ Wiadomości pojawią się tylko w Drugiej przestrzeni."</string>
     <string name="can_not_switch_when_desktop_mode">"Nie można się przełączyć między przestrzeniami w trybie Stacji roboczej"</string>
     <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Przytrzymaj przyciski Wstecz i Podgląd, aby odpiąć tę aplikację</string>
     <string name="can_not_switch_when_super_power_active">"Nie można się przełączyć między przestrzeniami, gdy włączone jest Ultraoszczędzanie baterii"</string>
-    <string name="cancel">Anuluj</string>
-    <string name="check_protocol_msg_detail">Jeśli części związane z pamięcią urządzenia będzie trzeba wymienić w trakcie naprawy, może dojść do utraty niektórych danych. Przed włączeniem Trybu naprawy wykonaj kopię zapasową wszystkich danych. Obsługa techniczna nie będzie odpowiedzialna za utratę danych, która może wystąpić w trakcie naprawy.</string>
-    <string name="check_protocol_msg_title">Informacja dot. danych</string>
     <string name="chooseDataTransfer">Co zrobić z danymi z Drugiej przestrzeni?</string>
-    <string name="click_to_close">Dotknij, aby wyłączyć Tryb naprawy</string>
-    <string name="close_maintenance_mode">Wyłącz</string>
-    <string name="close_maintenance_mode_title">Wyłącz Tryb naprawy</string>
     <string name="contact_sub_titile_text">Dane aplikacji SMS będą dzielone między profilami</string>
     <string name="contact_titile_text">Pokaż prywatne wiadomości w Drugiej przestrzeni</string>
-    <string name="create_fail">Nie udało się włączyć Trybu naprawy. Spróbuj ponownie.</string>
-    <string name="create_fail_because_max_user">Osiągnięto maksymalną liczbę profili systemowych. Usuń Drugą przestrzeń, sklonowane aplikacje lub Przestrzeń dziecięcą, i spróbuj ponownie.</string>
     <string name="dataSafe">Druga przestrzeń to jakby drugi telefon.</string>
-    <string name="delete_maintenance_mode">Wyłączanie Trybu naprawy. Nie restartuj urządzenia.</string>
-    <string name="disagree">Nie zgadzam się</string>
     <string name="fingerprint_double_tap">Dwukrotnie dotknij czytnika linii papilarnych</string>
-    <string name="forbid_create">Tryb naprawy można włączyć tylko w Pierwszej przestrzeni</string>
     <string name="function_not_support">Nieobsługiwane na tym urządzeniu</string>
     <string name="gms_title">Sklonuj usługi Google</string>
-    <string name="go_deleted_fingerprint">Usuń odciski palca</string>
     <string name="home_app">Launcher</string>
-    <string name="immediately_go">Usuń</string>
     <string name="import_file_suc">Przeniesiono do katalogów</string>
     <string name="key_fsg_dialog_message">"Aktualnie korzystasz z gestów. Funkcje związane z przyciskami ekranowymi są niedostępne. Przełączyć na przyciski?"</string>
     <string name="keyboard_function_summary_first_line">·Przytrzymaj, aby wyświetlić skróty.</string>
@@ -57,32 +43,17 @@ Wiadomości pojawią się tylko w Drugiej przestrzeni."</string>
     <string name="long_press_home_key">Długo Ekran główny</string>
     <string name="long_press_menu_key">Długo Menu</string>
     <string name="long_press_menu_key_when_lock">Długo Menu na ekranie blokady</string>
-    <string name="maintenance_mode">Tryb naprawy</string>
     <string name="maintenance_mode_close_title">Włączono Tryb naprawy</string>
-    <string name="maintenance_mode_data_backup_agreement"><Data>Aby zapobiec utracie danych, &lt;a href=\"%1$s\">wykonaj kopię zapasową danych&lt;/a> przed wysłaniem urządzenia do naprawy.</Data></string>
     <string name="maintenance_mode_fingerprint_msg">Po naprawie konieczna jest kalibracja czytnika linii papilarnych. Wymaga to usunięcia zapisanych odcisków palca. Możesz dodac odcisk palca po naprawie urządzenia.</string>
-    <string name="maintenance_mode_loading">Włączanie Trybu naprawy i restartowanie urządzenia…</string>
     <string name="maintenance_mode_reboot">Restart do Trybu naprawy</string>
-    <string name="maintenance_mode_title">Twoje dane są bezpieczne</string>
-    <string name="maintenance_mode_user_data_disclaimer_agreement"><Data>Przeczytałem i zaakceptowałem &lt;a href=\"%1$s\">Informację dot. danych&lt;/a></Data></string>
-    <string name="maintenance_mode_watch_out">W trakcie naprawy Twoje zdjęcia, filmy, kontakty, historia połączeń i wiadomości będą chronione, a obsługa techniczna nie będzie mieć do nich dostępu.</string>
     <string name="menu_item_about_privacy_title">Polityka prywatności</string>
     <string name="need_set_second_space_desc">Przed dodaniem odcisku palca dodaj hasło</string>
-    <string name="open">Włącz</string>
-    <string name="open_maintenance_mode">Włącz</string>
-    <string name="open_maintenance_mode_tips">Wyłączono Tryb naprawy. Trwa usuwanie powiązanych danych. Może to potrwać minutę.</string>
-    <string name="open_maintenance_mode_title">Włącz Tryb naprawy</string>
-    <string name="reached_max_user">Osiągnięto maksymalną liczbę profili</string>
     <string name="reboot_maintenance_mode">Wyłączono Tryb naprawy. Zrestartuj urządzenie, aby poprawić jego wydajność i stabilność.</string>
     <string name="reboot_msg">Po włączeniu Trybu naprawy nastąpi restart urządzenia. Włączyć?</string>
-    <string name="reopen_maintenance_mode">Wygląda na to, że to urządzenie zostało odblokowane przez głównego użytkownika. Aby chronić Twoją prywatność i bezpieczeństwo, włącz Tryb naprawy ponownie.</string>
     <string name="scanner_fingerprint_error_tips_desc">Brak wyników. Dodać odcisk palca Drugiej przestrzeni?</string>
     <string name="scanner_fingerprint_error_tips_title">Brak wyników</string>
-    <string name="set_password_main_user">Ustaw blokadę ekranu Pierwszej przestrzeni</string>
     <string name="set_password_main_user_context">Aby chronić swoje dane, ustaw blokadę ekranu. Będzie trzeba ją wprowadzić przy wyłączaniu Trybu naprawy. Nie można jej odczytać, zatem upewnij się, że ją zapamiętasz.</string>
-    <string name="setting">Ustaw</string>
     <string name="switch_file_success">Pomyślnie przeniesiono pliki</string>
-    <string name="title_backup_and_recovery">Kopia zapasowa i przywracanie</string>
     <string name="tof_learn_double_press">Naucz się gestu \"Dwuklik\"</string>
     <string name="tof_learn_draw_circle">Naucz się gestu \"Narysuj okrąg\"</string>
     <string name="tof_learn_incall_date">Piątek</string>

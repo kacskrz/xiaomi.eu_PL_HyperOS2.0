@@ -4,6 +4,7 @@
     <string name="account_container_title">Zapisany na</string>
     <string name="account_default">Telefon</string>
     <string name="account_phone">Tylko telefon, niesynchronizowany</string>
+    <string name="all_selected">Zaznaczono wszystko</string>
     <string name="bind_simcard_no_dual">"Nie znaleziono drugiej karty SIM"</string>
     <string name="call_limit_content">"Nie udało się zadzwonić do „%s”. Możesz dzwonić tylko na numery telefonów znajdujące się na Twojej liście zatwierdzonych kontaktów."</string>
     <string name="call_sim_menu_title_suffix">(Główna)</string>
@@ -65,6 +66,7 @@
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
+    <string name="none_selected">Odznaczono wszystko</string>
     <string name="pause">wstrzymaj</string>
     <string name="paused">wstrzymano</string>
     <string name="pkgLabel">Kontakty i Dialer</string>

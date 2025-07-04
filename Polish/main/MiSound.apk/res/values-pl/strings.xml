@@ -2,10 +2,6 @@
 <resources>
     <string name="accessibility_sliding_button_state_description_on">włączony</string>
     <string name="add_sound">Dodaj własny efekt</string>
-    <string name="dolby_dax_geq_bar_chart_talkback" formatted="false">Equalizer, suwak %d, %s.</string>
-    <string name="dolby_dax_geq_select_click_tip_talkback">Dotknij dwa razy, aby aktywować</string>
-    <string name="dolby_dax_geq_select_not_selected_talkback">Nie wybrano</string>
-    <string name="dolby_dax_geq_select_selected_talkback">Wybrano</string>
     <string name="dolby_dax_geq_select_title">Efekty</string>
     <string name="ear_canal_scan_function_name">Zoptymalizuj dźwięk na podstawie kształtu ucha</string>
     <string name="effect_none">Domyślny</string>

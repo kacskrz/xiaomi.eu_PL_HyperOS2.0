@@ -54,6 +54,18 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="low_battery_notification_content">Na urządzeniu %1$s pozostało mniej niż %2$s baterii</string>
     <string name="low_battery_notification_content_default">Bateria telefonu ma mniej niż %1$s</string>
     <string name="low_battery_notification_title">Niski poziom baterii</string>
+    <string name="mac_btn_disconnect">Rozłącz</string>
+    <string name="mac_key_alt">Przytrzymaj, aby przypisać klawisz Option. Dotknij dwa razy, aby zablokować ten klawisz.</string>
+    <string name="mac_key_cmd">Przytrzymaj, aby przypisać klawisz Command. Dotknij dwa razy, aby zablokować ten klawisz.</string>
+    <string name="mac_key_ctrl">Przytrzymaj, aby przypisać klawisz Control. Dotknij dwa razy, aby zablokować ten klawisz.</string>
+    <string name="mac_key_shift">Przytrzymaj, aby przypisać klawisz Shift. Dotknij dwa razy, aby zablokować ten klawisz.</string>
+    <string name="mac_show_dock">Pokaż Dock</string>
+    <string name="mac_show_menu_bar">Pokaż pasek menu</string>
+    <string name="mac_sink_loading_timeout_tips">"Upewnij się, że komputer i tablet znajdują się w zasięgu połączenia i mają włączone Wi-Fi.
+Aby kontynuować, wybierz urządzenie ponownie na komputerze."</string>
+    <string name="mac_soft_keyboard">Klawiatura ekranowa</string>
+    <string name="mac_title_disconnect">Rozłączyć?</string>
+    <string name="mac_undo">Cofnij</string>
     <string name="mirror_have_been_opened">Ekran główny+ jest włączony</string>
     <string name="mirror_to_settings_connectivity_remote_pad_content">Możesz włączyć Interakcję urządzeń Xiaomi na tablecie w Ustawieniach > Interakcja urządzeń Xiaomi.</string>
     <string name="mirror_to_settings_connectivity_remote_pad_title">Interakcja urządzeń Xiaomi wyłączona</string>

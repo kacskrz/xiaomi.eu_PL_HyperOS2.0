@@ -24,7 +24,6 @@
     <string name="broken_screen_rescue_service_tips_5">%1$d. Xiaomi zaleca korzystanie z tej funkcji w obecności pracownika wsparcia technicznego firmy.</string>
     <string name="broken_screen_rescue_service_tips_6">"%1$d. Jeśli nie możesz wykonać kopii zapasowej na komputerze, możesz się dowiedzieć, jak rozwiązać ten problem z centrum pomocy Xiaomi."</string>
     <string name="cancel_moving_dialog_message">Zatrzymać importowanie?</string>
-    <string name="cannot_use_backup_summary">Trwa właśnie transfer elementów przez Przenoszenie danych. Poczekaj, aż się on zakończy, i rozpocznij ponownie wykonywanie kopii zapasowej.</string>
     <string name="category_message_contacts">SMS-y i Kontakty</string>
     <string name="check_privacy_policy">Wyświetl Politykę prywatności</string>
     <string name="click_soft_ap_to_link">Wybierz hotspot, aby połączyć</string>
@@ -174,7 +173,6 @@
     <string name="save_finish_with_failing_items">"Przesyłanie zostało przerwane.
 Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."</string>
     <string name="select_backup_item">Elementy kopii</string>
-    <string name="set_app_suspend">Trwa wykonywanie kopii zapasowej tej aplikacji. Poczekaj, aż proces się zakończy, i spróbuj ponownie.</string>
     <string name="size_byte">" B"</string>
     <string name="size_giga_byte">" GB"</string>
     <string name="size_kilo_byte">" KB"</string>
