@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_menu_overflow_description">Więcej opcji</string>
-    <string name="abc_activity_chooser_view_see_all">Pokaż wszystko</string>
-    <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
-    <string name="abc_searchview_description_query">Zapytanie</string>
+    <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="ai_introduce_card_sub_title">Pozwól SI automatycznie dodawać podróże, bilety i inne typy wydarzeń do Twojego kalendarza</string>
     <string name="app_name">Kalendarz</string>
     <string name="apply_auto_insert_ai_event_button">Włącz</string>
@@ -13,10 +10,12 @@
     <string name="calendar_privacy_policy">Polityka prywatności</string>
     <string name="calendar_user_agreement">Umowa użytkownika</string>
     <string name="date_time_fmt">%1$s (%2$s)</string>
-    <string name="desk_calendar">Bogaty kalendarz biurkowy</string>
     <string name="desk_calendar_view">Kalendarz na biurko</string>
     <string name="desk_image_cannot_slip_hint">Na razie to wszystko</string>
+    <string name="event_all_selected">Wybrano wszystko</string>
+    <string name="event_none_selected">Odznaczono wszystko</string>
     <string name="icon_remove_description_content">Kalendarz jest aplikacją systemową. Zezwala na tworzenie i zarządzanie wydarzeniami. Po usunięciu Kalendarza z Ekranu głównego nadal będzie możliwe korzystanie z niego poprzez widżet na Ekranie głównym i Asystenta HyperOS.</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="month_april">kwietnia</string>
@@ -69,15 +68,7 @@
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
     <string name="monthly_on_day_count">Co miesiąc (%1$s miesiąca)</string>
-    <string name="pack_up">Ukryj</string>
-    <string name="permission_contacts">Do synchronizowania urodzin kontaktów i wysyłania przypomnień</string>
     <string name="preferences_alarms_category_title">Przypomnienia - alarmy</string>
-    <string name="premission_description_agree">Zezwól tej aplikacji na łączenie się z Internetem i przyznaj obowiązkowe uprawnienia wymienione powyżej.</string>
-    <string name="premission_description_cannot_obtain_contact">Najpierw nadaj wymagane uprawnienia, aby mieć dostęp do kontaktów.</string>
-    <string name="premission_description_read_phone_state">Do automatycznego wyciszania alarmów podczas połączeń</string>
-    <string name="premission_read_phone_state">Dostęp do informacji o urządzeniu</string>
-    <string name="productivity_cannot_move_event">Nie można przenieść tego wydarzenia</string>
-    <string name="productivity_move_event_hint">Naciśnij i przytrzymaj wydarzenia, aby przenieść je na inną datę</string>
     <string name="repeat_alarm_close_title">To wydarzenie się powtarza. Wyłączyć przypomnienie alarmem?</string>
     <string name="repeat_alarm_open_title">To wydarzenie się powtarza. Ustawić przypomnienie alarmem?</string>
     <string name="schedule_about_to_begin">Start o %1$s</string>

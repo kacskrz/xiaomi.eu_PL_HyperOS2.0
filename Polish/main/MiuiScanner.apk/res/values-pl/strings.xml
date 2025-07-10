@@ -24,6 +24,7 @@
     <string name="aon_no_network_tip">Włącz Wi-Fi lub dane mobilne i spróbuj ponownie</string>
     <string name="aon_pay_setting_default_des">Domyślna metoda płatności</string>
     <string name="aon_recognize_code_des">Rozpoznany kod QR</string>
+    <string name="aon_recognize_code_lottie_res">Szybkie skanowanie</string>
     <string name="app_description_content">Masz zamiar usunąć tę aplikację. Upewnij się, że nie będziesz już potrzebował jej funkcjonalności.</string>
     <string name="app_description_title">O aplikacji</string>
     <string name="app_details">Informacje</string>
