@@ -22,6 +22,7 @@ d.MM"</string>
     <string name="component_lunar">Chiński kalendarz</string>
     <string name="custom_image">Własny obraz</string>
     <string name="disable_aod_in_dark_room">Wyłącz, gdy telefon leży w ciemności</string>
+    <string name="format_month_day_style_interactive_pets">d.MM.</string>
     <string name="format_month_day_style1">d MMM</string>
     <string name="format_month_day_style2">d.MM</string>
     <string name="format_month_day_week">EEEE, d MMMM</string>
@@ -45,6 +46,7 @@ d.MM"</string>
     <string name="kg_template_description_rhombus">Czas jest ważny. Wykorzystaj go.</string>
     <string name="miui_clock_city_name_local">Lokalnie</string>
     <string name="miui_clock_oversize_date">d.MM</string>
+    <string name="miui_depth_pets_moth_format">d MMM</string>
     <string name="miui_lock_eastern_art_date_curisive_12">d MMM h:mm</string>
     <string name="miui_lock_eastern_art_date_curisive_24">d MMM H:mm</string>
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
@@ -109,4 +111,7 @@ d.MM"</string>
     <string name="smart_style">Inteligentnie</string>
     <string name="smart_style_summary">Gdy ktoś patrzy na ekran</string>
     <string name="temporary_style_summary">Zalecane</string>
+    <string name="tiny_bubble_date_format">d.MM.</string>
+    <string name="tiny_bubble_date_week_content_description">EEEE d MMM</string>
+    <string name="tiny_bubble_date_week_format">EEE d.MM.</string>
 </resources>

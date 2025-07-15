@@ -60,6 +60,7 @@
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
+    <string name="no_export_multi_image">Udostępnianie kilku obrazów nie jest wspierane</string>
     <string name="note_gesture_guide_step1">Przytrzymaj ikonę plusa, aby utworzyć notatkę głosową</string>
     <string name="note_gesture_guide_step2">Przytrzymaj, a następnie przeciągnij notatkę nad inną notatkę, aby utworzyć folder</string>
     <string name="note_gesture_guide_step3">Przytrzymaj, a następnie przeciągnij notatkę nad folderem, aby przenieść ją do tego folderu</string>
@@ -71,6 +72,7 @@
     <string name="refuse_to_share_as_pic_because_of_content">Ta notatka jest zbyt duża, aby ją udostępnić.</string>
     <string name="setting_privacy">Polityka prywatności</string>
     <string name="toolbar_share_description">Udostępnij</string>
+    <string name="user_agreement">Umowa użytkownika</string>
     <string name="widget_size_item_big">Duży</string>
     <string name="widget_size_item_medium">Średni</string>
     <string name="widget_size_item_small">Mały</string>
