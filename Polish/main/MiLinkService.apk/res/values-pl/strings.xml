@@ -57,8 +57,9 @@
     <string name="controller_auth_cancel">Anuluj</string>
     <string name="controller_auth_title">Zweryfikuj pilot</string>
     <string name="copy_toast_msg">Skopiowano link do schowka</string>
-    <string name="device_permission_dialog_message">Otwórz Ustawienia > Interakcja urządzeń Xiaomi > Interakcja urządzeń Xiaomi i uprawnienia na %s i przyznaj uprawnienia do aparatu.</string>
+    <string name="device_permission_dialog_message">Na urządzeniu „%s” przejdź do: Ustawienia > Ochrona prywatności > Łączność między urządzeniami, a następnie nadaj uprawnienia dostępu do aparatu, aby zyskać możliwość korzystania z tej funkcji.</string>
     <string name="device_permission_dialog_message_car">Możesz zezwolić na dostęp do kamery na %s w Ustawieniach > System > Zarządzaj aplikacjami > Specjalne uprawnienia > Łączność między urządzeniami.</string>
+    <string name="device_permission_dialog_message_global_old">W Ustawieniach urządzenia %s przejdź do Interakcji urządzeń Xiaomi > Interakcja urządzeń Xiaomi i uprawnienia i nadaj uprawnienia do Aparatu, aby móc korzystać z tej funkcji.</string>
     <string name="dialog_nfc_cast_wifi_off">Włącz Wi-Fi, aby móc użyć projekcji za pomocą NFC. Zrobić to teraz?</string>
     <string name="dialog_no_device_message_china"><Data>%1$d. Połącz telefon i telewizor z tą samą siecią Wi-Fi.&lt;br>&lt;br>%2$d. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę &lt;a href=milink://com.milink.service/specification>\"Pomoc\"&lt;/a>, aby dowiedzieć się więcej.</Data></string>
     <string name="dialog_scan_message_china">"%1$d. Połącz telefon i telewizor z tą samą siecią Wi-Fi.
@@ -87,6 +88,7 @@ Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą sie
 %2$d. Jeśli przesyłasz ekran z urządzenia Xiaomi pierwszy raz, musisz przejść weryfikację.
 %3$d. Jeśli używasz innego urządzenia niż Xiaomi i nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
 Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego urządzenia. Jeśli to nie pomoże, zainstaluj aplikację HappyCast na swoim telewizorze i postępuj zgodnie z instrukcjami."</string>
+    <string name="inter_connect_setting_unavailable_dialog_message">Otwórz Ustawienia > Interakcja urządzeń Xiaomi, aby włączyć funkcję „Aparat na różnych urządzeniach”.</string>
     <string name="keyguard_security_setting_privacy_policy">Polityka prywatności</string>
     <string name="message_connection_interrupted">Upewnij się, że komputer i tablet znajdują się w zasięgu połączenia i mają włączone Wi-Fi oraz Bluetooth. Aby kontynuować, rozpocznij ponownie zadanie na komputerze.</string>
     <string name="miplay_device_full_name">%2$s z %1$s</string>
@@ -127,4 +129,5 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="synergy_text">Interakcja urządzeń Xiaomi</string>
     <string name="tv_remote_auth_cancel">Anuluj</string>
     <string name="tv_remote_auth_title">Wprowadź kod weryfikacyjny telewizora</string>
+    <string name="wifi_disabled_dialog_message">Włącz Wi-Fi na urządzeniu, aby korzystać z funkcji Aparat na różnych urządzeniach.</string>
 </resources>
