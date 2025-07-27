@@ -200,10 +200,27 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="permission_about_storage">Wymagane uprawnienie dostępu do pamięci urządzenia</string>
     <string name="permission_about_storage_pad">Wymagane uprawnienie dostępu do pamięci</string>
     <string name="permission_alert_message_usage_access">Przenoszenie danych wymaga dostępu do statystyk użytkowania aplikacji. Nadaj aplikacji wymagane uprawnienia w Ustawieniach.</string>
+    <string name="permission_application_summary">W celu przeniesienia zainstalowanych aplikacji</string>
+    <string name="permission_application_title">Dostęp do listy zainstalowanych aplikacji</string>
     <string name="permission_calender_title">Dostęp do kalendarza</string>
+    <string name="permission_call_summary">W celu przeniesienia historii połączeń</string>
+    <string name="permission_call_title">Dostęp do historii połączeń</string>
+    <string name="permission_contacts2_summary">W celu przeniesienia kontaktów</string>
+    <string name="permission_contacts2_title">Dostęp do kontaktów</string>
+    <string name="permission_external_storage_summary">W celu przeniesienia muzyki, dźwięków, zdjęć i filmów</string>
+    <string name="permission_external_storage_title">Dostęp do pamięci</string>
     <string name="permission_grant_request">Aby móc przenieść ten element, aplikacja Przenoszenie danych wymaga uprawnienia \"%1$s\".</string>
     <string name="permission_locale_summary">W celu łączenia się z urządzeniami w pobliżu</string>
     <string name="permission_location_content">"Aby móc połączyć się ze starym urządzeniem, zezwól Przenoszeniu danych na dostęp do lokalizacji. Jeśli tego nie zrobisz, przeniesienie danych nie będzie możliwe."</string>
+    <string name="permission_location_summary_china">W celu odnajdywania pobliskich hotspotów Wi-Fi i łączenia starych i nowych urządzeń</string>
+    <string name="permission_location_summary_gl">W celu odnajdywania pobliskich hotspotów Wi-Fi i łączenia starych i nowych urządzeń</string>
+    <string name="permission_location_title">Dostęp do lokalizacji</string>
+    <string name="permission_mms_summary">W celu przeniesienia SMS-ów i MMS-ów</string>
+    <string name="permission_mms_title">Dostęp do SMS-ów i MMS-ów</string>
+    <string name="permission_music_summary">W celu przeniesienia muzyki i plików audio</string>
+    <string name="permission_music_title">Dostęp do muzyki i plików audio</string>
+    <string name="permission_picture_summary">W celu przeniesienia zdjęć i filmów</string>
+    <string name="permission_picture_title">Dostęp do zdjęć i filmów</string>
     <string name="privacy_policy">Polityka prywatności</string>
     <string name="prompt_before_transmission_tablet_message3_title">Druga przestrzeń jest włączona</string>
     <string name="provisiion_set_old_pad_summary">Użyj Przenoszenia danych do zaimportowania danych ze starego urządzenia bez łączenia się z Internetem</string>
@@ -246,6 +263,7 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="secret_password_confirm_summary">Aby przenieść prywatne pliki na nowe urządzenie, zweryfikuj swoją tożsamość poprzez wpisanie hasła Ochrony prywatności.</string>
     <string name="security_connect_content">Upewnij się, że kod połączenia na obu urządzeniach się zgadza, a następnie dotknij \"Połącz\", aby przenieść elementy.</string>
     <string name="sender">Wysyłaj</string>
+    <string name="sender_finish_bottom_tips_phone"><Data>Zanim &lt;a href='%1s'>wymażesz dane z tego urządzenia&lt;/a>, upewnij się, że wykonałeś kopię wszystkich ważnych rzeczy."</Data></string>
     <string name="sender_scanning_code">Umieść obrazek w ramce</string>
     <string name="sender_scanning_connecting">Łączenie z nowym urządzeniem…</string>
     <string name="set_app_suspend">Trwa wykonywanie kopii zapasowej tej aplikacji. Poczekaj, aż proces się zakończy, i spróbuj ponownie.</string>

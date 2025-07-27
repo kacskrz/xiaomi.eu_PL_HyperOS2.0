@@ -19,6 +19,7 @@
   <string name="anonymous_source_continue">Kontynuuj</string>
   <string name="anonymous_source_warning">Twój telefon i dane osobiste są bardziej podatne na ataki przez nieznane aplikacje. Instalując tą aplikację, jesteś odpowiedzialny za wszelkie uszkodzenia telefonu lub utratę danych, które mogą wynikać z jej użytkowania.</string>
   <string name="app_installed_notification_channel_description">Powiadomienia o zainstalowanych aplikacjach</string>
+  <string name="app_installing_not_allow_2_with_name">Zapobieżono instalacji innej aplikacji przez %1$s. Aby zmienić swoje preferencje, wyszukaj \"Instalowanie nieznanych aplikacji\" w Ustawieniach.</string>
   <string name="app_name">Instalator aplikacji</string>
   <string name="app_name_unknown">Nieznana</string>
   <string name="app_not_found_dlg_text">Aplikacja nie została znaleziona wśród zainstalowanych aplikacji.</string>

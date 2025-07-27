@@ -11,6 +11,7 @@ Wiadomości pojawią się tylko w Drugiej przestrzeni."</string>
     <string name="back_double_tap">Dwukrotne dotknięcie z tyłu</string>
     <string name="back_tap">Dotknięcie z tyłu</string>
     <string name="back_triple_tap">Trzykrotne dotknięcie z tyłu</string>
+    <string name="backtap_gesture_prompt">Dotknij tyłu urządzenia, unikając tylnego wyświetlacza</string>
     <string name="bubble_app_empty_page">Nie udało się znaleźć aplikacji obsługujących dymki powiadomień na tym urządzeniu</string>
     <string name="bubble_app_manage">Zarządzaj dymkami konwersacji</string>
     <string name="bubble_mode_barrage_switch_tips">Włącz, aby wyświetlić dymki konwersacji dla zminimalizowanych aplikacji jako komentarze na ekranie</string>

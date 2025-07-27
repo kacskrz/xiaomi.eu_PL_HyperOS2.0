@@ -10,6 +10,7 @@
     <string name="aon_video_left_right_support_scene_des">Zmień postęp wideo podczas oglądania w trybie poziomym</string>
     <string name="aon_video_up_down_support_scene_des">Zmień głośność wideo</string>
     <string name="autofill_save_sub_message">Możesz zarządzać swoimi hasłami w Ustawieniach > Odciski palca, dane twarzy i blokada ekranu > %s.</string>
+    <string name="autofill_save_sub_message_new">Możesz wyświetlać hasła i nimi zarządzać w Ustawieniach > %1$s > %2$s.</string>
     <string name="back_double_tap">Dwukrotne dotknięcie z tyłu</string>
     <string name="back_tap">Dotknięcie z tyłu</string>
     <string name="back_triple_tap">Trzykrotne dotknięcie z tyłu</string>
@@ -39,9 +40,12 @@
     <string name="double_knock">Dwukrotne puknięcie knykciem</string>
     <string name="dump_log">Wygeneruj logi dot. problemu</string>
     <string name="earpiece_callmode_tip">Rozłóż, aby użyć mikrofonu</string>
+    <string name="face_password_unlock_new">Dane twarzy i blokada ekranu</string>
     <string name="fc_dialog_body">Aplikacja przestała działać. Możesz zgłosić ten problem na forum miuipolska.pl lub xiaomi.eu, podając treść lub zrzut ekranu z raportu błędu.</string>
     <string name="fc_dialog_jump_to_preview">Pokaż treść błędu</string>
     <string name="file_cannot_screen_throw">"Nie można wykonać projekcji tego elementu."</string>
+    <string name="fingerprint_face_password_unlock_new">Odciski palca, dane twarzy i blokada ekranu</string>
+    <string name="fingerprint_password_unlock">Odciski palca i blokada ekranu</string>
     <string name="fingerprint_double_tap">Dwukrotnie dotknij czytnika linii papilarnych</string>
     <string name="freeform_guide_tip_dock_browser">Przytrzymaj ikonę, aby otworzyć nowe okno</string>
     <string name="freeform_guide_tip_dock_email">Przytrzymaj ikonę, aby otworzyć nowe okno</string>
@@ -122,6 +126,7 @@
     <string name="nps_description">Powiadomienie dot. stanu GPS</string>
     <string name="nps_monitor_name">Lokalizacja GPS</string>
     <string name="partial_screen_shot">Częściowy zrzut ekranu</string>
+    <string name="password_unlock">Blokada ekranu</string>
     <string name="permdesc_manageFingerprint">Zezwala aplikacji aktywować metody dodawania i usuwania szablonów odcisków palców.</string>
     <string name="permdesc_useBiometric">Zezwala aplikacji na używanie sprzętu biometrycznego na potrzeby autoryzacji</string>
     <string name="permdesc_useFingerprint">Zezwala aplikacji na używanie czytnika linii papilarnych na potrzeby autoryzacji</string>
