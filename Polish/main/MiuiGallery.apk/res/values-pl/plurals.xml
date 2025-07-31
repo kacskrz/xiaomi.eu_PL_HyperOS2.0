@@ -55,19 +55,9 @@
         <item quantity="one">%1$d element</item>
         <item quantity="few">%d elementy</item>
     </plurals>
-    <plurals name="photo_picker_title_format">
-        <item quantity="other">Wybierz %d zdjęć</item>
-        <item quantity="few">Wybierz %d zdjęcia</item>
-        <item quantity="one">Wybierz %d zdjęcie</item>
-    </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Nie pobrano jeszcze %d plików. Anulować mimo to?</item>
         <item quantity="one">Nie pobrano jeszcze jednego pliku. Anulować mimo to?</item>
-    </plurals>
-    <plurals name="picker_overview_page_title">
-        <item quantity="other">Wybrano %1$d elementów</item>
-        <item quantity="few">Wybrano %1$d elementy</item>
-        <item quantity="one">Wybrano %1$d element</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
         <item quantity="other">"Nie można usunąć %2$d elementów z prywatnego albumu. %1$s."</item>

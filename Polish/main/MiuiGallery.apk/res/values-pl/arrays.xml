@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="annual_foods_title">
-        <item>Smakowity rok</item>
-        <item>Trzy dania. Cztery pory roku.</item>
-    </string-array>
     <string-array name="annual_travel_title">
         <item>Witaj, świecie!</item>
         <item>W trasie</item>
@@ -19,10 +15,6 @@
     <string-array name="city_title">
         <item>Pejzaż miejski</item>
         <item>Ulice i zakątki</item>
-    </string-array>
-    <string-array name="flowers_title">
-        <item>Delikatne płatki</item>
-        <item>W pełnym rozkwicie</item>
     </string-array>
     <string-array name="forest_title">
         <item>W dzicz</item>
@@ -49,11 +41,6 @@
         <item>Święto Niepodległości przez lata</item>
         <item>Święta Bożego Narodzenia przez lata</item>
     </string-array>
-    <string-array name="important_people_title">
-        <item>Twoje ulubione obiekty</item>
-        <item>Pokrewne dusze</item>
-        <item>"Radosne życiowe chwile"</item>
-    </string-array>
     <string-array name="last_month">
         <item>Styczeń</item>
         <item>Luty</item>
@@ -77,18 +64,9 @@
         <item>Dziennik fitness</item>
         <item>Staję się silniejszym</item>
     </string-array>
-    <string-array name="last_some_day_foods_title">
-        <item>Bon appétit!</item>
-        <item>Kolejny kęs?</item>
-        <item>Ciesz się jedzeniem!</item>
-    </string-array>
     <string-array name="last_some_day_playground_title">
         <item>Uśmiechnij się i pomachaj!</item>
         <item>Czas zabawy</item>
-    </string-array>
-    <string-array name="last_some_day_ski_title">
-        <item>Świeże powietrze</item>
-        <item>Trasy udeptane w śniegu</item>
     </string-array>
     <string-array name="last_some_day_sports_title">
         <item>Nie do zatrzymania</item>
@@ -135,15 +113,11 @@
         <item>"Najlepsze pejzaże świata"</item>
         <item>Wspinamy się</item>
     </string-array>
-    <string-array name="people_travel_title">
-        <item>Gdzie poprowadzi nas droga</item>
-        <item>Wspólne podróże</item>
-    </string-array>
     <string-array name="quarterly_babies_title">
         <item>Radosna wiosna</item>
         <item>Wesołe lato</item>
         <item>Szczęśliwa jesień</item>
-        <item>Przyjemna wiosna</item>
+        <item>Przyjemna zima</item>
     </string-array>
     <string-array name="quarterly_foods_title">
         <item>Wiosenne jedzenie</item>
