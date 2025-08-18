@@ -166,9 +166,6 @@
     <string name="applock_guide_tip1_without_finger">Dostępne są różne rodzaje weryfikacji. Odblokuj dostęp do aplikacji swoją twarzą bądź hasłem.</string>
     <string name="applock_guide_tip1_without_finger_face">Dostępne są różne rodzaje weryfikacji.</string>
     <string name="applock_header_text_less_than_half">Za mało miejsca dla aplikacji. Przesuń suwak dalej.</string>
-    <string name="applock_mixtype_hidepwd_icon">Ukryj hasło</string>
-    <string name="applock_mixtype_showpwd_icon">Pokaż hasło</string>
-    <string name="applock_password_set_luck_button">Ustawienia</string>
     <string name="applock_password_set_luck_comment">Aby używać prywatnych funkcji na tym urządzeniu, musisz ustawić blokadę ekranu.</string>
     <string name="applock_password_set_luck_message">"Aby bezpiecznie uzyskiwać dostęp do prywatnych funkcji na tym urządzeniu, Xiaomi HyperOS domyślnie używa Twojej blokady ekranu do weryfikacji tożsamości.
 
@@ -294,22 +291,13 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="battery_status_level_poor">Słaba</string>
     <string name="battery_status_overheat">Przegrzana</string>
     <string name="bill_traffic_reminder_instruction_text">Metody rozliczeń i standardy obliczania danych u różnych operatorów mogą się różnić. Mogą wystąpić opóźnienia w rozliczeniach. Statystyki użytkowania podane tutaj mają charakter wyłącznie poglądowy.</string>
-    <string name="biometric_applock_password_lockout_title">Zbyt wiele nieudanych prób</string>
     <string name="biometric_applock_pwd">Weryfikacja Blokadą aplikacji</string>
     <string name="biometric_applock_pwd_or_finger">Weryfikuj odciskiem palca lub Blokadą aplikacji</string>
-    <string name="biometric_face_error">Nie udało się zweryfikować</string>
-    <string name="biometric_face_finger_change">Zmieniły się dane biometryczne. Aby się zweryfikować, wprowadź hasło.</string>
     <string name="biometric_finger_verify">Weryfikacja odciskiem palca</string>
     <string name="biometric_lockscreen_pwd">Weryfikacja blokadą ekranu</string>
     <string name="biometric_lockscreen_pwd_or_finger">Weryfikuj odciskiem palca lub blokadą ekranu</string>
     <string name="biometric_private_password">Weryfikacja hasłem Ochrony prywatności</string>
-    <string name="biometric_private_password_lockout_title">Zbyt wiele nieudanych prób</string>
     <string name="biometric_private_pwd_or_finger">Weryfikuj odciskiem palca lub hasłem Ochrony prywatności</string>
-    <string name="biometric_reset_password_tips">Pomyślnie zresetowano hasło. Wprowadź nowe hasło, aby odblokować.</string>
-    <string name="biometric_screen_lock_password_lockout_title">Zbyt wiele nieudanych prób</string>
-    <string name="biometric_subtitle">Do otwierania %1$s</string>
-    <string name="biometric_subtitle_default">Zweryfikuj tożsamość</string>
-    <string name="biometric_verify_retry">Spróbuj ponownie</string>
     <string name="blur_cross_device_permissions">Uprawnienia łączności między urządzeniami</string>
     <string name="blur_key_words_permission_records">Rekordy zachowań aplikacji</string>
     <string name="boost_stop">Wyłącz przyspieszanie</string>
@@ -321,8 +309,6 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="btn_text_quick_save_power">Wykonaj</string>
     <string name="byteShort">" B"</string>
     <string name="camera">Aparat</string>
-    <string name="car_sickness_relief_exit_text">Łagodzenie choroby lokomocyjnej przestało działać</string>
-    <string name="car_sickness_relief_start_text">Łagodzenie choroby lokomocyjnej działa</string>
     <string name="card_main_apkclean_title">Usuń pliki APK</string>
     <string name="card_main_facebookclean_title">Czyszczenie Facebooka</string>
     <string name="card_main_netcheck_summary">Sprawdź, czy sieć działa poprawnie</string>
@@ -530,16 +516,12 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="game_toolbox_ai_service_desc">Ulepszone granie z SI</string>
     <string name="game_toolbox_ai_upgrade_dialog_desc">Dostępna jest aktualizacja usług grania SI. Zanim użyjesz powiązanych z nimi funkcji, zaktualizuj je.</string>
     <string name="game_toolbox_ai_upgrade_dialog_title">Aktualizacja</string>
-    <string name="game_toolbox_auto_brightness_talkback">Automatyczna jasność</string>
-    <string name="game_toolbox_btn_back_talkback">Wstecz</string>
-    <string name="game_toolbox_cellular_network">Przyspieszenie prędkości danych mobilnych</string>
     <string name="game_toolbox_display_enhance_view_frc_notice">"Uwaga:
 Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w grze oraz zewnętrzne) mogą niedokładnie odczytywać liczbę klatek. Aby uzyskać aktualną liczbę klatek, przejdź do panelu wydajności."</string>
     <string name="game_toolbox_display_style_game_hdr">HDR w grze</string>
     <string name="game_toolbox_fps_realtime">Obecnie %d kl./s</string>
     <string name="game_toolbox_fps_shake">Opóźnienie %d kl./s</string>
     <string name="game_toolbox_immersion_sound_desc">Dokładnie odtwarzaj efekty dźwiękowe, takie jak kroki i głosy, zwiększając immersję w grze, gdy używasz słuchawek</string>
-    <string name="game_toolbox_item_joystick_key_mapping">Przycisk kontrolera</string>
     <string name="game_toolbox_margin_restrain_description">Ustaw obszar niewrażliwy na dotyk, aby ograniczyć przypadkowe dotknięcia</string>
     <string name="game_toolbox_mem_clean_desc">Wyczyść RAM i zwiększ prędkość</string>
     <string name="game_toolbox_performance_config_custom_notice_new">Możesz dostosować Superrozdzielczość i Inteligentny klatkaż, aby zarządzać klatkażem i jakością obrazu. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
@@ -547,8 +529,6 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="game_toolbox_performance_config_frc_notice_new">Priorytet klatkażu poprawia liczbę klatek poprzez Inteligentny klatkaż. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
     <string name="game_toolbox_performance_config_resolution_notice">Gdy włączony jest Priorytet grafiki, to aktualny klatkaż wynosi tyle, ile pokazano w panelu wydajności</string>
     <string name="game_toolbox_performance_config_resolution_notice_new">Priorytet obrazu poprawia jakość obrazu dzięki Superrozdzielczości i zarządza klatkażem poprzez Inteligentny klatkaż. &lt;font color=%s>Aktualna liczba klatek wyświetla się w panelu wydajności.&lt;/font></string>
-    <string name="game_toolbox_screen_brightness_talkback">Jasność ekranu</string>
-    <string name="game_toolbox_settings_talkback">Ustawienia</string>
     <string name="game_toolbox_slow_charge_desc">Włączenie funkcji Ograniczenie ładowania Plus może poprawić wrażenia z grania podczas ładowania i zmniejszyć temperaturę urządzenia, ale spowolni też prędkość ładowania. Włączyć?</string>
     <string name="game_toolbox_slow_charge_dialog_btn">OK</string>
     <string name="game_toolbox_slow_charge_notification_title">Ograniczenie ładowania Plus</string>
@@ -686,7 +666,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="lock_screen_traffic_notify_body">Użyto %3$s po %2$s od blokady (%1$s)</string>
     <string name="long_click_dialog_summary">Przytrzymaj długo palcem na wyniku, aby dodać go do wyjątków</string>
     <string name="main_alert_message_open_traffic_ctrl">Ogranicz użycie danych</string>
-    <string name="main_bill_out_talkback">Stan na minusie %1$.2f</string>
     <string name="main_bill_remained">Środki</string>
     <string name="main_normal_data_usage">Użycie danych mobilnych</string>
     <string name="medical_info_category_title_medical">Informacje medyczne</string>
@@ -825,8 +804,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="om_settings_memory_clean_lock_screen">Wyczyść pamięć RAM, gdy urządzenie jest zablokowane</string>
     <string name="om_settings_speed_up_auto">Czyszczenie pamięci RAM</string>
     <string name="open_extreme_power_save_mode_title">Włącz Ultraoszczędzanie baterii</string>
-    <string name="open_physical_sim_self_detection_noti_centent">Wygląda na to, że jesteś za granicą i masz problemy z siecią. Rozpocznij sprawdzanie, aby rozwiązać ten problem.</string>
-    <string name="open_physical_sim_self_detection_noti_title">Włącz Sprawdzenie karty SIM</string>
     <string name="optimize_manage_title">Zarządzanie pamięcią</string>
     <string name="optimize_result_button_onekey_restore">Przywróć</string>
     <string name="optmizingbar_title_system">Zabezpieczenia systemu</string>
@@ -1074,6 +1051,7 @@ Ultraoszczędzania baterii"</string>
     <string name="power_dialog_performance_mode_checkbox">Przełącz na odświeżanie %d Hz</string>
     <string name="power_dialog_super_save_msg">"Ultraoszczędzanie baterii ogranicza większość energochłonnych funkcji systemu i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?"</string>
     <string name="power_dialog_super_save_msg_5g">Ultraoszczędzanie baterii ogranicza większość energochłonnych funkcji systemu (np. łączność 5G) i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?</string>
+    <string name="power_dialog_super_save_msg_p2">Ultraoszczędzanie baterii powoduje wyłączenie tylnego wyświetlacza oraz ograniczenie większości funkcji zużywających energię i zmniejszających wydajność urządzenia, pozostawiając podstawowe funkcje (np. połączenia, SMS i łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?</string>
     <string name="power_dialog_super_save_title">Ultraoszczędzanie baterii</string>
     <string name="power_main_battery_last_day_hour">%1$s dni %2$s godz.</string>
     <string name="power_main_battery_last_hour_minute">%1$s godz. %2$s min</string>
@@ -1192,9 +1170,7 @@ Ultraoszczędzania baterii"</string>
     <string name="pref_auto_adjust_traffic">Automatycznie dostosuj statystyki zużycia danych</string>
     <string name="pref_daily_traffic">Limit transmisji danych</string>
     <string name="pref_data_usage_ignore_settings">Wyjątki</string>
-    <string name="pref_physical_sim_self_detection_cat_title">Przywrócenie sieci</string>
     <string name="pref_title_declaration">O Monitorze danych</string>
-    <string name="pref_title_physical_sim_self_detection">Sprawdzenie karty SIM</string>
     <string name="pref_traffic_package_type_summary">Miesięczny/Dzienny/Bez limitu</string>
     <string name="preferred_app_entries_dial">Dialer</string>
     <string name="preferred_app_entries_launcher">Launcher</string>
@@ -1230,26 +1206,13 @@ Ultraoszczędzania baterii"</string>
     <string name="privacy_input_model_guide_text">"Ta funkcja chroni Twoją prywatność w trakcie wprowadzania tekstu. Gdy jest ona włączona, część funkcjonalności oparta na korzystaniu z sieci (np. opcje personalizacji, emoji, przewidywania dot. pisania) nie będzie dostępna."</string>
     <string name="privacy_look_privacy">Polityka prywatności</string>
     <string name="privacy_password_chanage_process">Zmień hasło Ochrony prywatności</string>
-    <string name="privacy_password_custom_password">Własny PIN</string>
-    <string name="privacy_password_digital_password">%d-cyfrowy PIN</string>
     <string name="privacy_password_enter_custom_password">Wprowadź swój %1$d–%2$d-cyfrowy PIN</string>
     <string name="privacy_password_enter_custom_password_again">Wprowadź PIN ponownie</string>
     <string name="privacy_password_enter_custom_password_not_match">Kody PIN się nie zgadzają</string>
-    <string name="privacy_password_enter_digital_password">Wprowadź swój %d-cyfrowy PIN</string>
-    <string name="privacy_password_enter_digital_password_again">Wprowadź swój %d-cyfrowy PIN ponownie</string>
     <string name="privacy_password_enter_graphic_password">Narysuj wzór odblokowania. Połącz co najmniej %d kropki.</string>
     <string name="privacy_password_enter_hybrid_password">Wprowadź swoje %1$d–%2$d-znakowe hasło</string>
-    <string name="privacy_password_enter_hybrid_password_again">Wprowadź swoje hasło ponownie</string>
-    <string name="privacy_password_enter_hybrid_password_invalid">Hasło nie może zawierać nieprawidłowych znaków</string>
     <string name="privacy_password_enter_hybrid_password_not_match">Hasła się nie zgadzają</string>
-    <string name="privacy_password_graphic_password">Wzór</string>
-    <string name="privacy_password_hybrid_password">Hasło</string>
-    <string name="privacy_password_other_password">Inne hasło</string>
-    <string name="privacy_password_setup_hint">Wprowadź swoje hasło</string>
-    <string name="privacy_password_setup_next">Dalej</string>
-    <string name="privacy_password_setup_not_match">Spróbuj ponownie</string>
     <string name="privacy_password_setup_process">Wprowadź hasło Ochrony prywatności</string>
-    <string name="privacy_password_update_type">Wybierz typ hasła</string>
     <string name="privacy_permission_call">Dostęp lub edycja historii połączeń</string>
     <string name="privacy_permission_call_title">Ochrona połączeń</string>
     <string name="privacy_pop_call">Dzisiejszy dostęp do historii połączeń</string>
@@ -1274,8 +1237,6 @@ Wycofać zgodę?"</string>
     <string name="privacy_risk_sensitive_second_title">"Przyznano wrażliwe uprawnienia"</string>
     <string name="privacy_risk_sensitive_top_tip">"Aby chronić Twoją prywatność, nadawaj wrażliwe uprawnienia tylko wtedy, gdy to konieczne."</string>
     <string name="privacy_risk_space_uninstall_dialog_msg">Czy chcesz odinstalować wybrane aplikacje, w tym ich sklonowane wersje?</string>
-    <string name="privacy_screen_share_notification_land_protect_sub_title">Ochrona Twojej prywatności</string>
-    <string name="privacy_screen_share_notification_land_title">Udostępnianie ekranu</string>
     <string name="privacy_search_key_8">Ochrona przed śledzeniem</string>
     <string name="privacy_search_keyword_4">Ukryj skróty Ekranu głównego</string>
     <string name="privacy_thumbnail_blur_top_tip">Wybierz aplikacje, których podglądy w menu ostatnio otwartych aplikacji będą zamazane</string>
@@ -1283,9 +1244,6 @@ Wycofać zgodę?"</string>
     <string name="privacy_update_dialog_content_1">Zaktualizowano Politykę prywatności %s:</string>
     <string name="privacy_update_dialog_content_2"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>.</Data></string>
     <string name="privacy_update_dialog_title">Zaktualizowano Politykę prywatności</string>
-    <string name="private_file">Prywatne pliki</string>
-    <string name="private_note">Ukryte notatki</string>
-    <string name="private_photo">Prywatny album</string>
     <string name="private_sms">Prywatne SMS-y</string>
     <string name="protect_data_security">Izolowane dane</string>
     <string name="protect_data_security_detail">Dane wygenerowane przez klawiaturę będą izolowane i staną się niedostępne dla innych aplikacji.</string>
@@ -1668,7 +1626,6 @@ Wycofać zgodę?"</string>
     <string name="toast_root_apply_reject">Wyłączono uprawnienia roota dla %s</string>
     <string name="traffic_advanced_settings">Zaawansowane ustawienia dot. danych</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Miesięczny plan taryfowy zmieniony na %s.</string>
-    <string name="traffic_select_dialog_title">Wybierz operatora</string>
     <string name="traffic_setting_fragment_month_summary">Dane są aktualizowane raz w miesiącu</string>
     <string name="traffic_to_limit_warning">"Wykorzystano %s limitu danych"</string>
     <string name="tuesday_shortest">W</string>

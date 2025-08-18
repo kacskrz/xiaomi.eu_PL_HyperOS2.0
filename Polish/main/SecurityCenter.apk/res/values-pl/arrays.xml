@@ -25,10 +25,6 @@
         <item>PIN</item>
         <item>Hasło</item>
     </string-array>
-    <string-array name="biometric_face_retry">
-        <item>Spróbuj ponownie danymi twarzy</item>
-        <item>Użyj odcisku palca lub hasła</item>
-    </string-array>
     <string-array name="cellular_package_type">
         <item>Plan miesięczny</item>
         <item>Plan nielimitowany</item>

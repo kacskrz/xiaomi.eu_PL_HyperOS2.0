@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
-    <string name="ai_introduce_card_sub_title">Pozwól SI automatycznie dodawać podróże, bilety i inne typy wydarzeń do Twojego kalendarza</string>
     <string name="app_name">Kalendarz</string>
-    <string name="apply_auto_insert_ai_event_button">Włącz</string>
     <string name="auto_insert_ai_event_toast">Włączono asystenta wydarzeń SI</string>
     <string name="calendar_data_sharing_instruction">Oświadczenie o udostępnianiu danych firmom zewnętrznym</string>
     <string name="calendar_desc_withdraw_consent">Cofnij zgodę na Politykę prywatności Kalendarza</string>
@@ -12,8 +10,6 @@
     <string name="date_time_fmt">%1$s (%2$s)</string>
     <string name="desk_calendar_view">Kalendarz na biurko</string>
     <string name="desk_image_cannot_slip_hint">Na razie to wszystko</string>
-    <string name="event_all_selected">Wybrano wszystko</string>
-    <string name="event_none_selected">Odznaczono wszystko</string>
     <string name="icon_remove_description_content">Kalendarz jest aplikacją systemową. Zezwala na tworzenie i zarządzanie wydarzeniami. Po usunięciu Kalendarza z Ekranu głównego nadal będzie możliwe korzystanie z niego poprzez widżet na Ekranie głównym i Asystenta HyperOS.</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>

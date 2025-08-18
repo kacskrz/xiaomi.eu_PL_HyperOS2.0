@@ -102,6 +102,12 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="clear_dup_tip">Usuwanie duplikatów</string>
     <string name="cloud_action_upgrade_free">Ulepsz za darmo</string>
     <string name="cloud_full_space_tip_message">Ulepsz swój plan Chmury, aby móc zsynchronizować z nią wszystkie zdjęcia i filmy.</string>
+    <string name="confirm_merge_face_albums">" "<Data> Scalić ten album z %s? </Data>" "</string>
+    <string name="confirm_merge_many_face_albums">" "<Data> Scalić te albumy z %s? </Data>" "</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Czy to na pewno &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Ta osoba zostanie przeniesiona do albumu \"%2$s\". </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Czy to na pewno nie &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Czy to na pewno &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Te osoby zostaną przeniesione do albumu \"%2$s\". </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Czy to na pewno nie są &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
     <string name="cta_agreement_declare">Aby w pełni zrozumieć Twoje prawa jako użytkownika, a także metody, w ramach których Xiaomi używa Twoich danych, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> przed skorzystaniem z tej aplikacji.</string>
     <string name="cta_network_declare">Aby synchronizować zdjęcia i filmy z Chmurą Xiaomi, aplikacja wymaga połączenia z Internetem.</string>
     <string name="cta_screenthrow_declare">"Aby móc przesyłać ekran tego urządzenia na zewnętrzne monitory, aplikacja musi się połączyć z Internetem."</string>

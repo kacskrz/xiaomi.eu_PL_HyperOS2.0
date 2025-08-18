@@ -34,7 +34,6 @@ Spróbuj ponownie."</string>
     <string name="allow_network_hint">Włącz opcję \"Dostęp do sieci\" lub sprawdź połączenie sieciowe</string>
     <string name="already_updated">Aktualne</string>
     <string name="attach_video_call">Rozmowa wideo</string>
-    <string name="attachment_panel_show_part_new">Strona %1$d z %2$d</string>
     <string name="auto_identify_btn_text_only_smart_messaging">Włącz Inteligentne wiadomości</string>
     <string name="beidou_support_cta_tips">Ta aplikacja może również czytać, edytować, wysyłać i otrzymywać wiadomości z satelity BeiDou.</string>
     <string name="bookmark_confirm_delete_message">Wiadomość zostanie usunięta z ulubionych.</string>

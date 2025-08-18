@@ -2,7 +2,6 @@
 <resources>
     <string name="about_app_name">O Motywach</string>
     <string name="about_version_update">"Co nowego?"</string>
-    <string name="accessibility_sliding_button_state_description_on">włączony</string>
     <string name="accessibiliy_description_content_comment">Komentarz</string>
     <string name="ad_begin_to_download_tip">Rozpoczynanie pobierania…</string>
     <string name="ad_begin_to_install_tip">Instalacja…</string>
@@ -526,15 +525,11 @@ d.MM."</string>
     <string name="miuishare_title_share">Wyślij</string>
     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
     <string name="miuishare_weibo_title">Weibo</string>
-    <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
-    <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_compat_dialog_content">"Obecna wersja aplikacji \"%s\" jest niekompatybilna z tym motywem."</string>
     <string name="miuix_compat_dialog_title">Zastosowano domyślny motyw: \"%s\"</string>
     <string name="miuix_compat_dialog_update_title">Wymagana jest aktualizacja</string>
     <string name="miuix_compat_mms">SMS</string>
-    <string name="miuix_stretchablewidget_collapsed">Zamknięto</string>
-    <string name="miuix_stretchablewidget_expanded">Rozwinięto</string>
     <string name="mix_global_option">Całość</string>
     <string name="mix_global_option_des">Pasek powiadomień, dialer, SMS i inne elementy systemu. Odznacz to pole, aby użyć domyślnych ustawień.</string>
     <string name="mix_home_option_des">Tapeta i zegar. Odznacz to pole, aby użyć domyślnych ustawień.</string>

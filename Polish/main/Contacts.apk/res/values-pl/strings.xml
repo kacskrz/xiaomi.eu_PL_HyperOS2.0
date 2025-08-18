@@ -4,7 +4,6 @@
     <string name="account_container_title">Zapisany na</string>
     <string name="account_default">Telefon</string>
     <string name="account_phone">Tylko telefon, niesynchronizowany</string>
-    <string name="all_selected">Zaznaczono wszystko</string>
     <string name="bind_simcard_no_dual">"Nie znaleziono drugiej karty SIM"</string>
     <string name="call_limit_content">"Nie udało się zadzwonić do „%s”. Możesz dzwonić tylko na numery telefonów znajdujące się na Twojej liście zatwierdzonych kontaktów."</string>
     <string name="call_sim_menu_title_suffix">(Główna)</string>
@@ -27,6 +26,7 @@
     <string name="menu_loseStar">Nie wybrano, Gwiazdka, Przycisk</string>
     <string name="menu_not_redirect_calls_to_vm">Przekieruj na pocztę gł.</string>
     <string name="menu_redirect_calls_to_vm">Nie przekierowuj na pocztę gł.</string>
+    <string name="missed_call">Nieodebrane połączenie</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
@@ -66,7 +66,6 @@
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
-    <string name="none_selected">Odznaczono wszystko</string>
     <string name="pause">wstrzymaj</string>
     <string name="paused">wstrzymano</string>
     <string name="pkgLabel">Kontakty i Dialer</string>

@@ -21,11 +21,6 @@
         <item quantity="few">Aktualizuj %d aplikacje</item>
         <item quantity="one">Aktualizuj %d aplikację</item>
     </plurals>
-    <plurals name="biometric_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">Spróbuj ponownie za %d sekund</item>
-        <item quantity="few">Spróbuj ponownie za %d sekundy</item>
-        <item quantity="one">Spróbuj ponownie za %d sekundę</item>
-    </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">Znaleziono %d aplikacji</item>
         <item quantity="zero">Nie znaleziono aplikacji</item>

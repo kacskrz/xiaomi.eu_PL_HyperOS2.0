@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_sliding_button_state_description_off">wyłączone</string>
-    <string name="cloud_storage_almost_full_upgrade_text">Brakuje miejsca. Synchronizacja zdjęć może nie działać.</string>
     <string name="cloud_storage_default_title">Przestrzeń Chmury</string>
-    <string name="cloud_storage_full_international_upgrade_default_text">Za mało miejsca. Wstrzymano synchronizację z chmurą.</string>
-    <string name="cloud_storage_international_almost_full_upgrade_text">Brak miejsca. Wstrzymywanie synchronizacji z chmurą.</string>
     <string name="cloud_storage_manage_title">Zarządzaj</string>
     <string name="cloud_storage_sufficient_text">Ulepsz, aby uzyskać do %d TB pamięci</string>
     <string name="cloud_storage_upgrade_text">Ulepsz</string>
-    <string name="cloud_storage_upgrade_text_now">Ulepsz</string>
-    <string name="cloud_storage_zero_upgrade_button_text_now">Ulepsz za darmo</string>
     <string name="cta_notification_content_title">"Nie można przywrócić elementów: %s"</string>
     <string name="customize_notification_btn_text">Ulepsz</string>
-    <string name="device_activation_card_cannot_get_yet">"Nie udało się uzyskać informacji. Spróbuj ponownie za 3-5 dni."</string>
     <string name="device_activation_card_description">"Pierwsza aktywacja jest wykonywana w momencie, gdy urządzenie połączy się po raz pierwszy z siecią (np. Wi-Fi czy danymi mobilnymi). W normalnych warunkach trwa to trochę czasu, zatem warto poczekać 3-5 dni przed sprawdzeniem stanu aktywacji.&lt;br>&lt;br>Aktywacja urządzenia to główny czynnik pozwalający określić okres trwania rozszerzonej gwarancji Xiaomi. Sprawdź &lt;a href=%1$s>Politykę zwrotów, wymian i napraw Xiaomi&lt;/a>, aby dowiedzieć się więcej."</string>
     <string name="device_activation_card_description_china">"Pierwsza aktywacja jest wykonywana w momencie, gdy urządzenie połączy się po raz pierwszy z siecią (np. Wi-Fi czy danymi mobilnymi). W normalnych warunkach trwa to trochę czasu, zatem warto poczekać 3-5 dni przed sprawdzeniem stanu aktywacji.&lt;br>&lt;br>Aktywacja urządzenia to główny czynnik pozwalający określić okres trwania rozszerzonej gwarancji Xiaomi. Sprawdź &lt;a href=%1$s>Politykę zwrotów, wymian i napraw Xiaomi&lt;/a>, aby dowiedzieć się więcej."</string>
     <string name="device_activation_card_device_not_support">Niewspierane na tym urządzeniu</string>
-    <string name="device_activation_card_local_service_error">"Nie udało się uzyskać informacji. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
-    <string name="device_activation_card_no_network_error">"Nie udało połączyć się z siecią. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
-    <string name="device_activation_card_title">Pierwsza aktywacja</string>
-    <string name="device_activation_page_title">Aktywacja urządzenia</string>
+    <string name="dialog_btn_yes_install_icon">Zainstaluj</string>
+    <string name="dialog_msg_install_manager_content">Zainstalować ponownie funkcję Znajdź urządzenie?</string>
     <string name="dialog_storage_low_content">Aby kontynuować synchronizację, ulepsz swój plan Chmury.</string>
     <string name="e2ee_data_protection_label_wifi">Ustawienia Wi-Fi</string>
     <string name="e2ee_data_protection_tip">"Chmura Xiaomi oferuje Zaawansowaną ochronę danych. Ta funkcja używa szyfrowania end-to-end po to, aby Twoje dane były dostępne tylko na zaufanych urządzeniach. Nikt inny, w tym Xiaomi, nie może uzyskać dostępu do tych zaszyfrowanych danych. "</string>
@@ -29,6 +20,10 @@
     <string name="e2ee_device_verification_result_subtitle">Urządzenia wylogowane ze Twojego konta Xiaomi nie będą mogły korzystać ze Chmury Xiaomi i innych powiązanych z nią usług, dopóki nie zalogujesz się na nich ponownie.</string>
     <string name="e2ee_device_verification_result_title">Wylogowano wszystkie urządzenia</string>
     <string name="e2ee_need_bind_phone_subtitle">Nie dodałeś numeru telefonu. Jeśli zapomnisz hasła do konta, nie będziesz w stanie się na nie zalogować. Dodaj numer telefonu, aby móc przypomnieć sobie hasło.</string>
+    <string name="e2ee_tip_forget_securityKey_button">Pomiń weryfikację</string>
+    <string name="e2ee_tip_forget_securityKey_subtitle">Jeśli zapomnisz swojego klucza bezpieczeństwa, nie będziesz w stanie uzyskać dostępu do danych w Chmurze Xiaomi.</string>
+    <string name="e2ee_tip_forget_securityKey_title">Zapomniałeś klucza bezpieczeństwa?</string>
+    <string name="e2ee_tip_security_test">Sprawdzanie bezpieczeństwa środowiska…</string>
     <string name="find_device_gdpr_prompt">Włączając Lokalizację urządzenia, zgadzasz się na warunki <u><a href="app://com.miui.cloudservice.gdpr.license">Polityki prywatności</a></u> Xiaomi.</string>
     <string name="find_device_status_summary_without_offline_find">Włącz, aby zlokalizować i śledzić swoje urządzenie lub wyczyścić jego dane</string>
     <string name="find_permission_phone_title">Dostęp do informacji o urządzeniu</string>
@@ -38,17 +33,21 @@
     <string name="jump_market_dialog_btn_open">Otwórz</string>
     <string name="jump_market_dialog_message">Ta funkcja nie jest wspierana przez framework systemu. Możesz go zaktualizować w GetApps. Otworzyć tę aplikację?</string>
     <string name="jump_market_dialog_title">Uwaga</string>
+    <string name="local_lockscreen_sub_title_2fa">Blokada ekranu Twojego urządzenia może być użyta do uwierzytelniania dwuskładnikowego</string>
+    <string name="local_lockscreen_sub_title_2fa_device">Blokada ekranu \"%s\" może być użyta do uwierzytelniania dwuskładnikowego</string>
     <string name="lockscreen_access_pattern_area">Obszar wzoru odblokowania</string>
     <string name="lockscreen_access_pattern_cell_added">Dodano kropkę</string>
     <string name="lockscreen_access_pattern_cell_added_verbose">Dodano kropkę %1$s</string>
-    <string name="micloud_dspt_provision_china">Wykorzystaj Chmurę Xiaomi do synchronizacji danych i lokalizacji urządzenia.</string>
+    <string name="micloud_check_account_toast">Usługi Chmury Xiaomi nie działają na kontach demonstracyjnych</string>
+    <string name="micloud_label_name_antispam">Panel sterowania</string>
     <string name="micloud_manaul_sync_success_button_text">Szczegóły</string>
     <string name="micloud_manaul_sync_success_title">Gotowe</string>
     <string name="micloud_manual_all_sync_off_summary">Przywróć zsynchronizowane dane na nowych urządzeniach za pomocą Chmury Xiaomi</string>
     <string name="micloud_manual_cloud_storage_full_international_summary">Nie można synchronizować zdjęć i kontaktów</string>
     <string name="micloud_notif_content_depend_wifi">Połącz z Wi-Fi, aby zsynchronizować</string>
-    <string name="micloud_setting_personal_assistant_summary">Karty Asystenta HyperOS</string>
-    <string name="micloud_setting_wifi_summary_china">Ustawienia Wi-Fi</string>
+    <string name="micloud_preference_cloud_enabled">Wł.</string>
+    <string name="micloud_preference_cloud_sync_wlan_only">Synchronizuj tylko przy połączeniu z Wi-Fi</string>
+    <string name="micloud_preference_cloud_sync_wlan_only_china">Synchronizuj tylko przy połączeniu z Wi-Fi</string>
     <string name="micloud_space_soundrecorder_detail">"Otwórz aplikację Dyktafon i wybierz folder z elementami przechowywanymi w chmurze.
 Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="micloud_sync_result_wifi_only_china">Ten element jest za duży. Zsynchronizuj go, gdy będziesz połączony z siecią Wi-Fi.</string>
@@ -57,11 +56,12 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
+    <string name="other_lockscreen_forget_pin_dialog_message_2fa">Użyj blokady ekranu innego urządzenia lub wybierz inną metodę weryfikacji.</string>
     <string name="other_lockscreen_title">Wprowadź blokadę ekranu %s</string>
+    <string name="other_lockscreen_title_2fa">Aby dokończyć weryfikację, wprowadź blokadę ekranu \"%s\"</string>
     <string name="other_lockscreen_update_password_error_hint">Zmieniano blokadę ekranu? Wprowadź starą blokadę w celu weryfikacji.</string>
     <string name="pre_privacy_policy">Polityka prywatności</string>
     <string name="pre_user_agreement">Umowa użytkownika</string>
-    <string name="pref_summary_sync_display_photo_on_wifi_only">"Synchronizacja zdjęć kontaktów tylko przy połączeniu z siecią Wi-Fi"</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Synchronizuj zdjęcia tylko z Wi-Fi</string>
     <string name="privacy_dialog_sync_all_purpose_china">Witaj w Chmurze Xiaomi! Możesz jej użyć do synchronizacji swoich SMS-ów, historii połączeń, kontaktów, notatek, ustawień Przeglądarki i innych elementów pomiędzy wszystkimi połączonymi z nią urządzeniami.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Witaj w Chmurze Xiaomi! Możesz jej użyć do synchronizacji swoich SMS-ów, historii połączeń, kontaktów, notatek, ustawień Przeglądarki i innych elementów pomiędzy wszystkimi połączonymi z nią urządzeniami.</string>
@@ -77,31 +77,32 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="progress_notification_downloaded">Ukończono pobieranie</string>
     <string name="progress_notification_downloading">Postęp: %d%%</string>
     <string name="progress_notification_name">Pobieranie wtyczki</string>
-    <string name="quick_service_after_sale_policy_title">Polityka</string>
-    <string name="quick_service_after_sale_service_title">Usługi</string>
-    <string name="quick_service_authenticity_check_title">Uwierzytelnianie</string>
-    <string name="quick_service_maintenance_price_title">Naprawy</string>
-    <string name="quick_service_title">Szybkie usługi</string>
     <string name="recommend_service_cloudservice_description">Synchronizuj dane aplikacji systemowych i wykonuj kopię ustawień, pulpitu i innych rzeczy</string>
     <string name="recommend_service_sharelocation_description">Lokalizuj urządzenia, blokuj je i wymaż z nich dane</string>
-    <string name="recommend_service_title">Polecane usługi</string>
+    <string name="short_app_name">Znajdź urządzenie</string>
     <string name="soundrecorder_sync_only_in_wifi_china">Synchronizuj tylko przez Wi-Fi</string>
     <string name="soundrecorder_sync_only_in_wifi_summary_china">Synchronizuj nagrania tylko w sieci Wi-Fi</string>
-    <string name="storage_upgrade_card_title">Ulepsz</string>
     <string name="sub_sync_item_sms_summary">Synchronizuj wiadomości zawierające obrazy i dźwięki tylko przy połączeniu z Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only">Synchronizuj MMS-y tylko przez Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Synchronizuj SMS-y tylko przez Wi-Fi</string>
     <string name="trying_to_connect_to_network">Łączenie z siecią…</string>
+    <string name="verify_code_warning_subTitle_2fa">Kod weryfikacyjny %d został wysłany na inne zaufane urządzenie z Xiaomi HyperOS 2 lub nowszym. Wprowadź kod, aby kontynuować.</string>
     <string name="verify_dialog_open_lockscreen">Na innym urządzeniu włączono Zaawansowaną ochronę danych. Ustaw blokadę ekranu na tym urządzeniu, aby uzyskać dostęp do danych przechowywanych w Chmurze Xiaomi.</string>
+    <string name="verify_dialog_point_other_subtitle">Użyj innej metody, aby się zweryfikować</string>
+    <string name="verify_dialog_point_other_title">Zmień metodę weryfikacji</string>
+    <string name="verify_forget_security">Zapomniałeś klucza bezpieczeństwa?</string>
     <string name="verify_notification_title">Włączono szyfrowanie end-to-end na innym urządzeniu</string>
     <string name="verify_notification_title_find_device_push">Inne urządzenie włączyło \"Lokalizację offline\"</string>
     <string name="verify_scan_Second_title">Wprowadź %d-znakowy klucz dostępu</string>
     <string name="verify_scan_point_notice_view">Dotknij środka, aby wyostrzyć</string>
     <string name="verify_scan_point_text_view">Wprowadź %d-znakowy klucz dostępu w okienku poniżej</string>
+    <string name="verify_title_2fa">Uwierzytelnianie dwuskładnikowe</string>
     <string name="verify_warning_dialog_message_find_device">Włączono \"Lokalizację offline\" dla %s. Gdy ta funkcja jest włączona, będzie można sprawdzić położenie urządzenia, gdy jest ono offline.</string>
     <string name="verify_warning_dialog_title_find_device">\"Lokalizacja offline\" włączona dla innego urządzenia</string>
     <string name="verify_warning_verify_dialog_message">Wprowadź kod weryfikacyjny na %s</string>
     <string name="verify_warning_verify_dialog_title">Zweryfikuj konto Xiaomi</string>
+    <string name="web_view_reload_btn_text_new">Spróbuj ponownie</string>
+    <string name="web_view_reload_description_text_new">Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
     <string name="wipe_data_dialog_button_check_sync">Zsynchronizować?</string>
     <string name="wipe_data_dialog_msg_separator">", "</string>
 </resources>
