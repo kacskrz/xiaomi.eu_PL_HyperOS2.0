@@ -244,6 +244,7 @@ Dotknij dwa razy, aby wyświetlić szczegóły."</string>
     <string name="pa_login_dialog_positive">Zaloguj się</string>
     <string name="pa_login_ok">Zaloguj się</string>
     <string name="pa_more">Więcej</string>
+    <string name="pa_need_download_talkback">Nie pobrano jeszcze elementu \"%s\"</string>
     <string name="pa_net_unavailable">"Nie udało połączyć się z siecią"</string>
     <string name="pa_notification_chanel_name_widget_offline">Powiadomienia Chmury</string>
     <string name="pa_notification_chanel_name_widget_offline_des">Powiadomienia o akcjach związanych z chmurą</string>

@@ -11,6 +11,7 @@
     <string name="callrecordview_menu_ai">Asystent połączeń SI</string>
     <string name="callrecordview_item_op_time_missed">" nie połączono"</string>
     <string name="callrecordview_item_op_time_rejected"> odrzucone</string>
+    <string name="cancel_confirmation_dialog_title">Odrzuć</string>
     <string name="cancel_import_confirmation_message">Anulować wczytywanie: %s?</string>
     <string name="cloud_upgrade_recommend">"Nie można zsynchronizować kontaktów ze względu na brak miejsca w Chmurze. Ulepsz plan Chmury."</string>
     <string name="composer_has_no_exportable_contact">Brak kontaktów do kopiowania. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich kopiowanie z telefonu.</string>
