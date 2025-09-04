@@ -21,6 +21,8 @@
     <string name="change_brightness">Dostosuj jasność</string>
     <string name="chimes">Kuranty</string>
     <string name="close_app">Zamknij obecną aplikację</string>
+    <string name="config_quick_scanner_notification_content_text">Skanuj kody QR i szybko otwieraj strony WWW</string>
+    <string name="config_quick_scanner_notification_title">Szybki skaner</string>
     <string name="content_description_dial">Połącz</string>
     <string name="content_description_next">Dalej</string>
     <string name="content_description_search">Szukaj</string>
