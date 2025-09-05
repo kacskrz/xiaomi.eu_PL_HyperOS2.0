@@ -609,8 +609,8 @@ Wyświetlanie i korzystanie z zakupionych bądź dodanych do ulubionych element�
     <string name="paying">Zamawianie…</string>
     <string name="personalize">Personalizacja</string>
     <string name="personalize_alarm_ringtone_title">Alarmy</string>
-    <string name="personalize_aod_notify_style_title">Powiadomienia Ekranu zawsze włączonego</string>
-    <string name="personalize_aod_title">AoD</string>
+    <string name="personalize_aod_notify_style_title">Powiadomienia</string>
+    <string name="personalize_aod_title">Ekran zawsze włączony</string>
     <string name="personalize_call_ringtone_title">Dzwonki</string>
     <string name="personalize_charge_style_title">Ładowanie</string>
     <string name="personalize_default_font">Czcionka</string>
