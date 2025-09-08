@@ -32,6 +32,11 @@
         <item>Włącz raz</item>
         <item>Włączaj zawsze</item>
     </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Nigdy</item>
+        <item>Czas</item>
+        <item>"Ilość powtórzeń "</item>
+    </string-array>
     <string-array name="repeat_choose_weekday">
         <item>pon.</item>
         <item>wt.</item>
