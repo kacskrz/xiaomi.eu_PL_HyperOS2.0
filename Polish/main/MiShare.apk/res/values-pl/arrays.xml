@@ -9,5 +9,6 @@
         <item>Przenoszenie plików poprzez Bluetooth i Wi-Fi</item>
         <item>Znajdywanie urządzeń w pobliżu poprzez Bluetooth</item>
         <item>Znajdywanie urządzeń w pobliżu i przenoszenie plików poprzez Wi-Fi</item>
+        <item>W celu sprawdzenia, czy aplikacje są zainstalowane, i otwarcia ich po otrzymaniu danych</item>
     </string-array>
 </resources>
