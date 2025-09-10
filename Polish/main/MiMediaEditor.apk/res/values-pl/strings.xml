@@ -3,6 +3,7 @@
     <string name="adjust_tab_de_noise">Usuwanie szumu</string>
     <string name="ai_action_toast_function_magic_sky_processing">Przetwarzanie nieba…</string>
     <string name="ai_action_toast_function_photo_restoration_processing">Ulepszanie obrazu…</string>
+    <string name="ai_emote_loading_expression_replace">Zmienianie wyrazu twarzy…</string>
     <string name="ai_emote_notice_desc">"Użyj sztucznej inteligencji, aby zmienić wyraz twarzy ludzi na zdjęciach.
 Dla lepszych rezultatow używaj tej funkcji na wyraźnych zdjęciach osób skierowanych do przodu."</string>
     <string name="art_still_download_sdk_without_wifi_msg">Wygląda na to, że urządzenie nie jest połączone z siecią Wi-Fi. Pobrać wtyczkę przy użyciu danych mobilnych?</string>
