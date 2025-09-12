@@ -53,6 +53,15 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="micloud_sync_result_wifi_only_china">Ten element jest za duży. Zsynchronizuj go, gdy będziesz połączony z siecią Wi-Fi.</string>
     <string name="micloud_upgrade_storage">Ulepsz plan Chmury</string>
     <string name="micloud_wipe_data_confirm_title">Elementy z niektórych aplikacji są zsynchronizowane z Chmurą Xiaomi. Możesz usunąć je z tego urządzenia, jeśli chcesz - pozostaną one w Chmurze.</string>
+    <string name="midrive_guide1_desc">Wykonuj kopie elementów w chmurze, aby zaoszczędzić miejsce na swoim urządzeniu.</string>
+    <string name="midrive_guide1_title">Bezpieczne kopie</string>
+    <string name="midrive_guide2_desc">Pobieraj elementy z prędkością światła.</string>
+    <string name="midrive_guide2_title">Szybkie pobierania</string>
+    <string name="midrive_guide3_desc">Używaj Mi Drive na urządzeniach mobilnych, komputerach i w przeglądarkach.</string>
+    <string name="midrive_guide3_title">Działa wszędzie</string>
+    <string name="midrive_guide_btn_install">Zainstaluj Mi Drive</string>
+    <string name="midrive_guide_btn_installed">Otwórz Mi Drive</string>
+    <string name="midrive_guide_btn_installing">Instalowanie…</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
