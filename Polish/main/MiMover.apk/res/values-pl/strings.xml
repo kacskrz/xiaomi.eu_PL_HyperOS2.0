@@ -11,8 +11,6 @@
     <string name="PRD_title_tablet_1">%1$d. Dane tych aplikacji już istnieją na nowym urządzeniu:</string>
     <string name="PRD_title_tablet_4">%1$d. Postępuj ostrożnie z urządzeniem</string>
     <string name="PRD_title_tablet_5">%1$d. Urządzenie się nagrzeje w trakcie procesu</string>
-    <string name="accessbility_item_collapsed">Zwinięto</string>
-    <string name="accessbility_item_expanded">Rozwinięto</string>
     <string name="android_id_usage">W celu rozpoznawania wersji aplikacji oraz kompatybilności między starym i nowym urządzeniem</string>
     <string name="app_update_64_dialog_cancel">Nie teraz</string>
     <string name="app_update_64_dialog_confirm">Aktualizuj</string>

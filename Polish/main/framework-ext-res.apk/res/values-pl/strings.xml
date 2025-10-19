@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="aon_music_double_press_support_scene_des">Odtwórz lub zatrzymaj muzykę</string>
-    <string name="aon_music_left_right_support_scene_des">Przejdź do poprzedniego lub następnego utworu</string>
-    <string name="aon_music_up_down_support_scene_des">Zmień głośność multimediów</string>
-    <string name="aon_office_up_down_support_scene_des">Przejdź do poprzedniej lub następnej strony prezentacji/dokumentu</string>
-    <string name="aon_reader_support_scene_des">Przejdź do poprzedniej lub następnej strony książki</string>
     <string name="aon_short_video_up_down_support_scene_des">Przełącz na poprzednie lub następne wideo</string>
-    <string name="aon_video_double_press_support_scene_des">Odtwórz lub zatrzymaj wideo</string>
-    <string name="aon_video_left_right_support_scene_des">Zmień postęp wideo podczas oglądania w trybie poziomym</string>
-    <string name="aon_video_up_down_support_scene_des">Zmień głośność wideo</string>
     <string name="autofill_save_sub_message">Możesz zarządzać swoimi hasłami w Ustawieniach > Odciski palca, dane twarzy i blokada ekranu > %s.</string>
     <string name="autofill_save_sub_message_new">Możesz wyświetlać hasła i nimi zarządzać w Ustawieniach > %1$s > %2$s.</string>
     <string name="back_double_tap">Dwukrotne dotknięcie z tyłu</string>
@@ -41,7 +33,6 @@
     <string name="double_click_volume_down_when_lock">Wciśnij dwa razy przycisk Głośność-, gdy ekran jest zablokowany</string>
     <string name="double_knock">Dwukrotne puknięcie knykciem</string>
     <string name="dump_log">Wygeneruj logi dot. problemu</string>
-    <string name="earpiece_callmode_tip">Rozłóż, aby użyć mikrofonu</string>
     <string name="face_password_unlock_new">Dane twarzy i blokada ekranu</string>
     <string name="fc_dialog_body">Aplikacja przestała działać. Możesz zgłosić ten problem na forum miuipolska.pl lub xiaomi.eu, podając treść lub zrzut ekranu z raportu błędu.</string>
     <string name="fc_dialog_jump_to_preview">Pokaż treść błędu</string>
