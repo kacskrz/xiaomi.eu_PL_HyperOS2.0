@@ -25,6 +25,9 @@
     <string name="connecting_pc">Łączenie z komputerem…</string>
     <string name="copy_fail">"Nie udało się skopiować"</string>
     <string name="default_boss_terminal_name">Laptop Xiaomi</string>
+    <string name="desktop_setting_not_open_tips_dialog_btn">OK</string>
+    <string name="desktop_setting_not_open_tips_dialog_content">Możesz włączyć Ekran główny+ w Ustawieniach > Interakcja urządzeń Xiaomi.</string>
+    <string name="desktop_setting_not_open_tips_dialog_title">Włącz Ekran główny+</string>
     <string name="device_screen_fold_switch_tip">Wykonaj tę akcję na wewnętrznym ekranie</string>
     <string name="enable_power_save_mode_notification_fail_action">Spróbuj ponownie</string>
     <string name="enable_power_save_mode_notification_fail_content">Spróbuj ponownie lub włącz Oszczędzanie baterii na telefonie</string>
@@ -195,7 +198,13 @@ Aby kontynuować, wybierz urządzenie ponownie na komputerze."</string>
     <string name="privacy_describe_change_wifi_state_china">W celu łączenia się z urządzeniami i przesyłania plików za pomocą Wi-Fi</string>
     <string name="scanner_uninstalled_text">"Wygląda na to, że na tym urządzeniu nie jest zainstalowana aplikacja Skaner. Zainstaluj ją najpierw."</string>
     <string name="scanner_uninstalled_title">Zainstaluj Skaner</string>
+    <string name="screen_permission_pad_dialog_title_os2_global">Przyznaj uprawnienia na swoim %s</string>
+    <string name="screen_permission_pad_dialog_title_os3">Przyznaj uprawnienia na swoim %s</string>
+    <string name="screen_permission_pad_dialog_title_os3_global">Przyznaj uprawnienia na swoim %s</string>
     <string name="screen_permission_pad_tips_denied">Otwórz Ustawienia łączności między urządzeniami na %s, aby zezwolić innym urządzeniom na wyświetlanie zawartości tego ekranu i interakcję z nią.</string>
+    <string name="screen_permission_pad_tips_denied_os2_global">W Ustawieniach %s przejdź do Interakcji urządzeń Xiaomi > Interakcja urządzeń Xiaomi i uprawnienia i przyznaj uprawnienia ekranu, aby użyć tej funkcji.</string>
+    <string name="screen_permission_pad_tips_denied_os3">W Ustawieniach %s przejdź do Prywatności i bezpieczeństwa > Interakcja urządzeń Xiaomi i uprawnienia i przyznaj uprawnienia ekranu, aby użyć tej funkcji.</string>
+    <string name="screen_permission_pad_tips_denied_os3_global">W Ustawieniach %s przejdź do Interakcji urządzeń Xiaomi > Interakcja urządzeń Xiaomi i uprawnienia i przyznaj uprawnienia Aparatu, aby użyć tej funkcji.</string>
     <string name="screen_permission_request_relay">Przekazywanie aplikacji</string>
     <string name="searchable_settings_desc">Wyszukaj aplikacje na połączonych urządzeniach</string>
     <string name="secure_screen_hint">"Aby chronić Twoją prywatność,
