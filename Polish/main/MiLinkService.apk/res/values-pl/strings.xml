@@ -22,7 +22,6 @@
     <string name="circulate_card_tv_device_sync">Interakcja urządzeń Xiaomi</string>
     <string name="circulate_cta_app_name">Interakcja urządzeń Xiaomi</string>
     <string name="circulate_cta_desc_lite_phone">Usługi łączności między urządzeniami Xiaomi pozwalają Twoim urządzeniom na bezprzewodową interakcję ze sobą. Aby móc działać normalnie, muszą one łączyć się z Internetem i wymagają następujących uprawnień:</string>
-    <string name="circulate_cta_desc_pad">Witamy w Mi Smart Hub! Aplikacja zezwala na korzystanie z projekcji i Mi Smart Play, a także na przesyłanie odtwarzanych multimediów pomiędzy urządzeniami. Aplikacja wymaga połączenia z Internetem i następujących uprawnień, aby działać poprawnie:</string>
     <string name="circulate_cta_desc_phone">Usługi łączności między urządzeniami Xiaomi pozwalają Twoim urządzeniom na bezprzewodową interakcję ze sobą, Aby móc działać normalnie, muszą one łączyć się z Internetem i wymagają następujących uprawnień:</string>
     <string name="circulate_cta_desc_phone_global">Usługi łączności między urządzeniami Xiaomi umożliwiają bezprzewodową interakcję między Twoimi urządzeniami.</string>
     <string name="circulate_cta_premission_mac_address_subtitle">Do odnajdywania urządzeń w pobliżu</string>
@@ -37,9 +36,22 @@
     <string name="circulate_cta_user_agreement">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;txt href=\"%1$s\">Umowy użytkownika&lt;/txt> oraz &lt;txt href=\"%2$s\">Polityki prywatności&lt;/txt> Xiaomi.</string>
     <string name="circulate_headset_control_battery_right">P</string>
     <string name="circulate_headset_error_account_not_match">"Upewnij się, że na obu urządzeniach używasz tego samego konta Xiaomi"</string>
+    <string name="circulate_network_connect_failed_default_message">Upewnij się, że telefon i drugie urządzenie są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
+    <string name="circulate_network_connect_failed_message_Mac">Upewnij się, że telefon i Mac są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
+    <string name="circulate_network_connect_failed_message_PC">Upewnij się, że telefon i komputer są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
+    <string name="circulate_network_connect_failed_message_iPad">Upewnij się, że telefon i iPad są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
+    <string name="circulate_network_connect_failed_message_iPhone">Upewnij się, że telefon i iPhone są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
+    <string name="circulate_network_connect_failed_pad_default_message">Upewnij się, że tablet i inne urządzenie są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
+    <string name="circulate_network_connect_failed_pad_message_Mac">Upewnij się, że tablet i Mac są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
+    <string name="circulate_network_connect_failed_pad_message_PC">Upewnij się, że tablet i komputer są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
+    <string name="circulate_network_connect_failed_pad_message_iPad">Upewnij się, że tablet i iPad są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
+    <string name="circulate_network_connect_failed_pad_message_iPhone">Upewnij się, że tablet i iPhone są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
+    <string name="circulate_network_share_launcher_pad_tips">Upewnij się, że włączono tę funkcję w Ustawieniach > Łączność na Twoim tablecie Xiaomi.</string>
+    <string name="circulate_network_share_launcher_phone_tips">Upewnij się, że włączono tę funkcję w Ustawieniach > Łączność na Twoim telefonie Xiaomi.</string>
     <string name="circulate_pad_app_continuity">"Używanie %1$s z telefonu"</string>
     <string name="circulate_pad_card_being_used_cellular_wifi_china">Udostępniasz sygnał Wi-Fi tabletowi</string>
     <string name="circulate_phone_card_using_cellular_wifi_china">"Używa sygnału Wi-Fi telefonu"</string>
+    <string name="circulate_phone_card_using_desktop">Korzystanie z Ekranu głównego+ na telefonie</string>
     <string name="circulate_public_device_title_format">%2$s %1$s</string>
     <string name="circulate_ringfind_button_hint_stop">Zatrzymaj dźwięk</string>
     <string name="circulate_tv_power_alter_text">Po wyłączeniu telewizora pilot i telewizor znikną z tej strony. Wyłączyć?</string>

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="circulate_audio_group_subtitle_format">
-        <item quantity="other">%1$d urządzeń</item>
-        <item quantity="few">%1$d urządzenia</item>
-        <item quantity="one">%1$d urządzenie</item>
-    </plurals>
     <plurals name="controller_auth_count_down">
         <item quantity="one">Wprowadź kod z %1$s (%2$d s)</item>
         <item quantity="other">Wprowadź kod z %1$s (%2$d s)</item>
