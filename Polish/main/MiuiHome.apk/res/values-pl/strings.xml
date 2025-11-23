@@ -156,4 +156,5 @@ Zwiększone bezpieczeństwo."</string>
     <string name="third_party_wallpaper_not_support_effect">Tapety stron trzecich nie wspierają efektów</string>
     <string name="toast_drag_to_assistant_reject">Inicjalizacja Asystenta HyperOS…</string>
     <string name="toast_screen_icons_misplaced">Ikony zostały przywrócone. Niektóre z nich mogą być na innych miejscach.</string>
+    <string name="wallpaper_zoom_title">Efekty powiększenia tapety</string>
 </resources>
